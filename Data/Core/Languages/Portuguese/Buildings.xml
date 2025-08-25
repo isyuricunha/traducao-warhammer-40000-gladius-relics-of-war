@@ -306,7 +306,7 @@
 	<entry name="SistersOfBattle/Housing" value="Celas Urbis"/>
 	<entry name="SistersOfBattle/HousingDescription" value="Edifício que aumenta o limite populacional."/>
 	<entry name="SistersOfBattle/HousingFlavor" value="São as celas da Adepta Sororitas superiores às habitações populacionais comuns do Império? As celas são limpas, regulares, seguras e uniformes, sim, eliminando inveja, status e outros pecados. No entanto, um cidadão de colmeia pode considerá-las tediosas, frias e punitivas, em comparação com a vida emocionante, embora curta, que experimentam nas cidades subterrâneas, planetas agronômicos e blocos de habitação em toda a galáxia…"/>
-{{ ... }}
+
 	<entry name="SistersOfBattle/Infantry" value="Capela de Batalha"/>
 	<entry name="SistersOfBattle/InfantryDescription" value="Edifício que produz infantaria, além de aumentar o limite populacional e gerar requisições."/>
 	<entry name="SistersOfBattle/InfantryFlavor" value="The final stage of a novice’s career occurs in the Battle Chapel. Here, the cantus is trained in the use of her sacred weaponry—bolter, flamer, melta—and confirmed in her faith, proof against heresy. Normally, once trained, she would visit a primary Convent’s great hall for assignment to an Order—but on Gladius Prime, where no escape is possible, she enters straight into the ranks of her sistren, defending this world."/>
