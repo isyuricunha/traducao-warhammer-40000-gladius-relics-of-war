@@ -285,40 +285,41 @@
 	<entry name="Orks/Vehicles" value="Culto da Velocidade"/>
 	<entry name="Orks/VehiclesDescription" value="Edifício que produz veículos com rodas e aeronaves, além de gerar minério e influência, e aumentar a lealdade."/>
 	<entry name="Orks/VehiclesFlavor" value="Embora ainda amem guerra e grandes explosões, os Orks conhecidos como Speed Freeks amam velocidade ainda mais. Eles personalizam extensiva e obsessivamente suas motos e aeronaves, removendo todos os recursos de segurança, ao ponto de estarem sentados em um motor gigante — pintado de vermelho porque 'os vermelhos vão mais rápido'."/>
-	<entry name="SistersOfBattle/Auxiliaries" value="Ecclesiarchal Reinforcements"/>
-	<entry name="SistersOfBattle/AuxiliariesDescription" value="Building that produces aircraft and imperial knights as well as generates requisitions and energy."/>
-	<entry name="SistersOfBattle/AuxiliariesFlavor" value="Unusually for an Adepta Sororitas mission, not all the troops here are Battle Sisters. Though the other local forces of the Imperium have proved to be untrustworthy, the remaining Imperial Navy and Knightly Houses have found themselves with divided loyalties. Those who have sided with the Adepta Sororitas have been assigned these unprepossessing buildings for accommodation, repair and habitation."/>
-	<entry name="SistersOfBattle/Construction" value="Ministorum Workshop"/>
-	<entry name="SistersOfBattle/ConstructionDescription" value="Building that constructs new buildings and generates influence."/>
-	<entry name="SistersOfBattle/ConstructionFlavor" value="More primitive it might be than the great manufactora of the Adeptus Mechanicus and Adeptus Administratum, but what the workers of a Ministorum workshop lack in technical knowledge, they make up for in religious fervour and craftsmanship. The buildings they create are not merely functional—they are works of worship and art for the God-Emperor himself."/>
-	<entry name="SistersOfBattle/Enclave" value="Commandery"/>
-	<entry name="SistersOfBattle/EnclaveDescription" value="Smaller headquarters building that generates resources."/>
-	<entry name="SistersOfBattle/EnclaveFlavor" value="These smaller city-bastions act as missions and staging posts for Adepta Sororitas activities in their region. From here, preachers and missionaries venture out into the dangerous wastes of the destroyed hive world, winning converts and ensuring the safe passage of resources back to the mother city."/>
-	<entry name="SistersOfBattle/Energy" value="Munitorum Generators"/>
-	<entry name="SistersOfBattle/EnergyDescription" value="Building that generates energy."/>
-	<entry name="SistersOfBattle/EnergyFlavor" value="Though the Departmento Munitorum is tasked solely with supplying the Astra Militarum across the galaxy, certain of their standardised technologies are used by other Imperial forces. Using the ancient plasma ioniser technology beloved of Mars, these carefully cooled systems can maintain 100 petawatts of power with ease—though without Tech-Priests to maintain them, the Adepta Sororitas typically run them cooler."/>
-	<entry name="SistersOfBattle/Headquarters" value="Preceptory"/>
-	<entry name="SistersOfBattle/HeadquartersDescription" value="Headquarters building that generates resources."/>
-	<entry name="SistersOfBattle/HeadquartersFlavor" value="The centre of the Adepta Sororitas’ efforts on Gladius Prime, this city-fortress can take a sister from cradle to grave, passing her through her novitiate to being a true Battle Sister. Such a city is the seat of this world’s faith, ringing with auto-choral prayers day and night, its air saturated with the smell of sacred unguents, blessed oils and burnt heretics. Yet beneath its lofty spires, the mass of humanity works, lives and dies unnoticed."/>
-	<entry name="SistersOfBattle/Heroes" value="Legatines' Priory"/>
-	<entry name="SistersOfBattle/HeroesDescription" value="Building that produces heroes and Hospitallers as well as generates influence and increases loyalty."/>
-	<entry name="SistersOfBattle/HeroesFlavor" value="The highest-ranking Sisters of an Order are a mix of warriors, healers and spiritual leaders—but not all of them have formal positions, despite the fervour and veneration they inspire in their peers. This priory serves a gathering point for these Legatines when away from their orders, with all the comforts of home—shrines, chapels, cells and places of ritual scourging."/>
-	<entry name="SistersOfBattle/Housing" value="Cells Urbis"/>
-	<entry name="SistersOfBattle/HousingDescription" value="Building that increases population limit."/>
-	<entry name="SistersOfBattle/HousingFlavor" value="Are the cells of the Adepta Sororitas superior to the common population housing of the Imperium? The cells are clean, regular, safe and uniform, yes, eliminating envy, status and other sins. Yet hive citizen might also consider them tedious, cold and punishing, compared to the exciting, if short life they experience in undercities, agronomic planets and hab blocks all over the galaxy…"/>
-	<entry name="SistersOfBattle/Infantry" value="Battle Chapel"/>
-	<entry name="SistersOfBattle/InfantryDescription" value="Building that produces infantry as well as increases population limit and generates requisitions."/>
+	<entry name="SistersOfBattle/Auxiliaries" value="Reforços Eclesiárquicos"/>
+	<entry name="SistersOfBattle/AuxiliariesDescription" value="Edifício que produz aeronaves e cavaleiros imperiais, além de gerar requisições e energia."/>
+	<entry name="SistersOfBattle/AuxiliariesFlavor" value="Incomum para uma missão da Adepta Sororitas, nem todas as tropas aqui são Irmãs de Batalha. Embora as outras forças locais do Império tenham se mostrado não confiáveis, a Marinha Imperial e as Casas Cavaleirescas restantes se encontraram com lealdades divididas. Aqueles que se aliaram à Adepta Sororitas foram designados a estes edifícios despretenciosos para acomodação, reparo e habitação."/>
+	<entry name="SistersOfBattle/Construction" value="Oficina do Ministorum"/>
+	<entry name="SistersOfBattle/ConstructionDescription" value="Edifício que constrói novos edifícios e gera influência."/>
+	<entry name="SistersOfBattle/ConstructionFlavor" value="Pode ser mais primitiva que as grandes manufacturas do Adeptus Mechanicus e Adeptus Administratum, mas o que os trabalhadores de uma oficina do Ministorum carecem em conhecimento técnico, eles compensam em fervor religioso e artesanato. Os edifícios que criam não são meramente funcionais — são obras de adoração e arte para o próprio Deus-Imperador."/>
+	<entry name="SistersOfBattle/Enclave" value="Comendadoria"/>
+	<entry name="SistersOfBattle/EnclaveDescription" value="Edifício de quartel-general menor que gera recursos."/>
+	<entry name="SistersOfBattle/EnclaveFlavor" value="Estes bastiões-cidade menores atuam como missões e postos de preparação para atividades da Adepta Sororitas em sua região. Daqui, pregadores e missionários se aventuram nos perigosos ermos do mundo colmeia destruído, ganhando convertidos e garantindo a passagem segura de recursos de volta à cidade-mãe."/>
+	<entry name="SistersOfBattle/Energy" value="Geradores do Munitorum"/>
+	<entry name="SistersOfBattle/EnergyDescription" value="Edifício que gera energia."/>
+	<entry name="SistersOfBattle/EnergyFlavor" value="Embora o Departmento Munitorum seja encarregado apenas de abastecer o Astra Militarum pela galáxia, certas de suas tecnologias padronizadas são usadas por outras forças Imperiais. Usando a antiga tecnologia de ionizador de plasma amada por Marte, estes sistemas cuidadosamente resfriados podem manter 100 petawatts de energia com facilidade — embora sem Tecno-Sacerdotes para mantê-los, a Adepta Sororitas tipicamente os opere mais frios."/>
+	<entry name="SistersOfBattle/Headquarters" value="Preceptoria"/>
+	<entry name="SistersOfBattle/HeadquartersDescription" value="Edifício de quartel-general que gera recursos."/>
+	<entry name="SistersOfBattle/HeadquartersFlavor" value="O centro dos esforços da Adepta Sororitas em Gladius Prime, esta cidade-fortaleza pode levar uma irmã do berço ao túmulo, passando-a pelo noviciado até se tornar uma verdadeira Irmã de Batalha. Tal cidade é a sede da fé deste mundo, ressoando com orações auto-corais dia e noite, seu ar saturado com o cheiro de unguentos sagrados, óleos abençoados e heréticos queimados. Ainda assim, sob suas torres altivas, a massa da humanidade trabalha, vive e morre despercebida."/>
+	<entry name="SistersOfBattle/Heroes" value="Priorado das Legatinas"/>
+	<entry name="SistersOfBattle/HeroesDescription" value="Edifício que produz heróis e Hospitaleiras, além de gerar influência e aumentar a lealdade."/>
+	<entry name="SistersOfBattle/HeroesFlavor" value="As Irmãs de mais alto escalão de uma Ordem são uma mistura de guerreiras, curadoras e líderes espirituais — mas nem todas têm posições formais, apesar do fervor e veneração que inspiram em suas pares. Este priorado serve como ponto de encontro para essas Legatinas quando longe de suas ordens, com todos os confortos do lar — santuários, capelas, celas e locais de flagelação ritual."/>
+	<entry name="SistersOfBattle/Housing" value="Celas Urbis"/>
+	<entry name="SistersOfBattle/HousingDescription" value="Edifício que aumenta o limite populacional."/>
+	<entry name="SistersOfBattle/HousingFlavor" value="São as celas da Adepta Sororitas superiores às habitações populacionais comuns do Império? As celas são limpas, regulares, seguras e uniformes, sim, eliminando inveja, status e outros pecados. No entanto, um cidadão de colmeia pode considerá-las tediosas, frias e punitivas, em comparação com a vida emocionante, embora curta, que experimentam nas cidades subterrâneas, planetas agronômicos e blocos de habitação em toda a galáxia…"/>
+{{ ... }}
+	<entry name="SistersOfBattle/Infantry" value="Capela de Batalha"/>
+	<entry name="SistersOfBattle/InfantryDescription" value="Edifício que produz infantaria, além de aumentar o limite populacional e gerar requisições."/>
 	<entry name="SistersOfBattle/InfantryFlavor" value="The final stage of a novice’s career occurs in the Battle Chapel. Here, the cantus is trained in the use of her sacred weaponry—bolter, flamer, melta—and confirmed in her faith, proof against heresy. Normally, once trained, she would visit a primary Convent’s great hall for assignment to an Order—but on Gladius Prime, where no escape is possible, she enters straight into the ranks of her sistren, defending this world."/>
-	<entry name="SistersOfBattle/Influence" value="Dialogus Scriptorium"/>
-	<entry name="SistersOfBattle/InfluenceDescription" value="Building that generates influence."/>
-	<entry name="SistersOfBattle/InfluenceFlavor" value="It would be untrue to call the Dialogus order non-militant—no Battle Sister would accept that—but more true that their focus is away from physical and psychic warfare, and more on the psychological and faithful. In this Scriptorium, their speeches, prayers and inspirational sayings are transcribed, copied by auto-scribes and disseminated across Gladius Prime, to inspire the remaining population to keep surviving…"/>
-	<entry name="SistersOfBattle/Loyalty" value="Famulus Mission"/>
-	<entry name="SistersOfBattle/LoyaltyDescription" value="Building that increases loyalty."/>
+	<entry name="SistersOfBattle/Influence" value="Scriptório Dialogus"/>
+	<entry name="SistersOfBattle/InfluenceDescription" value="Edifício que gera influência."/>
+	<entry name="SistersOfBattle/InfluenceFlavor" value="Seria falso chamar a ordem Dialogus de não-militante — nenhuma Irmã de Batalha aceitaria isso — mas mais verdadeiro que seu foco está longe da guerra física e psíquica, e mais no psicológico e fiel. Neste Scriptório, seus discursos, orações e ditados inspiradores são transcritos, copiados por auto-escribas e disseminados por Gladius Prime, para inspirar a população restante a continuar sobrevivendo…"/>
+	<entry name="SistersOfBattle/Loyalty" value="Missão Famulus"/>
+	<entry name="SistersOfBattle/LoyaltyDescription" value="Edifício que aumenta a lealdade."/>
 	<entry name="SistersOfBattle/LoyaltyFlavor" value="Diplomacy and subtlety aren’t normally associated with the frothing fanatics of the Ecclesiarchy or the grim faith of the Battle Sisters—but those rare sisters who can charm and plot find themselves assigned to the Orders Famulus. They move with grace amongst the powerful of the Imperium, shifting their behaviour and breeding for the greater good of the Empire. Their extensive, regular connections with the Inquisition come in useful when they encounter… problems."/>
-	<entry name="SistersOfBattle/Requisitions" value="Ministorum Depot"/>
-	<entry name="SistersOfBattle/RequisitionsDescription" value="Building that generates requisitions."/>
-	<entry name="SistersOfBattle/RequisitionsFlavor" value="The Adepta Sororitas, though ultimately loyal to Terra, are supplied as much by their own networks as they are by the galaxy-spanning bureaucracy that is the Adeptus Administratum. Wherever their resources are brought from, though, they end up in the same place—the great echoing warehouses of a Ministorum depot."/>
-	<entry name="SistersOfBattle/Research" value="Pronatus Reliquary"/>
+	<entry name="SistersOfBattle/Requisitions" value="Depósito do Ministorum"/>
+	<entry name="SistersOfBattle/RequisitionsDescription" value="Edifício que gera requisições."/>
+	<entry name="SistersOfBattle/RequisitionsFlavor" value="A Adepta Sororitas, embora ultimamente leal a Terra, é abastecida tanto por suas próprias redes quanto pela burocracia que abrange a galáxia que é o Adeptus Administratum. De onde quer que seus recursos sejam trazidos, porém, eles acabam no mesmo lugar — os grandes armazéns ecoantes de um depósito do Ministorum."/>
+	<entry name="SistersOfBattle/Research" value="Relicário Pronatus"/>
 	<entry name="SistersOfBattle/ResearchDescription" value="Building that generates research."/>
 	<entry name="SistersOfBattle/ResearchFlavor" value="Like the infamous Blood Ravens chapter or even the Necron Lord Trazyn the Infinite, the Adepta Sororitas Orders Pronatus are known for their hoarding tendencies. However, unlike the others, the Orders Pronatus are focused: their entire purpose is to gather, study and guard artefacts of value to the Ecclesiarchy. Whether a holy relic or a dangerous weapon, the Orders Pronatus will store it and guard it to the last Sister."/>
 	<entry name="SistersOfBattle/Vehicles" value="Anointed Hangar"/>
