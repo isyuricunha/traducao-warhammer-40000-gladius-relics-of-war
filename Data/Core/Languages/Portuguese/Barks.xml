@@ -1206,20 +1206,20 @@
 	<entry name="Neutral/Enslaver:ShakenCount" value="1"/>
 	<entry name="Neutral/Enslaver:Victory#0" value="mmmMMM!"/>
 	<entry name="Neutral/Enslaver:VictoryCount" value="1"/>
-	<entry name="Neutral/KastelanRobot:Attack#0" value="Target mapped in, Datasmith"/>
+	<entry name="Neutral/KastelanRobot:Attack#0" value="Alvo mapeado, Tecno-Adeptus"/>
 	<entry name="Neutral/KastelanRobot:AttackCount" value="1"/>
-	<entry name="Neutral/KastelanRobot:Broken#0" value="Orders incomplete, following protocol."/>
+	<entry name="Neutral/KastelanRobot:Broken#0" value="Ordens incompletas, seguindo protocolo."/>
 	<entry name="Neutral/KastelanRobot:BrokenCount" value="1"/>
-	<entry name="Neutral/KastelanRobot:Hurt#0" value="Repairs require, Datasmith. Input?"/>
+	<entry name="Neutral/KastelanRobot:Hurt#0" value="Reparos necessários, Tecno-Adeptus. Entrada?"/>
 	<entry name="Neutral/KastelanRobot:HurtCount" value="1"/>
-	<entry name="Neutral/KastelanRobot:Idle#0" value="Input?"/>
-	<entry name="Neutral/KastelanRobot:Idle#1" value="Data not found?"/>
-	<entry name="Neutral/KastelanRobot:Idle#2" value="Idle protocols in 5,4,3-"/>
-	<entry name="Neutral/KastelanRobot:Idle#3" value="Overwatch!"/>
+	<entry name="Neutral/KastelanRobot:Idle#0" value="Entrada?"/>
+	<entry name="Neutral/KastelanRobot:Idle#1" value="Dados não encontrados?"/>
+	<entry name="Neutral/KastelanRobot:Idle#2" value="Protocolos de espera em 5,4,3-"/>
+	<entry name="Neutral/KastelanRobot:Idle#3" value="Vigilância!"/>
 	<entry name="Neutral/KastelanRobot:IdleCount" value="4"/>
-	<entry name="Neutral/KastelanRobot:Shaken#0" value="Inconsistent data detected!"/>
+	<entry name="Neutral/KastelanRobot:Shaken#0" value="Dados inconsistentes detectados!"/>
 	<entry name="Neutral/KastelanRobot:ShakenCount" value="1"/>
-	<entry name="Neutral/KastelanRobot:Victory#0" value="Target atomised. Within parameters."/>
+	<entry name="Neutral/KastelanRobot:Victory#0" value="Alvo atomizado. Dentro dos parâmetros."/>
 	<entry name="Neutral/KastelanRobot:VictoryCount" value="1"/>
 	<entry name="Neutral/KrootHound:Attack#0" value="Hoeea!"/>
 	<entry name="Neutral/KrootHound:Attack#1" value="Hrrrr!"/>
@@ -1237,21 +1237,21 @@
 	<entry name="Neutral/KrootHound:ShakenCount" value="1"/>
 	<entry name="Neutral/KrootHound:Victory#0" value="Oooahh!"/>
 	<entry name="Neutral/KrootHound:VictoryCount" value="1"/>
-	<entry name="Neutral/LordOfSkulls:Attack#0" value="BLOOD FOR THE BLOOD GOD"/>
+	<entry name="Neutral/LordOfSkulls:Attack#0" value="SANGUE PARA O DEUS DO SANGUE"/>
 	<entry name="Neutral/LordOfSkulls:AttackCount" value="1"/>
-	<entry name="Neutral/LordOfSkulls:Broken#0" value="LORD, I FAIL YOU"/>
+	<entry name="Neutral/LordOfSkulls:Broken#0" value="SENHOR, EU FALHEI CONTIGO"/>
 	<entry name="Neutral/LordOfSkulls:BrokenCount" value="1"/>
-	<entry name="Neutral/LordOfSkulls:Hurt#0" value="MY BLOOD FOR MY GOD"/>
+	<entry name="Neutral/LordOfSkulls:Hurt#0" value="MEU SANGUE PARA MEU DEUS"/>
 	<entry name="Neutral/LordOfSkulls:HurtCount" value="1"/>
-	<entry name="Neutral/LordOfSkulls:Idle#0" value="TEAR REND DEATH"/>
-	<entry name="Neutral/LordOfSkulls:Idle#1" value="KILL KILL KILL"/>
-	<entry name="Neutral/LordOfSkulls:Idle#2" value="SKULLS SPINES SCREAMS"/>
-	<entry name="Neutral/LordOfSkulls:Idle#3" value="DROWN IN BLOOD"/>
-	<entry name="Neutral/LordOfSkulls:Idle#4" value="MUST… KILL"/>
+	<entry name="Neutral/LordOfSkulls:Idle#0" value="RASGAR DILACERAR MORTE"/>
+	<entry name="Neutral/LordOfSkulls:Idle#1" value="MATAR MATAR MATAR"/>
+	<entry name="Neutral/LordOfSkulls:Idle#2" value="CRÂNIOS ESPINHAS GRITOS"/>
+	<entry name="Neutral/LordOfSkulls:Idle#3" value="AFOGAR EM SANGUE"/>
+	<entry name="Neutral/LordOfSkulls:Idle#4" value="PRECISO... MATAR"/>
 	<entry name="Neutral/LordOfSkulls:IdleCount" value="5"/>
-	<entry name="Neutral/LordOfSkulls:Shaken#0" value="I KNOW NO FEAR!"/>
+	<entry name="Neutral/LordOfSkulls:Shaken#0" value="EU NÃO CONHEÇO O MEDO!"/>
 	<entry name="Neutral/LordOfSkulls:ShakenCount" value="1"/>
-	<entry name="Neutral/LordOfSkulls:Victory#0" value="BLOOD! FOR! KHORNE!"/>
+	<entry name="Neutral/LordOfSkulls:Victory#0" value="SANGUE! PARA! KHORNE!"/>
 	<entry name="Neutral/LordOfSkulls:VictoryCount" value="1"/>
 	<entry name="Neutral/Psychneuein:Attack#0" value="Zzzz!"/>
 	<entry name="Neutral/Psychneuein:AttackCount" value="1"/>
@@ -1268,154 +1268,154 @@
 	<entry name="Neutral/Psychneuein:ShakenCount" value="1"/>
 	<entry name="Neutral/Psychneuein:Victory#0" value="ZZZZ!"/>
 	<entry name="Neutral/Psychneuein:VictoryCount" value="1"/>
-	<entry name="Neutral/TechpriestBetrayer:Attack#0" value="Die for the Omnissiah!"/>
+	<entry name="Neutral/TechpriestBetrayer:Attack#0" value="Morram pelo Omnissiah!"/>
 	<entry name="Neutral/TechpriestBetrayer:AttackCount" value="1"/>
-	<entry name="Neutral/TechpriestBetrayer:Broken#0" value="Probability of failure, 100%"/>
+	<entry name="Neutral/TechpriestBetrayer:Broken#0" value="Probabilidade de falha, 100%"/>
 	<entry name="Neutral/TechpriestBetrayer:BrokenCount" value="1"/>
-	<entry name="Neutral/TechpriestBetrayer:Hurt#0" value="Operating functionality impaired."/>
+	<entry name="Neutral/TechpriestBetrayer:Hurt#0" value="Funcionalidade operacional comprometida."/>
 	<entry name="Neutral/TechpriestBetrayer:HurtCount" value="1"/>
-	<entry name="Neutral/TechpriestBetrayer:Idle#0" value="Testing…"/>
-	<entry name="Neutral/TechpriestBetrayer:Idle#1" value="Turning it off… turning it on."/>
-	<entry name="Neutral/TechpriestBetrayer:Idle#2" value="Unguents applied."/>
-	<entry name="Neutral/TechpriestBetrayer:Idle#3" value="Serf to Servoskull… complete."/>
-	<entry name="Neutral/TechpriestBetrayer:Idle#4" value="Artefact acquired…"/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#0" value="Testando..."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#1" value="Desligando... ligando."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#2" value="Unguentos aplicados."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#3" value="Servo para Servo-crânio... completo."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#4" value="Artefato adquirido..."/>
 	<entry name="Neutral/TechpriestBetrayer:IdleCount" value="5"/>
-	<entry name="Neutral/TechpriestBetrayer:Shaken#0" value="I must survive!"/>
-	<entry name="Neutral/TechpriestBetrayer:Shaken#1" value="Mars must be informed."/>
+	<entry name="Neutral/TechpriestBetrayer:Shaken#0" value="Devo sobreviver!"/>
+	<entry name="Neutral/TechpriestBetrayer:Shaken#1" value="Marte deve ser informado."/>
 	<entry name="Neutral/TechpriestBetrayer:ShakenCount" value="2"/>
-	<entry name="Neutral/TechpriestBetrayer:Victory#0" value="Escape is the only victory."/>
+	<entry name="Neutral/TechpriestBetrayer:Victory#0" value="A fuga é a única vitória."/>
 	<entry name="Neutral/TechpriestBetrayer:VictoryCount" value="1"/>
-	<entry name="Neutral/NeophyteHybrid:Attack#0" value="For the cult!"/>
-	<entry name="Neutral/NeophyteHybrid:Attack#1" value="The Magus commands."/>
-	<entry name="Neutral/NeophyteHybrid:Attack#2" value="The Devourer comes."/>
+	<entry name="Neutral/NeophyteHybrid:Attack#0" value="Pelo culto!"/>
+	<entry name="Neutral/NeophyteHybrid:Attack#1" value="O Magus ordena."/>
+	<entry name="Neutral/NeophyteHybrid:Attack#2" value="O Devorador vem."/>
 	<entry name="Neutral/NeophyteHybrid:AttackCount" value="3"/>
-	<entry name="Neutral/NeophyteHybrid:Broken#0" value="Where is the Primus?"/>
+	<entry name="Neutral/NeophyteHybrid:Broken#0" value="Onde está o Primus?"/>
 	<entry name="Neutral/NeophyteHybrid:BrokenCount" value="1"/>
-	<entry name="Neutral/NeophyteHybrid:Hurt#0" value="Patriarch preserve us!"/>
+	<entry name="Neutral/NeophyteHybrid:Hurt#0" value="Patriarca, nos preserve!"/>
 	<entry name="Neutral/NeophyteHybrid:HurtCount" value="1"/>
-	<entry name="Neutral/NeophyteHybrid:Idle#0" value="It comes, brothers."/>
-	<entry name="Neutral/NeophyteHybrid:Idle#1" value="The shadow nears."/>
-	<entry name="Neutral/NeophyteHybrid:Idle#2" value="The Magus foretells a great hunger."/>
-	<entry name="Neutral/NeophyteHybrid:Idle#3" value="When the day comes, we will walk willingly in."/>
-	<entry name="Neutral/NeophyteHybrid:Idle#4" value="It is almost HERE."/>
+	<entry name="Neutral/NeophyteHybrid:Idle#0" value="Ele vem, irmãos."/>
+	<entry name="Neutral/NeophyteHybrid:Idle#1" value="A sombra se aproxima."/>
+	<entry name="Neutral/NeophyteHybrid:Idle#2" value="O Magus prediz uma grande fome."/>
+	<entry name="Neutral/NeophyteHybrid:Idle#3" value="Quando o dia chegar, caminharemos voluntariamente."/>
+	<entry name="Neutral/NeophyteHybrid:Idle#4" value="Está quase AQUI."/>
 	<entry name="Neutral/NeophyteHybrid:IdleCount" value="5"/>
-	<entry name="Neutral/NeophyteHybrid:Shaken#0" value="We are poor meat, indeed."/>
+	<entry name="Neutral/NeophyteHybrid:Shaken#0" value="Somos carne pobre, de fato."/>
 	<entry name="Neutral/NeophyteHybrid:ShakenCount" value="1"/>
-	<entry name="Neutral/NeophyteHybrid:Victory#0" value="They are meat for the Queen to come!"/>
+	<entry name="Neutral/NeophyteHybrid:Victory#0" value="Eles são carne para a Rainha que virá!"/>
 	<entry name="Neutral/NeophyteHybrid:VictoryCount" value="1"/>
-	<entry name="Orks/Battlewagon:Attack#0" value="Woo, dakka, whee!"/>
-	<entry name="Orks/Battlewagon:Attack#1" value="Red wunz 'it arder!"/>
-	<entry name="Orks/Battlewagon:Attack#2" value="Run 'em down!"/>
-	<entry name="Orks/Battlewagon:Attack#3" value="Shooting on da move!"/>
+	<entry name="Orks/Battlewagon:Attack#0" value="Uhu, dakka, ihu!"/>
+	<entry name="Orks/Battlewagon:Attack#1" value="Os vermelho bate mais forte!"/>
+	<entry name="Orks/Battlewagon:Attack#2" value="Atropela eles!"/>
+	<entry name="Orks/Battlewagon:Attack#3" value="Atirando em movimento!"/>
 	<entry name="Orks/Battlewagon:AttackCount" value="4"/>
-	<entry name="Orks/Battlewagon:Broken#0" value="Turn dis fing around!"/>
-	<entry name="Orks/Battlewagon:Broken#1" value="Zog it! Move dis fung!"/>
+	<entry name="Orks/Battlewagon:Broken#0" value="Vira essa coisa!"/>
+	<entry name="Orks/Battlewagon:Broken#1" value="Droga! Move essa coisa!"/>
 	<entry name="Orks/Battlewagon:BrokenCount" value="2"/>
-	<entry name="Orks/Battlewagon:EnemyFaction:AstraMilitarum#0" value="Oomies! Fire everyfing!"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:AstraMilitarum#0" value="Umanos! Atira tudo!"/>
 	<entry name="Orks/Battlewagon:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Orks/Battlewagon:EnemyFaction:Necrons#0" value="Scrap 'em for bitz!"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:Necrons#0" value="Desmonta eles pra peças!"/>
 	<entry name="Orks/Battlewagon:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Orks/Battlewagon:EnemyFaction:Orks#0" value="It's uz! Now fer a proper fite!"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:Orks#0" value="Somos nóis! Agora é uma briga de verdade!"/>
 	<entry name="Orks/Battlewagon:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Orks/Battlewagon:EnemyFaction:SpaceMarines#0" value="Run down da Beakies!"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:SpaceMarines#0" value="Atropela os Biquinhos!"/>
 	<entry name="Orks/Battlewagon:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Orks/Battlewagon:Hurt#0" value="Ow many wheels iz dis fing menna have?"/>
+	<entry name="Orks/Battlewagon:Hurt#0" value="Quantas roda essa coisa tem que ter?"/>
 	<entry name="Orks/Battlewagon:HurtCount" value="1"/>
-	<entry name="Orks/Battlewagon:Idle#0" value="And I said, what if it had two engjinnz?"/>
-	<entry name="Orks/Battlewagon:Idle#1" value="Anywun got any red paint?"/>
-	<entry name="Orks/Battlewagon:Idle#2" value="Need to go fasta, boss! FASTA!"/>
-	<entry name="Orks/Battlewagon:Idle#3" value="Toot-toooot!"/>
+	<entry name="Orks/Battlewagon:Idle#0" value="E eu disse, e se tivesse dois motor?"/>
+	<entry name="Orks/Battlewagon:Idle#1" value="Alguém tem tinta vermelha?"/>
+	<entry name="Orks/Battlewagon:Idle#2" value="Precisa ir mais rápido, chefe! MAIS RÁPIDO!"/>
+	<entry name="Orks/Battlewagon:Idle#3" value="Fom-fooom!"/>
 	<entry name="Orks/Battlewagon:IdleCount" value="4"/>
-	<entry name="Orks/Battlewagon:Shaken#0" value="'asn't this fing got springs?"/>
-	<entry name="Orks/Battlewagon:Shaken#1" value="Squig suckin grot munchers!"/>
-	<entry name="Orks/Battlewagon:Shaken#2" value="They'se shootin at uz!"/>
+	<entry name="Orks/Battlewagon:Shaken#0" value="Essa coisa não tem mola?"/>
+	<entry name="Orks/Battlewagon:Shaken#1" value="Chupadores de squig comedores de grot!"/>
+	<entry name="Orks/Battlewagon:Shaken#2" value="Eles tão atirando na gente!"/>
 	<entry name="Orks/Battlewagon:ShakenCount" value="3"/>
 	<entry name="Orks/Battlewagon:Victory#0" value="WAAAGH! Orks!"/>
 	<entry name="Orks/Battlewagon:VictoryCount" value="1"/>
-	<entry name="Orks/Boy:Attack#0" value="'it 'em 'arder!"/>
+	<entry name="Orks/Boy:Attack#0" value="Bate neles mais forte!"/>
 	<entry name="Orks/Boy:Attack#1" value="Dakka, dakka, dakka!"/>
-	<entry name="Orks/Boy:Attack#2" value="Hur-hur-hur, dis iz the life!"/>
+	<entry name="Orks/Boy:Attack#2" value="Hur-hur-hur, essa é a vida!"/>
 	<entry name="Orks/Boy:Attack#3" value="WAAAGH!"/>
-	<entry name="Orks/Boy:Attack#4" value="Where's da fight?"/>
+	<entry name="Orks/Boy:Attack#4" value="Cadê a briga?"/>
 	<entry name="Orks/Boy:AttackCount" value="5"/>
-	<entry name="Orks/Boy:Broken#0" value="AAAWGH! I'm off."/>
-	<entry name="Orks/Boy:Broken#1" value="Ev'ry Ork fer 'imself!"/>
-	<entry name="Orks/Boy:Broken#2" value="Left a squig cooking in my digs… back soon!"/>
-	<entry name="Orks/Boy:Broken#3" value="Naw… naw, naw, naw."/>
-	<entry name="Orks/Boy:Broken#4" value="RunrunRUN!"/>
+	<entry name="Orks/Boy:Broken#0" value="AAAWGH! Tô vazando."/>
+	<entry name="Orks/Boy:Broken#1" value="Cada Ork por si!"/>
+	<entry name="Orks/Boy:Broken#2" value="Deixei um squig cozinhando na minha toca... já volto!"/>
+	<entry name="Orks/Boy:Broken#3" value="Não... não, não, não."/>
+	<entry name="Orks/Boy:Broken#4" value="CorreCorreCORRE!"/>
 	<entry name="Orks/Boy:BrokenCount" value="5"/>
-	<entry name="Orks/Boy:EnemyFaction:AstraMilitarum#0" value="Oomies! Dey got great fings to nick."/>
+	<entry name="Orks/Boy:EnemyFaction:AstraMilitarum#0" value="Umanos! Eles têm coisas boas pra roubar."/>
 	<entry name="Orks/Boy:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Orks/Boy:EnemyFaction:Necrons#0" value="Tin fings. Zogging fings don't stay dead!"/>
+	<entry name="Orks/Boy:EnemyFaction:Necrons#0" value="Coisa de lata. Malditas coisas não ficam mortas!"/>
 	<entry name="Orks/Boy:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Orks/Boy:EnemyFaction:Orks#0" value="Aw, another WAAAGH! Now we know we's gonna 'ave a great fight."/>
+	<entry name="Orks/Boy:EnemyFaction:Orks#0" value="Ah, outro WAAAGH! Agora sabemos que vamos ter uma grande briga."/>
 	<entry name="Orks/Boy:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/CatachanDevil#0" value="'Ow many legs? Dere's good eatin on dat."/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/CatachanDevil#0" value="Quantas pernas? Tem boa comida ali."/>
 	<entry name="Orks/Boy:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/Enslaver#0" value="Oh, me noggin. Keep away!"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/Enslaver#0" value="Ai, minha cabeça. Fica longe!"/>
 	<entry name="Orks/Boy:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/KastelanRobot#0" value="Yawn! Where's the fun in fighting tinboyz?"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/KastelanRobot#0" value="Bocejo! Onde está a diversão em lutar com robôs de lata?"/>
 	<entry name="Orks/Boy:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="Oh, da smelly oomies are 'ere? We's gonna 'ave a great fight!"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="Oh, os umanos fedorentos estão aqui? Vamos ter uma grande briga!"/>
 	<entry name="Orks/Boy:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="1"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/Psychneuein#0" value="Buzzy fings! Wotchit, they get inside yer and then—POP!"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/Psychneuein#0" value="Coisas zumbindo! Cuidado, elas entram em você e então—POP!"/>
 	<entry name="Orks/Boy:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
-	<entry name="Orks/Boy:Hurt#0" value="'old on, me brains iz leaking out. Anywun got an 'ammer and sum nails?"/>
-	<entry name="Orks/Boy:Hurt#1" value="e's ded! Hur hur. Bagsy 'is teef"/>
-	<entry name="Orks/Boy:Hurt#2" value="Iz dat me arm?"/>
-	<entry name="Orks/Boy:Hurt#3" value="We's the strongest wunz dere iz!"/>
+	<entry name="Orks/Boy:Hurt#0" value="Espera, meu cérebro tá vazando. Alguém tem um martelo e uns pregos?"/>
+	<entry name="Orks/Boy:Hurt#1" value="Ele morreu! Hur hur. Pego os dentes dele"/>
+	<entry name="Orks/Boy:Hurt#2" value="Esse é meu braço?"/>
+	<entry name="Orks/Boy:Hurt#3" value="Nós somos os mais fortes que existem!"/>
 	<entry name="Orks/Boy:HurtCount" value="4"/>
-	<entry name="Orks/Boy:Idle#0" value="It's the Boss! Wot do yer want, Boss?"/>
-	<entry name="Orks/Boy:Idle#1" value="More barrels means more dakka. More dakka means more fun!"/>
-	<entry name="Orks/Boy:Idle#2" value="Nah, mate, this is my squig. Get yer own!"/>
-	<entry name="Orks/Boy:Idle#3" value="Oi boss, wot's going on?"/>
-	<entry name="Orks/Boy:Idle#4" value="One green squig, sitting on da wall. Two…"/>
-	<entry name="Orks/Boy:Idle#5" value="This choppa just isn't big enuff!"/>
-	<entry name="Orks/Boy:Idle#6" value="Where's der fite at?"/>
-	<entry name="Orks/Boy:Idle#7" value="Who do yer want me to 'it?"/>
-	<entry name="Orks/Boy:Idle#8" value="Wot is it?"/>
+	<entry name="Orks/Boy:Idle#0" value="É o Chefe! O que você quer, Chefe?"/>
+	<entry name="Orks/Boy:Idle#1" value="Mais canos significa mais dakka. Mais dakka significa mais diversão!"/>
+	<entry name="Orks/Boy:Idle#2" value="Não, cara, esse é meu squig. Arranja o seu!"/>
+	<entry name="Orks/Boy:Idle#3" value="Oi chefe, o que tá rolando?"/>
+	<entry name="Orks/Boy:Idle#4" value="Um squig verde, sentado no muro. Dois..."/>
+	<entry name="Orks/Boy:Idle#5" value="Esse facão não é grande o suficiente!"/>
+	<entry name="Orks/Boy:Idle#6" value="Onde é a briga?"/>
+	<entry name="Orks/Boy:Idle#7" value="Quem você quer que eu bata?"/>
+	<entry name="Orks/Boy:Idle#8" value="O que é?"/>
 	<entry name="Orks/Boy:IdleCount" value="9"/>
-	<entry name="Orks/Boy:QuestStory0#0" value="Zogging Gork, we's boooorrrred Boss. Got somefing to 'it?"/>
+	<entry name="Orks/Boy:QuestStory0#0" value="Maldito Gork, estamos entediaaados Chefe. Tem alguma coisa pra bater?"/>
 	<entry name="Orks/Boy:QuestStory0Count" value="1"/>
-	<entry name="Orks/Boy:QuestStory1#0" value="Keep dat weirdboy away from us, don't want our 'edz to pop."/>
+	<entry name="Orks/Boy:QuestStory1#0" value="Mantém esse garoto esquisito longe da gente, não queremos que nossas cabeças explodam."/>
 	<entry name="Orks/Boy:QuestStory1Count" value="1"/>
-	<entry name="Orks/Boy:QuestStory2#0" value="Who lives under da ground? Nuffink ta fite down there."/>
+	<entry name="Orks/Boy:QuestStory2#0" value="Quem vive embaixo da terra? Não tem nada pra lutar lá embaixo."/>
 	<entry name="Orks/Boy:QuestStory2Count" value="1"/>
-	<entry name="Orks/Boy:QuestStory3#0" value="You want us to grab lotsa junk? No problem, Boss."/>
+	<entry name="Orks/Boy:QuestStory3#0" value="Você quer que a gente pegue um monte de sucata? Sem problema, Chefe."/>
 	<entry name="Orks/Boy:QuestStory3Count" value="1"/>
-	<entry name="Orks/Boy:QuestStory4#0" value="Lets paint dat town red, Boss, hur-hur-hur."/>
+	<entry name="Orks/Boy:QuestStory4#0" value="Vamos pintar a cidade de vermelho, Chefe, hur-hur-hur."/>
 	<entry name="Orks/Boy:QuestStory4Count" value="1"/>
-	<entry name="Orks/Boy:QuestStory5#0" value="Never could eat squiggoth myself, Boss, all dat hair gets stuck in me teef."/>
+	<entry name="Orks/Boy:QuestStory5#0" value="Nunca consegui comer squiggoth, Chefe, todo esse pelo fica preso nos meus dentes."/>
 	<entry name="Orks/Boy:QuestStory5Count" value="1"/>
-	<entry name="Orks/Boy:Shaken#0" value="Go 'it 'im yerself, Boss."/>
-	<entry name="Orks/Boy:Shaken#1" value="I need sum dat Fungus beer courage."/>
-	<entry name="Orks/Boy:Shaken#2" value="I'm not Makari, I wanna live! I got fings to fite!"/>
-	<entry name="Orks/Boy:Shaken#3" value="That ain't Orky."/>
+	<entry name="Orks/Boy:Shaken#0" value="Vai bater nele você mesmo, Chefe."/>
+	<entry name="Orks/Boy:Shaken#1" value="Preciso de um pouco daquela coragem de cerveja de fungo."/>
+	<entry name="Orks/Boy:Shaken#2" value="Eu não sou Makari, eu quero viver! Tenho coisas pra lutar!"/>
+	<entry name="Orks/Boy:Shaken#3" value="Isso não é coisa de Ork."/>
 	<entry name="Orks/Boy:ShakenCount" value="4"/>
-	<entry name="Orks/Boy:Victory#0" value="'Ow d'yer like 'ot metal death?"/>
-	<entry name="Orks/Boy:Victory#1" value="Da fing wiv not-Orks is that dey break so easily."/>
-	<entry name="Orks/Boy:Victory#2" value="Fire, fire, fire, BOOM. YEAH!"/>
+	<entry name="Orks/Boy:Victory#0" value="Como você gosta de morte de metal quente?"/>
+	<entry name="Orks/Boy:Victory#1" value="O problema com os não-Orks é que eles quebram tão fácil."/>
+	<entry name="Orks/Boy:Victory#2" value="Fogo, fogo, fogo, BOOM. YEAH!"/>
 	<entry name="Orks/Boy:Victory#3" value="Hur hur hur!"/>
-	<entry name="Orks/Boy:Victory#4" value="Not 'spectin that, were ya?"/>
-	<entry name="Orks/Boy:Victory#5" value="Oi, get back up! We's not done stomping ya!"/>
-	<entry name="Orks/Boy:Victory#6" value="Orkz is made fer' two fings! Fightin', winnin' and countin!"/>
-	<entry name="Orks/Boy:Victory#7" value="STOMP. STOMP. STOMP."/>
-	<entry name="Orks/Boy:Victory#8" value="These wuns are broke, Boss. Any more to fight?"/>
+	<entry name="Orks/Boy:Victory#4" value="Não tava esperando isso, né?"/>
+	<entry name="Orks/Boy:Victory#5" value="Ei, levanta! A gente não terminou de te pisar!"/>
+	<entry name="Orks/Boy:Victory#6" value="Orks foram feitos pra duas coisas! Lutar, ganhar e contar!"/>
+	<entry name="Orks/Boy:Victory#7" value="PISA. PISA. PISA."/>
+	<entry name="Orks/Boy:Victory#8" value="Esses estão quebrados, Chefe. Tem mais pra lutar?"/>
 	<entry name="Orks/Boy:VictoryCount" value="9"/>
-	<entry name="Orks/BurnaBommer:Attack#0" value="Going fer a flyby, Boss!"/>
+	<entry name="Orks/BurnaBommer:Attack#0" value="Vou fazer um voo rasante, Chefe!"/>
 	<entry name="Orks/BurnaBommer:AttackCount" value="1"/>
-	<entry name="Orks/BurnaBommer:Broken#0" value="Zoomin the zog outta dere!"/>
+	<entry name="Orks/BurnaBommer:Broken#0" value="Saindo voando daqui!"/>
 	<entry name="Orks/BurnaBommer:BrokenCount" value="1"/>
-	<entry name="Orks/BurnaBommer:Hurt#0" value="Big holez make it more fly-y, yeah?"/>
+	<entry name="Orks/BurnaBommer:Hurt#0" value="Buracos grandes fazem voar melhor, né?"/>
 	<entry name="Orks/BurnaBommer:HurtCount" value="1"/>
-	<entry name="Orks/BurnaBommer:Idle#0" value="Going round and round and round…"/>
-	<entry name="Orks/BurnaBommer:Idle#1" value="Going up up up and down down down…"/>
-	<entry name="Orks/BurnaBommer:Idle#2" value="Dose magnificent meks in dere flyin machines…"/>
-	<entry name="Orks/BurnaBommer:Idle#3" value="To burn or to bomb, dat iz da question?"/>
+	<entry name="Orks/BurnaBommer:Idle#0" value="Girando e girando e girando..."/>
+	<entry name="Orks/BurnaBommer:Idle#1" value="Subindo subindo subindo e descendo descendo descendo..."/>
+	<entry name="Orks/BurnaBommer:Idle#2" value="Esses mekânicos magníficos nas suas máquinas voadoras..."/>
+	<entry name="Orks/BurnaBommer:Idle#3" value="Queimar ou bombardear, essa é a questão?"/>
 	<entry name="Orks/BurnaBommer:IdleCount" value="4"/>
-	<entry name="Orks/BurnaBommer:Shaken#0" value="Zog, giv uz a chance!"/>
+	<entry name="Orks/BurnaBommer:Shaken#0" value="Droga, dá uma chance pra gente!"/>
 	<entry name="Orks/BurnaBommer:ShakenCount" value="1"/>
-	<entry name="Orks/BurnaBommer:Victory#0" value="WAAAGH! EAT IT!"/>
+	<entry name="Orks/BurnaBommer:Victory#0" value="Assim que a gente assa eles!"/>
 	<entry name="Orks/BurnaBommer:VictoryCount" value="1"/>
 	<entry name="Orks/Dakkajet" value="Orks/BurnaBommer"/>
 	<entry name="Orks/Deffkopta:Attack#0" value="Now dis iz a Choppa!"/>
