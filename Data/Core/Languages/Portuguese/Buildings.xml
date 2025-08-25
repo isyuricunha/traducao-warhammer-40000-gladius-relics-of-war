@@ -3,13 +3,13 @@
 	<entry name="AdeptusMechanicus/Aircraft" value="Basilikon Archaeoptera"/>
 	<entry name="AdeptusMechanicus/AircraftDescription" value="Edifício que produz aeronaves e gera comida, minério e influência."/>
 	<entry name="AdeptusMechanicus/AircraftFlavor" value="Uma Archaeoptera é apenas mais uma instalação de construção do Adeptus Mechanicus, embora para máquinas voadoras ao invés de terrestres. Possui todos os elementos usuais—a mão de obra escrava em massa para construir as máquinas, as instalações médicas para todas as amputações que os pilotos precisam para se encaixar, e os santuários para conduzir os rituais apropriados sobre os Transvectors e Stratoraptors. Em outras palavras, um manufactorum de Tech-Priest totalmente normal."/>
-	<entry name="AdeptusMechanicus/Construction" value="Artisan Constructorum"/>
+	<entry name="AdeptusMechanicus/Construction" value="Constructorum de Artesãos"/>
 	<entry name="AdeptusMechanicus/ConstructionDescription" value="Edifício que constrói novos edifícios e gera comida, minério e influência."/>
 	<entry name="AdeptusMechanicus/ConstructionFlavor" value="O título simples de 'artesão' oculta a imensidão do que estes Tech-Priests conseguem. Não pessoalmente, é claro, mas através de vastas forças de trabalho de servitors com mente apagada. Aqui, no Constructorum, este exército de ex-homens constrói os edifícios e ferramentas para permitir os esforços dos Tech-Priests em outros lugares."/>
-	<entry name="AdeptusMechanicus/Energy" value="Thermo-Exchanger Shrine"/>
+	<entry name="AdeptusMechanicus/Energy" value="Santuário Termo-Trocador"/>
 	<entry name="AdeptusMechanicus/EnergyDescription" value="Edifício que gera energia."/>
 	<entry name="AdeptusMechanicus/EnergyFlavor" value="Após milênios de habitação, Gladius Prime é um tesouro de tecnologia antiga, muito ativa e incorporada profundamente em sua crosta. Além disso, o núcleo do planeta ainda está ativo com magma fervente. Os Thermo-Exchanger Shrines usam tecnologia arcana e ritual para explorar as agitações inquietas do planeta e reunir essa energia para uso em outros lugares."/>
-	<entry name="AdeptusMechanicus/Food" value="Ferratonic Furnaces"/>
+	<entry name="AdeptusMechanicus/Food" value="Fornalhas Ferratônicas"/>
 	<entry name="AdeptusMechanicus/FoodDescription" value="Edifício que coleta comida."/>
 	<entry name="AdeptusMechanicus/FoodFlavor" value="Os Adeptus Mechanicus não são famosos por seu amor aos prazeres da carne e é um Tech-Priest raro que admitiria ser um gourmet de qualquer coisa além de código. Isso é refletido nestas Ferratonic Furnaces reutilizadas, ou melhor, sua saída dietética. Suas rações são calibradas para serem o meio mais eficiente para transferir a energia e recursos mínimos absolutos para uma pessoa média sobreviver e funcionar."/>
 	<entry name="AdeptusMechanicus/Loyalty" value="Protoservitor Cradle"/>
@@ -177,7 +177,7 @@
 	<entry name="Eldar/EnergyFlavor" value="Muito mais elegante que seus equivalentes Imperiais, este gerador de plasma portátil foi trazido através da Teia com grande risco. Ele usa tecnologia semelhante à versão Imperial, mas tem uma produção muito maior para um dispositivo muito menor."/>
 	<entry name="Eldar/Food" value="Jardins de Isha"/>
 	<entry name="Eldar/FoodDescription" value="Edifício que coleta comida."/>
-	<entry name="Eldar/FoodFlavor" value="No mito Aeldari, Isha foi a mãe dos Aeldari, que os trouxe à existência и os protegeu de Khaine. Acredita-se também que ela seja uma das três divindades Aeldari sobreviventes, aprisionada no domínio do Deus do Caos Nurgle. Nestes jardins em Gladius, os Aeldari que seguem o Caminho do Artesão seguem seus ensinamentos e cultivam alimentos frescos e saudáveis para as forças Aeldari locais. Sua contribuição para a vida Aeldari é considerada tão valiosa quanto a de qualquer guerreiro ou vidente."/>
+	<entry name="Eldar/FoodFlavor" value="No mito Aeldari, Isha foi a mãe dos Aeldari, que os trouxe à existência e os protegeu de Khaine. Acredita-se também que ela seja uma das três divindades Aeldari sobreviventes, aprisionada no domínio do Deus do Caos Nurgle. Nestes jardins em Gladius, os Aeldari que seguem o Caminho do Artesão seguem seus ensinamentos e cultivam alimentos frescos e saudáveis para as forças Aeldari locais. Sua contribuição para a vida Aeldari é considerada tão valiosa quanto a de qualquer guerreiro ou vidente."/>
 	<entry name="Eldar/Headquarters" value="Webway Redoubt"/>
 	<entry name="Eldar/HeadquartersDescription" value="Edifício de quartel-general que gera recursos."/>
 	<entry name="Eldar/HeadquartersFlavor" value="A Teia perfura Gladius Prime, mas muitos dos portões foram perdidos. Mesmo aqueles que sobrevivem são inimaginavelmente antigos, mas ainda permanecem, ignorados pelas raças mais jovens. Ao redor deles, os Aeldari constroem posições e maquinários, para estabilizar a conexão renovada dos portões com o imaterium e defendê-los contra incursões."/>
