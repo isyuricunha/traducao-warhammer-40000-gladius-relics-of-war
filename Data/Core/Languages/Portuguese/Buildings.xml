@@ -225,34 +225,34 @@
 	<entry name="Necrons/HeroesDescription" value="Edifício que produz heróis, além de gerar influência e aumentar a lealdade."/>
 	<entry name="Necrons/HeroesFlavor" value="A tumba do Phaeron, Overlord ou Lorde e sua corte, este é o lugar onde todos os servidores mais leais e importantes se retiraram para dormir pelos séculos até que o universo estivesse pronto novamente. Mesmo agora, grandes heróis ainda jazem dormindo em seu núcleo, aguardando o chamado de seus Lordes."/>
 	<entry name="Necrons/Housing" value="Abrigos"/>
-	<entry name="Necrons/HousingDescription" value="Building that increases population limit."/>
-	<entry name="Necrons/HousingFlavor" value="Given the average Necron's lack of need for water, food or entertainment, these shelters don't resemble a human shelter or even an Ork shack. Instead, they're partway between a barracks, a tomb and a workshop, where the Crypteks and Canoptek constructs move between dormant Necron warriors, endless maintaining and repairing them."/>
-	<entry name="Necrons/Infantry" value="Summoning Core"/>
+	<entry name="Necrons/HousingDescription" value="Edifício que aumenta o limite populacional."/>
+	<entry name="Necrons/HousingFlavor" value="Dada a falta de necessidade do Necron médio por água, comida ou entretenimento, estes abrigos não se assemelham a um abrigo humano ou mesmo a uma cabana Ork. Em vez disso, estão a meio caminho entre um quartel, uma tumba e uma oficina, onde os Crypteks e construtos Canoptek se movem entre guerreiros Necron adormecidos, mantendo e reparando-os incessantemente."/>
+	<entry name="Necrons/Infantry" value="Núcleo de Invocação"/>
 
-	<entry name="Necrons/InfantryDescription" value="Building that produces infantry and creatures as well as generates research and increases loyalty."/>
-	<entry name="Necrons/InfantryFlavor" value="Awakening the long-deactivated troops of a Necron dynasty is slow work, as is repairing those who fall in the field. The Canopteks and Crypteks of the Summoning Core diligently save those who recall to the city—and dismantle the rest for their rare Necrodermis."/>
-	<entry name="Necrons/Influence" value="Stelae"/>
-	<entry name="Necrons/InfluenceDescription" value="Building that generates influence."/>
-	<entry name="Necrons/InfluenceFlavor" value="Imposing, sky-piercing columns of ancient stone and metal, each Stela records the reign of a long-ago Phaeron of the Necron dynasty. To see the records of millennia of implacable domination makes even the most stolid citizen of the Empire quail."/>
-	<entry name="Necrons/Ore" value="Al-Khemic Quarry"/>
-	<entry name="Necrons/OreDescription" value="Building that harvests ore."/>
-	<entry name="Necrons/OreFlavor" value="To find the rare materials the Crypteks need to maintain and repair the living metal necrodermis and weaponry of the Necron troops, slaves live and die in their Al-Khemic quarries and smelters. Only a tiny fraction of the output is used—but it's critical to the Necrons' survival."/>
-	<entry name="Necrons/Research" value="Forbidden Archive"/>
-	<entry name="Necrons/ResearchDescription" value="Building that generates research."/>
-	<entry name="Necrons/ResearchFlavor" value="Before the fall, Necron Crypteks were already masters of eldritch technology, able to manipulate matter and energy in ways that seemed magical to lesser races. With immortality came generations of learning, and the Cryptek conclaves become more powerful than ever—yet the millenia have made them stagnant. In these archives, the Conclave digs for the wisdom of the ancients, rather discovering the secrets of the universe anew."/>
-	<entry name="Necrons/Vehicles" value="Hypostyle Temple"/>
-	<entry name="Necrons/VehiclesDescription" value="Building that produces ground vehicles as well as generates energy and increases loyalty."/>
-	<entry name="Necrons/VehiclesFlavor" value="This high-roofed building is lined with pillars inside. Between them rest or float the great war machines of the Necrons. Deactivated Doomsday Arks, Annihilation Barges, Monoliths and Obelisks wait in serried ranks for the day when a Lord calls for their repair and they can lead his armies once more."/>
-	<entry name="Orks/Beasts" value="Runtherd Groundz"/>
-	<entry name="Orks/BeastsDescription" value="Building that produces beasts, generates food and increases loyalty."/>
-	<entry name="Orks/BeastsFlavor" value="Runtherds do much of the heavy lifting in Ork society, overseeing the Grots who build everything, the Squigs who supply almost all resources and the tiny Snots who are both carers and food for the Squigs. However, on these grounds they also oversee larger projects—like training Grotz gun crews and rearing the giant Squiggoths."/>
-	<entry name="Orks/Colonizers" value="Mek Bitz Yard"/>
-	<entry name="Orks/ColonizersDescription" value="Building that produces Meks and Mek Gunz as well as generates research."/>
-	<entry name="Orks/ColonizersFlavor" value="A Mek never knows when inspiration is going to hit and he suddenly needs a Thingummy or a Whatyamacallit for his latest invention. For this reason, a Mek's yard is full of broken-up vehicles, machines and tools in case he needs anything suddenly to hand, with teams of lugubrious Grotz endlessly hauling more stuff in."/>
-	<entry name="Orks/Construction" value="Scrap Shedz"/>
-	<entry name="Orks/ConstructionDescription" value="Building that constructs new buildings, generates ore and influence as well as increases population limit."/>
-	<entry name="Orks/ConstructionFlavor" value="Ork buildings are inelegant constructions of waste materials and any scrap that the Meks don't need. The Grotz aren't known to be good architects, but the Orks don't care so long as they get a good fight."/>
-	<entry name="Orks/Energy" value="Powwa Gubbinz"/>
+	<entry name="Necrons/InfantryDescription" value="Edifício que produz infantaria e criaturas, além de gerar pesquisa e aumentar a lealdade."/>
+	<entry name="Necrons/InfantryFlavor" value="Despertar as tropas há muito desativadas de uma dinastia Necron é trabalho lento, assim como reparar aqueles que caem no campo. Os Canopteks e Crypteks do Núcleo de Invocação diligentemente salvam aqueles que retornam à cidade — e desmontam o resto por sua rara Necrodermis."/>
+	<entry name="Necrons/Influence" value="Estelas"/>
+	<entry name="Necrons/InfluenceDescription" value="Edifício que gera influência."/>
+	<entry name="Necrons/InfluenceFlavor" value="Colunas imponentes que perfuram o céu, de pedra e metal antigos, cada Estela registra o reinado de um Phaeron há muito tempo de uma dinastia Necron. Ver os registros de milênios de dominação implacvel faz até mesmo o cidadão mais estóico do Império estremecer."/>
+	<entry name="Necrons/Ore" value="Pedreira Al-Química"/>
+	<entry name="Necrons/OreDescription" value="Edifício que coleta minério."/>
+	<entry name="Necrons/OreFlavor" value="Para encontrar os materiais raros que os Crypteks precisam para manter e reparar a necrodermis de metal vivo e armamento das tropas Necron, escravos vivem e morrem em suas pedreiras e fundidoras Al-Químicas. Apenas uma fração minúscula da produção é usada — mas é crítica para a sobrevivência dos Necrons."/>
+	<entry name="Necrons/Research" value="Arquivo Proibido"/>
+	<entry name="Necrons/ResearchDescription" value="Edifício que gera pesquisa."/>
+	<entry name="Necrons/ResearchFlavor" value="Antes da queda, os Crypteks Necron já eram mestres da tecnologia arcana, capazes de manipular matéria e energia de maneiras que pareciam mágicas para raças menores. Com a imortalidade vieram gerações de aprendizado, e os conclaves Cryptek se tornaram mais poderosos do que nunca — ainda assim os milênios os tornaram estagnados. Nestes arquivos, o Conclave escava pela sabedoria dos antigos, em vez de descobrir os segredos do universo novamente."/>
+	<entry name="Necrons/Vehicles" value="Templo Hipóstilo"/>
+	<entry name="Necrons/VehiclesDescription" value="Edifício que produz veículos terrestres, além de gerar energia e aumentar a lealdade."/>
+	<entry name="Necrons/VehiclesFlavor" value="Este edifício de teto alto é alinhado com pilares por dentro. Entre eles repousam ou flutuam as grandes máquinas de guerra dos Necrons. Arcas do Juízo Final desativadas, Barcas de Aniquilação, Monólitos e Obeliscos aguardam em fileiras cerradas pelo dia em que um Lorde pedir seu reparo e eles possam liderar seus exércitos mais uma vez."/>
+	<entry name="Orks/Beasts" value="Terrenos do Runtherd"/>
+	<entry name="Orks/BeastsDescription" value="Edifício que produz bestas, gera comida e aumenta a lealdade."/>
+	<entry name="Orks/BeastsFlavor" value="Os Runtherds fazem muito do trabalho pesado na sociedade Ork, supervisionando os Grots que constroem tudo, os Squigs que fornecem quase todos os recursos e os pequenos Snots que são tanto cuidadores quanto comida para os Squigs. No entanto, nestes terrenos eles também supervisionam projetos maiores — como treinar tripulações de artilharia Grotz e criar os gigantes Squiggoths."/>
+	<entry name="Orks/Colonizers" value="Pátio de Peças Mek"/>
+	<entry name="Orks/ColonizersDescription" value="Edifício que produz Meks e Canhões Mek, além de gerar pesquisa."/>
+	<entry name="Orks/ColonizersFlavor" value="Um Mek nunca sabe quando a inspiração vai bater e ele de repente precisa de uma Coisa ou um Treco para sua última invenção. Por essa razão, o pátio de um Mek está cheio de veículos quebrados, máquinas e ferramentas caso ele precise de algo de repente à mão, com equipes de Grotz melancólicos carregando mais coisas sem parar."/>
+	<entry name="Orks/Construction" value="Galpões de Sucata"/>
+	<entry name="Orks/ConstructionDescription" value="Edifício que constrói novos edifícios, gera minério e influência, além de aumentar o limite populacional."/>
+	<entry name="Orks/ConstructionFlavor" value="Edifícios Ork são construções inelegantes de materiais de refugo e qualquer sucata que os Meks não precisem. Os Grotz não são conhecidos por serem bons arquitetos, mas os Orks não se importam contanto que tenham uma boa luta."/>
+	<entry name="Orks/Energy" value="Gubbinz de Energia"/>
 	<entry name="Orks/EnergyDescription" value="Building that generates energy."/>
 	<entry name="Orks/EnergyFlavor" value="It doesn't pay an Ork to look too closely at the generators that power their world. That's because much of the technology that Ork Meks produce is missing key parts and shouldn't actually work—but the massed psychic belief of Orks somehow overrides this."/>
 	<entry name="Orks/Food" value="Squig Herdz"/>
