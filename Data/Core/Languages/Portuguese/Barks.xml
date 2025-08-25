@@ -742,6 +742,7 @@
 	<entry name="AstraMilitarum/TankCommander:CoverCount" value="1"/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:AstraMilitarum#0" value="Traidores! Hereges… eles têm tanques?"/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:Necrons#0" value="Monólitos, aí está um desafio."/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:NecronsCount" value="1"/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:Orks#0" value="É, devíamos ter trazido o Demolisher."/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:OrksCount" value="1"/>
