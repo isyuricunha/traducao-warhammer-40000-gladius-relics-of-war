@@ -3318,41 +3318,41 @@
 	<entry name="SistersOfBattle/ParagonWarsuit" value="SistersOfBattle/BattleSister"/>
 	<entry name="SistersOfBattle/Retributor" value="SistersOfBattle/BattleSister"/>
 	<entry name="SistersOfBattle/Castigator" value="SistersOfBattle/Exorcist"/>
-	<entry name="AdeptusMechanicus/KataphronBreacher:Attack#0" value="C32: Firing Pattern Achieved."/>
-	<entry name="AdeptusMechanicus/KataphronBreacher:Attack#1" value="7T32: All Armaments Deployed."/>
-	<entry name="AdeptusMechanicus/KataphronBreacher:Attack#2" value="8-6: Breacher Clade active."/>
-	<entry name="AdeptusMechanicus/KataphronBreacher:Attack#3" value="P4-78: Armour/Transport Search & Destroy."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Attack#0" value="C32: Padrão de Tiro Alcançado."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Attack#1" value="7T32: Todos os Armamentos Implantados."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Attack#2" value="8-6: Clado Rompedor ativo."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Attack#3" value="P4-78: Buscar e Destruir Blindagem/Transporte."/>
 	<entry name="AdeptusMechanicus/KataphronBreacher:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/KataphronBreacher:Broken#0" value="Disposable Assets… human once-"/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Broken#0" value="Recursos Descartáveis... humano uma vez-"/>
 	<entry name="AdeptusMechanicus/KataphronBreacher:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/KataphronBreacher:Hurt#0" value="Functionality Compromised. Machine Extant. Flesh 45%, Declining."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Hurt#0" value="Funcionalidade Comprometida. Máquina Existente. Carne 45%, Declinando."/>
 	<entry name="AdeptusMechanicus/KataphronBreacher:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/KataphronBreacher:Idle#0" value="Necrotic Tissue Being Excised."/>
-	<entry name="AdeptusMechanicus/KataphronBreacher:Idle#1" value="Servitor Waiting To Be Expended."/>
-	<entry name="AdeptusMechanicus/KataphronBreacher:Idle#2" value="Memory Of Grass, Clouds, Blue Sky… Mind Wipe Error. Erasing."/>
-	<entry name="AdeptusMechanicus/KataphronBreacher:Idle#3" value="Binharic Chorus Commencing."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Idle#0" value="Tecido Necrótico Sendo Excisado."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Idle#1" value="Servo-crânio Aguardando Para Ser Gasto."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Idle#2" value="Memória de Grama, Nuvens, Céu Azul... Erro de Limpeza Mental. Apagando."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Idle#3" value="Coro Binário Iniciando."/>
 	<entry name="AdeptusMechanicus/KataphronBreacher:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/KataphronBreacher:Shaken#0" value="Under Sustained Fire."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Shaken#0" value="Sob Fogo Sustentado."/>
 	<entry name="AdeptusMechanicus/KataphronBreacher:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/KataphronBreacher:Victory#0" value="Eliminated, Brutally. Satisfactory."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Victory#0" value="Eliminado, Brutalmente. Satisfatório."/>
 	<entry name="AdeptusMechanicus/KataphronBreacher:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/RogalDornBattleTank:Attack#0" value="Oppressive fire!"/>
-	<entry name="AstraMilitarum/RogalDornBattleTank:Attack#1" value="In the Primarch's name!"/>
-	<entry name="AstraMilitarum/RogalDornBattleTank:Attack#2" value="Armoured assault!"/>
-	<entry name="AstraMilitarum/RogalDornBattleTank:Attack#3" value="One is firing… everything!"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Attack#0" value="Fogo opressivo!"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Attack#1" value="Em nome do Primarca!"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Attack#2" value="Assalto blindado!"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Attack#3" value="Um está disparando... tudo!"/>
 	<entry name="AstraMilitarum/RogalDornBattleTank:AttackCount" value="4"/>
-	<entry name="AstraMilitarum/RogalDornBattleTank:Broken#0" value="One must preserve the tank-"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Broken#0" value="Um deve preservar o tanque-"/>
 	<entry name="AstraMilitarum/RogalDornBattleTank:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/RogalDornBattleTank:Hurt#0" value="Straight through the hull-"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Hurt#0" value="Direto através do casco-"/>
 	<entry name="AstraMilitarum/RogalDornBattleTank:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/RogalDornBattleTank:Idle#0" value="What would Dorn do?"/>
-	<entry name="AstraMilitarum/RogalDornBattleTank:Idle#1" value="One serves the Emperor's will."/>
-	<entry name="AstraMilitarum/RogalDornBattleTank:Idle#2" value="Armageddon, now that was a tank battle…"/>
-	<entry name="AstraMilitarum/RogalDornBattleTank:Idle#3" value="Less infantry, more armour."/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Idle#0" value="O que Dorn faria?"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Idle#1" value="Um serve a vontade do Imperador."/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Idle#2" value="Armagedom, aquela sim foi uma batalha de tanques..."/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Idle#3" value="Menos infantaria, mais blindagem."/>
 	<entry name="AstraMilitarum/RogalDornBattleTank:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/RogalDornBattleTank:Shaken#0" value="They have quite got to One."/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Shaken#0" value="Eles realmente chegaram ao Um."/>
 	<entry name="AstraMilitarum/RogalDornBattleTank:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/RogalDornBattleTank:Victory#0" value="One is always looking out for new targets."/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Victory#0" value="Um está sempre procurando novos alvos."/>
 	<entry name="AstraMilitarum/RogalDornBattleTank:VictoryCount" value="1"/>
 	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Attack#0" value="Khrrrrne!"/>
 	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Attack#1" value="Rrrrr!"/>
