@@ -15,7 +15,7 @@
 	<entry name="Artefacts/MovementDescription" value="Aumenta o movimento das suas unidades."/>
 	<entry name="Artefacts/Sight" value="<string name='Units/Neutral/Artefacts/Sight'/>"/>
 	<entry name="Artefacts/SightDescription" value="Aumenta o alcance de visão das suas unidades."/>
-	
+
 	<!-- Items -->
 	<entry name="BlightGrenade" value="<string name='Items/BlightGrenade'/>"/>
 	<entry name="BlightGrenadeDescription" value="<string name='Items/BlightGrenadeDescription'/>"/>
@@ -41,7 +41,8 @@
 	<entry name="AcquireTile" value="Adquirir Terreno"/>
 	<entry name="AcquireTileDescription" value="Adquire um novo terreno para a cidade. Construções só podem ser feitas em terrenos adquiridos. Cada terreno tem um custo de manutenção de influência."/>
 	<entry name="Activate" value="Ativar"/>
-	<entry name="AdeptusMechanicus/AggressionOverride" value="Invalidação de Agressão"/> <!-- Skitarii Marshal ability -->
+	<entry name="AdeptusMechanicus/AggressionOverride" value="Invalidação de Agressão"/>
+	<!-- Skitarii Marshal ability -->
 	<entry name="AdeptusMechanicus/AggressionOverrideDescription" value="Aumenta os ataques da unidade de infantaria do Adeptus Mechanicus aliada alvo."/>
 	<entry name="AdeptusMechanicus/AggressionOverrideFlavor" value="Empregando protocolos de cânticos de morte com dados refinados, o Marechal garante que seus Skitarii sejam levados a um estado de ferocidade aguçada que faz suas correntes sanguíneas ferverem com hiperestimulantes de combate."/>
 	<entry name="AdeptusMechanicus/AggressorImperative" value="Imperativo Agressor"/>
@@ -65,19 +66,24 @@
 	<entry name="AdeptusMechanicus/ConquerorImperative" value="Imperativo Conquistador"/>
 	<entry name="AdeptusMechanicus/ConquerorImperativeDescription" value="Aumenta a precisão de combate corpo a corpo, mas diminui a precisão de longo alcance das unidades com Imperativos de Doutrina. O custo escala com a quantidade de unidades afetadas (até 10)."/>
 	<entry name="AdeptusMechanicus/ConquerorImperativeFlavor" value="Quando o inimigo se aproxima, os Tecno-Sacerdotes que controlam cada manípulo carregam imperativos Conquistadores que impulsionam as sub-rotinas marciais de seus lacaios Skitarii e os galvanizam para a ação física, à custa de seus programas de mira mais elaborados."/>
-	<entry name="AdeptusMechanicus/ControlEdict" value="Édito de Controle"/> <!-- Skitarii Marshal ability -->
+	<entry name="AdeptusMechanicus/ControlEdict" value="Édito de Controle"/>
+	<!-- Skitarii Marshal ability -->
 	<entry name="AdeptusMechanicus/ControlEdictDescription" value="Remove o malus dos Imperativos de Doutrina das unidades de infantaria aliadas no alcance."/>
 	<entry name="AdeptusMechanicus/ControlEdictFlavor" value="Um Imperativo de Doutrina dificilmente é uma ferramenta sutil, desabilitando um soldado tanto quanto o habilita em outras áreas. No entanto, a atenção de um Marechal experiente pode ajudar a superar os comandos mais rudes do Imperativo, permitindo que o soldado tenha um desempenho muito acima de suas normas nominais."/>
-	<entry name="AdeptusMechanicus/DataBlessedAutosermon" value="Autosermão Abençoado por Dados"/> <!-- Tech-Priest Manipulus elite -->
+	<entry name="AdeptusMechanicus/DataBlessedAutosermon" value="Autosermão Abençoado por Dados"/>
+	<!-- Tech-Priest Manipulus elite -->
 	<entry name="AdeptusMechanicus/DataBlessedAutosermonDescription" value="Unidades com Cânticos do Omnissiah na área concedem pesquisa ao matar inimigos."/>
 	<entry name="AdeptusMechanicus/DataBlessedAutosermonFlavor" value="Atingidos por uma carga de revelação, os Tecno-Sacerdotes verdadeiramente abençoados anularão os cânticos sagrados para entregar a sabedoria adaptativa do Deus Máquina."/>
-	<entry name="AdeptusMechanicus/ElectroShocked" value="Eletrocutado"/> <!-- Tech-Priest Manipulus ability -->
+	<entry name="AdeptusMechanicus/ElectroShocked" value="Eletrocutado"/>
+	<!-- Tech-Priest Manipulus ability -->
 	<entry name="AdeptusMechanicus/ElectroShockedDescription" value="Atordoa a infantaria inimiga ou criatura monstruosa alvo."/>
 	<entry name="AdeptusMechanicus/ElectroShockedFlavor" value="Os verdadeiramente devotos podem enviar uma carga súbita da Força Motriz pulsando através de suas numerosas augmentações, atordoando os inimigos próximos."/>
-	<entry name="AdeptusMechanicus/EnrichedRounds" value="Projéteis Enriquecidos"/> <!-- Skitarii Marshal elite -->
+	<entry name="AdeptusMechanicus/EnrichedRounds" value="Projéteis Enriquecidos"/>
+	<!-- Skitarii Marshal elite -->
 	<entry name="AdeptusMechanicus/EnrichedRoundsDescription" value="Aumenta o dano da unidade de infantaria do Adeptus Mechanicus aliada alvo."/>
 	<entry name="AdeptusMechanicus/EnrichedRoundsFlavor" value="Santificados com a Litania Tríplice, cada um desses projéteis passou uma década no mais antigo e irradiado templo da forja para certificar sua letalidade. Quando o Marechal os entrega aos seus manípulos, eles sabem que cada tiro deve valer a pena."/>
-	<entry name="AdeptusMechanicus/GalvanicField" value="Campo Galvânico"/> <!-- Tech-Priest Manipulus ability -->
+	<entry name="AdeptusMechanicus/GalvanicField" value="Campo Galvânico"/>
+	<!-- Tech-Priest Manipulus ability -->
 	<entry name="AdeptusMechanicus/GalvanicFieldDescription" value="Aumenta a penetração de armadura da unidade aliada do Adeptus Mechanicus alvo."/>
 	<entry name="AdeptusMechanicus/GalvanicFieldFlavor" value="Usando a Força Motriz contida em uma grande célula galvânica, os eletropositores do Manipulus podem infundir o armamento dos aliados próximos com a corrente subjacente de toda a vida, levando as bênçãos sagradas do Omnissiah para derrubar todos os hereges."/>
 	<entry name="AdeptusMechanicus/IncantationOfTheIronSoul" value="Encantamento da Alma de Ferro"/>
@@ -89,16 +95,19 @@
 	<entry name="AdeptusMechanicus/LitanyOfTheElectromancer" value="Litania do Eletromante"/>
 	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerDescription" value="Causa dano à unidade inimiga alvo. Os ataques e o custo escalam com a quantidade de unidades com Cânticos do Omnissiah (até 10)."/>
 	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerFlavor" value="Invocando a centelha da divindade do Deus Máquina que queima dentro deles, os fiéis do Omnissiah manifestam auras de energia flamejantes que derrubam os incrédulos."/>
-	<entry name="AdeptusMechanicus/LordOfTheMachineCult" value="Senhor do Culto da Máquina"/> <!-- Tech-Priest Dominus ability -->
+	<entry name="AdeptusMechanicus/LordOfTheMachineCult" value="Senhor do Culto da Máquina"/>
+	<!-- Tech-Priest Dominus ability -->
 	<entry name="AdeptusMechanicus/LordOfTheMachineCultDescription" value="Aumenta a precisão das unidades de veículos do Adeptus Mechanicus adjacentes."/>
 	<entry name="AdeptusMechanicus/LordOfTheMachineCultFlavor" value="“Você pode dizer que é impossível para um homem se tornar como a Máquina. E eu responderia que apenas a mente mais pequena se esforça para compreender seus limites.”<br/>—Fabricador-General Kane"/>
 	<entry name="AdeptusMechanicus/MasterOfMachines" value="Mestre das Máquinas"/>
 	<entry name="AdeptusMechanicus/MasterOfMachinesDescription" value="Restaura os pontos de vida da unidade aliada do Adeptus Mechanicus, veículo ou fortificação alvo."/>
 	<entry name="AdeptusMechanicus/MasterOfMachinesFlavor" value="“Nossos inimigos podem descansar, mas a ferrugem nunca dorme.”<br/>—Tecno-Sacerdote Jung, Mundo Forja Gehenna"/>
-	<entry name="AdeptusMechanicus/MechanicusLocum" value="Mechanicus Locum"/> <!-- Tech-Priest Domunis elite -->
+	<entry name="AdeptusMechanicus/MechanicusLocum" value="Mechanicus Locum"/>
+	<!-- Tech-Priest Domunis elite -->
 	<entry name="AdeptusMechanicus/MechanicusLocumDescription" value="Aumenta a produção de influência e pesquisa."/>
 	<entry name="AdeptusMechanicus/MechanicusLocumFlavor" value="Toda congregação de Tecno-Sacerdotes é composta por mestres do conhecimento arcano — líderes zelosos de homens e máquinas."/>
-	<entry name="AdeptusMechanicus/PowerSurge" value="Surto de Energia"/> <!-- Faction ability -->
+	<entry name="AdeptusMechanicus/PowerSurge" value="Surto de Energia"/>
+	<!-- Faction ability -->
 	<entry name="AdeptusMechanicus/PowerSurgeDescription" value="Aumenta a produção de edifícios que não são o quartel-general no terreno alvo."/>
 	<entry name="AdeptusMechanicus/PowerSurgeFlavor" value="“Abra o oscilador transônico e aumente o desreator em mais três pontos. Exijo que essas forjas funcionem com eficiência ótima!”<br/>—Arquimago Dyatskin, pouco antes da perda da Colmeia Primus de Arklis"/>
 	<entry name="AdeptusMechanicus/ProtectorImperative" value="Imperativo Protetor"/>
@@ -110,22 +119,26 @@
 	<entry name="AdeptusMechanicus/ReprogramKastelanRobot" value="Reprogramar Robô Kastelan"/>
 	<entry name="AdeptusMechanicus/ReprogramKastelanRobotDescription" value="Assume o controle do Robô Kastelan inimigo alvo."/>
 	<entry name="AdeptusMechanicus/ReprogramKastelanRobotFlavor" value="Desde as consequências da rebelião do Mestre da Guerra Horus, os robôs da Legio Cybernetica são controlados completamente por seus mestres – não pelos cérebros bioplásticos e teias de gavinhas nervosas das construções do Mechanicum, mas por wafers de doutrina santificados. Não maiores que as cartas do Tarô do Imperador, essas lascas de wetware são confiadas aos Ferreiros de Dados da Cybernetica que acompanham os manípulos de robôs para a guerra. Inserido no slot de dados escondido atrás da placa peitoral de cada robô, o protocolo de comando do wafer ditará cada iota do comportamento do hospedeiro, geralmente otimizando sua capacidade de destruir seus inimigos de forma espetacular."/>
-	<entry name="AdeptusMechanicus/Scryerskull" value="Crânio-Vidente"/> <!-- Tech-Priest Dominus ability -->
+	<entry name="AdeptusMechanicus/Scryerskull" value="Crânio-Vidente"/>
+	<!-- Tech-Priest Dominus ability -->
 	<entry name="AdeptusMechanicus/ScryerskullDescription" value="Revela o terreno alvo e os terrenos adjacentes."/>
 	<entry name="AdeptusMechanicus/ScryerskullFlavor" value="O Adeptus Mechanicus leva a avaliação e exploração dos recursos do campo de batalha muito a sério – tanto que muitos deles continuam seu trabalho nesta função além do ponto da morte."/>
-	<entry name="AdeptusMechanicus/ServoSkullUplink" value="Uplink de Servo-Crânio"/> <!-- Skitarii Marshal ability -->
+	<entry name="AdeptusMechanicus/ServoSkullUplink" value="Uplink de Servo-Crânio"/>
+	<!-- Skitarii Marshal ability -->
 	<entry name="AdeptusMechanicus/ServoSkullUplinkDescription" value="Aumenta o dano das unidades de infantaria do Adeptus Mechanicus aliadas no alcance."/>
 	<entry name="AdeptusMechanicus/ServoSkullUplinkFlavor" value="É uma grande honra para um servo Imperial piedoso ou tecno-adepto ser convertido em um servo-crânio após a morte — ter seu crânio aumentado com antigravidade e uma inteligência de máquina rudimentar. Servo-crânios oticamente aumentados como os possuídos por um Marechal Skitarii são úteis para reconhecimento e mira, reduzindo enormemente a chance de tiros desperdiçados."/>
 	<entry name="AdeptusMechanicus/Shroudpsalm" value="Salmo da Mortalha"/>
 	<entry name="AdeptusMechanicus/ShroudpsalmDescription" value="Aumenta a redução de dano de longo alcance das unidades com Cânticos do Omnissiah. O custo e a eficácia escalam com a quantidade de unidades afetadas (até 10)."/>
 	<entry name="AdeptusMechanicus/ShroudpsalmFlavor" value="Robô, servitor e sacerdote mudam suas emissões bináricas para o espectro visível, a estática que sai de suas grades-vox se manifestando como uma tempestade eletromagnética que os esconde do inimigo."/>
-	<entry name="AdeptusMechanicus/TechAdept" value="Tecno-Adepto"/> <!-- Tech-Priest Manipulus ability -->
+	<entry name="AdeptusMechanicus/TechAdept" value="Tecno-Adepto"/>
+	<!-- Tech-Priest Manipulus ability -->
 	<entry name="AdeptusMechanicus/TechAdeptDescription" value="<string name='Actions/AdeptusMechanicus/MasterOfMachinesDescription'/>"/>
 	<entry name="AdeptusMechanicus/TechAdeptFlavor" value="Reparar máquinas de guerra danificadas na cruzada é uma tarefa sagrada."/>
 	<entry name="AdeptusMechanicus/VoicesInTheCode" value="Vozes no Código"/>
 	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Aumenta a perda de moral das unidades inimigas adjacentes."/>
 	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="Aproximar-se de um Infiltrador Sicariano é um erro — seus crânios aumentados transmitem um ataque audiovisual brutalmente disruptivo, fazendo com que os inimigos caiam ensurdecidos e cegos; as batalhas são frequentemente decididas antes mesmo de uma única morte ser confirmada."/>
-	<entry name="AdeptusMechanicus/WrathOfMars" value="Ira de Marte"/> <!-- Tech-Priest Dominus ability -->
+	<entry name="AdeptusMechanicus/WrathOfMars" value="Ira de Marte"/>
+	<!-- Tech-Priest Dominus ability -->
 	<entry name="AdeptusMechanicus/WrathOfMarsDescription" value="Aumenta o dano do Tecno-Sacerdote Dominus."/>
 	<entry name="AdeptusMechanicus/WrathOfMarsFlavor" value="Ninguém pode punir o blasfemo como aqueles de Marte, pois o zelo deles é o mais justo. Todos louvem a glória do Deus Máquina!"/>
 	<entry name="Agile" value="Ágil"/>
@@ -269,9 +282,11 @@
 	<entry name="ChaosSpaceMarines/MarkOfTzeentchFlavor" value="Aqueles dedicados a Tzeentch desfrutam da proteção e presciência do Mestre da Manipulação."/>
 	<entry name="ChaosSpaceMarines/MasterOfMechanisms" value="Mestre dos Mecanismos"/>
 	<entry name="ChaosSpaceMarines/MasterOfMechanismsDescription" value="Restaura os pontos de vida da unidade de veículo ou fortificação aliada alvo."/>
-	<entry name="ChaosSpaceMarines/MasterOfMechanismsFlavor" value="Apesar de sua variedade de armamentos, apenas um tolo Khornate colocaria um Warpsmith diretamente em batalha, quando ele ou ela poderia ser melhor posicionado reparando e religando suas cargas de Motores Demoníacos."/> <!-- Warpsmith levelable ability. -->
+	<entry name="ChaosSpaceMarines/MasterOfMechanismsFlavor" value="Apesar de sua variedade de armamentos, apenas um tolo Khornate colocaria um Warpsmith diretamente em batalha, quando ele ou ela poderia ser melhor posicionado reparando e religando suas cargas de Motores Demoníacos."/>
+	<!-- Warpsmith levelable ability. -->
 	<entry name="ChaosSpaceMarines/Mechatendrils" value="Mecatendrilos"/>
-	<entry name="ChaosSpaceMarines/MechatendrilsFlavor" value="Reminiscentes do servo-arnês usado pelos Tecnomarines do Adeptus Astartes, estes tentáculos retorcidos são usados por — ou mesmo implantados em — Warpsmiths do Caos."/> <!-- Warpsmith levelable ability. -->
+	<entry name="ChaosSpaceMarines/MechatendrilsFlavor" value="Reminiscentes do servo-arnês usado pelos Tecnomarines do Adeptus Astartes, estes tentáculos retorcidos são usados por — ou mesmo implantados em — Warpsmiths do Caos."/>
+	<!-- Warpsmith levelable ability. -->
 	<entry name="ChaosSpaceMarines/CultistSacrifice" value="Sacrifício de Cultista"/>
 	<entry name="ChaosSpaceMarines/CultistSacrificeDescription" value="Aumenta a taxa de crescimento da cidade aliada dos Chaos Space Marines alvo, sacrificando a unidade."/>
 	<entry name="ChaosSpaceMarines/CultistSacrificeFlavor" value="Tão fervorosos são os cultistas do Caos, mas tão fraca sua proeza marcial, que os deuses desfrutam de sua morte tanto quanto de sua vida — mais ainda, talvez, dadas as bênçãos que concedem em seu sacrifício."/>
@@ -283,7 +298,8 @@
 	<entry name="ChaosSpaceMarines/DirgeCasterFlavor" value="Este dispositivo emite uma série de lamentos, gritos e uivos aterrorizantes que desmoralizam e confundem os inimigos que os ouvem."/>
 	<entry name="ChaosSpaceMarines/InfernalIndustry" value="Indústria Infernal"/>
 	<entry name="ChaosSpaceMarines/InfernalIndustryDescription" value="Aumenta a produção de energia e minério."/>
-	<entry name="ChaosSpaceMarines/InfernalIndustryFlavor" value="Um Warpsmith é um mestre inigualável da tecnologia, sem as restrições éticas ou históricas de seus antigos pares no Mechanicum. Se eles puderem aumentar o funcionamento de uma instalação ao custo de algumas centenas de vidas, eles o farão."/> <!-- Warpsmith levelable ability. -->
+	<entry name="ChaosSpaceMarines/InfernalIndustryFlavor" value="Um Warpsmith é um mestre inigualável da tecnologia, sem as restrições éticas ou históricas de seus antigos pares no Mechanicum. Se eles puderem aumentar o funcionamento de uma instalação ao custo de algumas centenas de vidas, eles o farão."/>
+	<!-- Warpsmith levelable ability. -->
 	<entry name="ChaosSpaceMarines/LasherTendrils" value="Tentáculos Açoitadores"/>
 	<entry name="ChaosSpaceMarines/LasherTendrilsDescription" value="Diminui os ataques corpo a corpo de unidades inimigas adjacentes."/>
 	<entry name="ChaosSpaceMarines/LasherTendrilsFlavor" value="Estes tentáculos metálicos aprisionam suas presas em um aperto de ferro."/>
@@ -313,16 +329,19 @@
 	<entry name="ChaosSpaceMarines/SacrificeFlavor" value="O psyker usa uma alma sacrificial para remodelar e reparar uma forma demoníaca profana. Os espíritos maculados dos Warpsmiths são oferendas particularmente revigorantes para os Motores Demoníacos que estão sob seu comando."/>
 	<entry name="ChaosSpaceMarines/SelfRepair" value="Auto-Reparo"/>
 	<entry name="ChaosSpaceMarines/SelfRepairDescription" value="Restaura os pontos de vida."/>
-	<entry name="ChaosSpaceMarines/SelfRepairFlavor" value="Os espíritos da máquina dos veículos das Legiões Traidoras há muito foram levados ao desespero ou corrompidos por demônios, mas os veículos sobreviventes ganharam algo com essa perda — uma regeneração bruta que remenda o metal profano, para que possam continuar o trabalho dos Deuses Sombrios."/> <!-- Chaos Rhino -->
+	<entry name="ChaosSpaceMarines/SelfRepairFlavor" value="Os espíritos da máquina dos veículos das Legiões Traidoras há muito foram levados ao desespero ou corrompidos por demônios, mas os veículos sobreviventes ganharam algo com essa perda — uma regeneração bruta que remenda o metal profano, para que possam continuar o trabalho dos Deuses Sombrios."/>
+	<!-- Chaos Rhino -->
 	<entry name="ChaosSpaceMarines/ShatterDefences" value="Estilhaçar Defesas"/>
 	<entry name="ChaosSpaceMarines/ShatterDefencesDescription" value="Reduz a redução de dano à distância do ladrilho alvo."/>
-	<entry name="ChaosSpaceMarines/ShatterDefencesFlavor" value="Qualquer que seja a cobertura atrás da qual o inimigo se esconde, um Warpsmith pode recorrer a milênios de experiência em cercos para aconselhar sobre a melhor maneira de contorná-los ou destruí-los."/> <!-- Warpsmith levelable ability. -->
+	<entry name="ChaosSpaceMarines/ShatterDefencesFlavor" value="Qualquer que seja a cobertura atrás da qual o inimigo se esconde, um Warpsmith pode recorrer a milênios de experiência em cercos para aconselhar sobre a melhor maneira de contorná-los ou destruí-los."/>
+	<!-- Warpsmith levelable ability. -->
 	<entry name="ChaosSpaceMarines/WarpflameStrike" value="Ataque de Fogo do Warp"/>
 	<entry name="ChaosSpaceMarines/WarpflameStrikeDescription" value="Voa sobre obstáculos até o ladrilho alvo e cega a infantaria inimiga e criaturas monstruosas adjacentes."/>
 	<entry name="ChaosSpaceMarines/WarpflameStrikeFlavor" value="Embora a lesão que eles cortam no tecido do espaço real se feche assim que a matilha de caça passa, a natureza avassaladora de seu ataque geralmente é suficiente para atordoar suas presas até a inatividade. Este momento de hesitação reverente é muitas vezes fatal, pois as garras infernalmente afiadas dos Warp Talons separam cabeças de pescoços e membros de torsos enquanto os caçadores se lançam nas fileiras do inimigo."/>
 	<entry name="ChaosSpaceMarines/WorthyOffering" value="Oferenda Digna"/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingDescription" value="Aumenta a chance de que esta unidade e Campeões do Caos aliados adjacentes recebam uma Bênção do Caos."/>
-	<entry name="ChaosSpaceMarines/WorthyOfferingFlavor" value="Ter o olho dos deuses sobre você significa que aqueles próximos também estão sujeitos a um escrutínio maior — se isso os transformará em Crias do Caos ou Príncipes Demônios, depende de quão bem eles se saem e do capricho inescrutável dos Deuses."/> <!-- Chaos Lord levelable ability. -->
+	<entry name="ChaosSpaceMarines/WorthyOfferingFlavor" value="Ter o olho dos deuses sobre você significa que aqueles próximos também estão sujeitos a um escrutínio maior — se isso os transformará em Crias do Caos ou Príncipes Demônios, depende de quão bem eles se saem e do capricho inescrutável dos Deuses."/>
+	<!-- Chaos Lord levelable ability. -->
 	<entry name="CleansingFlame" value="<string name='Weapons/CleansingFlame'/>"/>
 	<entry name="CleansingFlameFlavor" value="<string name='Weapons/CleansingFlameFlavor'/>"/>
 	<entry name="ClearTile" value="Limpar Ladrilho"/>
@@ -663,7 +682,8 @@
 	<entry name="Necrons/QuantumShielding" value="Blindagem Quântica"/>
 	<entry name="Necrons/QuantumShieldingDescription" value="Aumenta a redução de dano invulnerável. Entra em recarga no início do próximo turno se sofrer dano."/>
 	<entry name="Necrons/QuantumShieldingFlavor" value="A blindagem quântica Necron é uma maravilha da ciência, existindo apenas no momento preciso da deflexão — em todos os outros momentos, não há indicação de sua presença. São, no entanto, dispositivos temperamentais, propensos a falhas se sobrecarregados."/>
-	<entry name="Necrons/RepairBarge" value="Barcaça de Reparos"/> <!-- Arca Fantasma -->
+	<entry name="Necrons/RepairBarge" value="Barcaça de Reparos"/>
+	<!-- Arca Fantasma -->
 	<entry name="Necrons/RepairBargeDescription" value="Restaura os pontos de vida da unidade de infantaria ou criatura monstruosa Necron aliada alvo."/>
 	<entry name="Necrons/RepairBargeFlavor" value="Apesar de sua aparência majestosa, esses veículos sinistros são uma ameaça tão grande quanto o mais conhecido Monólito. Seu papel é apoiar o exército Necron, deslizando pelo campo de batalha e despejando minúsculos escaravelhos de reparo para devolver até os guerreiros Necrons mais devastados à prontidão de batalha, antes de transportá-los de volta para a luta."/>
 	<entry name="Necrons/RapidRise" value="Ascensão Rápida"/>
@@ -804,7 +824,7 @@
 	<entry name="SistersOfBattle/ChaseTheProfane" value="Perseguir o Profano"/>
 	<entry name="SistersOfBattle/ChaseTheProfaneDescription" value="Rito Sagrado que concede Mover Através de Cobertura para unidades de infantaria."/>
 	<entry name="SistersOfBattle/ChaseTheProfaneFlavor" value="“E os fiéis serão implacáveis em sua inquisição. Nada ficará no caminho de sua vontade; nem as leis dos homens nem dos xenos; nem escrúpulos nem amigos; nem aço nem plascreto nem adamantium.”<br/>  — Canonisa Vandire, In Memoriam De Virtute"/>
-	<entry name="SistersOfBattle/ConvictionOfFaith" value="Convicção da Fé"/> 
+	<entry name="SistersOfBattle/ConvictionOfFaith" value="Convicção da Fé"/>
 	<entry name="SistersOfBattle/ConvictionOfFaithDescription" value="Rito Sagrado que restaura a moral de unidades com Escudo da Fé."/>
 	<entry name="SistersOfBattle/ConvictionOfFaithFlavor" value="“Na era desde nossa desgraça, nenhuma de nós caiu. Não lutamos com nossos escrúpulos como os outros, nem caímos no caminho sombrio. Repita: Não conheço o medo, pois já sou a morte.”<br/>  — Canonisa Vandire, “O Rito da Convicção” de In Memoriam De Virtute"/>
 	<entry name="SistersOfBattle/DeathBeforeDisgrace" value="Morte Antes da Desonra"/>
