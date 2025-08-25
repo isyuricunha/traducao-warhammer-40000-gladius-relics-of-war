@@ -196,37 +196,39 @@
 	<entry name="Eldar/Loyalty" value="Cairn de Ulthanesh"/>
 	<entry name="Eldar/LoyaltyDescription" value="Edifício que aumenta a lealdade."/>
 	<entry name="Eldar/LoyaltyFlavor" value="Eldanesh foi o primeiro Aeldari. Ele e seu parente Ulthanesh foram os dois maiores heróis da mitologia Aeldari, lutando contra os inimigos do novo povo ao lado de Khaine, o Deus da Guerra. Eventualmente, os dois heróis se desentenderam e Ulthanesh seguiu seu próprio caminho. Mas quando Khaine matou Eldanesh em fúria, Ulthanesh lutou ao lado da casa de seu parente contra o deus e tornou-se proverbial por sua lealdade."/>
-	<entry name="Eldar/Ore" value="Altmarl of Vaul"/>
-	<entry name="Eldar/OreDescription" value="Building that harvests ore."/>
-	<entry name="Eldar/OreFlavor" value="The smith god Vaul was known for his fantastic creations. Though the surviving myths focus mostly on his weapons (notably his hundred swords), he created many devices the Aeldari still use today—like this automated mine, which requires the barest supervision to extract the ore needed for his other creations."/>
-	<entry name="Eldar/Research" value="Spirit Ossuary"/>
-	<entry name="Eldar/ResearchDescription" value="Building that generates research."/>
-	<entry name="Eldar/ResearchFlavor" value="Here, spiritseers interrogate the spiritstones of the dead. The Aeldari do not invent and they rarely research these days—their technology is mostly stagnant, having been inherited from the Old Ones, but unlike the Imperial priesthood of Mars they do at least understand its function. Here they can consult the wisest minds of their history for solutions to any problem—though their response isn’t always clear or quick."/>
-	<entry name="Eldar/Vehicles" value="Greater Ingress"/>
-	<entry name="Eldar/VehiclesDescription" value="Building that produces ground vehicles as well as harvests ore and generates research."/>
-	<entry name="Eldar/VehiclesFlavor" value="This extension to the Webway Portal allows larger vehicles to access Gladius Prime. Without it, the Aeldari forces would just be infantry and jetbikes—enough for a Harlequin Troupe or a Biel-Tan vanguard perhaps, but not for a true war effort."/>
-	<entry name="Necrons/Aircraft" value="Nameless Causeway"/>
-	<entry name="Necrons/AircraftDescription" value="Building that produces aircraft as well as generates energy, influence and increases loyalty."/>
-	<entry name="Necrons/AircraftFlavor" value="If the Necron are dreaded across the known universe, their aircraft are doubly feared. The Doom Scythe and Night Scythe are fast, hardy and deadly to armoured opponents. Launching from a bleak expanse of stone, they devastate enemies with their irresistible assaults."/>
-	<entry name="Necrons/Construction" value="Slave Mastaba"/>
-	<entry name="Necrons/ConstructionDescription" value="Building that constructs new buildings as well as generates energy, influence and increases loyalty."/>
-	<entry name="Necrons/ConstructionFlavor" value="Everyone has a place in Necron society. The weak-fleshed races of the Old Ones live out their days under crude shelters, where they scrape together their own food, before being sent out to excavate the Necron's long-buried tombs and retrieve the sleeping Necrons."/>
-	<entry name="Necrons/Energy" value="Energy Core"/>
-	<entry name="Necrons/EnergyDescription" value="Building that generates energy."/>
-	<entry name="Necrons/EnergyFlavor" value="Whatever the baroque technology is that the Necron use in their great Energy Cores, it outshines even the Imperial Plasma Ioniser for sheer power—and it needs to, given that the Necron dynasty depends upon its power supplies as other races do on water or food."/>
-	<entry name="Necrons/Loyalty" value="Baroque Shrine"/>
-	<entry name="Necrons/LoyaltyDescription" value="Building that increases loyalty."/>
-	<entry name="Necrons/LoyaltyFlavor" value="While the Stelae talk of the ancient Necrontyr's victories and glories, this Shrine tells a darker story. It details their conversion to metal and subjugation by the C'tan, and of Szarekh the Silent King and his long-planned betrayal and destruction of the soul-eating Star Gods. Even amongst the soulless Necrons, this inspires reverence."/>
-	<entry name="Necrons/Headquarters" value="Royal Court"/>
-	<entry name="Necrons/HeadquartersDescription" value="Headquarters building that generates resources."/>
-	<entry name="Necrons/HeadquartersFlavor" value="The seat of the Necron Phaeron and his court is a great bleak building, one of the few great Necron buildings not originally built to venerate the dead. Instead, its shielding walls are a symbolic reflection of the intense radiation the Necrons suffered under, long ago, on their original homeworld, when they were still weak creatures of flesh and bone."/>
-	<entry name="Necrons/Heroes" value="Royal Pyramid"/>
-	<entry name="Necrons/HeroesDescription" value="Building that produces heroes as well as generates influence and increases loyalty."/>
-	<entry name="Necrons/HeroesFlavor" value="The tomb of the Phaeron, Overlord or Lord and his court, this is where all the most loyal and important retainers retreated to sleep away the centuries until the universe was ready again. Even now, great heroes still lie sleeping in its core, awaiting their Lords' call."/>
-	<entry name="Necrons/Housing" value="Shelters"/>
+	<entry name="Eldar/Ore" value="Altmarl de Vaul"/>
+	<entry name="Eldar/OreDescription" value="Edifício que coleta minério."/>
+	<entry name="Eldar/OreFlavor" value="O deus ferreiro Vaul era conhecido por suas criações fantásticas. Embora os mitos sobreviventes se concentrem principalmente em suas armas (notavelmente suas cem espadas), ele criou muitos dispositivos que os Aeldari ainda usam hoje — como esta mina automatizada, que requer a mínima supervisão para extrair o minério necessário para suas outras criações."/>
+	<entry name="Eldar/Research" value="Ossuário Espiritual"/>
+	<entry name="Eldar/ResearchDescription" value="Edifício que gera pesquisa."/>
+	<entry name="Eldar/ResearchFlavor" value="Aqui, videntes espirituais interrogam as pedras espirituais dos mortos. Os Aeldari não inventam e raramente pesquisam hoje em dia — sua tecnologia está em grande parte estagnada, tendo sido herdada dos Antigos, mas ao contrário do sacerdócio Imperial de Marte, eles pelo menos entendem sua função. Aqui podem consultar as mentes mais sábias de sua história para soluções de qualquer problema — embora sua resposta nem sempre seja clara ou rápida."/>
+	<entry name="Eldar/Vehicles" value="Ingresso Maior"/>
+	<entry name="Eldar/VehiclesDescription" value="Edifício que produz veículos terrestres, além de coletar minério e gerar pesquisa."/>
+	<entry name="Eldar/VehiclesFlavor" value="Esta extensão do Portal da Teia permite que veículos maiores acessem Gladius Prime. Sem ela, as forças Aeldari seriam apenas infantaria e jetbikes — suficiente para uma Trupe de Arlequins ou uma vanguarda Biel-Tan talvez, mas não para um verdadeiro esforço de guerra."/>
+	<entry name="Necrons/Aircraft" value="Passagem Sem Nome"/>
+	<entry name="Necrons/AircraftDescription" value="Edifício que produz aeronaves, além de gerar energia, influência e aumenta a lealdade."/>
+
+	<entry name="Necrons/AircraftFlavor" value="Se os Necrons são temidos por todo o universo conhecido, suas aeronaves são duplamente temidas. A Doom Scythe e a Night Scythe são rápidas, resistentes e mortais para oponentes blindados. Lançando-se de uma extensão sombria de pedra, devastam inimigos com seus assaltos irresistíveis."/>
+	<entry name="Necrons/Construction" value="Mastaba de Escravos"/>
+	<entry name="Necrons/ConstructionDescription" value="Edifício que constrói novos edifícios, além de gerar energia, influência e aumentar a lealdade."/>
+	<entry name="Necrons/ConstructionFlavor" value="Todos têm um lugar na sociedade Necron. As raças de carne fraca dos Antigos vivem seus dias sob abrigos rústicos, onde juntam sua própria comida, antes de serem enviadas para escavar as tumbas há muito enterradas dos Necrons e recuperar os Necrons adormecidos."/>
+	<entry name="Necrons/Energy" value="Núcleo de Energia"/>
+	<entry name="Necrons/EnergyDescription" value="Edifício que gera energia."/>
+	<entry name="Necrons/EnergyFlavor" value="Qualquer que seja a tecnologia barroca que os Necrons usam em seus grandes Núcleos de Energia, ela supera até mesmo o Ionizador de Plasma Imperial em poder puro — e precisa, dado que a dinastia Necron depende de seus suprimentos de energia como outras raças dependem de água ou comida."/>
+	<entry name="Necrons/Loyalty" value="Santuário Barroco"/>
+	<entry name="Necrons/LoyaltyDescription" value="Edifício que aumenta a lealdade."/>
+	<entry name="Necrons/LoyaltyFlavor" value="Enquanto as Estelas falam das vitórias e glórias dos antigos Necrontyr, este Santuário conta uma história mais sombria. Detalha sua conversão ao metal e subjugação pelos C'tan, e sobre Szarekh, o Rei Silencioso, e sua traição há muito planejada e destruição dos Deuses Estelares devoradores de almas. Mesmo entre os Necrons sem alma, isso inspira reverença."/>
+	<entry name="Necrons/Headquarters" value="Corte Real"/>
+	<entry name="Necrons/HeadquartersDescription" value="Edifício de quartel-general que gera recursos."/>
+	<entry name="Necrons/HeadquartersFlavor" value="A sede do Phaeron Necron e sua corte é um grande edifício sombrio, um dos poucos grandes edifícios Necron não originalmente construídos para venerar os mortos. Em vez disso, suas paredes protetoras são um reflexo simbólico da intensa radiação que os Necrons sofreram, há muito tempo, em seu mundo natal original, quando ainda eram criaturas fracas de carne e osso."/>
+	<entry name="Necrons/Heroes" value="Pirâmide Real"/>
+	<entry name="Necrons/HeroesDescription" value="Edifício que produz heróis, além de gerar influência e aumentar a lealdade."/>
+	<entry name="Necrons/HeroesFlavor" value="A tumba do Phaeron, Overlord ou Lorde e sua corte, este é o lugar onde todos os servidores mais leais e importantes se retiraram para dormir pelos séculos até que o universo estivesse pronto novamente. Mesmo agora, grandes heróis ainda jazem dormindo em seu núcleo, aguardando o chamado de seus Lordes."/>
+	<entry name="Necrons/Housing" value="Abrigos"/>
 	<entry name="Necrons/HousingDescription" value="Building that increases population limit."/>
 	<entry name="Necrons/HousingFlavor" value="Given the average Necron's lack of need for water, food or entertainment, these shelters don't resemble a human shelter or even an Ork shack. Instead, they're partway between a barracks, a tomb and a workshop, where the Crypteks and Canoptek constructs move between dormant Necron warriors, endless maintaining and repairing them."/>
 	<entry name="Necrons/Infantry" value="Summoning Core"/>
+
 	<entry name="Necrons/InfantryDescription" value="Building that produces infantry and creatures as well as generates research and increases loyalty."/>
 	<entry name="Necrons/InfantryFlavor" value="Awakening the long-deactivated troops of a Necron dynasty is slow work, as is repairing those who fall in the field. The Canopteks and Crypteks of the Summoning Core diligently save those who recall to the city—and dismantle the rest for their rare Necrodermis."/>
 	<entry name="Necrons/Influence" value="Stelae"/>
