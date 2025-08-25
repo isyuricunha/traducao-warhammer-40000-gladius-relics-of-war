@@ -1127,25 +1127,25 @@
 	<entry name="Necrons/Warrior:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
 	<entry name="Necrons/Warrior:Hurt#0" value="Danos excedem expectativas... protocolos de recolhimento?"/>
 	<entry name="Necrons/Warrior:HurtCount" value="1"/>
-	<entry name="Necrons/Warrior:Idle#0" value="All systems are operational."/>
-	<entry name="Necrons/Warrior:Idle#1" value="For all time… curse the Deceiver."/>
-	<entry name="Necrons/Warrior:Idle#2" value="Idle protocol initiated."/>
-	<entry name="Necrons/Warrior:Idle#3" value="Powering down."/>
-	<entry name="Necrons/Warrior:Idle#4" value="This metal body… alien."/>
-	<entry name="Necrons/Warrior:Idle#5" value="The machine is strong, the flesh is gone."/>
-	<entry name="Necrons/Warrior:Idle#6" value="We have waited millenia… we will wait millenia more."/>
+	<entry name="Necrons/Warrior:Idle#0" value="Todos os sistemas operacionais."/>
+	<entry name="Necrons/Warrior:Idle#1" value="Por toda eternidade... maldição ao Enganador."/>
+	<entry name="Necrons/Warrior:Idle#2" value="Protocolo de espera iniciado."/>
+	<entry name="Necrons/Warrior:Idle#3" value="Desligando."/>
+	<entry name="Necrons/Warrior:Idle#4" value="Este corpo metálico... alienígena."/>
+	<entry name="Necrons/Warrior:Idle#5" value="A máquina é forte, a carne se foi."/>
+	<entry name="Necrons/Warrior:Idle#6" value="Esperamos milênios... esperaremos milênios mais."/>
 	<entry name="Necrons/Warrior:IdleCount" value="7"/>
-	<entry name="Necrons/Warrior:QuestStory0#0" value="Watching for signs of the Olds Ones."/>
+	<entry name="Necrons/Warrior:QuestStory0#0" value="Observando por sinais dos Antigos."/>
 	<entry name="Necrons/Warrior:QuestStory0Count" value="1"/>
-	<entry name="Necrons/Warrior:QuestStory1#0" value="Praetorians and Crypteks? Our forces grow."/>
+	<entry name="Necrons/Warrior:QuestStory1#0" value="Pretorianos e Crypteks? Nossas forças crescem."/>
 	<entry name="Necrons/Warrior:QuestStory1Count" value="1"/>
-	<entry name="Necrons/Warrior:QuestStory2#0" value="The mindless should be pitied the C'tan's curse."/>
+	<entry name="Necrons/Warrior:QuestStory2#0" value="Os sem mente devem ser lamentados pela maldição dos C'tan."/>
 	<entry name="Necrons/Warrior:QuestStory2Count" value="1"/>
-	<entry name="Necrons/Warrior:QuestStory3#0" value="Chase down these Old One baubles? Yes… my lord."/>
+	<entry name="Necrons/Warrior:QuestStory3#0" value="Perseguir essas bugigangas dos Antigos? Sim... meu senhor."/>
 	<entry name="Necrons/Warrior:QuestStory3Count" value="1"/>
-	<entry name="Necrons/Warrior:QuestStory4#0" value="Where are the Praetorians?"/>
+	<entry name="Necrons/Warrior:QuestStory4#0" value="Onde estão os Pretorianos?"/>
 	<entry name="Necrons/Warrior:QuestStory4Count" value="1"/>
-	<entry name="Necrons/Warrior:QuestStory5#0" value="Mephet'ran? Messenger! Deceiver! Stealer of souls!"/>
+	<entry name="Necrons/Warrior:QuestStory5#0" value="Mephet'ran? Mensageiro! Enganador! Ladrão de almas!"/>
 	<entry name="Necrons/Warrior:QuestStory5Count" value="1"/>
 	<entry name="Necrons/Warrior:Shaken#0" value="A lesser race would flee."/>
 	<entry name="Necrons/Warrior:Shaken#1" value="The Triarchs did not brief us on this."/>
