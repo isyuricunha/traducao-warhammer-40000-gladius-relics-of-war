@@ -625,126 +625,125 @@
 	<entry name="AstraMilitarum/LordCommissar:Shaken#0" value="A spiritu dominatus, Domine, libra nos."/>
 	<entry name="AstraMilitarum/LordCommissar:ShakenCount" value="1"/>
 	<entry name="AstraMilitarum/LordCommissar:Victory#0" value="Dando o exemplo às minhas tropas."/>
-	<entry name="AstraMilitarum/LordCommissar:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:WireWeed#0" value="Seria temerário permanecer no bioarame, por mais corajoso que seja."/>
-	<entry name="AstraMilitarum/LordCommissar:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarines#0" value="Some Astartes down there. Friendlies."/>
-	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/Thunderbolt#0" value="Nice to have fighter support."/>
-	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/ThunderboltCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:Artefact#0" value="High value target sighted."/>
-	<entry name="AstraMilitarum/MarauderBomber:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:Attack#0" value="Bombs away."/>
-	<entry name="AstraMilitarum/MarauderBomber:Attack#1" value="If you can see 'em, we can hit 'em."/>
-	<entry name="AstraMilitarum/MarauderBomber:Attack#2" value="Opening bomb bay doors."/>
-	<entry name="AstraMilitarum/MarauderBomber:Attack#3" value="Anything under the bombsight is fair game."/>
-	<entry name="AstraMilitarum/MarauderBomber:AttackCount" value="4"/>
-	<entry name="AstraMilitarum/MarauderBomber:Broken#0" value="We're going down!"/>
-	<entry name="AstraMilitarum/MarauderBomber:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:Cover#0" value="If we was flying any lower, why we'd need bells on this thing."/>
-	<entry name="AstraMilitarum/MarauderBomber:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:Hurt#0" value="We got three engines out, we got more holes in us than a trader's grox, the vox-caster is gone and we're leaking fuel…"/>
-	<entry name="AstraMilitarum/MarauderBomber:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:Idle#0" value="I ain't much of a hand at makin' speeches"/>
-	<entry name="AstraMilitarum/MarauderBomber:Idle#1" value="I swear, Carpenter, these bombs talks back."/>
-	<entry name="AstraMilitarum/MarauderBomber:Idle#2" value="Does anyone know how to land this thing?"/>
-	<entry name="AstraMilitarum/MarauderBomber:Idle#3" value="Practisin manoov-res. Like the Primer says."/>
-	<entry name="AstraMilitarum/MarauderBomber:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/MarauderBomber:Shaken#0" value="Moving to higher altitudes—flak poppin all round us."/>
-	<entry name="AstraMilitarum/MarauderBomber:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:Victory#0" value="What's the nearest target opportunity?"/>
-	<entry name="AstraMilitarum/MarauderBomber:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarines#0" value="I sense… great good from these."/>
+  	<entry name="AstraMilitarum/LordCommissar:VictoryCount" value="1"/>
+  	<entry name="AstraMilitarum/LordCommissar:WireWeed#0" value="Seria temerário permanecer no bioarame, por mais corajoso que seja."/>
+  	<entry name="AstraMilitarum/LordCommissar:WireWeedCount" value="1"/>
+  	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarines#0" value="Alguns Astartes lá embaixo. São aliados."/>
+  	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarinesCount" value="1"/>
+  	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/Thunderbolt#0" value="Bom ter apoio de caças."/>
+  	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/ThunderboltCount" value="1"/>
+  	<entry name="AstraMilitarum/MarauderBomber:Artefact#0" value="Alvo de alto valor avistado."/>
+  	<entry name="AstraMilitarum/MarauderBomber:ArtefactCount" value="1"/>
+  	<entry name="AstraMilitarum/MarauderBomber:Attack#0" value="Bombas lançadas."/>
+  	<entry name="AstraMilitarum/MarauderBomber:Attack#1" value="Se dá pra ver, dá pra acertar."/>
+  	<entry name="AstraMilitarum/MarauderBomber:Attack#2" value="Abrindo as portas do compartimento de bombas."/>
+  	<entry name="AstraMilitarum/MarauderBomber:Attack#3" value="Qualquer coisa sob a mira de bombardeio é alvo válido."/>
+  	<entry name="AstraMilitarum/MarauderBomber:AttackCount" value="4"/>
+  	<entry name="AstraMilitarum/MarauderBomber:Broken#0" value="Estamos caindo!"/>
+  	<entry name="AstraMilitarum/MarauderBomber:BrokenCount" value="1"/>
+  	<entry name="AstraMilitarum/MarauderBomber:Cover#0" value="Se estivéssemos voando mais baixo, ia precisar de sinos nisso aqui."/>
+  	<entry name="AstraMilitarum/MarauderBomber:CoverCount" value="1"/>
+  	<entry name="AstraMilitarum/MarauderBomber:Hurt#0" value="Perdemos três motores, temos mais buracos do que o grox de um mercador, o vox-caster se foi e estamos vazando combustível…"/>
+  	<entry name="AstraMilitarum/MarauderBomber:HurtCount" value="1"/>
+  	<entry name="AstraMilitarum/MarauderBomber:Idle#0" value="Não sou muito bom em fazer discursos"/>
+  	<entry name="AstraMilitarum/MarauderBomber:Idle#1" value="Juro, Carpenter, essas bombas respondem."/>
+  	<entry name="AstraMilitarum/MarauderBomber:Idle#2" value="Alguém sabe como pousar isso aqui?"/>
+  	<entry name="AstraMilitarum/MarauderBomber:Idle#3" value="Praticando manobras. Como diz o Primer."/>
+  	<entry name="AstraMilitarum/MarauderBomber:IdleCount" value="4"/>
+  	<entry name="AstraMilitarum/MarauderBomber:Shaken#0" value="Subindo para altitudes mais altas—flak pipocando por todos os lados."/>
+  	<entry name="AstraMilitarum/MarauderBomber:ShakenCount" value="1"/>
+   	<entry name="AstraMilitarum/MarauderBomber:Victory#0" value="Qual é a próxima oportunidade de alvo?"/>
+   	<entry name="AstraMilitarum/MarauderBomber:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarines#0" value="Sinto… grande bondade neles."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:AlliedUnit:AstraMilitarum/LordCommissar#0" value="A mind twisted to absolutism… fascinating."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Uma mente torcida ao absolutismo… fascinante."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Artefact#0" value="Old bones built these little toys."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Artefact#0" value="Velhos ossos construíram esses brinquedinhos."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Attack#0" value="Your minds will burn…"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Attack#1" value="I feel the Emperor's eyes on me."/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Attack#2" value="I burn you in His name."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Attack#0" value="Suas mentes vão queimar…"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Attack#1" value="Sinto os olhos do Imperador sobre mim."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Attack#2" value="Eu os queimo em Seu nome."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:AttackCount" value="3"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Broken#0" value="His light, where is His light?"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Broken#0" value="Sua luz, onde está Sua luz?"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Cover#0" value="The hidden mind is the wise mind."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Cover#0" value="A mente oculta é a mente sábia."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:AstraMilitarum#0" value="We are of two minds, it appears."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:AstraMilitarum#0" value="Ao que parece, estamos de duas mentes."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:Necrons#0" value="I can feel nothing from them. Nothing."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:Necrons#0" value="Não sinto nada vindo deles. Nada."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:Orks#0" value="A swell of-, such fierce loving emotion."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:Orks#0" value="Uma onda de— uma emoção amorosa tão feroz."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:SpaceMarines#0" value="Such steely surety… on the surface."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:SpaceMarines#0" value="Tamanha certeza férrea… na superfície."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:EnemyUnit:Neutral/Enslaver#0" value="I feel its hunger, its desire for the fecundity of our mind"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyUnit:Neutral/Enslaver#0" value="Sinto sua fome, seu desejo pela fecundidade de nossa mente"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Hurt#0" value="It is mere flesh."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Hurt#0" value="É mera carne."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Idle#0" value="Even through these storms, I still glimpse His light."/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Idle#1" value="I know what you're thinking…"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Idle#2" value="Idle work for idle minds"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:IdleCount" value="3"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Shaken#0" value="Better to die here than on the Black Ships."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Idle#0" value="Mesmo através destas tempestades, ainda vislumbro Sua luz."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Idle#1" value="Eu sei o que você está pensando…"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Idle#2" value="Trabalho ocioso para mentes ociosas"/>
+  	<entry name="AstraMilitarum/PrimarisPsyker:IdleCount" value="3"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Shaken#0" value="Melhor morrer aqui do que nas Naves Negras."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Victory#0" value="As the Emperor's Tarot foresaw."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Victory#0" value="Como previu o Tarô do Imperador."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:WireWeed#0" value="There is a life here, strange and bloody though it seems."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:WireWeed#0" value="Há vida aqui, por mais estranha e sangrenta que pareça."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:AlliedFaction:SpaceMarines#0" value="Big shoulder pads, it's the Marines!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:AlliedFaction:SpaceMarines#0" value="Ombreiras grandes... são os Space Marines!"/>
 	<entry name="AstraMilitarum/ScoutSentinel:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Can I get back to the frontlines please?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Posso voltar para a linha de frente, por favor?"/>
 	<entry name="AstraMilitarum/ScoutSentinel:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:Artefact#0" value="Whoah, you should see this!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Artefact#0" value="Uau, você precisa ver isso!"/>
 	<entry name="AstraMilitarum/ScoutSentinel:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:Attack#0" value="Unloading everything I've got!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Attack#0" value="Descarregando tudo que eu tenho!"/>
 	<entry name="AstraMilitarum/ScoutSentinel:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:Broken#0" value="Long legs a-running!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Broken#0" value="Pernas longas em disparada!"/>
 	<entry name="AstraMilitarum/ScoutSentinel:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:Cover#0" value="Hiding behind a tree or something."/>
+	<entry name="AstraMilitarum/ScoutSentinel:Cover#0" value="Me escondendo atrás de uma árvore ou algo assim."/>
 	<entry name="AstraMilitarum/ScoutSentinel:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:AstraMilitarum#0" value="Damn, it's us, but badddd."/>
-	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:Necrons#0" value="Tin men, ahoy!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:AstraMilitarum#0" value="Droga, somos nós, mas do lado ruim."/>
+  	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:Necrons#0" value="Homens de lata à vista!"/>
 	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:Orks#0" value="I see some red eyes, checking me out for scrap!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:Orks#0" value="Vejo alguns olhos vermelhos, me medindo para sucata!"/>
 	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:SpaceMarines#0" value="Ah, what? We're fighting them? Are we the baddies then?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:SpaceMarines#0" value="Hã, quê? Estamos lutando contra eles? Então somos os maus?"/>
 	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:EnemyUnit:Neutral/Enslaver#0" value="Uh… what on Terra is that?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyUnit:Neutral/Enslaver#0" value="Uh… o que na Terra é aquilo?"/>
 	<entry name="AstraMilitarum/ScoutSentinel:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:Hurt#0" value="Huh, someone cut me a new skylight."/>
+	<entry name="AstraMilitarum/ScoutSentinel:Hurt#0" value="Hã, abriram uma nova claraboia em mim."/>
 	<entry name="AstraMilitarum/ScoutSentinel:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:Idle#0" value="Shouldn't I be, y'know, doing something?"/>
-	<entry name="AstraMilitarum/ScoutSentinel:Idle#1" value="These legs go all the way up."/>
-	<entry name="AstraMilitarum/ScoutSentinel:Idle#2" value="Imagine what's out there, waiting to be seen!"/>
-	<entry name="AstraMilitarum/ScoutSentinel:Idle#3" value="Let's get going!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Idle#0" value="Eu não deveria, sabe, estar fazendo alguma coisa?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Idle#1" value="Essas pernas vão até lá em cima."/>
+	<entry name="AstraMilitarum/ScoutSentinel:Idle#2" value="Imagine o que há lá fora, esperando para ser visto!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Idle#3" value="Vamos nessa!"/>
 	<entry name="AstraMilitarum/ScoutSentinel:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/ScoutSentinel:Shaken#0" value="Get me out of here!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Shaken#0" value="Tirem-me daqui!"/>
 	<entry name="AstraMilitarum/ScoutSentinel:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:Victory#0" value="Always knew we were gonna win. Next!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Victory#0" value="Sempre soube que íamos vencer. Próximo!"/>
 	<entry name="AstraMilitarum/ScoutSentinel:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:WireWeed#0" value="Move me fast, this stuff is getting into the legs."/>
-	<entry name="AstraMilitarum/ScoutSentinel:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:AlliedFaction:SpaceMarines#0" value="If they don't have land raiders, I'm out."/>
+	<entry name="AstraMilitarum/ScoutSentinel:WireWeed#0" value="Mova-me rápido, isso está entrando nas pernas."/>
+  	<entry name="AstraMilitarum/ScoutSentinel:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:AlliedFaction:SpaceMarines#0" value="Se não tiverem Land Raiders, tô fora."/>
 	<entry name="AstraMilitarum/TankCommander:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:AlliedUnit:AstraMilitarum/Baneblade#0" value="Ohhhh… such a thing of beauty."/>
+	<entry name="AstraMilitarum/TankCommander:AlliedUnit:AstraMilitarum/Baneblade#0" value="Ohhhh… que coisa linda."/>
 	<entry name="AstraMilitarum/TankCommander:AlliedUnit:AstraMilitarum/BanebladeCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:Artefact#0" value="If it's not enemy armour, I'm not interested."/>
+	<entry name="AstraMilitarum/TankCommander:Artefact#0" value="Se não for blindagem inimiga, não me interessa."/>
 	<entry name="AstraMilitarum/TankCommander:ArtefactCount" value="1"/>
 	<entry name="AstraMilitarum/TankCommander:Attack#0" value="Boom! Hahaha!"/>
-	<entry name="AstraMilitarum/TankCommander:Attack#1" value="Drive me closer! You know why…"/>
-	<entry name="AstraMilitarum/TankCommander:Attack#2" value="Fire the gun! And the other one! Fire everything!"/>
-	<entry name="AstraMilitarum/TankCommander:Attack#3" value="Fire! Hahaha!"/>
+	<entry name="AstraMilitarum/TankCommander:Attack#1" value="Chegue mais perto! Você sabe por quê…"/>
+	<entry name="AstraMilitarum/TankCommander:Attack#2" value="Dispare o canhão! E o outro também! Dispare tudo!"/>
+	<entry name="AstraMilitarum/TankCommander:Attack#3" value="Fogo! Hahaha!"/>
 	<entry name="AstraMilitarum/TankCommander:AttackCount" value="4"/>
-	<entry name="AstraMilitarum/TankCommander:Broken#0" value="No, don't go backwards! Who's in charge here?"/>
+	<entry name="AstraMilitarum/TankCommander:Broken#0" value="Não, não dê ré! Quem está no comando aqui?"/>
 	<entry name="AstraMilitarum/TankCommander:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:Cover#0" value="An ambuscade, I like it."/>
+	<entry name="AstraMilitarum/TankCommander:Cover#0" value="Uma emboscada, eu gosto."/>
 	<entry name="AstraMilitarum/TankCommander:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:EnemyFaction:AstraMilitarum#0" value="Traitors! Heretics… do they have any tanks?"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:AstraMilitarum#0" value="Traidores! Hereges… eles têm tanques?"/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:EnemyFaction:Necrons#0" value="Monoliths, now there's a challenge."/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:EnemyFaction:Orks#0" value="Eh, we should have brought the Demolisher."/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:Orks#0" value="É, devíamos ter trazido o Demolisher."/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:OrksCount" value="1"/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:SpaceMarines#0" value="Traitors! They probably don't know the which is the front end of a Rhino."/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:SpaceMarinesCount" value="1"/>
