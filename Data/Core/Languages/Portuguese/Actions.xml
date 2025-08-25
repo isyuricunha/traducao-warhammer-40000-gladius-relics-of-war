@@ -77,15 +77,15 @@
 	<entry name="AdeptusMechanicus/EnrichedRounds" value="Projéteis Enriquecidos"/> <!-- Skitarii Marshal elite -->
 	<entry name="AdeptusMechanicus/EnrichedRoundsDescription" value="Aumenta o dano da unidade de infantaria do Adeptus Mechanicus aliada alvo."/>
 	<entry name="AdeptusMechanicus/EnrichedRoundsFlavor" value="Santificados com a Litania Tríplice, cada um desses projéteis passou uma década no mais antigo e irradiado templo da forja para certificar sua letalidade. Quando o Marechal os entrega aos seus manípulos, eles sabem que cada tiro deve valer a pena."/>
-	<entry name="AdeptusMechanicus/GalvanicField" value="Galvanic Field"/> <!-- Tech-Priest Manipulus ability -->
-	<entry name="AdeptusMechanicus/GalvanicFieldDescription" value="Increases the armour penetration of target allied Adeptus Mechanicus unit."/>
-	<entry name="AdeptusMechanicus/GalvanicFieldFlavor" value="Using the Motive Force contained within a large galvanic cell, the Manipulus’s electropositors can infuse the weaponry of nearby allies with the underlying current of all life, carrying the Omnissiah sacred benedictions forward to cast all heretics down."/>
-	<entry name="AdeptusMechanicus/IncantationOfTheIronSoul" value="Incantation of the Iron Soul"/>
-	<entry name="AdeptusMechanicus/IncantationOfTheIronSoulDescription" value="Reduces the morale loss of Canticles of the Omnissiah units. Cost and effectiveness scales with the amount of affected units (up to 10)."/>
-	<entry name="AdeptusMechanicus/IncantationOfTheIronSoulFlavor" value="Raising their voices in binharic praise, the Disciples of the Machine God bolster their spirits with the surety of iron."/>
-	<entry name="AdeptusMechanicus/InvocationOfMachineMight" value="Invocation of Machine-Might"/>
-	<entry name="AdeptusMechanicus/InvocationOfMachineMightDescription" value="Increases the melee damage of Canticles of the Omnissiah units. Cost and effectiveness scales with the amount of affected units (up to 10)."/>
-	<entry name="AdeptusMechanicus/InvocationOfMachineMightFlavor" value="The Tech-Priests lead their minions in a binharic prayer that sends miraculous strength surging through tendons, wires and pistons."/>
+	<entry name="AdeptusMechanicus/GalvanicField" value="Campo Galvânico"/> <!-- Tech-Priest Manipulus ability -->
+	<entry name="AdeptusMechanicus/GalvanicFieldDescription" value="Aumenta a penetração de armadura da unidade aliada do Adeptus Mechanicus alvo."/>
+	<entry name="AdeptusMechanicus/GalvanicFieldFlavor" value="Usando a Força Motriz contida em uma grande célula galvânica, os eletropositores do Manipulus podem infundir o armamento dos aliados próximos com a corrente subjacente de toda a vida, levando as bênçãos sagradas do Omnissiah para derrubar todos os hereges."/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoul" value="Encantamento da Alma de Ferro"/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoulDescription" value="Reduz a perda de moral das unidades com Cânticos do Omnissiah. O custo e a eficácia escalam com a quantidade de unidades afetadas (até 10)."/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoulFlavor" value="Erguendo suas vozes em louvor binárico, os Discípulos do Deus Máquina fortalecem seus espíritos com a certeza do ferro."/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMight" value="Invocação do Poder da Máquina"/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMightDescription" value="Aumenta o dano de combate corpo a corpo das unidades com Cânticos do Omnissiah. O custo e a eficácia escalam com a quantidade de unidades afetadas (até 10)."/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMightFlavor" value="Os Tecno-Sacerdotes lideram seus lacaios em uma oração binárica que envia uma força milagrosa surgindo através de tendões, fios e pistões."/>
 	<entry name="AdeptusMechanicus/LitanyOfTheElectromancer" value="Litany of the Electromancer"/>
 	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerDescription" value="Damages target enemy unit. Attacks and cost scales with the amount of Canticles of the Omnissiah units (up to 10)."/>
 	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerFlavor" value="Summoning the spark of the Machine God’s divinity that burns within them, the Omnissiah’s faithful manifest blazing auras of energy that lay low the unbeliever."/>
