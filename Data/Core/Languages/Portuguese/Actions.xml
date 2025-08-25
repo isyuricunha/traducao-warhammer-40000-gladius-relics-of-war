@@ -86,15 +86,15 @@
 	<entry name="AdeptusMechanicus/InvocationOfMachineMight" value="Invocação do Poder da Máquina"/>
 	<entry name="AdeptusMechanicus/InvocationOfMachineMightDescription" value="Aumenta o dano de combate corpo a corpo das unidades com Cânticos do Omnissiah. O custo e a eficácia escalam com a quantidade de unidades afetadas (até 10)."/>
 	<entry name="AdeptusMechanicus/InvocationOfMachineMightFlavor" value="Os Tecno-Sacerdotes lideram seus lacaios em uma oração binárica que envia uma força milagrosa surgindo através de tendões, fios e pistões."/>
-	<entry name="AdeptusMechanicus/LitanyOfTheElectromancer" value="Litany of the Electromancer"/>
-	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerDescription" value="Damages target enemy unit. Attacks and cost scales with the amount of Canticles of the Omnissiah units (up to 10)."/>
-	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerFlavor" value="Summoning the spark of the Machine God’s divinity that burns within them, the Omnissiah’s faithful manifest blazing auras of energy that lay low the unbeliever."/>
-	<entry name="AdeptusMechanicus/LordOfTheMachineCult" value="Lord of the Machine Cult"/> <!-- Tech-Priest Dominus ability -->
-	<entry name="AdeptusMechanicus/LordOfTheMachineCultDescription" value="Increases the accuracy of adjacent Adeptus Mechanicus vehicle units."/>
-	<entry name="AdeptusMechanicus/LordOfTheMachineCultFlavor" value="“You may say, it is impossible for a man to become like the Machine. And I would reply, that only the smallest mind strives to comprehend its limits.”<br/>—Fabricator General Kane"/>
-	<entry name="AdeptusMechanicus/MasterOfMachines" value="Master of Machines"/>
-	<entry name="AdeptusMechanicus/MasterOfMachinesDescription" value="Restores the hitpoints of the target allied Adeptus Mechanicus, vehicle or fortification unit."/>
-	<entry name="AdeptusMechanicus/MasterOfMachinesFlavor" value="“Our enemies may rest but rust never sleeps.”<br/>—Tech-Priest Jung, Forge World Gehenna"/>
+	<entry name="AdeptusMechanicus/LitanyOfTheElectromancer" value="Litania do Eletromante"/>
+	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerDescription" value="Causa dano à unidade inimiga alvo. Os ataques e o custo escalam com a quantidade de unidades com Cânticos do Omnissiah (até 10)."/>
+	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerFlavor" value="Invocando a centelha da divindade do Deus Máquina que queima dentro deles, os fiéis do Omnissiah manifestam auras de energia flamejantes que derrubam os incrédulos."/>
+	<entry name="AdeptusMechanicus/LordOfTheMachineCult" value="Senhor do Culto da Máquina"/> <!-- Tech-Priest Dominus ability -->
+	<entry name="AdeptusMechanicus/LordOfTheMachineCultDescription" value="Aumenta a precisão das unidades de veículos do Adeptus Mechanicus adjacentes."/>
+	<entry name="AdeptusMechanicus/LordOfTheMachineCultFlavor" value="“Você pode dizer que é impossível para um homem se tornar como a Máquina. E eu responderia que apenas a mente mais pequena se esforça para compreender seus limites.”<br/>—Fabricador-General Kane"/>
+	<entry name="AdeptusMechanicus/MasterOfMachines" value="Mestre das Máquinas"/>
+	<entry name="AdeptusMechanicus/MasterOfMachinesDescription" value="Restaura os pontos de vida da unidade aliada do Adeptus Mechanicus, veículo ou fortificação alvo."/>
+	<entry name="AdeptusMechanicus/MasterOfMachinesFlavor" value="“Nossos inimigos podem descansar, mas a ferrugem nunca dorme.”<br/>—Tecno-Sacerdote Jung, Mundo Forja Gehenna"/>
 	<entry name="AdeptusMechanicus/MechanicusLocum" value="Mechanicus Locum"/> <!-- Tech-Priest Domunis elite -->
 	<entry name="AdeptusMechanicus/MechanicusLocumDescription" value="Increases the influence and research output."/>
 	<entry name="AdeptusMechanicus/MechanicusLocumFlavor" value="Every congregation of Tech-Priests comprises masters of arcane knowledge—zealous leaders of man and machine."/>
