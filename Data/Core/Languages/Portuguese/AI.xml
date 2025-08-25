@@ -76,21 +76,21 @@
 	<entry name="Drukhari9" value="Ych’tarch"/>
 	<entry name="DrukhariCount" value="10"/>
 	<entry name="Eldar0" value="Oghane Deathbound"/>
-	<entry name="Eldar1" value="Khainothir The Hunter"/>
+	<entry name="Eldar1" value="Khainothir, o Caçador"/>
 	<entry name="Eldar2" value="Asuread Skeinweaver"/>
 	<entry name="Eldar3" value="Ynnyan Witchsong"/>
 	<entry name="Eldar4" value="Liath Stardancer"/>
 	<entry name="Eldar5" value="Lilair Skyrunner"/>
 	<entry name="Eldar6" value="Kurneath Sunburst"/>
-	<entry name="Eldar7" value="Ancient Eldanous"/>
+	<entry name="Eldar7" value="Ancião Eldanous"/>
 	<entry name="Eldar8" value="Draeshor Dayspear"/>
-	<entry name="Eldar9" value="Elenium the Bold"/>
-	<entry name="Eldar10" value="Aethech the Sculptor"/>
+	<entry name="Eldar9" value="Elenium, o Ousado"/>
+	<entry name="Eldar10" value="Aethech, o Escultor"/>
 	<entry name="Eldar11" value="Condri Cronefather"/>
 	<entry name="Eldar12" value="Fue Ra"/>
 	<entry name="Eldar13" value="Karanzar"/>
 	<entry name="Eldar14" value="Arthragan"/> 
-	<entry name="Eldar15" value="Jaidras Unseen"/>
+	<entry name="Eldar15" value="Jaidras, o Invisível"/>
 	<entry name="Eldar16" value="Maugic Doom"/>
 	<entry name="Eldar17" value="Illan Ra"/>
 	<entry name="Eldar18" value="Aulirel Starmaster"/>
@@ -189,24 +189,24 @@
 	<entry name="Tyranids16" value="Grendel"/>
 	<entry name="Tyranids17" value="Chimaera"/>
 	<entry name="TyranidsCount" value="18"/>
-	<entry name="Tau0" value="Commander Farstrike"/>
-	<entry name="Tau1" value="Admiral Cannonade"/>
-	<entry name="Tau2" value="Ambassador Slowstalk"/>
-	<entry name="Tau3" value="Planner Helpfear"/>
-	<entry name="Tau4" value="Prince Lonefire"/>
-	<entry name="Tau5" value="Commander Silvertongue"/>
-	<entry name="Tau6" value="Commander Distant Beast"/>
-	<entry name="Tau7" value="Commander Burnt Wisdom"/>
-	<entry name="Tau8" value="Commander Idletrap"/>
-	<entry name="Tau9" value="Commander Stridewide"/>
-	<entry name="Tau10" value="Admiral Doublesafe"/>
-	<entry name="Tau11" value="Ambassador Oldtale"/>
-	<entry name="Tau12" value="Planner Manygifts"/>
-	<entry name="Tau13" value="Commander Hidden Blow"/>
-	<entry name="Tau14" value="Prelate Greatheart"/> 
-	<entry name="Tau15" value="The Revered Defiance"/>
-	<entry name="Tau16" value="The Holy Guard"/>
-	<entry name="Tau17" value="Commander Safethought"/>
-	<entry name="Tau18" value="Commander Shining Drop"/>
+	<entry name="Tau0" value="Comandante Farstrike"/>
+	<entry name="Tau1" value="Almirante Cannonade"/>
+	<entry name="Tau2" value="Embaixador Slowstalk"/>
+	<entry name="Tau3" value="Planejador Helpfear"/>
+	<entry name="Tau4" value="Príncipe Lonefire"/>
+	<entry name="Tau5" value="Comandante Língua de Prata"/>
+	<entry name="Tau6" value="Comandante Besta Distante"/>
+	<entry name="Tau7" value="Comandante Sabedoria Queimada"/>
+	<entry name="Tau8" value="Comandante Armadilha Ociosa"/>
+	<entry name="Tau9" value="Comandante Passo Largo"/>
+	<entry name="Tau10" value="Almirante Doublesafe"/>
+	<entry name="Tau11" value="Embaixador Oldtale"/>
+	<entry name="Tau12" value="Planejador Manygifts"/>
+	<entry name="Tau13" value="Comandante Golpe Oculto"/>
+	<entry name="Tau14" value="Prelado Grande Coração"/> 
+	<entry name="Tau15" value="O Desafio Reverenciado"/>
+	<entry name="Tau16" value="A Guarda Sagrada"/>
+	<entry name="Tau17" value="Comandante Pensamento Seguro"/>
+	<entry name="Tau18" value="Comandante Gota Brilhante"/>
 	<entry name="TauCount" value="19"/>
 </language>
