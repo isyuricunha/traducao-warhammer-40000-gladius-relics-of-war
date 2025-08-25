@@ -47,18 +47,18 @@
 	<entry name="AdeptusMechanicus/AggressorImperative" value="Imperativo Agressor"/>
 	<entry name="AdeptusMechanicus/AggressorImperativeDescription" value="Aumenta o movimento, mas diminui a armadura das unidades com Imperativos de Doutrina. O custo escala com a quantidade de unidades afetadas (até 10)."/>
 	<entry name="AdeptusMechanicus/AggressorImperativeFlavor" value="Os Skitarii sentem a pressão de uma mão invisível em suas mentes enquanto o Deus Máquina os impulsiona para a frente. Servos são levados aos seus limites estruturais enquanto feixes de fibras se enchem com a energia ilimitada da Força Motriz e impelem os fiéis em uma cruzada imparável."/>
-	<entry name="AdeptusMechanicus/BenedictionOfOmniscience" value="Benediction of Omniscience"/>
-	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceDescription" value="Increases the ranged accuracy of Canticles of the Omnissiah units. Cost and effectiveness scales with the amount of affected units (up to 10)."/>
-	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceFlavor" value="Those blessed enough to comprehend this blaring vox-prayer find their targeting reticules guided by the Omnissiah’s own vigilance."/>
-	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="Broad Spectrum Data-Tether"/>
-	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Reduces the morale loss of this unit and adjacent allied Adeptus Mechanicus units."/>
-	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherFlavor" value="A vehicle-mounted version of that carried by veteran Skitarii, the broad spectrum data-tether projects a Tech-Priest’s binharic blurts with such clarity it seems he is amongst the ranks of the Skitarii himself. Imperatives delivered via such information relays are more potent and reliable than any other."/>
-	<entry name="AdeptusMechanicus/BulwarkImperative" value="Bulwark Imperative"/>
-	<entry name="AdeptusMechanicus/BulwarkImperativeDescription" value="Increases the armour, but decreases the movement of Doctrina Imperatives units. Cost scales with the amount of affected units (up to 10)."/>
-	<entry name="AdeptusMechanicus/BulwarkImperativeFlavor" value="The warrior wisdom of ancient and experienced Reductors is force-loaded into the Skitarii’s minds. Each thrilling pulse of data locks microactuators into bracing positions, brings reserve power cells online and bestows a sensation of sacred invulnerability upon the Tech-Priests’ soldiers."/>
-	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFist" value="Chant of the Remorseless Fist"/>
-	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistDescription" value="Increases the melee accuracy of Canticles of the Omnissiah units. Cost and effectiveness scales with the amount of affected units (up to 10)."/>
-	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistFlavor" value="In spitting out a staccato chant to the Motive Force, the faithful warriors of the Cult Mechanicus are filled with merciless surety as well as intent."/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscience" value="Bênção da Onisciência"/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceDescription" value="Aumenta a precisão de longo alcance das unidades com Cânticos do Omnissiah. O custo e a eficácia escalam com a quantidade de unidades afetadas (até 10)."/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceFlavor" value="Aqueles abençoados o suficiente para compreender esta oração-vox retumbante encontram suas retículas de mira guiadas pela própria vigilância do Omnissiah."/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="Conexão de Dados de Amplo Espectro"/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Reduz a perda de moral desta unidade e das unidades aliadas do Adeptus Mechanicus adjacentes."/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherFlavor" value="Uma versão montada em veículo daquela carregada por Skitarii veteranos, a conexão de dados de amplo espectro projeta as rajadas bináricas de um Tecno-Sacerdote com tal clareza que parece que ele está entre as fileiras dos próprios Skitarii. Imperativos entregues por tais relés de informação são mais potentes e confiáveis do que quaisquer outros."/>
+	<entry name="AdeptusMechanicus/BulwarkImperative" value="Imperativo Bastião"/>
+	<entry name="AdeptusMechanicus/BulwarkImperativeDescription" value="Aumenta a armadura, mas diminui o movimento das unidades com Imperativos de Doutrina. O custo escala com a quantidade de unidades afetadas (até 10)."/>
+	<entry name="AdeptusMechanicus/BulwarkImperativeFlavor" value="A sabedoria guerreira de Redutores antigos e experientes é carregada à força nas mentes dos Skitarii. Cada pulso emocionante de dados trava microatuadores em posições de reforço, ativa células de energia de reserva e concede uma sensação de invulnerabilidade sagrada aos soldados dos Tecno-Sacerdotes."/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFist" value="Cântico do Punho Impiedoso"/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistDescription" value="Aumenta a precisão de combate corpo a corpo das unidades com Cânticos do Omnissiah. O custo e a eficácia escalam com a quantidade de unidades afetadas (até 10)."/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistFlavor" value="Ao proferir um cântico em staccato para a Força Motriz, os fiéis guerreiros do Culto Mechanicus são preenchidos com uma certeza e intenção impiedosas."/>
 	<entry name="AdeptusMechanicus/CommandUplink" value="Command Uplink"/>
 	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Reduces the morale loss of this unit and adjacent allied Adeptus Mechanicus units."/>
 	<entry name="AdeptusMechanicus/CommandUplinkFlavor" value="“You may feel fear, you may want to flee; but when your Magos can, with a thought, stop your limbs taking a single step back, well, then you fight anyway.”<br/>—Marshal Diktum"/>
