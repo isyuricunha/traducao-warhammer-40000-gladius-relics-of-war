@@ -128,16 +128,16 @@
 	<entry name="AdeptusMechanicus/WrathOfMars" value="Ira de Marte"/> <!-- Tech-Priest Dominus ability -->
 	<entry name="AdeptusMechanicus/WrathOfMarsDescription" value="Aumenta o dano do Tecno-Sacerdote Dominus."/>
 	<entry name="AdeptusMechanicus/WrathOfMarsFlavor" value="Ninguém pode punir o blasfemo como aqueles de Marte, pois o zelo deles é o mais justo. Todos louvem a glória do Deus Máquina!"/>
-	<entry name="Agile" value="Agile"/>
-	<entry name="AgileDescription" value="Increases the movement, but decreases the attacks."/>
-	<entry name="AgileFlavor" value="Size doesn’t preclude speed. Look at the incredible manoeuvrability of the Imperium’s Lightning Fighter. Or take the Tyranid’s Hierodule. Instead of lumbering forward like a lumpen Ogryn, their focus and grace is closer to that of a Harlequin. A hungry Harlequin the size of a house, admittedly, with acid drool and scytheblade arms the length of a Land Raider, that is. But elegant all the same."/>
-	<entry name="Appear" value="Appear"/>
-	<entry name="AmmoRunt" value="Ammo Runt"/>
-	<entry name="AmmoRuntDescription" value="Increases the ranged accuracy."/>
-	<entry name="AmmoRuntFlavor" value="An ammo runt is a heavily overburdened Gretchin who carries extra ammunition for his master."/>
-	<entry name="ArmoriumCherub" value="Armorium Cherub"/>
-	<entry name="ArmoriumCherubDescription" value="Increases the accuracy."/>
-	<entry name="ArmoriumCherubFlavor" value="Cherubim are diminutive flying cyborg constructs created to assist the Emperor's servants, be they scribe or soldier. Among the Adeptus Astartes they are rarely seen outside of the Librarius, save for those few that relay targeting data and carry spare ammunition for Devastator Squads."/>
+	<entry name="Agile" value="Ágil"/>
+	<entry name="AgileDescription" value="Aumenta o movimento, mas diminui os ataques."/>
+	<entry name="AgileFlavor" value="O tamanho não impede a velocidade. Veja a incrível manobrabilidade do Caça Lightning do Imperium. Ou pegue o Hieródulo dos Tiranídeos. Em vez de avançar pesadamente como um Ogryn disforme, seu foco e graça estão mais próximos dos de um Harlequin. Um Harlequin faminto do tamanho de uma casa, é verdade, com baba ácida e braços de lâmina de foice do comprimento de um Land Raider. Mas elegante da mesma forma."/>
+	<entry name="Appear" value="Aparecer"/>
+	<entry name="AmmoRunt" value="Gretchin de Munição"/>
+	<entry name="AmmoRuntDescription" value="Aumenta a precisão de longo alcance."/>
+	<entry name="AmmoRuntFlavor" value="Um gretchin de munição é um Gretchin sobrecarregado que carrega munição extra para seu mestre."/>
+	<entry name="ArmoriumCherub" value="Querubim de Arsenal"/>
+	<entry name="ArmoriumCherubDescription" value="Aumenta a precisão."/>
+	<entry name="ArmoriumCherubFlavor" value="Querubins são construtos ciborgues voadores diminutos criados para auxiliar os servos do Imperador, sejam eles escribas ou soldados. Entre os Adeptus Astartes, eles raramente são vistos fora do Librarius, exceto por aqueles poucos que retransmitem dados de mira e carregam munição sobressalente para os Esquadrões Devastadores."/>
 	<entry name="AssaultDoctrine" value="Deploy Assault Doctrine"/>
 	<entry name="AssaultDoctrineDescription" value="Chapter tactic that increases the accuracy of Assault Space Marines."/>
 	<entry name="AssaultDoctrineFlavor" value="“Where there is uncertainty, I shall bring light<br/>Where there is doubt, I shall sow faith.<br/>Where there is shame, I shall point atonement.<br/>Where there is rage, I shall show its course.<br/>My word in the soul shall be as my bolter in the field.”<br/>  — Litany of Devotion, traditional"/>
