@@ -3453,78 +3453,78 @@
 	<entry name="SistersOfBattle/Imagifier:BrokenCount" value="1"/>
 	<entry name="SistersOfBattle/Imagifier:Hurt#0" value="Ferimentos graves elas sofreram, mas seguiram adiante!"/>
 	<entry name="SistersOfBattle/Imagifier:HurtCount" value="1"/>
-	<entry name="SistersOfBattle/Imagifier:Idle#0" value="I bear the Simulacrum Imperialis."/>
-	<entry name="SistersOfBattle/Imagifier:Idle#1" value="In brief moments, they invoked the Emperor's love."/>
-	<entry name="SistersOfBattle/Imagifier:Idle#2" value="…And Celestine knew her moment was come…"/>
-	<entry name="SistersOfBattle/Imagifier:Idle#3" value="The arch-traitor clutched the fallen angel in a single claw…"/>
+	<entry name="SistersOfBattle/Imagifier:Idle#0" value="Carrego o Simulacrum Imperialis."/>
+	<entry name="SistersOfBattle/Imagifier:Idle#1" value="Em breves momentos, elas invocaram o amor do Imperador."/>
+	<entry name="SistersOfBattle/Imagifier:Idle#2" value="...E Celestine soube que seu momento havia chegado..."/>
+	<entry name="SistersOfBattle/Imagifier:Idle#3" value="O archi-traidor segurou o anjo caído numa única garra..."/>
 	<entry name="SistersOfBattle/Imagifier:IdleCount" value="4"/>
-	<entry name="SistersOfBattle/Imagifier:Shaken#0" value="And they sealed the Eternity Gate and were cowed.."/>
+	<entry name="SistersOfBattle/Imagifier:Shaken#0" value="E elas selaram o Portão da Eternidade e foram intimidadas.."/>
 	<entry name="SistersOfBattle/Imagifier:ShakenCount" value="1"/>
-	<entry name="SistersOfBattle/Imagifier:Victory#0" value="And they returned to holy Terra in triumph!"/>
+	<entry name="SistersOfBattle/Imagifier:Victory#0" value="E elas retornaram à sagrada Terra em triunfo!"/>
 	<entry name="SistersOfBattle/Imagifier:VictoryCount" value="1"/>
-	<entry name="SpaceMarines/Whirlwind:Attack#0" value="Missiles away, Commander."/>
-	<entry name="SpaceMarines/Whirlwind:Attack#1" value="Whirlwind firing."/>
-	<entry name="SpaceMarines/Whirlwind:Attack#2" value="Indirect barrage impacting."/>
-	<entry name="SpaceMarines/Whirlwind:Attack#3" value="Saturation bombardment available."/>
+	<entry name="SpaceMarines/Whirlwind:Attack#0" value="Mísseis disparados, Comandante."/>
+	<entry name="SpaceMarines/Whirlwind:Attack#1" value="Whirlwind disparando."/>
+	<entry name="SpaceMarines/Whirlwind:Attack#2" value="Barragem indireta impactando."/>
+	<entry name="SpaceMarines/Whirlwind:Attack#3" value="Bombardeio de saturação disponível."/>
 	<entry name="SpaceMarines/Whirlwind:AttackCount" value="4"/>
-	<entry name="SpaceMarines/Whirlwind:Broken#0" value="Pulling back."/>
+	<entry name="SpaceMarines/Whirlwind:Broken#0" value="Recuando."/>
 	<entry name="SpaceMarines/Whirlwind:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/Whirlwind:Hurt#0" value="Within small arms range… damage sustained."/>
+	<entry name="SpaceMarines/Whirlwind:Hurt#0" value="Dentro do alcance de armas leves... dano sustentado."/>
 	<entry name="SpaceMarines/Whirlwind:HurtCount" value="1"/>
-	<entry name="SpaceMarines/Whirlwind:Idle#0" value="Machine spirits ministration."/>
-	<entry name="SpaceMarines/Whirlwind:Idle#1" value="Deployed, awaiting orders."/>
-	<entry name="SpaceMarines/Whirlwind:Idle#2" value="If enemies need softening up, artillery available."/>
-	<entry name="SpaceMarines/Whirlwind:Idle#3" value="Reloading missiles."/>
+	<entry name="SpaceMarines/Whirlwind:Idle#0" value="Ministração dos espíritos da máquina."/>
+	<entry name="SpaceMarines/Whirlwind:Idle#1" value="Implantado, aguardando ordens."/>
+	<entry name="SpaceMarines/Whirlwind:Idle#2" value="Se inimigos precisam ser amolecidos, artilharia disponível."/>
+	<entry name="SpaceMarines/Whirlwind:Idle#3" value="Recarregando mísseis."/>
 	<entry name="SpaceMarines/Whirlwind:IdleCount" value="4"/>
-	<entry name="SpaceMarines/Whirlwind:Shaken#0" value="This is our Chapter World… how can this be?"/>
+	<entry name="SpaceMarines/Whirlwind:Shaken#0" value="Este é nosso Mundo do Capítulo... como isso pode ser?"/>
 	<entry name="SpaceMarines/Whirlwind:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/Whirlwind:Victory#0" value="Receiving reports target destroyed."/>
+	<entry name="SpaceMarines/Whirlwind:Victory#0" value="Recebendo relatórios de alvo destruído."/>
 	<entry name="SpaceMarines/Whirlwind:VictoryCount" value="1"/>
-	<entry name="Tau/RVarnaBattlesuit:Attack#0" value="Holding fast."/>
-	<entry name="Tau/RVarnaBattlesuit:Attack#1" value="Plasma saturation in process."/>
+	<entry name="Tau/RVarnaBattlesuit:Attack#0" value="Mantendo posição."/>
+	<entry name="Tau/RVarnaBattlesuit:Attack#1" value="Saturação de plasma em processo."/>
 	<entry name="Tau/RVarnaBattlesuit:AttackCount" value="2"/>
-	<entry name="Tau/RVarnaBattlesuit:Broken#0" value="Needing support here."/>
+	<entry name="Tau/RVarnaBattlesuit:Broken#0" value="Precisando de apoio aqui."/>
 	<entry name="Tau/RVarnaBattlesuit:BrokenCount" value="1"/>
-	<entry name="Tau/RVarnaBattlesuit:Hurt#0" value="Reactor leaking… no retreat."/>
+	<entry name="Tau/RVarnaBattlesuit:Hurt#0" value="Reator vazando... sem recuo."/>
 	<entry name="Tau/RVarnaBattlesuit:HurtCount" value="1"/>
-	<entry name="Tau/RVarnaBattlesuit:Idle#0" value="What are we doing in this fu'llasso?"/>
-	<entry name="Tau/RVarnaBattlesuit:Idle#1" value="The ho'or-ata-t'chel—the ghost pains—are bad today."/>
-	<entry name="Tau/RVarnaBattlesuit:Idle#2" value="Shas'vre reporting."/>
-	<entry name="Tau/RVarnaBattlesuit:Idle#3" value="How do they make this fio'tak? It's impregnable!"/>
+	<entry name="Tau/RVarnaBattlesuit:Idle#0" value="O que estamos fazendo neste fu'llasso?"/>
+	<entry name="Tau/RVarnaBattlesuit:Idle#1" value="O ho'or-ata-t'chel—as dores fantasma—estão ruins hoje."/>
+	<entry name="Tau/RVarnaBattlesuit:Idle#2" value="Shas'vre reportando."/>
+	<entry name="Tau/RVarnaBattlesuit:Idle#3" value="Como eles fazem este fio'tak? É impenetrável!"/>
 	<entry name="Tau/RVarnaBattlesuit:IdleCount" value="4"/>
-	<entry name="Tau/RVarnaBattlesuit:Shaken#0" value="Iur'tae'mont! Where's Farsight when you need him?"/>
+	<entry name="Tau/RVarnaBattlesuit:Shaken#0" value="Iur'tae'mont! Onde está Farsight quando você precisa dele?"/>
 	<entry name="Tau/RVarnaBattlesuit:ShakenCount" value="1"/>
-	<entry name="Tau/RVarnaBattlesuit:Victory#0" value="Nothing moving over there."/>
+	<entry name="Tau/RVarnaBattlesuit:Victory#0" value="Nada se movendo por lá."/>
 	<entry name="Tau/RVarnaBattlesuit:VictoryCount" value="1"/>
 	<entry name="Tyranids/Tyrannocyte" value="Tyranids/Carnifex"/>
-	<entry name="Drukhari/Archon:Attack#0" value="Suffering is your lot!"/>
-	<entry name="Drukhari/Archon:Attack#1" value="Fools, to stand against me."/>
-	<entry name="Drukhari/Archon:Attack#2" value="You are barely worth the killing."/>
-	<entry name="Drukhari/Archon:Attack#3" value="Oh, sweet fear and agony."/>
+	<entry name="Drukhari/Archon:Attack#0" value="Sofrimento é seu destino!"/>
+	<entry name="Drukhari/Archon:Attack#1" value="Tolos, por se oporem a mim."/>
+	<entry name="Drukhari/Archon:Attack#2" value="Vocês mal valem a pena matar."/>
+	<entry name="Drukhari/Archon:Attack#3" value="Oh, doce medo e agonia."/>
 	<entry name="Drukhari/Archon:AttackCount" value="4"/>
-	<entry name="Drukhari/Archon:Broken#0" value="Back, back to the city of shadows!"/>
+	<entry name="Drukhari/Archon:Broken#0" value="Voltem, voltem à cidade das sombras!"/>
 	<entry name="Drukhari/Archon:BrokenCount" value="1"/>
-	<entry name="Drukhari/Archon:Hurt#0" value="A lucky blow."/>
+	<entry name="Drukhari/Archon:Hurt#0" value="Um golpe de sorte."/>
 	<entry name="Drukhari/Archon:HurtCount" value="1"/>
-	<entry name="Drukhari/Archon:Idle#0" value="Simple torments, simple pleasures."/>
-	<entry name="Drukhari/Archon:Idle#1" value="Have we killed them all already? Pity."/>
-	<entry name="Drukhari/Archon:Idle#2" value="The riches of this world are merely the suffering of its people."/>
-	<entry name="Drukhari/Archon:Idle#3" value="How to fill the idle aeons, ahhh…"/>
+	<entry name="Drukhari/Archon:Idle#0" value="Tormentos simples, prazeres simples."/>
+	<entry name="Drukhari/Archon:Idle#1" value="Já matamos todos eles? Que pena."/>
+	<entry name="Drukhari/Archon:Idle#2" value="As riquezas deste mundo são meramente o sofrimento de seu povo."/>
+	<entry name="Drukhari/Archon:Idle#3" value="Como preencher os éons ociosos, ahhh..."/>
 	<entry name="Drukhari/Archon:IdleCount" value="4"/>
-	<entry name="Drukhari/Archon:Shaken#0" value="If this continues, it will take a Haemonculus to wake me…"/>
+	<entry name="Drukhari/Archon:Shaken#0" value="Se isso continuar, será preciso um Haemonculus para me acordar..."/>
 	<entry name="Drukhari/Archon:ShakenCount" value="1"/>
-	<entry name="Drukhari/Archon:Victory#0" value="What did you expect? Pitiful."/>
+	<entry name="Drukhari/Archon:Victory#0" value="O que esperavam? Patético."/>
 	<entry name="Drukhari/Archon:VictoryCount" value="1"/>
 	<entry name="Drukhari/Cronos:Attack#0" value="Hrrrr."/>
-	<entry name="Drukhari/Cronos:Attack#1" value="…memory…"/>
-	<entry name="Drukhari/Cronos:Attack#2" value="Cthhh…"/>
-	<entry name="Drukhari/Cronos:Attack#3" value="Rrrr…"/>
+	<entry name="Drukhari/Cronos:Attack#1" value="...memória..."/>
+	<entry name="Drukhari/Cronos:Attack#2" value="Cthhh..."/>
+	<entry name="Drukhari/Cronos:Attack#3" value="Rrrr..."/>
 	<entry name="Drukhari/Cronos:AttackCount" value="4"/>
-	<entry name="Drukhari/Cronos:Broken#0" value="…"/>
+	<entry name="Drukhari/Cronos:Broken#0" value="..."/>
 	<entry name="Drukhari/Cronos:BrokenCount" value="1"/>
 	<entry name="Drukhari/Cronos:Hurt#0" value="Hrrr."/>
 	<entry name="Drukhari/Cronos:HurtCount" value="1"/>
-	<entry name="Drukhari/Cronos:Idle#0" value="Pssssst…"/>
+	<entry name="Drukhari/Cronos:Idle#0" value="Pssssst..."/>
 	<entry name="Drukhari/Cronos:Idle#1" value="Thrrrt."/>
 	<entry name="Drukhari/Cronos:Idle#2" value="Thffffttt."/>
 	<entry name="Drukhari/Cronos:Idle#3" value="Tcht."/>
@@ -3533,122 +3533,122 @@
 	<entry name="Drukhari/Cronos:ShakenCount" value="1"/>
 	<entry name="Drukhari/Cronos:Victory#0" value="Psst."/>
 	<entry name="Drukhari/Cronos:VictoryCount" value="1"/>
-	<entry name="Drukhari/Haemonculus:Attack#0" value="The art of agony!"/>
-	<entry name="Drukhari/Haemonculus:Attack#1" value="Suffer, suffer, suffer!"/>
-	<entry name="Drukhari/Haemonculus:Attack#2" value="With pain, I renew."/>
-	<entry name="Drukhari/Haemonculus:Attack#3" value="Let me play on their nerves."/>
+	<entry name="Drukhari/Haemonculus:Attack#0" value="A arte da agonia!"/>
+	<entry name="Drukhari/Haemonculus:Attack#1" value="Sofram, sofram, sofram!"/>
+	<entry name="Drukhari/Haemonculus:Attack#2" value="Com dor, eu renovo."/>
+	<entry name="Drukhari/Haemonculus:Attack#3" value="Deixem-me brincar com seus nervos."/>
 	<entry name="Drukhari/Haemonculus:AttackCount" value="4"/>
-	<entry name="Drukhari/Haemonculus:Broken#0" value="Perhaps another time?"/>
+	<entry name="Drukhari/Haemonculus:Broken#0" value="Talvez em outra hora?"/>
 	<entry name="Drukhari/Haemonculus:BrokenCount" value="1"/>
-	<entry name="Drukhari/Haemonculus:Hurt#0" value="My own pain will suffice."/>
+	<entry name="Drukhari/Haemonculus:Hurt#0" value="Minha própria dor será suficiente."/>
 	<entry name="Drukhari/Haemonculus:HurtCount" value="1"/>
-	<entry name="Drukhari/Haemonculus:Idle#0" value="What sweet suffering to gather next?"/>
-	<entry name="Drukhari/Haemonculus:Idle#1" value="Do I remember the fall? Do I?"/>
-	<entry name="Drukhari/Haemonculus:Idle#2" value="My experiments bear fruit."/>
-	<entry name="Drukhari/Haemonculus:Idle#3" value="Where are my wracks? I require attention!"/>
+	<entry name="Drukhari/Haemonculus:Idle#0" value="Que doce sofrimento coletar em seguida?"/>
+	<entry name="Drukhari/Haemonculus:Idle#1" value="Eu me lembro da queda? Lembro?"/>
+	<entry name="Drukhari/Haemonculus:Idle#2" value="Meus experimentos dão frutos."/>
+	<entry name="Drukhari/Haemonculus:Idle#3" value="Onde estão meus wracks? Preciso de atenção!"/>
 	<entry name="Drukhari/Haemonculus:IdleCount" value="4"/>
-	<entry name="Drukhari/Haemonculus:Shaken#0" value="Oh, they are puissant! I must have them."/>
+	<entry name="Drukhari/Haemonculus:Shaken#0" value="Oh, eles são poderosos! Devo tê-los."/>
 	<entry name="Drukhari/Haemonculus:ShakenCount" value="1"/>
-	<entry name="Drukhari/Haemonculus:Victory#0" value="Now. What did we learn?"/>
+	<entry name="Drukhari/Haemonculus:Victory#0" value="Agora. O que aprendemos?"/>
 	<entry name="Drukhari/Haemonculus:VictoryCount" value="1"/>
-	<entry name="Drukhari/Headquarters:Attack#0" value="They dare attack our seat of power?"/>
-	<entry name="Drukhari/Headquarters:Attack#1" value="Fools!"/>
-	<entry name="Drukhari/Headquarters:Attack#2" value="What madness to assail our walls."/>
-	<entry name="Drukhari/Headquarters:Attack#3" value="Break yourselves on our crenellations."/>
+	<entry name="Drukhari/Headquarters:Attack#0" value="Eles ousam atacar nossa sede de poder?"/>
+	<entry name="Drukhari/Headquarters:Attack#1" value="Tolos!"/>
+	<entry name="Drukhari/Headquarters:Attack#2" value="Que loucura assaltar nossas muralhas."/>
+	<entry name="Drukhari/Headquarters:Attack#3" value="Quebrem-se em nossas ameias."/>
 	<entry name="Drukhari/Headquarters:AttackCount" value="4"/>
-	<entry name="Drukhari/Headquarters:Broken#0" value="Archon, save your loy- your subjects!"/>
+	<entry name="Drukhari/Headquarters:Broken#0" value="Archon, salve seus leal- seus súditos!"/>
 	<entry name="Drukhari/Headquarters:BrokenCount" value="1"/>
-	<entry name="Drukhari/Headquarters:Hurt#0" value="Breached. But only weaklings died."/>
+	<entry name="Drukhari/Headquarters:Hurt#0" value="Violado. Mas apenas os fracos morreram."/>
 	<entry name="Drukhari/Headquarters:HurtCount" value="1"/>
-	<entry name="Drukhari/Headquarters:Idle#0" value="In peacetime, plots."/>
-	<entry name="Drukhari/Headquarters:Idle#1" value="The torture gardens are busy tonight."/>
-	<entry name="Drukhari/Headquarters:Idle#2" value="An aeon of idleness…"/>
-	<entry name="Drukhari/Headquarters:Idle#3" value="The paltry luxuries of this temporary home."/>
+	<entry name="Drukhari/Headquarters:Idle#0" value="Em tempos de paz, conspirações."/>
+	<entry name="Drukhari/Headquarters:Idle#1" value="Os jardins de tortura estão movimentados esta noite."/>
+	<entry name="Drukhari/Headquarters:Idle#2" value="Um éon de ociosidade..."/>
+	<entry name="Drukhari/Headquarters:Idle#3" value="Os luxos míseros desta casa temporária."/>
 	<entry name="Drukhari/Headquarters:IdleCount" value="4"/>
-	<entry name="Drukhari/Headquarters:Shaken#0" value="Oh, to return to dark Commorragh!"/>
+	<entry name="Drukhari/Headquarters:Shaken#0" value="Oh, retornar à sombria Commorragh!"/>
 	<entry name="Drukhari/Headquarters:ShakenCount" value="1"/>
-	<entry name="Drukhari/Headquarters:Victory#0" value="Secure once more."/>
+	<entry name="Drukhari/Headquarters:Victory#0" value="Seguro mais uma vez."/>
 	<entry name="Drukhari/Headquarters:VictoryCount" value="1"/>
-	<entry name="Drukhari/Hellion:Attack#0" value="The thrill of the kill!"/>
-	<entry name="Drukhari/Hellion:Attack#1" value="Death from above!"/>
-	<entry name="Drukhari/Hellion:Attack#2" value="We swoop, we strike!"/>
-	<entry name="Drukhari/Hellion:Attack#3" value="Overwhelming sensation!"/>
+	<entry name="Drukhari/Hellion:Attack#0" value="A emoção da morte!"/>
+	<entry name="Drukhari/Hellion:Attack#1" value="Morte do alto!"/>
+	<entry name="Drukhari/Hellion:Attack#2" value="Mergulhamos, atacamos!"/>
+	<entry name="Drukhari/Hellion:Attack#3" value="Sensação avassaladora!"/>
 	<entry name="Drukhari/Hellion:AttackCount" value="4"/>
-	<entry name="Drukhari/Hellion:Broken#0" value="Away, afore they snare us!"/>
+	<entry name="Drukhari/Hellion:Broken#0" value="Fora, antes que nos capturem!"/>
 	<entry name="Drukhari/Hellion:BrokenCount" value="1"/>
-	<entry name="Drukhari/Hellion:Hurt#0" value="The slow have fallen."/>
+	<entry name="Drukhari/Hellion:Hurt#0" value="Os lentos caíram."/>
 	<entry name="Drukhari/Hellion:HurtCount" value="1"/>
-	<entry name="Drukhari/Hellion:Idle#0" value="We will not wait!"/>
-	<entry name="Drukhari/Hellion:Idle#1" value="The skies call! The lightning beckons!"/>
-	<entry name="Drukhari/Hellion:Idle#2" value="Stillness is torment!"/>
-	<entry name="Drukhari/Hellion:Idle#3" value="Unleash us, Archon!"/>
+	<entry name="Drukhari/Hellion:Idle#0" value="Não esperaremos!"/>
+	<entry name="Drukhari/Hellion:Idle#1" value="Os céus chamam! O relâmpago acena!"/>
+	<entry name="Drukhari/Hellion:Idle#2" value="A quietude é tormento!"/>
+	<entry name="Drukhari/Hellion:Idle#3" value="Solte-nos, Archon!"/>
 	<entry name="Drukhari/Hellion:IdleCount" value="4"/>
-	<entry name="Drukhari/Hellion:Shaken#0" value="Grounded, we die."/>
+	<entry name="Drukhari/Hellion:Shaken#0" value="No chão, morremos."/>
 	<entry name="Drukhari/Hellion:ShakenCount" value="1"/>
-	<entry name="Drukhari/Hellion:Victory#0" value="Faster, faster they fall!"/>
+	<entry name="Drukhari/Hellion:Victory#0" value="Mais rápido, mais rápido eles caem!"/>
 	<entry name="Drukhari/Hellion:VictoryCount" value="1"/>
-	<entry name="Drukhari/Incubi:Attack#0" value="We are one with the klaive."/>
-	<entry name="Drukhari/Incubi:Attack#1" value="The killing strike… just so."/>
-	<entry name="Drukhari/Incubi:Attack#2" value="We offer the weak to Khaine."/>
-	<entry name="Drukhari/Incubi:Attack#3" value="Paid to kill."/>
+	<entry name="Drukhari/Incubi:Attack#0" value="Somos um com a klaive."/>
+	<entry name="Drukhari/Incubi:Attack#1" value="O golpe mortal... assim mesmo."/>
+	<entry name="Drukhari/Incubi:Attack#2" value="Oferecemos os fracos a Khaine."/>
+	<entry name="Drukhari/Incubi:Attack#3" value="Pagos para matar."/>
 	<entry name="Drukhari/Incubi:AttackCount" value="4"/>
-	<entry name="Drukhari/Incubi:Broken#0" value="Khaine does not forgive cowards."/>
+	<entry name="Drukhari/Incubi:Broken#0" value="Khaine não perdoa covardes."/>
 	<entry name="Drukhari/Incubi:BrokenCount" value="1"/>
-	<entry name="Drukhari/Incubi:Hurt#0" value="A true opponent."/>
+	<entry name="Drukhari/Incubi:Hurt#0" value="Um verdadeiro oponente."/>
 	<entry name="Drukhari/Incubi:HurtCount" value="1"/>
-	<entry name="Drukhari/Incubi:Idle#0" value="No betrayal 'til the covenant's done."/>
-	<entry name="Drukhari/Incubi:Idle#1" value="Our time is bought… it would be a waste not to use us."/>
-	<entry name="Drukhari/Incubi:Idle#2" value="There is a purity in hate."/>
-	<entry name="Drukhari/Incubi:Idle#3" value="Follow Arha and the Path of Damnation."/>
+	<entry name="Drukhari/Incubi:Idle#0" value="Nenhuma traição até o pacto estar feito."/>
+	<entry name="Drukhari/Incubi:Idle#1" value="Nosso tempo foi comprado... seria um desperdício não nos usar."/>
+	<entry name="Drukhari/Incubi:Idle#2" value="Há uma pureza no ódio."/>
+	<entry name="Drukhari/Incubi:Idle#3" value="Sigam Arha e o Caminho da Condenação."/>
 	<entry name="Drukhari/Incubi:IdleCount" value="4"/>
-	<entry name="Drukhari/Incubi:Shaken#0" value="No-one shall walk the Path of Grief for such as we."/>
+	<entry name="Drukhari/Incubi:Shaken#0" value="Ninguém trilhará o Caminho da Tristeza por tais como nós."/>
 	<entry name="Drukhari/Incubi:ShakenCount" value="1"/>
-	<entry name="Drukhari/Incubi:Victory#0" value="Tribute for Khaine."/>
+	<entry name="Drukhari/Incubi:Victory#0" value="Tributo para Khaine."/>
 	<entry name="Drukhari/Incubi:VictoryCount" value="1"/>
-	<entry name="Drukhari/KabaliteTrueborn:Attack#0" value="Chattel!"/>
-	<entry name="Drukhari/KabaliteTrueborn:Attack#1" value="Arrogant fools!"/>
-	<entry name="Drukhari/KabaliteTrueborn:Attack#2" value="Stand against the Trueborn? Hahaha…"/>
-	<entry name="Drukhari/KabaliteTrueborn:Attack#3" value="The Archon commands…"/>
+	<entry name="Drukhari/KabaliteTrueborn:Attack#0" value="Gado!"/>
+	<entry name="Drukhari/KabaliteTrueborn:Attack#1" value="Tolos arrogantes!"/>
+	<entry name="Drukhari/KabaliteTrueborn:Attack#2" value="Enfrentar os Trueborn? Hahaha..."/>
+	<entry name="Drukhari/KabaliteTrueborn:Attack#3" value="O Archon comanda..."/>
 	<entry name="Drukhari/KabaliteTrueborn:AttackCount" value="4"/>
-	<entry name="Drukhari/KabaliteTrueborn:Broken#0" value="Back, preserve our precious flesh!"/>
+	<entry name="Drukhari/KabaliteTrueborn:Broken#0" value="Recuem, preservem nossa carne preciosa!"/>
 	<entry name="Drukhari/KabaliteTrueborn:BrokenCount" value="1"/>
-	<entry name="Drukhari/KabaliteTrueborn:Hurt#0" value="Only true Trueborn still stand."/>
+	<entry name="Drukhari/KabaliteTrueborn:Hurt#0" value="Apenas verdadeiros Trueborn ainda resistem."/>
 	<entry name="Drukhari/KabaliteTrueborn:HurtCount" value="1"/>
-	<entry name="Drukhari/KabaliteTrueborn:Idle#0" value="Bring us wines! Victims!"/>
-	<entry name="Drukhari/KabaliteTrueborn:Idle#1" value="Wise, to not squander our precious lives."/>
-	<entry name="Drukhari/KabaliteTrueborn:Idle#2" value="We shall spend the millenia in such lassitude…"/>
-	<entry name="Drukhari/KabaliteTrueborn:Idle#3" value="Oh, happy indolent days!"/>
+	<entry name="Drukhari/KabaliteTrueborn:Idle#0" value="Tragam-nos vinhos! Vítimas!"/>
+	<entry name="Drukhari/KabaliteTrueborn:Idle#1" value="Sábio, não desperdiçar nossas vidas preciosas."/>
+	<entry name="Drukhari/KabaliteTrueborn:Idle#2" value="Passaremos os milênios em tal lassidão..."/>
+	<entry name="Drukhari/KabaliteTrueborn:Idle#3" value="Oh, felizes dias indolentes!"/>
 	<entry name="Drukhari/KabaliteTrueborn:IdleCount" value="4"/>
-	<entry name="Drukhari/KabaliteTrueborn:Shaken#0" value="We are not disposable vatborn!"/>
+	<entry name="Drukhari/KabaliteTrueborn:Shaken#0" value="Não somos vatborn descartáveis!"/>
 	<entry name="Drukhari/KabaliteTrueborn:ShakenCount" value="1"/>
-	<entry name="Drukhari/KabaliteTrueborn:Victory#0" value="What did they expect? We are Trueborn."/>
+	<entry name="Drukhari/KabaliteTrueborn:Victory#0" value="O que esperavam? Somos Trueborn."/>
 	<entry name="Drukhari/KabaliteTrueborn:VictoryCount" value="1"/>
-	<entry name="Drukhari/KabaliteWarrior:Attack#0" value="Mischief calls."/>
-	<entry name="Drukhari/KabaliteWarrior:Attack#1" value="Cower, mortals."/>
-	<entry name="Drukhari/KabaliteWarrior:Attack#2" value="Commorrah demands tribute!"/>
-	<entry name="Drukhari/KabaliteWarrior:Attack#3" value="For the Kabal!"/>
+	<entry name="Drukhari/KabaliteWarrior:Attack#0" value="A travessura chama."/>
+	<entry name="Drukhari/KabaliteWarrior:Attack#1" value="Acuem-se, mortais."/>
+	<entry name="Drukhari/KabaliteWarrior:Attack#2" value="Commorragh exige tributo!"/>
+	<entry name="Drukhari/KabaliteWarrior:Attack#3" value="Pelo Kabal!"/>
 	<entry name="Drukhari/KabaliteWarrior:AttackCount" value="4"/>
-	<entry name="Drukhari/KabaliteWarrior:Broken#0" value="If we flee, the Archon… worse than death."/>
+	<entry name="Drukhari/KabaliteWarrior:Broken#0" value="Se fugirmos, o Archon... pior que a morte."/>
 	<entry name="Drukhari/KabaliteWarrior:BrokenCount" value="1"/>
-	<entry name="Drukhari/KabaliteWarrior:Hurt#0" value="They shall rue this…"/>
+	<entry name="Drukhari/KabaliteWarrior:Hurt#0" value="Eles se arrependerão disso..."/>
 	<entry name="Drukhari/KabaliteWarrior:HurtCount" value="1"/>
-	<entry name="Drukhari/KabaliteWarrior:Idle#0" value="Vatborn we may be, but we are true Drukhari."/>
-	<entry name="Drukhari/KabaliteWarrior:Idle#1" value="Bring prisoners, we must practise our aim."/>
-	<entry name="Drukhari/KabaliteWarrior:Idle#2" value="Preserve the kabalites, spend the mercenaries."/>
-	<entry name="Drukhari/KabaliteWarrior:Idle#3" value="Commorragh, our many-angled home…"/>
+	<entry name="Drukhari/KabaliteWarrior:Idle#0" value="Vatborn podemos ser, mas somos verdadeiros Drukhari."/>
+	<entry name="Drukhari/KabaliteWarrior:Idle#1" value="Tragam prisioneiros, devemos praticar nossa pontaria."/>
+	<entry name="Drukhari/KabaliteWarrior:Idle#2" value="Preservem os kabalitas, gastem os mercenários."/>
+	<entry name="Drukhari/KabaliteWarrior:Idle#3" value="Commorragh, nosso lar de muitos ângulos..."/>
 	<entry name="Drukhari/KabaliteWarrior:IdleCount" value="4"/>
-	<entry name="Drukhari/KabaliteWarrior:Shaken#0" value="We fear? They should fear!"/>
+	<entry name="Drukhari/KabaliteWarrior:Shaken#0" value="Nós tememos? Eles que deveriam temer!"/>
 	<entry name="Drukhari/KabaliteWarrior:ShakenCount" value="1"/>
-	<entry name="Drukhari/KabaliteWarrior:Victory#0" value="Fools! The Kabal does not send weaklings."/>
+	<entry name="Drukhari/KabaliteWarrior:Victory#0" value="Tolos! O Kabal não envia fracos."/>
 	<entry name="Drukhari/KabaliteWarrior:VictoryCount" value="1"/>
-	<entry name="Drukhari/Raider:Attack#0" value="Skim low, sweet keelblade."/>
-	<entry name="Drukhari/Raider:Attack#1" value="Passing pain…"/>
-	<entry name="Drukhari/Raider:Attack#2" value="Drive us closer…"/>
-	<entry name="Drukhari/Raider:Attack#3" value="The buzz of the charge!"/>
+	<entry name="Drukhari/Raider:Attack#0" value="Voe baixo, doce lâmina de quilha."/>
+	<entry name="Drukhari/Raider:Attack#1" value="Dor passageira..."/>
+	<entry name="Drukhari/Raider:Attack#2" value="Nos leve mais perto..."/>
+	<entry name="Drukhari/Raider:Attack#3" value="O zum da carga!"/>
 	<entry name="Drukhari/Raider:AttackCount" value="4"/>
-	<entry name="Drukhari/Raider:Broken#0" value="Retreat, before they can close with us!"/>
+	<entry name="Drukhari/Raider:Broken#0" value="Recuem, antes que possam se aproximar!"/>
 	<entry name="Drukhari/Raider:BrokenCount" value="1"/>
-	<entry name="Drukhari/Raider:Hurt#0" value="Speed should be our armour!"/>
+	<entry name="Drukhari/Raider:Hurt#0" value="A velocidade deveria ser nossa armadura!"/>
 	<entry name="Drukhari/Raider:HurtCount" value="1"/>
 	<entry name="Drukhari/Raider:Idle#0" value="Our trophy hooks are bare!"/>
 	<entry name="Drukhari/Raider:Idle#1" value="Pile the bodies at the rear. Only the weak die."/>
