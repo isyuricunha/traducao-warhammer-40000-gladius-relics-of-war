@@ -304,7 +304,7 @@
 	<entry name="TypeLimit" value="Limite de Tipo"/>
 	<entry name="WitchfireDamageReduction" value="Redução de Dano de Fogo Bruxo"/>
 	<entry name="WitchfireDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
-	
+
 	<!-- Faction-specific -->
 	<entry name="BiomassHint" value="<style name='Title'/>Biomassa<br/><style name='Default'/>Usada para sustentar a população nas cidades, construir edifícios, bem como produzir e manter unidades."/>
 	<entry name="EnergyHint" value="<style name='Title'/>Energia<br/><style name='Default'/>Usada para manter edifícios, bem como produzir e manter unidades especiais."/>
