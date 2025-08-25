@@ -1418,346 +1418,346 @@
 	<entry name="Orks/BurnaBommer:Victory#0" value="Assim que a gente assa eles!"/>
 	<entry name="Orks/BurnaBommer:VictoryCount" value="1"/>
 	<entry name="Orks/Dakkajet" value="Orks/BurnaBommer"/>
-	<entry name="Orks/Deffkopta:Attack#0" value="Now dis iz a Choppa!"/>
+	<entry name="Orks/Deffkopta:Attack#0" value="Agora isso é um Facão!"/>
 	<entry name="Orks/Deffkopta:AttackCount" value="1"/>
-	<entry name="Orks/Deffkopta:Broken#0" value="Oh, I'm geddin dizzy…"/>
+	<entry name="Orks/Deffkopta:Broken#0" value="Ah, tô ficando tonto..."/>
 	<entry name="Orks/Deffkopta:BrokenCount" value="1"/>
-	<entry name="Orks/Deffkopta:Hurt#0" value="Oi, get up 'ere so I can 'it you!"/>
+	<entry name="Orks/Deffkopta:Hurt#0" value="Ei, sobe aqui pra eu poder te bater!"/>
 	<entry name="Orks/Deffkopta:HurtCount" value="1"/>
-	<entry name="Orks/Deffkopta:Idle#0" value="I luv the smell of burnaz in da morning."/>
-	<entry name="Orks/Deffkopta:Idle#1" value="Should we fite or should we fite?"/>
-	<entry name="Orks/Deffkopta:Idle#2" value="T'au don't surf"/>
-	<entry name="Orks/Deffkopta:Idle#3" value="I wonder if this fing can fly upside down?"/>
+	<entry name="Orks/Deffkopta:Idle#0" value="Eu amo o cheiro de lança-chamas de manhã."/>
+	<entry name="Orks/Deffkopta:Idle#1" value="Devemos lutar ou devemos lutar?"/>
+	<entry name="Orks/Deffkopta:Idle#2" value="T'au não surfam"/>
+	<entry name="Orks/Deffkopta:Idle#3" value="Será que essa coisa pode voar de cabeça pra baixo?"/>
 	<entry name="Orks/Deffkopta:IdleCount" value="4"/>
-	<entry name="Orks/Deffkopta:Shaken#0" value="Ow many stikz does dis need to stay up? Uh."/>
+	<entry name="Orks/Deffkopta:Shaken#0" value="Quantos paus essa coisa precisa pra ficar no ar? Uh."/>
 	<entry name="Orks/Deffkopta:ShakenCount" value="1"/>
-	<entry name="Orks/Deffkopta:Victory#0" value="Someday this war's gonna end…"/>
+	<entry name="Orks/Deffkopta:Victory#0" value="Um dia essa guerra vai acabar..."/>
 	<entry name="Orks/Deffkopta:VictoryCount" value="1"/>
 	<entry name="Orks/FlashGitz" value="Orks/Boy"/>
-	<entry name="Orks/GargantuanSquiggoth:Attack#0" value="That way squiggie, whoah!"/>
+	<entry name="Orks/GargantuanSquiggoth:Attack#0" value="Por ali squiggie, uau!"/>
 	<entry name="Orks/GargantuanSquiggoth:AttackCount" value="1"/>
-	<entry name="Orks/GargantuanSquiggoth:Broken#0" value="Naw, you dumb squig, the uvver way."/>
+	<entry name="Orks/GargantuanSquiggoth:Broken#0" value="Não, seu squig burro, pro outro lado."/>
 	<entry name="Orks/GargantuanSquiggoth:BrokenCount" value="1"/>
-	<entry name="Orks/GargantuanSquiggoth:Hurt#0" value="Don't tell 'im if 'e's ded."/>
+	<entry name="Orks/GargantuanSquiggoth:Hurt#0" value="Não conta pra ele se ele morreu."/>
 	<entry name="Orks/GargantuanSquiggoth:HurtCount" value="1"/>
-	<entry name="Orks/GargantuanSquiggoth:Idle#0" value="'Ere, squiggy, grubs up."/>
-	<entry name="Orks/GargantuanSquiggoth:Idle#1" value="Good, squiggy."/>
-	<entry name="Orks/GargantuanSquiggoth:Idle#2" value="Bad squiggy. Spit out Udgrub! BAD!."/>
-	<entry name="Orks/GargantuanSquiggoth:Idle#3" value="Urp! Can't beat a good faceeater fer tea."/>
+	<entry name="Orks/GargantuanSquiggoth:Idle#0" value="Aqui, squiggy, hora da comida."/>
+	<entry name="Orks/GargantuanSquiggoth:Idle#1" value="Bom, squiggy."/>
+	<entry name="Orks/GargantuanSquiggoth:Idle#2" value="Squiggy mau. Cospe o Udgrub! MAU!"/>
+	<entry name="Orks/GargantuanSquiggoth:Idle#3" value="Urp! Nada melhor que um bom come-cara pro lanche."/>
 	<entry name="Orks/GargantuanSquiggoth:IdleCount" value="4"/>
-	<entry name="Orks/GargantuanSquiggoth:Shaken#0" value="S'okay, squiggy, keep eatin'"/>
+	<entry name="Orks/GargantuanSquiggoth:Shaken#0" value="Tá bom, squiggy, continua comendo"/>
 	<entry name="Orks/GargantuanSquiggoth:ShakenCount" value="1"/>
-	<entry name="Orks/GargantuanSquiggoth:Victory#0" value="Good Squiggy! Dinner time!"/>
+	<entry name="Orks/GargantuanSquiggoth:Victory#0" value="Bom Squiggy! Hora do jantar!"/>
 	<entry name="Orks/GargantuanSquiggoth:VictoryCount" value="1"/>
 	<entry name="Orks/Gorkanaut:Attack#0" value="DAKKA DAKKA!"/>
 	<entry name="Orks/Gorkanaut:Attack#1" value="STOMP STOMP!"/>
 	<entry name="Orks/Gorkanaut:AttackCount" value="2"/>
-	<entry name="Orks/Gorkanaut:Broken#0" value="Me bitz is all smashed!"/>
+	<entry name="Orks/Gorkanaut:Broken#0" value="Minhas peças tão todas quebradas!"/>
 	<entry name="Orks/Gorkanaut:BrokenCount" value="1"/>
-	<entry name="Orks/Gorkanaut:Hurt#0" value="'ey, stop shooting! You know 'ow many teef this cost?"/>
+	<entry name="Orks/Gorkanaut:Hurt#0" value="Ei, para de atirar! Você sabe quantos dentes isso custou?"/>
 	<entry name="Orks/Gorkanaut:HurtCount" value="1"/>
-	<entry name="Orks/Gorkanaut:Idle#0" value="Can we stick more dakka on it? Please?"/>
-	<entry name="Orks/Gorkanaut:Idle#1" value="I feels the power uv Gork!"/>
-	<entry name="Orks/Gorkanaut:Idle#2" value="If we nail more tin to dis, can we make a Gargant?"/>
-	<entry name="Orks/Gorkanaut:Idle#3" value="Fink I dropped me dinner in 'ere. Last week."/>
+	<entry name="Orks/Gorkanaut:Idle#0" value="Podemos grudar mais dakka nele? Por favor?"/>
+	<entry name="Orks/Gorkanaut:Idle#1" value="Eu sinto o poder de Gork!"/>
+	<entry name="Orks/Gorkanaut:Idle#2" value="Se a gente pregar mais lata nisso, dá pra fazer um Gargant?"/>
+	<entry name="Orks/Gorkanaut:Idle#3" value="Acho que derrubei meu jantar aqui dentro. Semana passada."/>
 	<entry name="Orks/Gorkanaut:IdleCount" value="4"/>
-	<entry name="Orks/Gorkanaut:Shaken#0" value="DAT DON'T SCARE UZ!"/>
+	<entry name="Orks/Gorkanaut:Shaken#0" value="ISSO NÃO ASSUSTA A GENTE!"/>
 	<entry name="Orks/Gorkanaut:ShakenCount" value="1"/>
-	<entry name="Orks/Gorkanaut:Victory#0" value="WAAAGH! Tinboyz rulez"/>
+	<entry name="Orks/Gorkanaut:Victory#0" value="WAAAGH! Robôs de lata mandam"/>
 	<entry name="Orks/Gorkanaut:VictoryCount" value="1"/>
-	<entry name="Orks/Headquarters:Attack#0" value="Finally, shootin at sumfin."/>
+	<entry name="Orks/Headquarters:Attack#0" value="Finalmente, atirando em alguma coisa."/>
 	<entry name="Orks/Headquarters:AttackCount" value="1"/>
-	<entry name="Orks/Headquarters:Broken#0" value="Boss, 'elp uz!"/>
+	<entry name="Orks/Headquarters:Broken#0" value="Chefe, ajuda a gente!"/>
 	<entry name="Orks/Headquarters:BrokenCount" value="1"/>
-	<entry name="Orks/Headquarters:Hurt#0" value="Deyz shooting the fort, Boss!"/>
+	<entry name="Orks/Headquarters:Hurt#0" value="Eles tão atirando no forte, Chefe!"/>
 	<entry name="Orks/Headquarters:HurtCount" value="1"/>
-	<entry name="Orks/Headquarters:Idle#0" value="Guard duty! Where's the WAAAGH in dat?"/>
-	<entry name="Orks/Headquarters:Idle#1" value="Oo's da boss 'ere?"/>
-	<entry name="Orks/Headquarters:Idle#2" value="Blood Axes reportin' sah!"/>
-	<entry name="Orks/Headquarters:Idle#3" value="'idin behind walls ain't Orky."/>
+	<entry name="Orks/Headquarters:Idle#0" value="Serviço de guarda! Onde tá o WAAAGH nisso?"/>
+	<entry name="Orks/Headquarters:Idle#1" value="Quem é o chefe aqui?"/>
+	<entry name="Orks/Headquarters:Idle#2" value="Machados Sangrentos se reportando, senhor!"/>
+	<entry name="Orks/Headquarters:Idle#3" value="Se esconder atrás de muros não é coisa de Ork."/>
 	<entry name="Orks/Headquarters:IdleCount" value="4"/>
-	<entry name="Orks/Headquarters:Shaken#0" value="Orkz don't run!"/>
+	<entry name="Orks/Headquarters:Shaken#0" value="Orks não correm!"/>
 	<entry name="Orks/Headquarters:ShakenCount" value="1"/>
-	<entry name="Orks/Headquarters:Victory#0" value="WAAAGH! Goddim!"/>
+	<entry name="Orks/Headquarters:Victory#0" value="WAAAGH! Pegamos eles!"/>
 	<entry name="Orks/Headquarters:VictoryCount" value="1"/>
 	<entry name="Orks/KillaKan" value="Orks/Gorkanaut"/>
 	<entry name="Orks/Meganob" value="Orks/Boy"/>
-	<entry name="Orks/Mek:Attack#0" value="Firing all me barrelz!"/>
+	<entry name="Orks/Mek:Attack#0" value="Atirando com todos os meus canos!"/>
 	<entry name="Orks/Mek:AttackCount" value="1"/>
-	<entry name="Orks/Mek:Broken#0" value="Sumfink needs fixing at da fort."/>
+	<entry name="Orks/Mek:Broken#0" value="Alguma coisa precisa ser consertada no forte."/>
 	<entry name="Orks/Mek:BrokenCount" value="1"/>
-	<entry name="Orks/Mek:Hurt#0" value="Me kustom fieldz are broke!"/>
+	<entry name="Orks/Mek:Hurt#0" value="Meus campos personalizados quebraram!"/>
 	<entry name="Orks/Mek:HurtCount" value="1"/>
-	<entry name="Orks/Mek:Idle#0" value="I fink I could make sumfink special…"/>
-	<entry name="Orks/Mek:Idle#1" value="'Ere, pass the wotsit. Nah, 'old dis whilst I 'it it…"/>
-	<entry name="Orks/Mek:Idle#2" value="Imagine a shoota with FIVE barrels. Yeahhhh."/>
-	<entry name="Orks/Mek:Idle#3" value="Hmm. Killa Kan ain't workin. Need bigger Grot, smaller nails."/>
+	<entry name="Orks/Mek:Idle#0" value="Acho que posso fazer algo especial..."/>
+	<entry name="Orks/Mek:Idle#1" value="Aqui, passa o treco. Não, segura isso enquanto eu bato..."/>
+	<entry name="Orks/Mek:Idle#2" value="Imagina uma arma com CINCO canos. Siiiim."/>
+	<entry name="Orks/Mek:Idle#3" value="Hmm. Killa Kan não tá funcionando. Preciso de Grot maior, pregos menores."/>
 	<entry name="Orks/Mek:IdleCount" value="4"/>
-	<entry name="Orks/Mek:Shaken#0" value="Morkz gutz, dat's not rite!"/>
+	<entry name="Orks/Mek:Shaken#0" value="Tripas de Mork, isso não tá certo!"/>
 	<entry name="Orks/Mek:ShakenCount" value="1"/>
-	<entry name="Orks/Mek:Victory#0" value="WAAAGH! Mek brainz winz da day!"/>
+	<entry name="Orks/Mek:Victory#0" value="WAAAGH! Cérebro de Mek ganha o dia!"/>
 	<entry name="Orks/Mek:VictoryCount" value="1"/>
-	<entry name="Orks/MekGun:Attack#0" value="Firing da big gunz, Mr Ork Boss!"/>
+	<entry name="Orks/MekGun:Attack#0" value="Atirando com as armas grandes, Sr. Chefe Ork!"/>
 	<entry name="Orks/MekGun:AttackCount" value="1"/>
-	<entry name="Orks/MekGun:Broken#0" value="Every grot fer hisself!"/>
+	<entry name="Orks/MekGun:Broken#0" value="Cada grot por si!"/>
 	<entry name="Orks/MekGun:BrokenCount" value="1"/>
-	<entry name="Orks/MekGun:Hurt#0" value="More ded grotz."/>
+	<entry name="Orks/MekGun:Hurt#0" value="Mais grotz mortos."/>
 	<entry name="Orks/MekGun:HurtCount" value="1"/>
-	<entry name="Orks/MekGun:Idle#0" value="Grotz is da smartest and best."/>
-	<entry name="Orks/MekGun:Idle#1" value="Away from the fite, wiv a big gun. Best."/>
-	<entry name="Orks/MekGun:Idle#2" value="Moki, get outta da barrel!"/>
-	<entry name="Orks/MekGun:Idle#3" value="Smelly Mek."/>
+	<entry name="Orks/MekGun:Idle#0" value="Grotz são os mais espertos e melhores."/>
+	<entry name="Orks/MekGun:Idle#1" value="Longe da briga, com uma arma grande. Perfeito."/>
+	<entry name="Orks/MekGun:Idle#2" value="Moki, sai do cano!"/>
+	<entry name="Orks/MekGun:Idle#3" value="Mek fedorento."/>
 	<entry name="Orks/MekGun:IdleCount" value="4"/>
-	<entry name="Orks/MekGun:Shaken#0" value="Stop 'itting us, we're not gonna run!"/>
+	<entry name="Orks/MekGun:Shaken#0" value="Para de bater na gente, não vamos correr!"/>
 	<entry name="Orks/MekGun:ShakenCount" value="1"/>
-	<entry name="Orks/MekGun:Victory#0" value="Grotz, I mean, Orks are the best, right Boss?"/>
+	<entry name="Orks/MekGun:Victory#0" value="Grotz, quer dizer, Orks são os melhores, né Chefe?"/>
 	<entry name="Orks/MekGun:VictoryCount" value="1"/>
-	<entry name="Orks/Painboy:Attack#0" value="Hee-hee, battlefield surgery!"/>
+	<entry name="Orks/Painboy:Attack#0" value="Hee-hee, cirurgia de campo de batalha!"/>
 	<entry name="Orks/Painboy:AttackCount" value="1"/>
-	<entry name="Orks/Painboy:Broken#0" value="Dokz and little snotz first!"/>
+	<entry name="Orks/Painboy:Broken#0" value="Doutores e pirralhos primeiro!"/>
 	<entry name="Orks/Painboy:BrokenCount" value="1"/>
-	<entry name="Orks/Painboy:Hurt#0" value="Just need to nail this back on, 'old on."/>
+	<entry name="Orks/Painboy:Hurt#0" value="Só preciso pregar isso de volta, espera aí."/>
 	<entry name="Orks/Painboy:HurtCount" value="1"/>
-	<entry name="Orks/Painboy:Idle#0" value="Naw, Boss, owzabout a nice big noo arm?"/>
-	<entry name="Orks/Painboy:Idle#1" value="Need yer teef. Open wide. Now say WAAAGH!"/>
-	<entry name="Orks/Painboy:Idle#2" value="Wot iz 'mad', anyway?"/>
-	<entry name="Orks/Painboy:Idle#3" value="Need bigger needle squigz."/>
+	<entry name="Orks/Painboy:Idle#0" value="Não, Chefe, que tal um braço novo bem grande?"/>
+	<entry name="Orks/Painboy:Idle#1" value="Preciso dos seus dentes. Abre bem. Agora diz WAAAGH!"/>
+	<entry name="Orks/Painboy:Idle#2" value="O que é 'louco', afinal?"/>
+	<entry name="Orks/Painboy:Idle#3" value="Preciso de squigs de agulha maiores."/>
 	<entry name="Orks/Painboy:IdleCount" value="4"/>
-	<entry name="Orks/Painboy:Shaken#0" value="'ere, dats not rite."/>
+	<entry name="Orks/Painboy:Shaken#0" value="Ei, isso não tá certo."/>
 	<entry name="Orks/Painboy:ShakenCount" value="1"/>
-	<entry name="Orks/Painboy:Victory#0" value="Look at all dose bitz… luverly."/>
+	<entry name="Orks/Painboy:Victory#0" value="Olha todas essas peças... lindo."/>
 	<entry name="Orks/Painboy:VictoryCount" value="1"/>
 	<entry name="Orks/Tankbusta" value="Orks/Boy"/>
-	<entry name="Orks/Warboss:Attack#0" value="Oo's da best Ork. WAAAGH! ME."/>
+	<entry name="Orks/Warboss:Attack#0" value="Quem é o melhor Ork. WAAAGH! EU."/>
 	<entry name="Orks/Warboss:AttackCount" value="1"/>
-	<entry name="Orks/Warboss:Broken#0" value="I just usin taktiks, dat's all."/>
+	<entry name="Orks/Warboss:Broken#0" value="Só tô usando táticas, só isso."/>
 	<entry name="Orks/Warboss:BrokenCount" value="1"/>
-	<entry name="Orks/Warboss:Hurt#0" value="Ow, don't yoo know oo I am?"/>
+	<entry name="Orks/Warboss:Hurt#0" value="Ai, você não sabe quem eu sou?"/>
 	<entry name="Orks/Warboss:HurtCount" value="1"/>
-	<entry name="Orks/Warboss:Idle#0" value="Zoggin nuffink to do. ZOG!"/>
-	<entry name="Orks/Warboss:Idle#1" value="WHERE'S THE FITE?"/>
-	<entry name="Orks/Warboss:Idle#2" value="Curried squig fer lunch AGAIN? Where's da drops?"/>
-	<entry name="Orks/Warboss:Idle#3" value="I need ta 'it fings!"/>
-	<entry name="Orks/Warboss:Idle#4" value="You got dem squigs outta me Mega Armour yet, grot?"/>
+	<entry name="Orks/Warboss:Idle#0" value="Maldito nada pra fazer. DROGA!"/>
+	<entry name="Orks/Warboss:Idle#1" value="CADÊ A BRIGA?"/>
+	<entry name="Orks/Warboss:Idle#2" value="Squig ao curry no almoço DE NOVO? Cadê a carne?"/>
+	<entry name="Orks/Warboss:Idle#3" value="Eu preciso bater em coisas!"/>
+	<entry name="Orks/Warboss:Idle#4" value="Você já tirou os squigs da minha Mega Armadura, grot?"/>
 	<entry name="Orks/Warboss:IdleCount" value="5"/>
-	<entry name="Orks/Warboss:Shaken#0" value="Sooner we're outta 'ere, da better."/>
+	<entry name="Orks/Warboss:Shaken#0" value="Quanto mais cedo sairmos daqui, melhor."/>
 	<entry name="Orks/Warboss:ShakenCount" value="1"/>
-	<entry name="Orks/Warboss:Victory#0" value="Course we won, I was 'ere!"/>
+	<entry name="Orks/Warboss:Victory#0" value="Claro que ganhamos, eu tava aqui!"/>
 	<entry name="Orks/Warboss:VictoryCount" value="1"/>
 	<entry name="Orks/Warbuggy" value="Orks/Battlewagon"/>
-	<entry name="Orks/Weirdboy:Attack#0" value="Owwwwwwww… me 'ed."/>
+	<entry name="Orks/Weirdboy:Attack#0" value="Aiiiiiiii... minha cabeça."/>
 	<entry name="Orks/Weirdboy:AttackCount" value="1"/>
-	<entry name="Orks/Weirdboy:Broken#0" value="Get me away from 'ere!"/>
+	<entry name="Orks/Weirdboy:Broken#0" value="Me tira daqui!"/>
 	<entry name="Orks/Weirdboy:BrokenCount" value="1"/>
-	<entry name="Orks/Weirdboy:Hurt#0" value="Edz-a-popping!"/>
+	<entry name="Orks/Weirdboy:Hurt#0" value="Cabeças explodindo!"/>
 	<entry name="Orks/Weirdboy:HurtCount" value="1"/>
 	<entry name="Orks/Weirdboy:Idle#0" value="Blurble."/>
-	<entry name="Orks/Weirdboy:Idle#1" value="Mork talks. Gork walks."/>
-	<entry name="Orks/Weirdboy:Idle#2" value="The shadow in the warp..!"/>
-	<entry name="Orks/Weirdboy:Idle#3" value="Neath Gladius lie the Krork and the Brainboyz, waiting for the last fite."/>
+	<entry name="Orks/Weirdboy:Idle#1" value="Mork fala. Gork anda."/>
+	<entry name="Orks/Weirdboy:Idle#2" value="A sombra na warp...!"/>
+	<entry name="Orks/Weirdboy:Idle#3" value="Sob Gladius jazem os Krork e os Garotos-Cérebro, esperando pela última luta."/>
 	<entry name="Orks/Weirdboy:IdleCount" value="4"/>
-	<entry name="Orks/Weirdboy:Shaken#0" value="Gork and Mork compel yew!"/>
+	<entry name="Orks/Weirdboy:Shaken#0" value="Gork e Mork te obrigam!"/>
 	<entry name="Orks/Weirdboy:ShakenCount" value="1"/>
 	<entry name="Orks/Weirdboy:Victory#0" value="Hur-hur, WAAAGH!"/>
 	<entry name="Orks/Weirdboy:VictoryCount" value="1"/>
-	<entry name="SpaceMarines/Apothecary:Attack#0" value="These don't only heal."/>
+	<entry name="SpaceMarines/Apothecary:Attack#0" value="Estas não servem apenas para curar."/>
 	<entry name="SpaceMarines/Apothecary:AttackCount" value="1"/>
-	<entry name="SpaceMarines/Apothecary:Broken#0" value="I cannot leave the gene-seed!"/>
+	<entry name="SpaceMarines/Apothecary:Broken#0" value="Não posso abandonar a semente genética!"/>
 	<entry name="SpaceMarines/Apothecary:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/Apothecary:EnemyFaction:AstraMilitarum#0" value="Beyond contempt."/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:AstraMilitarum#0" value="Além do desprezo."/>
 	<entry name="SpaceMarines/Apothecary:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="SpaceMarines/Apothecary:EnemyFaction:Necrons#0" value="Bloodless fiends."/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:Necrons#0" value="Demônios sem sangue."/>
 	<entry name="SpaceMarines/Apothecary:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="SpaceMarines/Apothecary:EnemyFaction:Orks#0" value="Greenskins! Would that we could regrow limbs like them."/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:Orks#0" value="Peles-verdes! Quem dera pudéssemos regenerar membros como eles."/>
 	<entry name="SpaceMarines/Apothecary:EnemyFaction:OrksCount" value="1"/>
-	<entry name="SpaceMarines/Apothecary:EnemyFaction:SpaceMarines#0" value="Renegades brothers, but not traitors. I'll recover their gene-seed all the same."/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:SpaceMarines#0" value="Irmãos renegados, mas não traidores. Vou recuperar suas sementes genéticas mesmo assim."/>
 	<entry name="SpaceMarines/Apothecary:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="SpaceMarines/Apothecary:Hurt#0" value="Patching myself up."/>
+	<entry name="SpaceMarines/Apothecary:Hurt#0" value="Me remendando."/>
 	<entry name="SpaceMarines/Apothecary:HurtCount" value="1"/>
-	<entry name="SpaceMarines/Apothecary:Idle#0" value="Apothecary on call."/>
-	<entry name="SpaceMarines/Apothecary:Idle#1" value="Docs don't need downtime."/>
-	<entry name="SpaceMarines/Apothecary:Idle#2" value="Reductor practise."/>
-	<entry name="SpaceMarines/Apothecary:Idle#3" value="The progenoid's connected to the Betchers and the Sus-an…"/>
+	<entry name="SpaceMarines/Apothecary:Idle#0" value="Apotecário de plantão."/>
+	<entry name="SpaceMarines/Apothecary:Idle#1" value="Médicos não precisam de descanso."/>
+	<entry name="SpaceMarines/Apothecary:Idle#2" value="Prática com o Reductor."/>
+	<entry name="SpaceMarines/Apothecary:Idle#3" value="O progenóide está conectado aos Betchers e ao Sus-an..."/>
 	<entry name="SpaceMarines/Apothecary:IdleCount" value="4"/>
-	<entry name="SpaceMarines/Apothecary:Shaken#0" value="Good news! I'm not dead."/>
+	<entry name="SpaceMarines/Apothecary:Shaken#0" value="Boa notícia! Não estou morto."/>
 	<entry name="SpaceMarines/Apothecary:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/Apothecary:Victory#0" value="They're dead! I'm not sure this is the best use of my time!"/>
+	<entry name="SpaceMarines/Apothecary:Victory#0" value="Eles estão mortos! Não tenho certeza se este é o melhor uso do meu tempo!"/>
 	<entry name="SpaceMarines/Apothecary:VictoryCount" value="1"/>
 	<entry name="SpaceMarines/AssaultSpaceMarine" value="SpaceMarines/TacticalSpaceMarine"/>
-	<entry name="SpaceMarines/Captain:Attack#0" value="Die happy scum, knowing you died at my hand!"/>
-	<entry name="SpaceMarines/Captain:Attack#1" value="Eat boltgun."/>
-	<entry name="SpaceMarines/Captain:Attack#2" value="For the Emperor!"/>
-	<entry name="SpaceMarines/Captain:Attack#3" value="You are facing a Space Marine captain. Surrender now, for a quick death."/>
-	<entry name="SpaceMarines/Captain:Attack#4" value="Guilliman awaits."/>
-	<entry name="SpaceMarines/Captain:Attack#5" value="My faith is my shield!"/>
+	<entry name="SpaceMarines/Captain:Attack#0" value="Morra feliz, escória, sabendo que morreu pela minha mão!"/>
+	<entry name="SpaceMarines/Captain:Attack#1" value="Prove boltgun."/>
+	<entry name="SpaceMarines/Captain:Attack#2" value="Pelo Imperador!"/>
+	<entry name="SpaceMarines/Captain:Attack#3" value="Você está enfrentando um capitão Space Marine. Renda-se agora, para uma morte rápida."/>
+	<entry name="SpaceMarines/Captain:Attack#4" value="Guilliman aguarda."/>
+	<entry name="SpaceMarines/Captain:Attack#5" value="Minha fé é meu escudo!"/>
 	<entry name="SpaceMarines/Captain:AttackCount" value="6"/>
-	<entry name="SpaceMarines/Captain:Broken#0" value="Emperor preserve us!"/>
+	<entry name="SpaceMarines/Captain:Broken#0" value="Imperador nos preserve!"/>
 	<entry name="SpaceMarines/Captain:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/Captain:EnemyFaction:AstraMilitarum#0" value="Traitor guard. Trivial."/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:AstraMilitarum#0" value="Guarda traidora. Trivial."/>
 	<entry name="SpaceMarines/Captain:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="SpaceMarines/Captain:EnemyFaction:Necrons#0" value="Root out their tombs! Crush the mechnical horrors!"/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:Necrons#0" value="Destruam suas tumbas! Esmaguem os horrores mecânicos!"/>
 	<entry name="SpaceMarines/Captain:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="SpaceMarines/Captain:EnemyFaction:Orks#0" value="Will the Emperor never free us of this green plague?"/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:Orks#0" value="O Imperador nunca nos libertará desta praga verde?"/>
 	<entry name="SpaceMarines/Captain:EnemyFaction:OrksCount" value="1"/>
-	<entry name="SpaceMarines/Captain:EnemyFaction:SpaceMarines#0" value="Renegades. Marines, prepare your weapons, we fight for honour."/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:SpaceMarines#0" value="Renegados. Marines, preparem suas armas, lutamos pela honra."/>
 	<entry name="SpaceMarines/Captain:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="SpaceMarines/Captain:Hurt#0" value="How did that get through my armour?"/>
+	<entry name="SpaceMarines/Captain:Hurt#0" value="Como isso atravessou minha armadura?"/>
 	<entry name="SpaceMarines/Captain:HurtCount" value="1"/>
-	<entry name="SpaceMarines/Captain:Idle#0" value="I should be leading from the front."/>
-	<entry name="SpaceMarines/Captain:Idle#1" value="Inspirational speeches don't write themselves."/>
-	<entry name="SpaceMarines/Captain:Idle#2" value="We must save humanity from itself."/>
-	<entry name="SpaceMarines/Captain:Idle#3" value="Why here? Why Gladius? Are we being tested?"/>
+	<entry name="SpaceMarines/Captain:Idle#0" value="Eu deveria estar liderando na frente."/>
+	<entry name="SpaceMarines/Captain:Idle#1" value="Discursos inspiradores não se escrevem sozinhos."/>
+	<entry name="SpaceMarines/Captain:Idle#2" value="Devemos salvar a humanidade de si mesma."/>
+	<entry name="SpaceMarines/Captain:Idle#3" value="Por que aqui? Por que Gladius? Estamos sendo testados?"/>
 	<entry name="SpaceMarines/Captain:IdleCount" value="4"/>
-	<entry name="SpaceMarines/Captain:Shaken#0" value="I bend to no-one!"/>
+	<entry name="SpaceMarines/Captain:Shaken#0" value="Não me curvo a ninguém!"/>
 	<entry name="SpaceMarines/Captain:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/Captain:Victory#0" value="Thus fall all enemies of the Golden Throne!"/>
+	<entry name="SpaceMarines/Captain:Victory#0" value="Assim caem todos os inimigos do Trono Dourado!"/>
 	<entry name="SpaceMarines/Captain:VictoryCount" value="1"/>
-	<entry name="SpaceMarines/Chaplain:Attack#0" value="Be blessed by the Crozius!"/>
-	<entry name="SpaceMarines/Chaplain:Attack#1" value="I will make you believe!"/>
+	<entry name="SpaceMarines/Chaplain:Attack#0" value="Seja abençoado pelo Crozius!"/>
+	<entry name="SpaceMarines/Chaplain:Attack#1" value="Eu farei você acreditar!"/>
 	<entry name="SpaceMarines/Chaplain:Attack#2" value="In nomine Imperator!"/>
 	<entry name="SpaceMarines/Chaplain:AttackCount" value="3"/>
-	<entry name="SpaceMarines/Chaplain:Broken#0" value="Not one step back!"/>
+	<entry name="SpaceMarines/Chaplain:Broken#0" value="Nem um passo atrás!"/>
 	<entry name="SpaceMarines/Chaplain:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/Chaplain:Hurt#0" value="Though I suffer their blows, I shall not fall."/>
+	<entry name="SpaceMarines/Chaplain:Hurt#0" value="Embora eu sofra seus golpes, não cairei."/>
 	<entry name="SpaceMarines/Chaplain:HurtCount" value="1"/>
-	<entry name="SpaceMarines/Chaplain:Idle#0" value="Death has no terror save that our work will be incomplete."/>
-	<entry name="SpaceMarines/Chaplain:Idle#1" value="Give your life to the Emperor, it shall not be in vain."/>
-	<entry name="SpaceMarines/Chaplain:Idle#2" value="There is no peace whilst our foes live."/>
-	<entry name="SpaceMarines/Chaplain:Idle#3" value="We spit our defiance to the end."/>
+	<entry name="SpaceMarines/Chaplain:Idle#0" value="A morte não tem terror exceto que nosso trabalho ficará incompleto."/>
+	<entry name="SpaceMarines/Chaplain:Idle#1" value="Dê sua vida ao Imperador, não será em vão."/>
+	<entry name="SpaceMarines/Chaplain:Idle#2" value="Não há paz enquanto nossos inimigos viverem."/>
+	<entry name="SpaceMarines/Chaplain:Idle#3" value="Cuspimos nosso desafio até o fim."/>
 	<entry name="SpaceMarines/Chaplain:IdleCount" value="4"/>
-	<entry name="SpaceMarines/Chaplain:Shaken#0" value="For a warrior, the only crime is cowardice."/>
+	<entry name="SpaceMarines/Chaplain:Shaken#0" value="Para um guerreiro, o único crime é a covardia."/>
 	<entry name="SpaceMarines/Chaplain:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/Chaplain:Victory#0" value="Faith is stronger than adamantium."/>
+	<entry name="SpaceMarines/Chaplain:Victory#0" value="A fé é mais forte que o adamantium."/>
 	<entry name="SpaceMarines/Chaplain:VictoryCount" value="1"/>
 	<entry name="SpaceMarines/DevastatorSpaceMarine" value="SpaceMarines/TacticalSpaceMarine"/>
-	<entry name="SpaceMarines/Dreadnought:Attack#0" value="Every kill is fresh, even now."/>
-	<entry name="SpaceMarines/Dreadnought:Attack#1" value="For the Chapter!"/>
-	<entry name="SpaceMarines/Dreadnought:Attack#2" value="Hrm… at war again."/>
-	<entry name="SpaceMarines/Dreadnought:Attack#3" value="Ten thousand years of war…"/>
+	<entry name="SpaceMarines/Dreadnought:Attack#0" value="Cada morte é fresca, mesmo agora."/>
+	<entry name="SpaceMarines/Dreadnought:Attack#1" value="Pelo Capítulo!"/>
+	<entry name="SpaceMarines/Dreadnought:Attack#2" value="Hrm... em guerra novamente."/>
+	<entry name="SpaceMarines/Dreadnought:Attack#3" value="Dez mil anos de guerra..."/>
 	<entry name="SpaceMarines/Dreadnought:AttackCount" value="4"/>
-	<entry name="SpaceMarines/Dreadnought:Broken#0" value="After a millennium, I know when to fall back."/>
+	<entry name="SpaceMarines/Dreadnought:Broken#0" value="Depois de um milênio, sei quando recuar."/>
 	<entry name="SpaceMarines/Dreadnought:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/Dreadnought:Hurt#0" value="My sarcophagus… is hit."/>
-	<entry name="SpaceMarines/Dreadnought:Hurt#1" value="The litany of preservation, Chaplain?"/>
+	<entry name="SpaceMarines/Dreadnought:Hurt#0" value="Meu sarcófago... foi atingido."/>
+	<entry name="SpaceMarines/Dreadnought:Hurt#1" value="A ladainha da preservação, Capelão?"/>
 	<entry name="SpaceMarines/Dreadnought:HurtCount" value="2"/>
-	<entry name="SpaceMarines/Dreadnought:Idle#0" value="A walking tomb…"/>
-	<entry name="SpaceMarines/Dreadnought:Idle#1" value="Is war truly eternal?"/>
-	<entry name="SpaceMarines/Dreadnought:Idle#2" value="To sleep… but to dream. There's the rub."/>
-	<entry name="SpaceMarines/Dreadnought:Idle#3" value="Who rouses me?"/>
+	<entry name="SpaceMarines/Dreadnought:Idle#0" value="Uma tumba ambulante..."/>
+	<entry name="SpaceMarines/Dreadnought:Idle#1" value="A guerra é verdadeiramente eterna?"/>
+	<entry name="SpaceMarines/Dreadnought:Idle#2" value="Dormir... mas sonhar. Aí está o problema."/>
+	<entry name="SpaceMarines/Dreadnought:Idle#3" value="Quem me desperta?"/>
 	<entry name="SpaceMarines/Dreadnought:IdleCount" value="4"/>
-	<entry name="SpaceMarines/Dreadnought:Shaken#0" value="Fear never grows old."/>
+	<entry name="SpaceMarines/Dreadnought:Shaken#0" value="O medo nunca envelhece."/>
 	<entry name="SpaceMarines/Dreadnought:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/Dreadnought:Victory#0" value="Our chapter history grows."/>
+	<entry name="SpaceMarines/Dreadnought:Victory#0" value="A história do nosso capítulo cresce."/>
 	<entry name="SpaceMarines/Dreadnought:VictoryCount" value="1"/>
 	<entry name="SpaceMarines/FortressOfRedemption" value="SpaceMarines/Headquarters"/>
-	<entry name="SpaceMarines/Headquarters:Attack#0" value="Break yourselves on our defences!"/>
-	<entry name="SpaceMarines/Headquarters:Attack#1" value="Fools, to attack an Adeptus Astartes stronghold"/>
-	<entry name="SpaceMarines/Headquarters:Attack#2" value="Fortress Commander here. Firing."/>
-	<entry name="SpaceMarines/Headquarters:Attack#3" value="Why not try walking in the front door?"/>
+	<entry name="SpaceMarines/Headquarters:Attack#0" value="Quebrem-se em nossas defesas!"/>
+	<entry name="SpaceMarines/Headquarters:Attack#1" value="Tolos, atacar uma fortaleza Adeptus Astartes"/>
+	<entry name="SpaceMarines/Headquarters:Attack#2" value="Comandante da Fortaleza aqui. Disparando."/>
+	<entry name="SpaceMarines/Headquarters:Attack#3" value="Por que não tentam entrar pela porta da frente?"/>
 	<entry name="SpaceMarines/Headquarters:AttackCount" value="4"/>
-	<entry name="SpaceMarines/Headquarters:Broken#0" value="Our Chapter will. NOT. Fall."/>
+	<entry name="SpaceMarines/Headquarters:Broken#0" value="Nosso Capítulo. NÃO. Vai. Cair."/>
 	<entry name="SpaceMarines/Headquarters:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/Headquarters:EnemyFaction:AstraMilitarum#0" value="Guard on the horizon. Hostile."/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:AstraMilitarum#0" value="Guarda no horizonte. Hostil."/>
 	<entry name="SpaceMarines/Headquarters:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="SpaceMarines/Headquarters:EnemyFaction:Necrons#0" value="Here come the Necrons. Pick 'em off."/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:Necrons#0" value="Lá vêm os Necrons. Abatam-nos."/>
 	<entry name="SpaceMarines/Headquarters:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="SpaceMarines/Headquarters:EnemyFaction:Orks#0" value="Greenskins, again? Ready boltguns!"/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:Orks#0" value="Peles-verdes, de novo? Preparem boltguns!"/>
 	<entry name="SpaceMarines/Headquarters:EnemyFaction:OrksCount" value="1"/>
-	<entry name="SpaceMarines/Headquarters:EnemyFaction:SpaceMarines#0" value="Scouts are engaging renegades. Foul traitors, here?"/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:SpaceMarines#0" value="Batedores estão enfrentando renegados. Traidores imundos, aqui?"/>
 	<entry name="SpaceMarines/Headquarters:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="SpaceMarines/Headquarters:Hurt#0" value="Fortress is breached, repeat Fortress is breached."/>
+	<entry name="SpaceMarines/Headquarters:Hurt#0" value="Fortaleza foi violada, repito, Fortaleza foi violada."/>
 	<entry name="SpaceMarines/Headquarters:HurtCount" value="1"/>
-	<entry name="SpaceMarines/Headquarters:Idle#0" value="All quiet on the home front."/>
-	<entry name="SpaceMarines/Headquarters:Idle#1" value="Commander, we're ready for anything."/>
-	<entry name="SpaceMarines/Headquarters:Idle#2" value="Litanies are being read in the Reclusiam."/>
-	<entry name="SpaceMarines/Headquarters:Idle#3" value="Serfs are hard at work, sir."/>
+	<entry name="SpaceMarines/Headquarters:Idle#0" value="Tudo calmo na frente de casa."/>
+	<entry name="SpaceMarines/Headquarters:Idle#1" value="Comandante, estamos prontos para qualquer coisa."/>
+	<entry name="SpaceMarines/Headquarters:Idle#2" value="Ladainhas estão sendo lidas no Reclusiam."/>
+	<entry name="SpaceMarines/Headquarters:Idle#3" value="Servos estão trabalhando duro, senhor."/>
 	<entry name="SpaceMarines/Headquarters:IdleCount" value="4"/>
-	<entry name="SpaceMarines/Headquarters:Shaken#0" value="Recall all the units to the Fortress!"/>
+	<entry name="SpaceMarines/Headquarters:Shaken#0" value="Chamem todas as unidades de volta à Fortaleza!"/>
 	<entry name="SpaceMarines/Headquarters:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/Headquarters:Victory#0" value="Invaders eliminated. How dare they?"/>
+	<entry name="SpaceMarines/Headquarters:Victory#0" value="Invasores eliminados. Como ousaram?"/>
 	<entry name="SpaceMarines/Headquarters:VictoryCount" value="1"/>
-	<entry name="SpaceMarines/Hunter:Attack#0" value="Targetting weapons."/>
+	<entry name="SpaceMarines/Hunter:Attack#0" value="Mirando armas."/>
 	<entry name="SpaceMarines/Hunter:AttackCount" value="1"/>
-	<entry name="SpaceMarines/Hunter:Broken#0" value="Armour is pulling back."/>
+	<entry name="SpaceMarines/Hunter:Broken#0" value="Blindagem está recuando."/>
 	<entry name="SpaceMarines/Hunter:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/Hunter:Hurt#0" value="Armour is penetrated."/>
-	<entry name="SpaceMarines/Hunter:Hurt#1" value="Small arms fire."/>
-	<entry name="SpaceMarines/Hunter:Hurt#2" value="Tracks are hit."/>
+	<entry name="SpaceMarines/Hunter:Hurt#0" value="Armadura foi penetrada."/>
+	<entry name="SpaceMarines/Hunter:Hurt#1" value="Fogo de armas leves."/>
+	<entry name="SpaceMarines/Hunter:Hurt#2" value="Esteiras foram atingidas."/>
 	<entry name="SpaceMarines/Hunter:HurtCount" value="3"/>
-	<entry name="SpaceMarines/Hunter:Idle#0" value="Cogitator is in working order."/>
-	<entry name="SpaceMarines/Hunter:Idle#1" value="Invoking the machine spirits."/>
-	<entry name="SpaceMarines/Hunter:Idle#2" value="Performing repairs."/>
+	<entry name="SpaceMarines/Hunter:Idle#0" value="Cogitador está funcionando."/>
+	<entry name="SpaceMarines/Hunter:Idle#1" value="Invocando os espíritos da máquina."/>
+	<entry name="SpaceMarines/Hunter:Idle#2" value="Realizando reparos."/>
 	<entry name="SpaceMarines/Hunter:IdleCount" value="3"/>
-	<entry name="SpaceMarines/Hunter:Shaken#0" value="Crew are a bit rattled, sir."/>
+	<entry name="SpaceMarines/Hunter:Shaken#0" value="A tripulação está um pouco abalada, senhor."/>
 	<entry name="SpaceMarines/Hunter:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/Hunter:Victory#0" value="Armour is rolling on."/>
+	<entry name="SpaceMarines/Hunter:Victory#0" value="Blindagem está avançando."/>
 	<entry name="SpaceMarines/Hunter:VictoryCount" value="1"/>
 	<entry name="SpaceMarines/LandRaider" value="SpaceMarines/Hunter"/>
 	<entry name="SpaceMarines/LandSpeeder" value="SpaceMarines/ScoutBiker"/>
-	<entry name="SpaceMarines/Librarian:Attack#0" value="Let me gaze into your future… ah. It's short."/>
-	<entry name="SpaceMarines/Librarian:Attack#1" value="I have a gift. It would be churlish not to share it…"/>
-	<entry name="SpaceMarines/Librarian:Attack#2" value="Snap go my fingers… snap go your bones."/>
+	<entry name="SpaceMarines/Librarian:Attack#0" value="Deixe-me olhar seu futuro... ah. É curto."/>
+	<entry name="SpaceMarines/Librarian:Attack#1" value="Tenho um dom. Seria grosseiro não compartilhá-lo..."/>
+	<entry name="SpaceMarines/Librarian:Attack#2" value="Estalam meus dedos... estalam seus ossos."/>
 	<entry name="SpaceMarines/Librarian:AttackCount" value="3"/>
-	<entry name="SpaceMarines/Librarian:Broken#0" value="I can hear the daemon, howling in my ears."/>
+	<entry name="SpaceMarines/Librarian:Broken#0" value="Posso ouvir o demônio, uivando em meus ouvidos."/>
 	<entry name="SpaceMarines/Librarian:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/Librarian:Hurt#0" value="Physical pain is nothing compared to eternal damnation."/>
+	<entry name="SpaceMarines/Librarian:Hurt#0" value="Dor física não é nada comparada à danação eterna."/>
 	<entry name="SpaceMarines/Librarian:HurtCount" value="1"/>
-	<entry name="SpaceMarines/Librarian:Idle#0" value="Blessed is the mind too small for doubt."/>
-	<entry name="SpaceMarines/Librarian:Idle#1" value="The warp holds no fear for me."/>
-	<entry name="SpaceMarines/Librarian:Idle#2" value="The warp storm… sometimes the pain is too much."/>
-	<entry name="SpaceMarines/Librarian:Idle#3" value="When this is over… the Librarium calls."/>
+	<entry name="SpaceMarines/Librarian:Idle#0" value="Abençoada é a mente pequena demais para a dúvida."/>
+	<entry name="SpaceMarines/Librarian:Idle#1" value="A warp não guarda medo para mim."/>
+	<entry name="SpaceMarines/Librarian:Idle#2" value="A tempestade warp... às vezes a dor é demais."/>
+	<entry name="SpaceMarines/Librarian:Idle#3" value="Quando isso acabar... o Librarium chama."/>
 	<entry name="SpaceMarines/Librarian:IdleCount" value="4"/>
-	<entry name="SpaceMarines/Librarian:Shaken#0" value="The lore has nothing about this…"/>
+	<entry name="SpaceMarines/Librarian:Shaken#0" value="O conhecimento não tem nada sobre isso..."/>
 	<entry name="SpaceMarines/Librarian:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/Librarian:Victory#0" value="Their failure was foreseen."/>
+	<entry name="SpaceMarines/Librarian:Victory#0" value="Sua falha foi prevista."/>
 	<entry name="SpaceMarines/Librarian:VictoryCount" value="1"/>
 	<entry name="SpaceMarines/Predator" value="SpaceMarines/Hunter"/>
-	<entry name="SpaceMarines/PrimarisAggressor:Attack#0" value="My duty is my armour."/>
-	<entry name="SpaceMarines/PrimarisAggressor:Attack#1" value="Flamestorm."/>
-	<entry name="SpaceMarines/PrimarisAggressor:Attack#2" value="Wait for them to approach."/>
-	<entry name="SpaceMarines/PrimarisAggressor:Attack#3" value="Scour them!"/>
+	<entry name="SpaceMarines/PrimarisAggressor:Attack#0" value="Meu dever é minha armadura."/>
+	<entry name="SpaceMarines/PrimarisAggressor:Attack#1" value="Tempestade de chamas."/>
+	<entry name="SpaceMarines/PrimarisAggressor:Attack#2" value="Esperem eles se aproximarem."/>
+	<entry name="SpaceMarines/PrimarisAggressor:Attack#3" value="Varram-nos!"/>
 	<entry name="SpaceMarines/PrimarisAggressor:AttackCount" value="4"/>
-	<entry name="SpaceMarines/PrimarisAggressor:Broken#0" value="Hold. Hold!"/>
+	<entry name="SpaceMarines/PrimarisAggressor:Broken#0" value="Aguente. Aguente!"/>
 	<entry name="SpaceMarines/PrimarisAggressor:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisAggressor:Hurt#0" value="By His name!"/>
+	<entry name="SpaceMarines/PrimarisAggressor:Hurt#0" value="Em Seu nome!"/>
 	<entry name="SpaceMarines/PrimarisAggressor:HurtCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisAggressor:Idle#0" value="We wait."/>
-	<entry name="SpaceMarines/PrimarisAggressor:Idle#1" value="I am equal to my task."/>
-	<entry name="SpaceMarines/PrimarisAggressor:Idle#2" value="Cleansing fire."/>
-	<entry name="SpaceMarines/PrimarisAggressor:Idle#3" value="We will burn His enemies to ash."/>
+	<entry name="SpaceMarines/PrimarisAggressor:Idle#0" value="Nós esperamos."/>
+	<entry name="SpaceMarines/PrimarisAggressor:Idle#1" value="Estou à altura da minha tarefa."/>
+	<entry name="SpaceMarines/PrimarisAggressor:Idle#2" value="Fogo purificador."/>
+	<entry name="SpaceMarines/PrimarisAggressor:Idle#3" value="Queimaremos Seus inimigos até virarem cinzas."/>
 	<entry name="SpaceMarines/PrimarisAggressor:IdleCount" value="4"/>
-	<entry name="SpaceMarines/PrimarisAggressor:Shaken#0" value="Covering fire!"/>
+	<entry name="SpaceMarines/PrimarisAggressor:Shaken#0" value="Fogo de cobertura!"/>
 	<entry name="SpaceMarines/PrimarisAggressor:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisAggressor:Victory#0" value="Cleansed with the Emperor's fury!"/>
+	<entry name="SpaceMarines/PrimarisAggressor:Victory#0" value="Purificados com a fúria do Imperador!"/>
 	<entry name="SpaceMarines/PrimarisAggressor:VictoryCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisHellblaster:Attack#0" value="Plasma fusillade."/>
-	<entry name="SpaceMarines/PrimarisHellblaster:Attack#1" value="Supercharging incinerators."/>
-	<entry name="SpaceMarines/PrimarisHellblaster:Attack#2" value="Armour-hunters."/>
-	<entry name="SpaceMarines/PrimarisHellblaster:Attack#3" value="Melting His enemies."/>
+	<entry name="SpaceMarines/PrimarisHellblaster:Attack#0" value="Fuzilaria de plasma."/>
+	<entry name="SpaceMarines/PrimarisHellblaster:Attack#1" value="Sobrecarregando incineradores."/>
+	<entry name="SpaceMarines/PrimarisHellblaster:Attack#2" value="Caçadores de armadura."/>
+	<entry name="SpaceMarines/PrimarisHellblaster:Attack#3" value="Derretendo Seus inimigos."/>
 	<entry name="SpaceMarines/PrimarisHellblaster:AttackCount" value="4"/>
-	<entry name="SpaceMarines/PrimarisHellblaster:Broken#0" value="A final stand, then."/>
+	<entry name="SpaceMarines/PrimarisHellblaster:Broken#0" value="Uma última resistência, então."/>
 	<entry name="SpaceMarines/PrimarisHellblaster:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisHellblaster:Hurt#0" value="Inevitable."/>
+	<entry name="SpaceMarines/PrimarisHellblaster:Hurt#0" value="Inevitável."/>
 	<entry name="SpaceMarines/PrimarisHellblaster:HurtCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisHellblaster:Idle#0" value="Cooling the relics."/>
-	<entry name="SpaceMarines/PrimarisHellblaster:Idle#1" value="Sacred fusion."/>
-	<entry name="SpaceMarines/PrimarisHellblaster:Idle#2" value="They shall not have this world."/>
-	<entry name="SpaceMarines/PrimarisHellblaster:Idle#3" value="Stabilizing containment fields."/>
+	<entry name="SpaceMarines/PrimarisHellblaster:Idle#0" value="Resfriando as relíquias."/>
+	<entry name="SpaceMarines/PrimarisHellblaster:Idle#1" value="Fusão sagrada."/>
+	<entry name="SpaceMarines/PrimarisHellblaster:Idle#2" value="Eles não terão este mundo."/>
+	<entry name="SpaceMarines/PrimarisHellblaster:Idle#3" value="Estabilizando campos de contenção."/>
 	<entry name="SpaceMarines/PrimarisHellblaster:IdleCount" value="4"/>
-	<entry name="SpaceMarines/PrimarisHellblaster:Shaken#0" value="Coils… destabilising."/>
+	<entry name="SpaceMarines/PrimarisHellblaster:Shaken#0" value="Bobinas... desestabilizando."/>
 	<entry name="SpaceMarines/PrimarisHellblaster:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisHellblaster:Victory#0" value="Foes incinerated."/>
+	<entry name="SpaceMarines/PrimarisHellblaster:Victory#0" value="Inimigos incinerados."/>
 	<entry name="SpaceMarines/PrimarisHellblaster:VictoryCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisInceptor:Attack#0" value="Orbital support."/>
-	<entry name="SpaceMarines/PrimarisInceptor:Attack#1" value="Establishing beachhead."/>
-	<entry name="SpaceMarines/PrimarisInceptor:Attack#2" value="Interceding!"/>
-	<entry name="SpaceMarines/PrimarisInceptor:Attack#3" value="Raining fiery vengeance."/>
+	<entry name="SpaceMarines/PrimarisInceptor:Attack#0" value="Apoio orbital."/>
+	<entry name="SpaceMarines/PrimarisInceptor:Attack#1" value="Estabelecendo cabeça de praia."/>
+	<entry name="SpaceMarines/PrimarisInceptor:Attack#2" value="Interceptando!"/>
+	<entry name="SpaceMarines/PrimarisInceptor:Attack#3" value="Chovendo vingança ardente."/>
 	<entry name="SpaceMarines/PrimarisInceptor:AttackCount" value="4"/>
-	<entry name="SpaceMarines/PrimarisInceptor:Broken#0" value="To the skies."/>
+	<entry name="SpaceMarines/PrimarisInceptor:Broken#0" value="Para os céus."/>
 	<entry name="SpaceMarines/PrimarisInceptor:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisInceptor:Hurt#0" value="Exfiltrating!"/>
+	<entry name="SpaceMarines/PrimarisInceptor:Hurt#0" value="Exfiltrando!"/>
 	<entry name="SpaceMarines/PrimarisInceptor:HurtCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisInceptor:Idle#0" value="Waiting to drop."/>
+	<entry name="SpaceMarines/PrimarisInceptor:Idle#0" value="Esperando para descer."/>
 	<entry name="SpaceMarines/PrimarisInceptor:Idle#1" value="Ready to strike."/>
 	<entry name="SpaceMarines/PrimarisInceptor:Idle#2" value="For the Chapter!"/>
 	<entry name="SpaceMarines/PrimarisInceptor:Idle#3" value="Unnumbered Sons no more."/>
