@@ -3695,60 +3695,60 @@
 	<entry name="Drukhari/Scourge:ShakenCount" value="1"/>
 	<entry name="Drukhari/Scourge:Victory#0" value="Escutem esses gritoooos, ahh..."/>
 	<entry name="Drukhari/Scourge:VictoryCount" value="1"/>
-	<entry name="Drukhari/Succubus:Attack#0" value="Are you not entertained?"/>
-	<entry name="Drukhari/Succubus:Attack#1" value="More suitors? Eh."/>
-	<entry name="Drukhari/Succubus:Attack#2" value="You who are about to die… I salute you."/>
-	<entry name="Drukhari/Succubus:Attack#3" value="What poor challenge you are!"/>
+	<entry name="Drukhari/Succubus:Attack#0" value="Vocês não estão entretidos?"/>
+	<entry name="Drukhari/Succubus:Attack#1" value="Mais pretendentes? Ah."/>
+	<entry name="Drukhari/Succubus:Attack#2" value="Vocês que estão prestes a morrer... eu os saúdo."/>
+	<entry name="Drukhari/Succubus:Attack#3" value="Que desafio pobre vocês são!"/>
 	<entry name="Drukhari/Succubus:AttackCount" value="4"/>
-	<entry name="Drukhari/Succubus:Broken#0" value="I will not risk smudging my rouge!"/>
+	<entry name="Drukhari/Succubus:Broken#0" value="Não vou arriscar borrar meu rouge!"/>
 	<entry name="Drukhari/Succubus:BrokenCount" value="1"/>
-	<entry name="Drukhari/Succubus:Hurt#0" value="They scarred me!"/>
+	<entry name="Drukhari/Succubus:Hurt#0" value="Eles me cicatrizaram!"/>
 	<entry name="Drukhari/Succubus:HurtCount" value="1"/>
-	<entry name="Drukhari/Succubus:Idle#0" value="More fan mail. Yawn."/>
-	<entry name="Drukhari/Succubus:Idle#1" value="Commorragh is the mob. And I control them."/>
-	<entry name="Drukhari/Succubus:Idle#2" value="Tell the Archon I require more sweetmeats."/>
-	<entry name="Drukhari/Succubus:Idle#3" value="Ugh, I long to return to civilization, to true suffering."/>
-	<entry name="Drukhari/Succubus:Idle#4" value="Shadows and dust. Fear and wonder."/>
+	<entry name="Drukhari/Succubus:Idle#0" value="Mais cartas de fãs. Bocejo."/>
+	<entry name="Drukhari/Succubus:Idle#1" value="Commorragh é a multidão. E eu as controlo."/>
+	<entry name="Drukhari/Succubus:Idle#2" value="Digam ao Arconte que preciso de mais iguarias."/>
+	<entry name="Drukhari/Succubus:Idle#3" value="Ugh, anseio retornar à civilização, ao verdadeiro sofrimento."/>
+	<entry name="Drukhari/Succubus:Idle#4" value="Sombras e pó. Medo e maravilha."/>
 	<entry name="Drukhari/Succubus:IdleCount" value="5"/>
-	<entry name="Drukhari/Succubus:Shaken#0" value="We Brides of Death do not meet our spouse!"/>
+	<entry name="Drukhari/Succubus:Shaken#0" value="Nós, Noivas da Morte, não encontramos nosso esposo!"/>
 	<entry name="Drukhari/Succubus:ShakenCount" value="1"/>
-	<entry name="Drukhari/Succubus:Victory#0" value="I have… a talent for survival."/>
+	<entry name="Drukhari/Succubus:Victory#0" value="Eu tenho... um talento para sobrevivência."/>
 	<entry name="Drukhari/Succubus:VictoryCount" value="1"/>
-	<entry name="Drukhari/Tantalus:Attack#0" value="Fire the pulse disintegrators!"/>
-	<entry name="Drukhari/Tantalus:Attack#1" value="See how the enemies part like waves?"/>
-	<entry name="Drukhari/Tantalus:Attack#2" value="Tighten the aethersails! Chase them down!"/>
-	<entry name="Drukhari/Tantalus:Attack#3" value="Turn and look to windward."/>
+	<entry name="Drukhari/Tantalus:Attack#0" value="Disparem os desintegradores de pulso!"/>
+	<entry name="Drukhari/Tantalus:Attack#1" value="Vejam como os inimigos se separam como ondas?"/>
+	<entry name="Drukhari/Tantalus:Attack#2" value="Apertem as velas etéreas! Persigam-nos!"/>
+	<entry name="Drukhari/Tantalus:Attack#3" value="Virem e olhem para barlavento."/>
 	<entry name="Drukhari/Tantalus:AttackCount" value="4"/>
-	<entry name="Drukhari/Tantalus:Broken#0" value="Preserve the ship!"/>
+	<entry name="Drukhari/Tantalus:Broken#0" value="Preservem a nave!"/>
 	<entry name="Drukhari/Tantalus:BrokenCount" value="1"/>
-	<entry name="Drukhari/Tantalus:Hurt#0" value="The hull is breached! We sink…"/>
+	<entry name="Drukhari/Tantalus:Hurt#0" value="O casco foi rompido! Nós afundamos..."/>
 	<entry name="Drukhari/Tantalus:HurtCount" value="1"/>
-	<entry name="Drukhari/Tantalus:Idle#0" value="Sharpen the scythevanes."/>
-	<entry name="Drukhari/Tantalus:Idle#1" value="Careful! A scratch and the Archon will…"/>
-	<entry name="Drukhari/Tantalus:Idle#2" value="A design of the Dark Mirror Kabal. Long gone."/>
-	<entry name="Drukhari/Tantalus:Idle#3" value="Such pleasure, in its sailing."/>
+	<entry name="Drukhari/Tantalus:Idle#0" value="Afiem as foices-leme."/>
+	<entry name="Drukhari/Tantalus:Idle#1" value="Cuidado! Um arranhão e o Arconte vai..."/>
+	<entry name="Drukhari/Tantalus:Idle#2" value="Um design do Kabal do Espelho Sombrio. Há muito desaparecido."/>
+	<entry name="Drukhari/Tantalus:Idle#3" value="Tal prazer, em sua navegação."/>
 	<entry name="Drukhari/Tantalus:IdleCount" value="4"/>
-	<entry name="Drukhari/Tantalus:Shaken#0" value="The wind has dropped!"/>
+	<entry name="Drukhari/Tantalus:Shaken#0" value="O vento cessou!"/>
 	<entry name="Drukhari/Tantalus:ShakenCount" value="1"/>
-	<entry name="Drukhari/Tantalus:Victory#0" value="Consider the fallen, once tall and proud as you."/>
+	<entry name="Drukhari/Tantalus:Victory#0" value="Considerem os caídos, outrora altos e orgulhosos como vocês."/>
 	<entry name="Drukhari/Tantalus:VictoryCount" value="1"/>
-	<entry name="Drukhari/VoidravenBomber:Attack#0" value="Bombs away. Don't look at the darklight!"/>
-	<entry name="Drukhari/VoidravenBomber:Attack#1" value="Void lance firing. Void mine ready."/>
-	<entry name="Drukhari/VoidravenBomber:Attack#2" value="The gunner commands."/>
-	<entry name="Drukhari/VoidravenBomber:Attack#3" value="In silence, we soar."/>
+	<entry name="Drukhari/VoidravenBomber:Attack#0" value="Bombas lançadas. Não olhem para a luz sombria!"/>
+	<entry name="Drukhari/VoidravenBomber:Attack#1" value="Lança do vazio disparando. Mina do vazio pronta."/>
+	<entry name="Drukhari/VoidravenBomber:Attack#2" value="O artilheiro comanda."/>
+	<entry name="Drukhari/VoidravenBomber:Attack#3" value="Em silêncio, nós voamos."/>
 	<entry name="Drukhari/VoidravenBomber:AttackCount" value="4"/>
-	<entry name="Drukhari/VoidravenBomber:Broken#0" value="Away, they pull us down!"/>
+	<entry name="Drukhari/VoidravenBomber:Broken#0" value="Fora, eles nos puxam para baixo!"/>
 	<entry name="Drukhari/VoidravenBomber:BrokenCount" value="1"/>
-	<entry name="Drukhari/VoidravenBomber:Hurt#0" value="Do not interrupt my work!"/>
+	<entry name="Drukhari/VoidravenBomber:Hurt#0" value="Não interrompam meu trabalho!"/>
 	<entry name="Drukhari/VoidravenBomber:HurtCount" value="1"/>
-	<entry name="Drukhari/VoidravenBomber:Idle#0" value="Pilot and Gunner."/>
-	<entry name="Drukhari/VoidravenBomber:Idle#1" value="I must compose my next symphony of destruction."/>
-	<entry name="Drukhari/VoidravenBomber:Idle#2" value="Silence the engines. Give them the prize of surprise."/>
-	<entry name="Drukhari/VoidravenBomber:Idle#3" value="Be careful with the antimatter, you fools!"/>
+	<entry name="Drukhari/VoidravenBomber:Idle#0" value="Piloto e Artilheiro."/>
+	<entry name="Drukhari/VoidravenBomber:Idle#1" value="Devo compor minha próxima sinfonia de destruição."/>
+	<entry name="Drukhari/VoidravenBomber:Idle#2" value="Silenciem os motores. Dem-lhes o prêmio da surpresa."/>
+	<entry name="Drukhari/VoidravenBomber:Idle#3" value="Tenham cuidado com a antimatéria, tolos!"/>
 	<entry name="Drukhari/VoidravenBomber:IdleCount" value="4"/>
-	<entry name="Drukhari/VoidravenBomber:Shaken#0" value="An artist cannot work like this!"/>
+	<entry name="Drukhari/VoidravenBomber:Shaken#0" value="Um artista não pode trabalhar assim!"/>
 	<entry name="Drukhari/VoidravenBomber:ShakenCount" value="1"/>
-	<entry name="Drukhari/VoidravenBomber:Victory#0" value="A smoking crater concludes my piece."/>
+	<entry name="Drukhari/VoidravenBomber:Victory#0" value="Uma cratera fumegante conclui minha peça."/>
 	<entry name="Drukhari/VoidravenBomber:VictoryCount" value="1"/>
 	<entry name="Drukhari/Wrack:Attack#0" value="Realspace creatures…"/>
 	<entry name="Drukhari/Wrack:Attack#1" value="Ever-changing torment."/>
