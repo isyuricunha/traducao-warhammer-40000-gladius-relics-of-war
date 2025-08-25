@@ -1025,26 +1025,26 @@
 	<entry name="Necrons/Monolith:IdleCount" value="6"/>
 	<entry name="Necrons/Monolith:Shaken#0" value="Sob ataque. Comprometido."/>
 	<entry name="Necrons/Monolith:ShakenCount" value="1"/>
-	<entry name="Necrons/Monolith:Victory#0" value="Eliminated foe. As expected."/>
+	<entry name="Necrons/Monolith:Victory#0" value="Inimigo eliminado. Como esperado."/>
 	<entry name="Necrons/Monolith:VictoryCount" value="1"/>
 	<entry name="Necrons/NightScythe" value="Necrons/DoomScythe"/>
 	<entry name="Necrons/Obelisk" value="Necrons/Monolith"/>
-	<entry name="Necrons/TesseractVault:Attack#0" value="Feel the fury of a Star God!"/>
+	<entry name="Necrons/TesseractVault:Attack#0" value="Sintam a fúria de um Deus Estelar!"/>
 	<entry name="Necrons/TesseractVault:AttackCount" value="1"/>
-	<entry name="Necrons/TesseractVault:Broken#0" value="I am almost free!"/>
+	<entry name="Necrons/TesseractVault:Broken#0" value="Estou quase livre!"/>
 	<entry name="Necrons/TesseractVault:BrokenCount" value="1"/>
-	<entry name="Necrons/TesseractVault:EnemyFaction:Necrons#0" value="Turn me against the Necrons? Foolish creatures."/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:Necrons#0" value="Me virar contra os Necrons? Criaturas tolas."/>
 	<entry name="Necrons/TesseractVault:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Necrons/TesseractVault:EnemyFaction:Orks#0" value="Contemptible beasts."/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:Orks#0" value="Bestas desprezíveis."/>
 	<entry name="Necrons/TesseractVault:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Necrons/TesseractVault:EnemyFaction:SpaceMarines#0" value="Their lives are mine."/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:SpaceMarines#0" value="Suas vidas são minhas."/>
 	<entry name="Necrons/TesseractVault:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/TesseractVault:Hurt#0" value="My prison weakens…"/>
+	<entry name="Necrons/TesseractVault:Hurt#0" value="Minha prisão enfraquece..."/>
 	<entry name="Necrons/TesseractVault:HurtCount" value="1"/>
-	<entry name="Necrons/TesseractVault:Idle#0" value="Sentinels, scarabs, leeches… all this for me?"/>
-	<entry name="Necrons/TesseractVault:Idle#1" value="Oh, set me free?"/>
-	<entry name="Necrons/TesseractVault:Idle#2" value="This prison CANNOT HOLD ME."/>
-	<entry name="Necrons/TesseractVault:Idle#3" value="I am so… diminished. I was a star god!"/>
+	<entry name="Necrons/TesseractVault:Idle#0" value="Sentinelas, escaravelhos, sanguessugas... tudo isso para mim?"/>
+	<entry name="Necrons/TesseractVault:Idle#1" value="Oh, me libertem?"/>
+	<entry name="Necrons/TesseractVault:Idle#2" value="Esta prisão NÃO PODE ME CONTER."/>
+	<entry name="Necrons/TesseractVault:Idle#3" value="Estou tão... diminuído. Eu era um deus estelar!"/>
 	<entry name="Necrons/TesseractVault:Idle#4" value="I am a star god. Let me blow your mind."/>
 	<entry name="Necrons/TesseractVault:IdleCount" value="5"/>
 	<entry name="Necrons/TesseractVault:Shaken#0" value="Yes, destroy my prison…"/>
