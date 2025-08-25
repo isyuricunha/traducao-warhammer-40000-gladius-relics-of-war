@@ -1147,19 +1147,19 @@
 	<entry name="Necrons/Warrior:QuestStory4Count" value="1"/>
 	<entry name="Necrons/Warrior:QuestStory5#0" value="Mephet'ran? Mensageiro! Enganador! Ladrão de almas!"/>
 	<entry name="Necrons/Warrior:QuestStory5Count" value="1"/>
-	<entry name="Necrons/Warrior:Shaken#0" value="A lesser race would flee."/>
-	<entry name="Necrons/Warrior:Shaken#1" value="The Triarchs did not brief us on this."/>
-	<entry name="Necrons/Warrior:Shaken#2" value="This is not possible. We are… losing?"/>
-	<entry name="Necrons/Warrior:Shaken#3" value="We are beyond fear."/>
+	<entry name="Necrons/Warrior:Shaken#0" value="Uma raça inferior fugiria."/>
+	<entry name="Necrons/Warrior:Shaken#1" value="Os Triarcas não nos informaram sobre isso."/>
+	<entry name="Necrons/Warrior:Shaken#2" value="Isso não é possível. Estamos... perdendo?"/>
+	<entry name="Necrons/Warrior:Shaken#3" value="Estamos além do medo."/>
 	<entry name="Necrons/Warrior:ShakenCount" value="4"/>
-	<entry name="Necrons/Warrior:Victory#0" value="Acceptable losses. Their losses."/>
-	<entry name="Necrons/Warrior:Victory#1" value="As predicted, we are victorious."/>
-	<entry name="Necrons/Warrior:Victory#2" value="Eliminated."/>
-	<entry name="Necrons/Warrior:Victory#3" value="For the Silent King and for my Lord."/>
-	<entry name="Necrons/Warrior:Victory#4" value="My Lord, the enemy proves weak."/>
-	<entry name="Necrons/Warrior:Victory#5" value="The Old Ones spawned such fragile flesh."/>
-	<entry name="Necrons/Warrior:Victory#6" value="They shall know the Necrons and know fear."/>
-	<entry name="Necrons/Warrior:Victory#7" value="To win so easily is… unsatisfying."/>
+	<entry name="Necrons/Warrior:Victory#0" value="Perdas aceitáveis. As perdas deles."/>
+	<entry name="Necrons/Warrior:Victory#1" value="Como previsto, somos vitoriosos."/>
+	<entry name="Necrons/Warrior:Victory#2" value="Eliminados."/>
+	<entry name="Necrons/Warrior:Victory#3" value="Pelo Rei Silencioso e pelo meu Senhor."/>
+	<entry name="Necrons/Warrior:Victory#4" value="Meu Senhor, o inimigo se mostra fraco."/>
+	<entry name="Necrons/Warrior:Victory#5" value="Os Antigos geraram carne tão frágil."/>
+	<entry name="Necrons/Warrior:Victory#6" value="Eles conhecerão os Necrons e conhecerão o medo."/>
+	<entry name="Necrons/Warrior:Victory#7" value="Vencer tão facilmente é... insatisfatório."/>
 	<entry name="Necrons/Warrior:VictoryCount" value="8"/>
 	<entry name="Neutral/Ambull:Attack#0" value="Roekoe!"/>
 	<entry name="Neutral/Ambull:AttackCount" value="1"/>
