@@ -2879,172 +2879,172 @@
 	<entry name="Eldar/AvatarOfKhaine:ShakenCount" value="1"/>
 	<entry name="Eldar/AvatarOfKhaine:Victory#0" value="KHAINE OS TEM AGORA."/>
 	<entry name="Eldar/AvatarOfKhaine:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/Ratling:Attack#0" value="Guide our aim oh Emperor."/>
-	<entry name="AstraMilitarum/Ratling:Attack#1" value="Longshooters."/>
-	<entry name="AstraMilitarum/Ratling:Attack#2" value="If we can see it, we can hit it."/>
-	<entry name="AstraMilitarum/Ratling:Attack#3" value="Like shooting tarcks in a pot."/>
+	<entry name="AstraMilitarum/Ratling:Attack#0" value="Guie nossa mira, ó Imperador."/>
+	<entry name="AstraMilitarum/Ratling:Attack#1" value="Atiradores de longa distância."/>
+	<entry name="AstraMilitarum/Ratling:Attack#2" value="Se podemos ver, podemos acertar."/>
+	<entry name="AstraMilitarum/Ratling:Attack#3" value="Como atirar em alvos num pote."/>
 	<entry name="AstraMilitarum/Ratling:AttackCount" value="4"/>
-	<entry name="AstraMilitarum/Ratling:Broken#0" value="We're outta here!"/>
+	<entry name="AstraMilitarum/Ratling:Broken#0" value="Estamos fora daqui!"/>
 	<entry name="AstraMilitarum/Ratling:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Ratling:Hurt#0" value="Get us out of the frontlines!"/>
+	<entry name="AstraMilitarum/Ratling:Hurt#0" value="Tirem-nos da linha de frente!"/>
 	<entry name="AstraMilitarum/Ratling:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Ratling:Idle#0" value="Amasec seconds? Don't mind if I do."/>
-	<entry name="AstraMilitarum/Ratling:Idle#1" value="There's good eating on a Grox, y'know?"/>
-	<entry name="AstraMilitarum/Ratling:Idle#2" value="This? I didn't take it! Don't tell the Commissar!"/>
-	<entry name="AstraMilitarum/Ratling:Idle#3" value="Ante up and don't tell Sarge."/>
+	<entry name="AstraMilitarum/Ratling:Idle#0" value="Segundas de amasec? Não me importo."/>
+	<entry name="AstraMilitarum/Ratling:Idle#1" value="Há boa comida num Grox, sabem?"/>
+	<entry name="AstraMilitarum/Ratling:Idle#2" value="Isto? Eu não peguei! Não contem ao Comissário!"/>
+	<entry name="AstraMilitarum/Ratling:Idle#3" value="Apostem e não contem ao Sargento."/>
 	<entry name="AstraMilitarum/Ratling:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/Ratling:Shaken#0" value="Keep us safe and we'll keep you safe."/>
+	<entry name="AstraMilitarum/Ratling:Shaken#0" value="Nos mantenham seguros e os manteremos seguros."/>
 	<entry name="AstraMilitarum/Ratling:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Ratling:Victory#0" value="Through the eye! I think that deserves extra rations."/>
+	<entry name="AstraMilitarum/Ratling:Victory#0" value="Bem no olho! Acho que isso merece rações extras."/>
 	<entry name="AstraMilitarum/Ratling:VictoryCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosCultist:Attack#0" value="In the name of the Dark Gods!"/>
-	<entry name="ChaosSpaceMarines/ChaosCultist:Attack#1" value="Glory to the four!"/>
-	<entry name="ChaosSpaceMarines/ChaosCultist:Attack#2" value="Our souls are forfeit!"/>
-	<entry name="ChaosSpaceMarines/ChaosCultist:Attack#3" value="Gore for the gore lord."/>
+	<entry name="ChaosSpaceMarines/ChaosCultist:Attack#0" value="Em nome dos Deuses Sombrios!"/>
+	<entry name="ChaosSpaceMarines/ChaosCultist:Attack#1" value="Glória aos quatro!"/>
+	<entry name="ChaosSpaceMarines/ChaosCultist:Attack#2" value="Nossas almas estão perdidas!"/>
+	<entry name="ChaosSpaceMarines/ChaosCultist:Attack#3" value="Sangue para o senhor do sangue."/>
 	<entry name="ChaosSpaceMarines/ChaosCultist:AttackCount" value="4"/>
-	<entry name="ChaosSpaceMarines/ChaosCultist:Broken#0" value="Lords, protect us!"/>
+	<entry name="ChaosSpaceMarines/ChaosCultist:Broken#0" value="Senhores, protejam-nos!"/>
 	<entry name="ChaosSpaceMarines/ChaosCultist:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosCultist:Hurt#0" value="A sacrifice to Chaos Undivided!"/>
+	<entry name="ChaosSpaceMarines/ChaosCultist:Hurt#0" value="Um sacrifício ao Caos Indiviso!"/>
 	<entry name="ChaosSpaceMarines/ChaosCultist:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosCultist:Idle#0" value="Do you ever wonder… never mind."/>
-	<entry name="ChaosSpaceMarines/ChaosCultist:Idle#1" value="Nurgle, lord of flies."/>
-	<entry name="ChaosSpaceMarines/ChaosCultist:Idle#2" value="To Tzeentch, changer of ways."/>
-	<entry name="ChaosSpaceMarines/ChaosCultist:Idle#3" value="For the glory of the Perfect Prince."/>
+	<entry name="ChaosSpaceMarines/ChaosCultist:Idle#0" value="Vocês já se perguntaram... deixa pra lá."/>
+	<entry name="ChaosSpaceMarines/ChaosCultist:Idle#1" value="Nurgle, senhor das moscas."/>
+	<entry name="ChaosSpaceMarines/ChaosCultist:Idle#2" value="Para Tzeentch, mudador de caminhos."/>
+	<entry name="ChaosSpaceMarines/ChaosCultist:Idle#3" value="Para a glória do Príncipe Perfeito."/>
 	<entry name="ChaosSpaceMarines/ChaosCultist:IdleCount" value="4"/>
-	<entry name="ChaosSpaceMarines/ChaosCultist:Shaken#0" value="Where are our gods?"/>
+	<entry name="ChaosSpaceMarines/ChaosCultist:Shaken#0" value="Onde estão nossos deuses?"/>
 	<entry name="ChaosSpaceMarines/ChaosCultist:ShakenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosCultist:Victory#0" value="Glory, glory, glory!"/>
+	<entry name="ChaosSpaceMarines/ChaosCultist:Victory#0" value="Glória, glória, glória!"/>
 	<entry name="ChaosSpaceMarines/ChaosCultist:VictoryCount" value="1"/>
-	<entry name="ChaosSpaceMarines/DarkDisciple:Attack#0" value="Feel my lash!"/>
-	<entry name="ChaosSpaceMarines/DarkDisciple:Attack#1" value="The abyss is calling."/>
-	<entry name="ChaosSpaceMarines/DarkDisciple:Attack#2" value="No sin can go unperformed."/>
-	<entry name="ChaosSpaceMarines/DarkDisciple:Attack#3" value="To Lorgar's glory!"/>
+	<entry name="ChaosSpaceMarines/DarkDisciple:Attack#0" value="Sintam meu chicote!"/>
+	<entry name="ChaosSpaceMarines/DarkDisciple:Attack#1" value="O abismo está chamando."/>
+	<entry name="ChaosSpaceMarines/DarkDisciple:Attack#2" value="Nenhum pecado pode ficar sem ser cometido."/>
+	<entry name="ChaosSpaceMarines/DarkDisciple:Attack#3" value="Para a glória de Lorgar!"/>
 	<entry name="ChaosSpaceMarines/DarkDisciple:AttackCount" value="4"/>
-	<entry name="ChaosSpaceMarines/DarkDisciple:Broken#0" value="I see into the warp, oh…"/>
+	<entry name="ChaosSpaceMarines/DarkDisciple:Broken#0" value="Vejo dentro do Warp, oh..."/>
 	<entry name="ChaosSpaceMarines/DarkDisciple:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/DarkDisciple:Hurt#0" value="Such holy ecstasy!"/>
+	<entry name="ChaosSpaceMarines/DarkDisciple:Hurt#0" value="Que êxtase sagrado!"/>
 	<entry name="ChaosSpaceMarines/DarkDisciple:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/DarkDisciple:Idle#0" value="Ritual sacrifice takes time."/>
-	<entry name="ChaosSpaceMarines/DarkDisciple:Idle#1" value="Mankind is doomed. Chaos is our salvation."/>
-	<entry name="ChaosSpaceMarines/DarkDisciple:Idle#2" value="Through Chaos, eternal life!"/>
-	<entry name="ChaosSpaceMarines/DarkDisciple:Idle#3" value="The truth of the universe is at hand!"/>
+	<entry name="ChaosSpaceMarines/DarkDisciple:Idle#0" value="Sacrifício ritual leva tempo."/>
+	<entry name="ChaosSpaceMarines/DarkDisciple:Idle#1" value="A humanidade está condenada. O Caos é nossa salvação."/>
+	<entry name="ChaosSpaceMarines/DarkDisciple:Idle#2" value="Através do Caos, vida eterna!"/>
+	<entry name="ChaosSpaceMarines/DarkDisciple:Idle#3" value="A verdade do universo está ao alcance!"/>
 	<entry name="ChaosSpaceMarines/DarkDisciple:IdleCount" value="4"/>
-	<entry name="ChaosSpaceMarines/DarkDisciple:Shaken#0" value="Such mysteries yet to discover…"/>
+	<entry name="ChaosSpaceMarines/DarkDisciple:Shaken#0" value="Tantos mistérios ainda para descobrir..."/>
 	<entry name="ChaosSpaceMarines/DarkDisciple:ShakenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/DarkDisciple:Victory#0" value="Strange visions assail me…"/>
+	<entry name="ChaosSpaceMarines/DarkDisciple:Victory#0" value="Visões estranhas me assaltam..."/>
 	<entry name="ChaosSpaceMarines/DarkDisciple:VictoryCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Headquarters:Attack#0" value="They dare to come before us!"/>
-	<entry name="ChaosSpaceMarines/Headquarters:Attack#1" value="Fools, fodder!"/>
-	<entry name="ChaosSpaceMarines/Headquarters:Attack#2" value="We will make charnel of your bones!"/>
-	<entry name="ChaosSpaceMarines/Headquarters:Attack#3" value="Endless war!"/>
+	<entry name="ChaosSpaceMarines/Headquarters:Attack#0" value="Eles ousam vir diante de nós!"/>
+	<entry name="ChaosSpaceMarines/Headquarters:Attack#1" value="Tolos, forragem!"/>
+	<entry name="ChaosSpaceMarines/Headquarters:Attack#2" value="Faremos um ossuário de seus ossos!"/>
+	<entry name="ChaosSpaceMarines/Headquarters:Attack#3" value="Guerra infinita!"/>
 	<entry name="ChaosSpaceMarines/Headquarters:AttackCount" value="4"/>
-	<entry name="ChaosSpaceMarines/Headquarters:Broken#0" value="Impossible!"/>
+	<entry name="ChaosSpaceMarines/Headquarters:Broken#0" value="Impossível!"/>
 	<entry name="ChaosSpaceMarines/Headquarters:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Headquarters:Hurt#0" value="They have breached the walls!"/>
+	<entry name="ChaosSpaceMarines/Headquarters:Hurt#0" value="Eles romperam as muralhas!"/>
 	<entry name="ChaosSpaceMarines/Headquarters:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Headquarters:Idle#0" value="Liquidating loyalists."/>
-	<entry name="ChaosSpaceMarines/Headquarters:Idle#1" value="Eyes without skulls."/>
-	<entry name="ChaosSpaceMarines/Headquarters:Idle#2" value="Skulls without eyes."/>
-	<entry name="ChaosSpaceMarines/Headquarters:Idle#3" value="The masses will bow before us."/>
+	<entry name="ChaosSpaceMarines/Headquarters:Idle#0" value="Liquidando lealistas."/>
+	<entry name="ChaosSpaceMarines/Headquarters:Idle#1" value="Olhos sem crânios."/>
+	<entry name="ChaosSpaceMarines/Headquarters:Idle#2" value="Crânios sem olhos."/>
+	<entry name="ChaosSpaceMarines/Headquarters:Idle#3" value="As massas se curvarão diante de nós."/>
 	<entry name="ChaosSpaceMarines/Headquarters:IdleCount" value="4"/>
-	<entry name="ChaosSpaceMarines/Headquarters:Shaken#0" value="We cannot fail, corpse-lovers!"/>
+	<entry name="ChaosSpaceMarines/Headquarters:Shaken#0" value="Não podemos falhar, amantes de cadáveres!"/>
 	<entry name="ChaosSpaceMarines/Headquarters:ShakenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Headquarters:Victory#0" value="So die all who face us."/>
+	<entry name="ChaosSpaceMarines/Headquarters:Victory#0" value="Assim morrem todos que nos enfrentam."/>
 	<entry name="ChaosSpaceMarines/Headquarters:VictoryCount" value="1"/>
-	<entry name="Eldar/Warlock:Attack#0" value="Singing spear, duelling death."/>
-	<entry name="Eldar/Warlock:Attack#1" value="The flames of our fury cleanse them."/>
-	<entry name="Eldar/Warlock:Attack#2" value="Our spears sing."/>
-	<entry name="Eldar/Warlock:Attack#3" value="The mind is our greatest weapon."/>
+	<entry name="Eldar/Warlock:Attack#0" value="Lança cantante, duelando com a morte."/>
+	<entry name="Eldar/Warlock:Attack#1" value="As chamas de nossa fúria os purificam."/>
+	<entry name="Eldar/Warlock:Attack#2" value="Nossas lanças cantam."/>
+	<entry name="Eldar/Warlock:Attack#3" value="A mente é nossa maior arma."/>
 	<entry name="Eldar/Warlock:AttackCount" value="4"/>
-	<entry name="Eldar/Warlock:Broken#0" value="Back, to the Craftworld."/>
+	<entry name="Eldar/Warlock:Broken#0" value="De volta, ao Mundo-Artesão."/>
 	<entry name="Eldar/Warlock:BrokenCount" value="1"/>
-	<entry name="Eldar/Warlock:Hurt#0" value="Our cadre falls."/>
+	<entry name="Eldar/Warlock:Hurt#0" value="Nosso esquadrão cai."/>
 	<entry name="Eldar/Warlock:HurtCount" value="1"/>
-	<entry name="Eldar/Warlock:Idle#0" value="Warriors and seers, both."/>
-	<entry name="Eldar/Warlock:Idle#1" value="The great enemy waits in the warp."/>
-	<entry name="Eldar/Warlock:Idle#2" value="I long for the crystal blooms."/>
-	<entry name="Eldar/Warlock:Idle#3" value="I miss the masques of my Craftworld."/>
+	<entry name="Eldar/Warlock:Idle#0" value="Guerreiros e videntes, ambos."/>
+	<entry name="Eldar/Warlock:Idle#1" value="O grande inimigo espera no Warp."/>
+	<entry name="Eldar/Warlock:Idle#2" value="Anseio pelas flores de cristal."/>
+	<entry name="Eldar/Warlock:Idle#3" value="Sinto falta das mascaradas do meu Mundo-Artesão."/>
 	<entry name="Eldar/Warlock:IdleCount" value="4"/>
-	<entry name="Eldar/Warlock:Shaken#0" value="Embolden us, we falter."/>
+	<entry name="Eldar/Warlock:Shaken#0" value="Encorajem-nos, vacilamos."/>
 	<entry name="Eldar/Warlock:ShakenCount" value="1"/>
-	<entry name="Eldar/Warlock:Victory#0" value="We foresaw their fall."/>
+	<entry name="Eldar/Warlock:Victory#0" value="Previmos sua queda."/>
 	<entry name="Eldar/Warlock:VictoryCount" value="1"/>
 	<entry name="Necrons/CanoptekWraith" value="Necrons/CanoptekScarab"/>
 	<entry name="Orks/KillBursta" value="Orks/Battlewagon"/>
 	<entry name="Orks/KrootoxRider" value="Neutral/KrootHound"/>
-	<entry name="SpaceMarines/DevastatorCenturion:Attack#0" value="Aiming for armour, Praise the Emperor."/>
-	<entry name="SpaceMarines/DevastatorCenturion:Attack#1" value="Concentrating fire."/>
-	<entry name="SpaceMarines/DevastatorCenturion:Attack#2" value="Siege specialists in place."/>
-	<entry name="SpaceMarines/DevastatorCenturion:Attack#3" value="Long-range, short odds."/>
+	<entry name="SpaceMarines/DevastatorCenturion:Attack#0" value="Mirando na blindagem, Louvado seja o Imperador."/>
+	<entry name="SpaceMarines/DevastatorCenturion:Attack#1" value="Concentrando fogo."/>
+	<entry name="SpaceMarines/DevastatorCenturion:Attack#2" value="Especialistas em cerco em posição."/>
+	<entry name="SpaceMarines/DevastatorCenturion:Attack#3" value="Longo alcance, poucas chances."/>
 	<entry name="SpaceMarines/DevastatorCenturion:AttackCount" value="4"/>
-	<entry name="SpaceMarines/DevastatorCenturion:Broken#0" value="Suits are holding, but we're falling back."/>
+	<entry name="SpaceMarines/DevastatorCenturion:Broken#0" value="Armaduras resistindo, mas estamos recuando."/>
 	<entry name="SpaceMarines/DevastatorCenturion:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/DevastatorCenturion:Hurt#0" value="Got through the armour… both sets."/>
+	<entry name="SpaceMarines/DevastatorCenturion:Hurt#0" value="Atravessaram a armadura... ambos os conjuntos."/>
 	<entry name="SpaceMarines/DevastatorCenturion:HurtCount" value="1"/>
-	<entry name="SpaceMarines/DevastatorCenturion:Idle#0" value="Advancing, slowly."/>
-	<entry name="SpaceMarines/DevastatorCenturion:Idle#1" value="Taking one suit of armour off."/>
-	<entry name="SpaceMarines/DevastatorCenturion:Idle#2" value="Would that our predecessors had these suits during the Heresy."/>
-	<entry name="SpaceMarines/DevastatorCenturion:Idle#3" value="Preparing siege armour."/>
+	<entry name="SpaceMarines/DevastatorCenturion:Idle#0" value="Avançando, lentamente."/>
+	<entry name="SpaceMarines/DevastatorCenturion:Idle#1" value="Tirando um conjunto de armadura."/>
+	<entry name="SpaceMarines/DevastatorCenturion:Idle#2" value="Quem dera nossos predecessores tivessem essas armaduras durante a Heresia."/>
+	<entry name="SpaceMarines/DevastatorCenturion:Idle#3" value="Preparando armadura de cerco."/>
 	<entry name="SpaceMarines/DevastatorCenturion:IdleCount" value="4"/>
-	<entry name="SpaceMarines/DevastatorCenturion:Shaken#0" value="Suit is under fire, but holding."/>
+	<entry name="SpaceMarines/DevastatorCenturion:Shaken#0" value="Armadura sob fogo, mas resistindo."/>
 	<entry name="SpaceMarines/DevastatorCenturion:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/DevastatorCenturion:Victory#0" value="They are… devastated."/>
+	<entry name="SpaceMarines/DevastatorCenturion:Victory#0" value="Eles estão... devastados."/>
 	<entry name="SpaceMarines/DevastatorCenturion:VictoryCount" value="1"/>
 	<entry name="Tau/TigerShark" value="RazorsharkStrikeFighter"/>
 	<entry name="Tyranids/Venomthrope" value="Tyranids/Carnifex"/>
 	<entry name="AdeptusMechanicus/SicarianInfiltrator:Attack#0" value="Shhhhhh."/>
-	<entry name="AdeptusMechanicus/SicarianInfiltrator:Attack#1" value="Howl: Transonics."/>
-	<entry name="AdeptusMechanicus/SicarianInfiltrator:Attack#2" value="Covered: Neurostatic spectrum."/>
-	<entry name="AdeptusMechanicus/SicarianInfiltrator:Attack#3" value="Crippled: Enemy."/>
+	<entry name="AdeptusMechanicus/SicarianInfiltrator:Attack#1" value="Uivo: Transônicos."/>
+	<entry name="AdeptusMechanicus/SicarianInfiltrator:Attack#2" value="Coberto: Espectro neurostático."/>
+	<entry name="AdeptusMechanicus/SicarianInfiltrator:Attack#3" value="Aleijado: Inimigo."/>
 	<entry name="AdeptusMechanicus/SicarianInfiltrator:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/SicarianInfiltrator:Broken#0" value="Courage: Lost"/>
+	<entry name="AdeptusMechanicus/SicarianInfiltrator:Broken#0" value="Coragem: Perdida"/>
 	<entry name="AdeptusMechanicus/SicarianInfiltrator:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/SicarianInfiltrator:Hurt#0" value="Dying: Again"/>
+	<entry name="AdeptusMechanicus/SicarianInfiltrator:Hurt#0" value="Morrendo: Novamente"/>
 	<entry name="AdeptusMechanicus/SicarianInfiltrator:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#0" value="Idle: Idle."/>
-	<entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#1" value="Data Request: Relax Tapes."/>
-	<entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#2" value="Learn: Lingua Technis."/>
-	<entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#3" value="Avowal: Potential Contender."/>
+	<entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#0" value="Ocioso: Ocioso."/>
+	<entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#1" value="Solicitação de Dados: Fitas de Relaxamento."/>
+	<entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#2" value="Aprender: Lingua Technis."/>
+	<entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#3" value="Declaração: Concorrente Potencial."/>
 	<entry name="AdeptusMechanicus/SicarianInfiltrator:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/SicarianInfiltrator:Shaken#0" value="Danger: Danger."/>
+	<entry name="AdeptusMechanicus/SicarianInfiltrator:Shaken#0" value="Perigo: Perigo."/>
 	<entry name="AdeptusMechanicus/SicarianInfiltrator:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/SicarianInfiltrator:Victory#0" value="Pride: Triumph."/>
+	<entry name="AdeptusMechanicus/SicarianInfiltrator:Victory#0" value="Orgulho: Triunfo."/>
 	<entry name="AdeptusMechanicus/SicarianInfiltrator:VictoryCount" value="1"/>
 	<entry name="Orks/MegatrakkScrapjet:Attack#0" value="Wheeeee, dakkadakkadakka"/>
-	<entry name="Orks/MegatrakkScrapjet:Attack#1" value="Nah, don't run. Get drilled!"/>
-	<entry name="Orks/MegatrakkScrapjet:Attack#2" value="'IT ALL DA BUTTONS"/>
-	<entry name="Orks/MegatrakkScrapjet:Attack#3" value="WAAAGH DA FLYBOYZ!"/>
+	<entry name="Orks/MegatrakkScrapjet:Attack#1" value="Não, não corram. Sejam perfurados!"/>
+	<entry name="Orks/MegatrakkScrapjet:Attack#2" value="APERTA TODOS OS BOTÕES"/>
+	<entry name="Orks/MegatrakkScrapjet:Attack#3" value="WAAAGH DOS VOADORES!"/>
 	<entry name="Orks/MegatrakkScrapjet:AttackCount" value="4"/>
-	<entry name="Orks/MegatrakkScrapjet:Broken#0" value="Crashed, agin?!"/>
+	<entry name="Orks/MegatrakkScrapjet:Broken#0" value="Bateu, de novo?!"/>
 	<entry name="Orks/MegatrakkScrapjet:BrokenCount" value="1"/>
-	<entry name="Orks/MegatrakkScrapjet:Hurt#0" value="Dey blew da doorz off!"/>
+	<entry name="Orks/MegatrakkScrapjet:Hurt#0" value="Eles explodiram as portas!"/>
 	<entry name="Orks/MegatrakkScrapjet:HurtCount" value="1"/>
-	<entry name="Orks/MegatrakkScrapjet:Idle#0" value="Boss sed I'm grounded! I'll show 'im!"/>
-	<entry name="Orks/MegatrakkScrapjet:Idle#1" value="Wish I wuz up dere, so I could shoot dahn 'ere"/>
-	<entry name="Orks/MegatrakkScrapjet:Idle#2" value="WHY AIN'T WE MOVIN?!"/>
-	<entry name="Orks/MegatrakkScrapjet:Idle#3" value="Hmm. Need more bombz."/>
+	<entry name="Orks/MegatrakkScrapjet:Idle#0" value="Chefe disse que tô de castigo! Vou mostrar pra ele!"/>
+	<entry name="Orks/MegatrakkScrapjet:Idle#1" value="Queria tá lá em cima, pra poder atirar aqui embaixo"/>
+	<entry name="Orks/MegatrakkScrapjet:Idle#2" value="POR QUE NÃO TÁMOS MEXENDO?!"/>
+	<entry name="Orks/MegatrakkScrapjet:Idle#3" value="Hmm. Precisa de mais bombas."/>
 	<entry name="Orks/MegatrakkScrapjet:IdleCount" value="4"/>
-	<entry name="Orks/MegatrakkScrapjet:Shaken#0" value="Flak? DAT ALL YEW GOT?"/>
+	<entry name="Orks/MegatrakkScrapjet:Shaken#0" value="Antiaéreo? É SÓ ISSO QUE VOCÊS TÊM?"/>
 	<entry name="Orks/MegatrakkScrapjet:ShakenCount" value="1"/>
-	<entry name="Orks/MegatrakkScrapjet:Victory#0" value="ORKS IZ DA BEST, drill it inta dem."/>
+	<entry name="Orks/MegatrakkScrapjet:Victory#0" value="ORKS SÃO OS MELHORES, perfura isso neles."/>
 	<entry name="Orks/MegatrakkScrapjet:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/DevilDog:Attack#0" value="Look at them melt."/>
-	<entry name="AstraMilitarum/DevilDog:Attack#1" value="Ashes to ashes."/>
-	<entry name="AstraMilitarum/DevilDog:Attack#2" value="Here come the Devil Dogs! Hoo-yah!"/>
-	<entry name="AstraMilitarum/DevilDog:Attack#3" value="Fusion never felt so good."/>
+	<entry name="AstraMilitarum/DevilDog:Attack#0" value="Vejam eles derreterem."/>
+	<entry name="AstraMilitarum/DevilDog:Attack#1" value="Cinzas às cinzas."/>
+	<entry name="AstraMilitarum/DevilDog:Attack#2" value="Aí vêm os Cães do Diabo! Hoo-yah!"/>
+	<entry name="AstraMilitarum/DevilDog:Attack#3" value="Fusão nunca se sentiu tão boa."/>
 	<entry name="AstraMilitarum/DevilDog:AttackCount" value="4"/>
-	<entry name="AstraMilitarum/DevilDog:Broken#0" value="This thing is gonna blow!"/>
+	<entry name="AstraMilitarum/DevilDog:Broken#0" value="Essa coisa vai explodir!"/>
 	<entry name="AstraMilitarum/DevilDog:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/DevilDog:Hurt#0" value="Keep them away from the promethium tanks!"/>
+	<entry name="AstraMilitarum/DevilDog:Hurt#0" value="Mantenham-nos longe dos tanques de promécio!"/>
 	<entry name="AstraMilitarum/DevilDog:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/DevilDog:Idle#0" value="What's cooking?"/>
-	<entry name="AstraMilitarum/DevilDog:Idle#1" value="When do the Hellhounds ship in?"/>
-	<entry name="AstraMilitarum/DevilDog:Idle#2" value="Bane Wolves… those guys scare me."/>
-	<entry name="AstraMilitarum/DevilDog:Idle#3" value="It's cold when the guns ain't firing."/>
+	<entry name="AstraMilitarum/DevilDog:Idle#0" value="O que está cozinhando?"/>
+	<entry name="AstraMilitarum/DevilDog:Idle#1" value="Quando os Cães Infernais chegam?"/>
+	<entry name="AstraMilitarum/DevilDog:Idle#2" value="Lobos da Perdição... esses caras me assustam."/>
+	<entry name="AstraMilitarum/DevilDog:Idle#3" value="Está frio quando as armas não estão disparando."/>
 	<entry name="AstraMilitarum/DevilDog:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/DevilDog:Shaken#0" value="Gun the Vulvanor and get us out of range!"/>
+	<entry name="AstraMilitarum/DevilDog:Shaken#0" value="Acelera o Vulvanor e nos tira do alcance!"/>
 	<entry name="AstraMilitarum/DevilDog:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/DevilDog:Victory#0" value="Superheated air… smells like victory."/>
+	<entry name="AstraMilitarum/DevilDog:Victory#0" value="Ar superaquecido... cheira a vitória."/>
 	<entry name="AstraMilitarum/DevilDog:VictoryCount" value="1"/>
 	<entry name="ChaosSpaceMarines/Forgefiend" value="ChaosSpaceMarines/Defiler"/>
 	<entry name="Tyranids/HiveGuard" value="Tyranids/Carnifex"/>
@@ -3052,105 +3052,105 @@
 	<entry name="SpaceMarines/Scout" value="SpaceMarines/TacticalSpaceMarine"/>
 	<entry name="Necrons/GhostArk" value="Necrons/Monolith"/>
 	<entry name="Eldar/Hornet" value="Eldar/FirePrism"/>
-	<entry name="SistersOfBattle/AvengerStrikeFighter:Attack#0" value="Avenger Strike Fighter reporting."/>
-	<entry name="SistersOfBattle/AvengerStrikeFighter:Attack#1" value="Strafing the enemy, Canoness."/>
-	<entry name="SistersOfBattle/AvengerStrikeFighter:Attack#2" value="Death from the skies, Ma'am."/>
-	<entry name="SistersOfBattle/AvengerStrikeFighter:Attack#3" value="Running low on ammo."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Attack#0" value="Caça de Ataque Vingador reportando."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Attack#1" value="Metralhando o inimigo, Canonisa."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Attack#2" value="Morte dos céus, Senhora."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Attack#3" value="Ficando sem munição."/>
 	<entry name="SistersOfBattle/AvengerStrikeFighter:AttackCount" value="4"/>
-	<entry name="SistersOfBattle/AvengerStrikeFighter:Broken#0" value="Evasive manouvres!"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Broken#0" value="Manobras evasivas!"/>
 	<entry name="SistersOfBattle/AvengerStrikeFighter:BrokenCount" value="1"/>
-	<entry name="SistersOfBattle/AvengerStrikeFighter:Hurt#0" value="They must have AA behind them."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Hurt#0" value="Devem ter antiaéreo atrás deles."/>
 	<entry name="SistersOfBattle/AvengerStrikeFighter:HurtCount" value="1"/>
-	<entry name="SistersOfBattle/AvengerStrikeFighter:Idle#0" value="We have the sun behind us."/>
-	<entry name="SistersOfBattle/AvengerStrikeFighter:Idle#1" value="Unusual secondment, ma'am."/>
-	<entry name="SistersOfBattle/AvengerStrikeFighter:Idle#2" value="Flying high!"/>
-	<entry name="SistersOfBattle/AvengerStrikeFighter:Idle#3" value="Just glad to be alive!"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Idle#0" value="Temos o sol atrás de nós."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Idle#1" value="Destacamento incomum, senhora."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Idle#2" value="Voando alto!"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Idle#3" value="Apenas feliz por estar viva!"/>
 	<entry name="SistersOfBattle/AvengerStrikeFighter:IdleCount" value="4"/>
-	<entry name="SistersOfBattle/AvengerStrikeFighter:Shaken#0" value="From up here… the horror."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Shaken#0" value="Daqui de cima... o horror."/>
 	<entry name="SistersOfBattle/AvengerStrikeFighter:ShakenCount" value="1"/>
-	<entry name="SistersOfBattle/AvengerStrikeFighter:Victory#0" value="Score another one for the naval aces!"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Victory#0" value="Mais uma para os ases navais!"/>
 	<entry name="SistersOfBattle/AvengerStrikeFighter:VictoryCount" value="1"/>
-	<entry name="SistersOfBattle/AvengerStrikeFighter:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="Is… is that the Saint?"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="É... é a Santa?"/>
 	<entry name="SistersOfBattle/AvengerStrikeFighter:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
-	<entry name="SistersOfBattle/BattleSister:Attack#0" value="In the name of the Emperor."/>
-	<entry name="SistersOfBattle/BattleSister:Attack#1" value="The God-Emperor guide my bolt."/>
-	<entry name="SistersOfBattle/BattleSister:Attack#2" value="Unleashing His divine wrath!"/>
-	<entry name="SistersOfBattle/BattleSister:Attack#3" value="Suffer not the heretic to live!"/>
+	<entry name="SistersOfBattle/BattleSister:Attack#0" value="Em nome do Imperador."/>
+	<entry name="SistersOfBattle/BattleSister:Attack#1" value="Que o Deus-Imperador guie meu disparo."/>
+	<entry name="SistersOfBattle/BattleSister:Attack#2" value="Liberando Sua ira divina!"/>
+	<entry name="SistersOfBattle/BattleSister:Attack#3" value="Não permitam que o herege viva!"/>
 	<entry name="SistersOfBattle/BattleSister:AttackCount" value="4"/>
-	<entry name="SistersOfBattle/BattleSister:Broken#0" value="Without faith, we are nothing…"/>
+	<entry name="SistersOfBattle/BattleSister:Broken#0" value="Sem fé, não somos nada..."/>
 	<entry name="SistersOfBattle/BattleSister:BrokenCount" value="1"/>
-	<entry name="SistersOfBattle/BattleSister:Hurt#0" value="Yea, though their blades cut, I fear nothing."/>
+	<entry name="SistersOfBattle/BattleSister:Hurt#0" value="Sim, mesmo que suas lâminas cortem, não temo nada."/>
 	<entry name="SistersOfBattle/BattleSister:HurtCount" value="1"/>
-	<entry name="SistersOfBattle/BattleSister:Idle#0" value="We are the instruments of Salvation."/>
-	<entry name="SistersOfBattle/BattleSister:Idle#1" value="Sisters, let us pray."/>
-	<entry name="SistersOfBattle/BattleSister:Idle#2" value="We should not rest whilst wickedness works."/>
-	<entry name="SistersOfBattle/BattleSister:Idle#3" value="So much, so much heresy… so much work."/>
+	<entry name="SistersOfBattle/BattleSister:Idle#0" value="Somos os instrumentos da Salvação."/>
+	<entry name="SistersOfBattle/BattleSister:Idle#1" value="Irmãs, vamos orar."/>
+	<entry name="SistersOfBattle/BattleSister:Idle#2" value="Não devemos descansar enquanto a maldade atua."/>
+	<entry name="SistersOfBattle/BattleSister:Idle#3" value="Tanta, tanta heresia... tanto trabalho."/>
 	<entry name="SistersOfBattle/BattleSister:IdleCount" value="4"/>
-	<entry name="SistersOfBattle/BattleSister:Shaken#0" value="In nomine Imperia…"/>
+	<entry name="SistersOfBattle/BattleSister:Shaken#0" value="In nomine Imperia..."/>
 	<entry name="SistersOfBattle/BattleSister:ShakenCount" value="1"/>
-	<entry name="SistersOfBattle/BattleSister:Victory#0" value="Rest, foe."/>
+	<entry name="SistersOfBattle/BattleSister:Victory#0" value="Descanse, inimigo."/>
 	<entry name="SistersOfBattle/BattleSister:VictoryCount" value="1"/>
-	<entry name="SistersOfBattle/BattleSister:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="The Saint…? Where she goes, we shall follow!"/>
+	<entry name="SistersOfBattle/BattleSister:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="A Santa...? Onde ela for, nós seguiremos!"/>
 	<entry name="SistersOfBattle/BattleSister:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
-	<entry name="SistersOfBattle/Canoness:Attack#0" value="Give them the Emperor's peace."/>
-	<entry name="SistersOfBattle/Canoness:Attack#1" value="Heretics!"/>
-	<entry name="SistersOfBattle/Canoness:Attack#2" value="Taste my redemption."/>
-	<entry name="SistersOfBattle/Canoness:Attack#3" value="Feel my prayer!"/>
+	<entry name="SistersOfBattle/Canoness:Attack#0" value="Deem-lhes a paz do Imperador."/>
+	<entry name="SistersOfBattle/Canoness:Attack#1" value="Hereges!"/>
+	<entry name="SistersOfBattle/Canoness:Attack#2" value="Provem minha redenção."/>
+	<entry name="SistersOfBattle/Canoness:Attack#3" value="Sintam minha oração!"/>
 	<entry name="SistersOfBattle/Canoness:AttackCount" value="4"/>
-	<entry name="SistersOfBattle/Canoness:Broken#0" value="My… sisters…"/>
+	<entry name="SistersOfBattle/Canoness:Broken#0" value="Minhas... irmãs..."/>
 	<entry name="SistersOfBattle/Canoness:BrokenCount" value="1"/>
-	<entry name="SistersOfBattle/Canoness:Hurt#0" value="I fight… on!"/>
+	<entry name="SistersOfBattle/Canoness:Hurt#0" value="Eu luto... adiante!"/>
 	<entry name="SistersOfBattle/Canoness:HurtCount" value="1"/>
-	<entry name="SistersOfBattle/Canoness:Idle#0" value="Chaos makes work for idle hands."/>
-	<entry name="SistersOfBattle/Canoness:Idle#1" value="We are not without flaw. But we know our sin."/>
-	<entry name="SistersOfBattle/Canoness:Idle#2" value="The holy trinity are my tools… bolter, flamer, melta."/>
-	<entry name="SistersOfBattle/Canoness:Idle#3" value="Redemption is worth any price, my sisters."/>
+	<entry name="SistersOfBattle/Canoness:Idle#0" value="O Caos cria trabalho para mãos ociosas."/>
+	<entry name="SistersOfBattle/Canoness:Idle#1" value="Não somos sem falhas. Mas conhecemos nosso pecado."/>
+	<entry name="SistersOfBattle/Canoness:Idle#2" value="A trindade sagrada são minhas ferramentas... bólter, lança-chamas, melta."/>
+	<entry name="SistersOfBattle/Canoness:Idle#3" value="A redenção vale qualquer preço, minhas irmãs."/>
 	<entry name="SistersOfBattle/Canoness:IdleCount" value="4"/>
-	<entry name="SistersOfBattle/Canoness:Shaken#0" value="I… I cannot."/>
+	<entry name="SistersOfBattle/Canoness:Shaken#0" value="Eu... eu não posso."/>
 	<entry name="SistersOfBattle/Canoness:ShakenCount" value="1"/>
-	<entry name="SistersOfBattle/Canoness:Victory#0" value="Absolution is thine."/>
+	<entry name="SistersOfBattle/Canoness:Victory#0" value="A absolvição é tua."/>
 	<entry name="SistersOfBattle/Canoness:VictoryCount" value="1"/>
-	<entry name="SistersOfBattle/Canoness:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="I lead but she… she inspires."/>
+	<entry name="SistersOfBattle/Canoness:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="Eu lidero, mas ela... ela inspira."/>
 	<entry name="SistersOfBattle/Canoness:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
-	<entry name="SistersOfBattle/Exorcist:Attack#0" value="…a mighty fortress is the Emperor…"/>
-	<entry name="SistersOfBattle/Exorcist:Attack#1" value="…arise, o Adepta Sororitas…"/>
-	<entry name="SistersOfBattle/Exorcist:Attack#2" value="…oh, Emperor, who art our light and day…"/>
-	<entry name="SistersOfBattle/Exorcist:Attack#3" value="…Hark, the glad sound of our weapons."/>
+	<entry name="SistersOfBattle/Exorcist:Attack#0" value="...uma fortaleza poderosa é o Imperador..."/>
+	<entry name="SistersOfBattle/Exorcist:Attack#1" value="...ergam-se, ó Adepta Sororitas..."/>
+	<entry name="SistersOfBattle/Exorcist:Attack#2" value="...oh, Imperador, que és nossa luz e dia..."/>
+	<entry name="SistersOfBattle/Exorcist:Attack#3" value="...Ouçam, o som alegre de nossas armas."/>
 	<entry name="SistersOfBattle/Exorcist:AttackCount" value="4"/>
-	<entry name="SistersOfBattle/Exorcist:Broken#0" value="…Emperor, have mercy."/>
+	<entry name="SistersOfBattle/Exorcist:Broken#0" value="...Imperador, tenha misericórdia."/>
 	<entry name="SistersOfBattle/Exorcist:BrokenCount" value="1"/>
-	<entry name="SistersOfBattle/Exorcist:Hurt#0" value="…from the depths of woe, I cry to thee…"/>
+	<entry name="SistersOfBattle/Exorcist:Hurt#0" value="...das profundezas da aflição, clamo a Ti..."/>
 	<entry name="SistersOfBattle/Exorcist:HurtCount" value="1"/>
-	<entry name="SistersOfBattle/Exorcist:Idle#0" value="The Emperor lives!"/>
-	<entry name="SistersOfBattle/Exorcist:Idle#1" value="Glory! Glory! Glory!"/>
-	<entry name="SistersOfBattle/Exorcist:Idle#2" value="The Emperor has loosed his swift sword."/>
-	<entry name="SistersOfBattle/Exorcist:Idle#3" value="Quake, man, in terror."/>
+	<entry name="SistersOfBattle/Exorcist:Idle#0" value="O Imperador vive!"/>
+	<entry name="SistersOfBattle/Exorcist:Idle#1" value="Glória! Glória! Glória!"/>
+	<entry name="SistersOfBattle/Exorcist:Idle#2" value="O Imperador soltou sua espada veloz."/>
+	<entry name="SistersOfBattle/Exorcist:Idle#3" value="Trema, homem, de terror."/>
 	<entry name="SistersOfBattle/Exorcist:IdleCount" value="4"/>
-	<entry name="SistersOfBattle/Exorcist:Shaken#0" value="Emperor, thy blood and righteousness shall preserve us."/>
+	<entry name="SistersOfBattle/Exorcist:Shaken#0" value="Imperador, Teu sangue e retidão nos preservarão."/>
 	<entry name="SistersOfBattle/Exorcist:ShakenCount" value="1"/>
-	<entry name="SistersOfBattle/Exorcist:Victory#0" value="…crush the serpent and march on…"/>
+	<entry name="SistersOfBattle/Exorcist:Victory#0" value="...esmaguem a serpente e marchem adiante..."/>
 	<entry name="SistersOfBattle/Exorcist:VictoryCount" value="1"/>
-	<entry name="SistersOfBattle/Exorcist:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="…behold the wondrous mystery of the Living Saint..!"/>
+	<entry name="SistersOfBattle/Exorcist:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="...contemplem o mistério maravilhoso da Santa Viva...!"/>
 	<entry name="SistersOfBattle/Exorcist:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
-	<entry name="SistersOfBattle/CelestianSacresant:Attack#0" value="Come closer, heretics."/>
-	<entry name="SistersOfBattle/CelestianSacresant:Attack#1" value="Feel the Emperor's wrath!"/>
-	<entry name="SistersOfBattle/CelestianSacresant:Attack#2" value="Faith is our shield."/>
-	<entry name="SistersOfBattle/CelestianSacresant:Attack#3" value="We shall send you to your rest."/>
+	<entry name="SistersOfBattle/CelestianSacresant:Attack#0" value="Aproximem-se, hereges."/>
+	<entry name="SistersOfBattle/CelestianSacresant:Attack#1" value="Sintam a ira do Imperador!"/>
+	<entry name="SistersOfBattle/CelestianSacresant:Attack#2" value="A fé é nosso escudo."/>
+	<entry name="SistersOfBattle/CelestianSacresant:Attack#3" value="Vamos enviá-los ao descanso."/>
 	<entry name="SistersOfBattle/CelestianSacresant:AttackCount" value="4"/>
-	<entry name="SistersOfBattle/CelestianSacresant:Broken#0" value="We cannot complete it. We must-"/>
+	<entry name="SistersOfBattle/CelestianSacresant:Broken#0" value="Não podemos completá-la. Devemos-"/>
 	<entry name="SistersOfBattle/CelestianSacresant:BrokenCount" value="1"/>
-	<entry name="SistersOfBattle/CelestianSacresant:Hurt#0" value="They threaten our quest…"/>
+	<entry name="SistersOfBattle/CelestianSacresant:Hurt#0" value="Eles ameaçam nossa missão..."/>
 	<entry name="SistersOfBattle/CelestianSacresant:HurtCount" value="1"/>
-	<entry name="SistersOfBattle/CelestianSacresant:Idle#0" value="We travelled the galaxy to end… here."/>
-	<entry name="SistersOfBattle/CelestianSacresant:Idle#1" value="Our armour, impenetrable."/>
-	<entry name="SistersOfBattle/CelestianSacresant:Idle#2" value="Our virtue, unchallenged."/>
-	<entry name="SistersOfBattle/CelestianSacresant:Idle#3" value="We are the model to which all aspire."/>
+	<entry name="SistersOfBattle/CelestianSacresant:Idle#0" value="Viajamos pela galáxia para terminar... aqui."/>
+	<entry name="SistersOfBattle/CelestianSacresant:Idle#1" value="Nossa armadura, impenetrável."/>
+	<entry name="SistersOfBattle/CelestianSacresant:Idle#2" value="Nossa virtude, incontestável."/>
+	<entry name="SistersOfBattle/CelestianSacresant:Idle#3" value="Somos o modelo ao qual todos aspiram."/>
 	<entry name="SistersOfBattle/CelestianSacresant:IdleCount" value="4"/>
-	<entry name="SistersOfBattle/CelestianSacresant:Shaken#0" value="Not a step back."/>
+	<entry name="SistersOfBattle/CelestianSacresant:Shaken#0" value="Nem um passo atrás."/>
 	<entry name="SistersOfBattle/CelestianSacresant:ShakenCount" value="1"/>
-	<entry name="SistersOfBattle/CelestianSacresant:Victory#0" value="Our quest is complete."/>
+	<entry name="SistersOfBattle/CelestianSacresant:Victory#0" value="Nossa missão está completa."/>
 	<entry name="SistersOfBattle/CelestianSacresant:VictoryCount" value="1"/>
-	<entry name="SistersOfBattle/CelestianSacresant:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="Our namesake, our lady! Our quest is at an end."/>
+	<entry name="SistersOfBattle/CelestianSacresant:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="Nossa homônima, nossa senhora! Nossa missão chegou ao fim."/>
 	<entry name="SistersOfBattle/CelestianSacresant:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
 	<entry name="SistersOfBattle/CerastusKnightLancer:Attack#0" value="For the honour of the Questor Mechanicus!"/>
 	<entry name="SistersOfBattle/CerastusKnightLancer:Attack#1" value="We are but a weapon in the right hand of the Emperor."/>
