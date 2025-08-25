@@ -253,38 +253,38 @@
 	<entry name="Orks/ConstructionDescription" value="Edifício que constrói novos edifícios, gera minério e influência, além de aumentar o limite populacional."/>
 	<entry name="Orks/ConstructionFlavor" value="Edifícios Ork são construções inelegantes de materiais de refugo e qualquer sucata que os Meks não precisem. Os Grotz não são conhecidos por serem bons arquitetos, mas os Orks não se importam contanto que tenham uma boa luta."/>
 	<entry name="Orks/Energy" value="Gubbinz de Energia"/>
-	<entry name="Orks/EnergyDescription" value="Building that generates energy."/>
-	<entry name="Orks/EnergyFlavor" value="It doesn't pay an Ork to look too closely at the generators that power their world. That's because much of the technology that Ork Meks produce is missing key parts and shouldn't actually work—but the massed psychic belief of Orks somehow overrides this."/>
-	<entry name="Orks/Food" value="Squig Herdz"/>
-	<entry name="Orks/FoodDescription" value="Building that harvests food."/>
-	<entry name="Orks/FoodFlavor" value="Squigz are essential to the survival of the Ork species. A huge variety of these small creatures accompany every Ork, and fill an array of social and technological niches—from acting as wigs, to providing oil, to being eaten as food."/>
-	<entry name="Orks/Loyalty" value="Fighting Pitz"/>
-	<entry name="Orks/LoyaltyDescription" value="Building that increases loyalty."/>
-	<entry name="Orks/LoyaltyFlavor" value="Orks don't establish dominance by persuasion, but by brute force. A Nob or Warboss is simply a bigger Ork—and the longer they fight, the bigger they get. Fights for dominance or disputes are often worked out in the ritual pits, entertaining the whole Warband in the process. (It's an unfortunate Ork that confuses these pits with the identical looking 'drops'—the Ork toilets.)"/>
-	<entry name="Orks/Headquarters" value="Boss Tower"/>
-	<entry name="Orks/HeadquartersDescription" value="Headquarters building that generates resources."/>
-	<entry name="Orks/HeadquartersFlavor" value="Once a Warboss has amassed an army of a certain size, he can no longer command with the simple cudgelling and swearing his boyz have grown to love. The Boss Tower doubles up as a place for the boss to live and a bully pulpit from which he can bellow at his hordes."/>
-	<entry name="Orks/Heroes" value="Kommando Kamp"/>
-	<entry name="Orks/HeroesDescription" value="Building that produces heroes as well as generates influence and increases loyalty."/>
-	<entry name="Orks/HeroesFlavor" value="The Blood Axe Clan of Orks are somewhat shunned by their brethren, for not being 'real Orks'. This is because they've adapted to the proximity of humans over the long-millenia and adopted some very un-Orky behaviour, like Taktiks and Runnin Away. Blood Axe Kommandos have gone one step further, using camouflage to surprise their enemies."/>
-	<entry name="Orks/Housing" value="Grotz Hutz"/>
-	<entry name="Orks/HousingDescription" value="Building that increases population limit."/>
-	<entry name="Orks/HousingFlavor" value="Curiously, the Grotz' Hutz are better than those of the Boyz. Sure, from the outside they look even more ramshackle and run-down, while the inside is still built from garbage festooned with mushrooms, squigs and snotlings. But there's a certain pride and personalisation in the squalor that the Boyz' shacks lack."/>
-	<entry name="Orks/Infantry" value="Pile O' Dakka"/>
-	<entry name="Orks/InfantryDescription" value="Building that produces infantry and walkers as well as generates food and influence, and increases loyalty."/>
-	<entry name="Orks/InfantryFlavor" value="'What's better than a gun?' asks an Ork. 'A bigga gun', answers another. Shortly before the fight starts, they agree that, even better than the biggest gun, is a big pile of big guns. That's exactly what we have here—Mek-made guns of all shapes and sizes, loosely stacked, ready for a Boy or Killa Kan to grab when the fighting starts."/>
-	<entry name="Orks/Influence" value="Weirdboyz Pole"/>
-	<entry name="Orks/InfluenceDescription" value="Building that generates influence."/>
-	<entry name="Orks/InfluenceFlavor" value="The Ork psykers known as Weirdboyz are a peril at the quietest of times, given their endless accumulation of Waaagh! energy—and in the middle of a horde, a brain bursting chain reaction is normal. This giant metal pole is the Orks' ingenious answer, earthing the psykers' psychic blasts as long as they're tied to it."/>
-	<entry name="Orks/Ore" value="Diggaz and Smeltaz"/>
-	<entry name="Orks/OreDescription" value="Building that harvests ore."/>
-	<entry name="Orks/OreFlavor" value="When Orks can't get scrap, they'll instead order their Grot serfs to dig up ore-rich rocks. Whilst the Snakebites are happy to use manual labour and whips, most clans' Meks come up with preposterous and crude inventions for extracting the ore, which have varying degrees of lethality for their unlucky Grot operators."/>
-	<entry name="Orks/Research" value="Fink Tank"/>
-	<entry name="Orks/ResearchDescription" value="Building that generates research."/>
-	<entry name="Orks/ResearchFlavor" value="One of the more persistent myths of the Orks is about their long-vanished creators, the 'Brainboyz', who they believe encoded highly advanced technology into the Orks' genes aeons ago. Meks, Doks and Runtherdz are Orks who display this knowledge—and the Fink Tank is a good place to lock 'em until they remember another good idea."/>
-	<entry name="Orks/Vehicles" value="Kult ov Speed"/>
-	<entry name="Orks/VehiclesDescription" value="Building that produces wheeled vehicles and aircraft as well as generates ore and influence, and increases loyalty."/>
-	<entry name="Orks/VehiclesFlavor" value="Though they still love war and big explosions, the Orks known as Speed Freeks love velocity even more. They will extensively and obsessively customise their bikes and aircraft, removing all the safety features, to the point where they're sitting on a giant engine—painted crimson because 'red wunz go fasta'."/>
+	<entry name="Orks/EnergyDescription" value="Edifício que gera energia."/>
+	<entry name="Orks/EnergyFlavor" value="Não compensa para um Ork olhar muito de perto os geradores que alimentam seu mundo. Isso porque muito da tecnologia que os Meks Ork produzem está faltando peças-chave e não deveria realmente funcionar — mas a crença psíquica em massa dos Orks de alguma forma supera isso."/>
+	<entry name="Orks/Food" value="Rebanhos de Squig"/>
+	<entry name="Orks/FoodDescription" value="Edifício que coleta comida."/>
+	<entry name="Orks/FoodFlavor" value="Os Squigz são essenciais para a sobrevivência da espécie Ork. Uma enorme variedade dessas pequenas criaturas acompanha cada Ork, e preenche uma gama de nichos sociais e tecnológicos — desde servir como perucas, a fornecer óleo, a serem comidos como comida."/>
+	<entry name="Orks/Loyalty" value="Fossos de Luta"/>
+	<entry name="Orks/LoyaltyDescription" value="Edifício que aumenta a lealdade."/>
+	<entry name="Orks/LoyaltyFlavor" value="Os Orks não estabelecem dominância por persuasão, mas por força bruta. Um Nob ou Warboss é simplesmente um Ork maior — e quanto mais lutam, maiores ficam. Lutas por dominância ou disputas são frequentemente resolvidas nos fossos rituais, entretendo toda a Warband no processo. (É um Ork infeliz que confunde esses fossos com os 'drops' de aparência idêntica — os banheiros Ork.)"/>
+	<entry name="Orks/Headquarters" value="Torre do Chefe"/>
+	<entry name="Orks/HeadquartersDescription" value="Edifício de quartel-general que gera recursos."/>
+	<entry name="Orks/HeadquartersFlavor" value="Uma vez que um Warboss tenha reunido um exército de certo tamanho, ele não pode mais comandar com as simples pancadas e palavrões que seus boyz cresceram amando. A Torre do Chefe serve tanto como um lugar para o chefe viver quanto como um púlpito de onde ele pode berrar para suas hordas."/>
+	<entry name="Orks/Heroes" value="Acampamento Kommando"/>
+	<entry name="Orks/HeroesDescription" value="Edifício que produz heróis, além de gerar influência e aumentar a lealdade."/>
+	<entry name="Orks/HeroesFlavor" value="O Clã Blood Axe dos Orks é um pouco evitado por seus irmãos, por não serem 'Orks de verdade'. Isso é porque eles se adaptaram à proximidade dos humanos ao longo dos longos milênios e adotaram alguns comportamentos muito pouco Ork, como Táticas e Fugir. Os Kommandos Blood Axe foram um passo além, usando camuflagem para surpreender seus inimigos."/>
+	<entry name="Orks/Housing" value="Cabanas dos Grotz"/>
+	<entry name="Orks/HousingDescription" value="Edifício que aumenta o limite populacional."/>
+	<entry name="Orks/HousingFlavor" value="Curiosamente, as Cabanas dos Grotz são melhores que as dos Boyz. Claro, por fora parecem ainda mais decrépitas e arruinadas, enquanto o interior ainda é construído de lixo enfeitado com cogumelos, squigs e snotlings. Mas há um certo orgulho e personalização na sordidez que falta às cabanas dos Boyz."/>
+	<entry name="Orks/Infantry" value="Pilha de Dakka"/>
+	<entry name="Orks/InfantryDescription" value="Edifício que produz infantaria e caminhantes, além de gerar comida e influência, e aumentar a lealdade."/>
+	<entry name="Orks/InfantryFlavor" value="'O que é melhor que uma arma?' pergunta um Ork. 'Uma arma maior', responde outro. Pouco antes da luta começar, eles concordam que, ainda melhor que a maior arma, é uma grande pilha de grandes armas. É exatamente isso que temos aqui — armas feitas por Mek de todas as formas e tamanhos, empilhadas frouxamente, prontas para um Boy ou Killa Kan pegar quando a luta começar."/>
+	<entry name="Orks/Influence" value="Poste dos Weirdboyz"/>
+	<entry name="Orks/InfluenceDescription" value="Edifício que gera influência."/>
+	<entry name="Orks/InfluenceFlavor" value="Os psykers Ork conhecidos como Weirdboyz são um perigo nos momentos mais calmos, dada sua acumulação infinita de energia Waaagh! — e no meio de uma horda, uma reação em cadeia de explosão cerebral é normal. Este poste gigante de metal é a resposta engenhosa dos Orks, aterrando as explosões psíquicas dos psykers enquanto estiverem amarrados a ele."/>
+	<entry name="Orks/Ore" value="Escavadores e Fundidores"/>
+	<entry name="Orks/OreDescription" value="Edifício que coleta minério."/>
+	<entry name="Orks/OreFlavor" value="Quando os Orks não conseguem sucata, eles ordenam que seus servos Grot escavem rochas ricas em minério. Enquanto os Snakebites ficam felizes em usar trabalho manual e chicotes, os Meks da maioria dos clãs inventam invenções absurdas e grosseiras para extrair o minério, que têm graus variados de letalidade para seus infelizes operadores Grot."/>
+	<entry name="Orks/Research" value="Tanque de Pensamento"/>
+	<entry name="Orks/ResearchDescription" value="Edifício que gera pesquisa."/>
+	<entry name="Orks/ResearchFlavor" value="Um dos mitos mais persistentes dos Orks é sobre seus criadores há muito desaparecidos, os 'Brainboyz', que eles acreditam ter codificado tecnologia altamente avançada nos genes dos Orks eras atrás. Meks, Doks e Runtherdz são Orks que exibem esse conhecimento — e o Tanque de Pensamento é um bom lugar para trancá-los até que se lembrem de outra boa ideia."/>
+	<entry name="Orks/Vehicles" value="Culto da Velocidade"/>
+	<entry name="Orks/VehiclesDescription" value="Edifício que produz veículos com rodas e aeronaves, além de gerar minério e influência, e aumentar a lealdade."/>
+	<entry name="Orks/VehiclesFlavor" value="Embora ainda amem guerra e grandes explosões, os Orks conhecidos como Speed Freeks amam velocidade ainda mais. Eles personalizam extensiva e obsessivamente suas motos e aeronaves, removendo todos os recursos de segurança, ao ponto de estarem sentados em um motor gigante — pintado de vermelho porque 'os vermelhos vão mais rápido'."/>
 	<entry name="SistersOfBattle/Auxiliaries" value="Ecclesiarchal Reinforcements"/>
 	<entry name="SistersOfBattle/AuxiliariesDescription" value="Building that produces aircraft and imperial knights as well as generates requisitions and energy."/>
 	<entry name="SistersOfBattle/AuxiliariesFlavor" value="Unusually for an Adepta Sororitas mission, not all the troops here are Battle Sisters. Though the other local forces of the Imperium have proved to be untrustworthy, the remaining Imperial Navy and Knightly Houses have found themselves with divided loyalties. Those who have sided with the Adepta Sororitas have been assigned these unprepossessing buildings for accommodation, repair and habitation."/>
