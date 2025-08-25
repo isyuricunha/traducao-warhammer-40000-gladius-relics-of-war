@@ -3372,86 +3372,86 @@
 	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:ShakenCount" value="1"/>
 	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Victory#0" value="RRRRRRR!"/>
 	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:VictoryCount" value="1"/>
-	<entry name="Eldar/DarkReaper:Attack#0" value="Appreciate the art of destruction."/>
-	<entry name="Eldar/DarkReaper:Attack#1" value="Bringing Death."/>
-	<entry name="Eldar/DarkReaper:Attack#2" value="In the name of Khaine!"/>
-	<entry name="Eldar/DarkReaper:Attack#3" value="We do not miss."/>
+	<entry name="Eldar/DarkReaper:Attack#0" value="Apreciem a arte da destruição."/>
+	<entry name="Eldar/DarkReaper:Attack#1" value="Trazendo a Morte."/>
+	<entry name="Eldar/DarkReaper:Attack#2" value="Em nome de Khaine!"/>
+	<entry name="Eldar/DarkReaper:Attack#3" value="Nós não erramos."/>
 	<entry name="Eldar/DarkReaper:AttackCount" value="4"/>
-	<entry name="Eldar/DarkReaper:Broken#0" value="It is we who shall be destroyed…"/>
+	<entry name="Eldar/DarkReaper:Broken#0" value="Somos nós que seremos destruídos..."/>
 	<entry name="Eldar/DarkReaper:BrokenCount" value="1"/>
-	<entry name="Eldar/DarkReaper:Hurt#0" value="Destruction comes to us all."/>
+	<entry name="Eldar/DarkReaper:Hurt#0" value="A destruição vem para todos nós."/>
 	<entry name="Eldar/DarkReaper:HurtCount" value="1"/>
-	<entry name="Eldar/DarkReaper:Idle#0" value="We remember Altansar."/>
-	<entry name="Eldar/DarkReaper:Idle#1" value="Destruction is but another path in our long lives."/>
-	<entry name="Eldar/DarkReaper:Idle#2" value="Death without fear is our lot."/>
-	<entry name="Eldar/DarkReaper:Idle#3" value="The Destroyer took the Smith-God long ago."/>
+	<entry name="Eldar/DarkReaper:Idle#0" value="Lembramos de Altansar."/>
+	<entry name="Eldar/DarkReaper:Idle#1" value="A destruição é apenas outro caminho em nossas longas vidas."/>
+	<entry name="Eldar/DarkReaper:Idle#2" value="Morte sem medo é nosso destino."/>
+	<entry name="Eldar/DarkReaper:Idle#3" value="O Destruidor levou o Deus-Ferreiro há muito tempo."/>
 	<entry name="Eldar/DarkReaper:IdleCount" value="4"/>
-	<entry name="Eldar/DarkReaper:Shaken#0" value="The Destroyer has turned against us!"/>
+	<entry name="Eldar/DarkReaper:Shaken#0" value="O Destruidor se voltou contra nós!"/>
 	<entry name="Eldar/DarkReaper:ShakenCount" value="1"/>
-	<entry name="Eldar/DarkReaper:Victory#0" value="The Destroyer has taken them."/>
+	<entry name="Eldar/DarkReaper:Victory#0" value="O Destruidor os levou."/>
 	<entry name="Eldar/DarkReaper:VictoryCount" value="1"/>
-	<entry name="Necrons/Deathmark:Attack#0" value="Targetting their leaders."/>
-	<entry name="Necrons/Deathmark:Attack#1" value="Disintegrating their synapses."/>
-	<entry name="Necrons/Deathmark:Attack#2" value="Dishonourable foe targetted."/>
-	<entry name="Necrons/Deathmark:Attack#3" value="Marking for death."/>
+	<entry name="Necrons/Deathmark:Attack#0" value="Mirando em seus líderes."/>
+	<entry name="Necrons/Deathmark:Attack#1" value="Desintegrando suas sinapses."/>
+	<entry name="Necrons/Deathmark:Attack#2" value="Inimigo desonroso marcado."/>
+	<entry name="Necrons/Deathmark:Attack#3" value="Marcando para a morte."/>
 	<entry name="Necrons/Deathmark:AttackCount" value="4"/>
-	<entry name="Necrons/Deathmark:Broken#0" value="Return to alternate dimension!"/>
+	<entry name="Necrons/Deathmark:Broken#0" value="Retornar à dimensão alternativa!"/>
 	<entry name="Necrons/Deathmark:BrokenCount" value="1"/>
-	<entry name="Necrons/Deathmark:Hurt#0" value="Reanimation protocols failing."/>
+	<entry name="Necrons/Deathmark:Hurt#0" value="Protocolos de reanimação falhando."/>
 	<entry name="Necrons/Deathmark:HurtCount" value="1"/>
-	<entry name="Necrons/Deathmark:Idle#0" value="Monitoring communications."/>
-	<entry name="Necrons/Deathmark:Idle#1" value="Is the Deceiver truly here?"/>
-	<entry name="Necrons/Deathmark:Idle#2" value="Locating nodes of command."/>
-	<entry name="Necrons/Deathmark:Idle#3" value="Decapitation protocols on hold."/>
+	<entry name="Necrons/Deathmark:Idle#0" value="Monitorando comunicações."/>
+	<entry name="Necrons/Deathmark:Idle#1" value="O Enganador está realmente aqui?"/>
+	<entry name="Necrons/Deathmark:Idle#2" value="Localizando nós de comando."/>
+	<entry name="Necrons/Deathmark:Idle#3" value="Protocolos de decapitação em espera."/>
 	<entry name="Necrons/Deathmark:IdleCount" value="4"/>
-	<entry name="Necrons/Deathmark:Shaken#0" value="We are precision tools, not targets."/>
+	<entry name="Necrons/Deathmark:Shaken#0" value="Somos ferramentas de precisão, não alvos."/>
 	<entry name="Necrons/Deathmark:ShakenCount" value="1"/>
-	<entry name="Necrons/Deathmark:Victory#0" value="As expected, eliminated."/>
+	<entry name="Necrons/Deathmark:Victory#0" value="Como esperado, eliminado."/>
 	<entry name="Necrons/Deathmark:VictoryCount" value="1"/>
 	<entry name="Neutral/Poxwalker:Attack#0" value="Heehee."/>
 	<entry name="Neutral/Poxwalker:Attack#1" value="Urrnnnn…"/>
 	<entry name="Neutral/Poxwalker:Attack#2" value="Harrrr…"/>
 	<entry name="Neutral/Poxwalker:Attack#3" value="Nurg Elll…"/>
 	<entry name="Neutral/Poxwalker:AttackCount" value="4"/>
-	<entry name="Neutral/Poxwalker:Broken#0" value="Father…"/>
+	<entry name="Neutral/Poxwalker:Broken#0" value="Pai..."/>
 	<entry name="Neutral/Poxwalker:BrokenCount" value="1"/>
-	<entry name="Neutral/Poxwalker:Hurt#0" value="Falling…"/>
+	<entry name="Neutral/Poxwalker:Hurt#0" value="Caindo..."/>
 	<entry name="Neutral/Poxwalker:HurtCount" value="1"/>
-	<entry name="Neutral/Poxwalker:Idle#0" value="…souls… trapped…"/>
-	<entry name="Neutral/Poxwalker:Idle#1" value="…Plague God…"/>
-	<entry name="Neutral/Poxwalker:Idle#2" value="…Father…"/>
-	<entry name="Neutral/Poxwalker:Idle#3" value="…Unhhhh…"/>
+	<entry name="Neutral/Poxwalker:Idle#0" value="...almas... presas..."/>
+	<entry name="Neutral/Poxwalker:Idle#1" value="...Deus da Peste..."/>
+	<entry name="Neutral/Poxwalker:Idle#2" value="...Pai..."/>
+	<entry name="Neutral/Poxwalker:Idle#3" value="...Unhhhh..."/>
 	<entry name="Neutral/Poxwalker:IdleCount" value="4"/>
-	<entry name="Neutral/Poxwalker:Shaken#0" value="…nnnaaaa…"/>
+	<entry name="Neutral/Poxwalker:Shaken#0" value="...nnnaaaa..."/>
 	<entry name="Neutral/Poxwalker:ShakenCount" value="1"/>
-	<entry name="Neutral/Poxwalker:Victory#0" value="…infected…"/>
+	<entry name="Neutral/Poxwalker:Victory#0" value="...infectado..."/>
 	<entry name="Neutral/Poxwalker:VictoryCount" value="1"/>
-	<entry name="Orks/DeffDread:Attack#0" value="Stompin' and Killin'!"/>
-	<entry name="Orks/DeffDread:Attack#1" value="Dis was worth da op!"/>
-	<entry name="Orks/DeffDread:Attack#2" value="Ooh, I az Rokkits!"/>
-	<entry name="Orks/DeffDread:Attack#3" value="Firin' ev'ryfin!"/>
+	<entry name="Orks/DeffDread:Attack#0" value="Pisoteando e Matando!"/>
+	<entry name="Orks/DeffDread:Attack#1" value="Isso valeu a operação!"/>
+	<entry name="Orks/DeffDread:Attack#2" value="Ooh, eu tenho Foguetes!"/>
+	<entry name="Orks/DeffDread:Attack#3" value="Disparando tudo!"/>
 	<entry name="Orks/DeffDread:AttackCount" value="4"/>
-	<entry name="Orks/DeffDread:Broken#0" value="Leggin' it!"/>
+	<entry name="Orks/DeffDread:Broken#0" value="Correndo!"/>
 	<entry name="Orks/DeffDread:BrokenCount" value="1"/>
-	<entry name="Orks/DeffDread:Hurt#0" value="I fink dere's an 'ole in me."/>
+	<entry name="Orks/DeffDread:Hurt#0" value="Acho que tem um buraco em mim."/>
 	<entry name="Orks/DeffDread:HurtCount" value="1"/>
-	<entry name="Orks/DeffDread:Idle#0" value="Dere's a Squig in 'ere!"/>
-	<entry name="Orks/DeffDread:Idle#1" value="Somewun, scratch me schnozz! Drivin' me mad!"/>
-	<entry name="Orks/DeffDread:Idle#2" value="Wotz all dese wires fer?"/>
-	<entry name="Orks/DeffDread:Idle#3" value="Borrringgg."/>
+	<entry name="Orks/DeffDread:Idle#0" value="Tem um Squig aqui dentro!"/>
+	<entry name="Orks/DeffDread:Idle#1" value="Alguém, coça meu nariz! Tá me deixando louco!"/>
+	<entry name="Orks/DeffDread:Idle#2" value="Pra que são todos esses fios?"/>
+	<entry name="Orks/DeffDread:Idle#3" value="Chaaato."/>
 	<entry name="Orks/DeffDread:IdleCount" value="4"/>
-	<entry name="Orks/DeffDread:Shaken#0" value="'ow d'ya 'ide in dis fing?"/>
+	<entry name="Orks/DeffDread:Shaken#0" value="Como se esconde nessa coisa?"/>
 	<entry name="Orks/DeffDread:ShakenCount" value="1"/>
-	<entry name="Orks/DeffDread:Victory#0" value="WAAAGH! Deff Dreads iz da bestest!"/>
+	<entry name="Orks/DeffDread:Victory#0" value="WAAAGH! Deff Dreads são os melhores!"/>
 	<entry name="Orks/DeffDread:VictoryCount" value="1"/>
-	<entry name="SistersOfBattle/Imagifier:Attack#0" value="And Celestine did smite them and saw it was good."/>
-	<entry name="SistersOfBattle/Imagifier:Attack#1" value="And they were the gloried dead!"/>
-	<entry name="SistersOfBattle/Imagifier:Attack#2" value="Their holy rage, oh my sisters!"/>
-	<entry name="SistersOfBattle/Imagifier:Attack#3" value="Defiant, they stood, against the foe!"/>
+	<entry name="SistersOfBattle/Imagifier:Attack#0" value="E Celestine os golpeou e viu que era bom."/>
+	<entry name="SistersOfBattle/Imagifier:Attack#1" value="E eles foram os mortos gloriosos!"/>
+	<entry name="SistersOfBattle/Imagifier:Attack#2" value="Sua ira sagrada, oh minhas irmãs!"/>
+	<entry name="SistersOfBattle/Imagifier:Attack#3" value="Desafiadoras, elas ficaram, contra o inimigo!"/>
 	<entry name="SistersOfBattle/Imagifier:AttackCount" value="4"/>
-	<entry name="SistersOfBattle/Imagifier:Broken#0" value="My song… falters…"/>
+	<entry name="SistersOfBattle/Imagifier:Broken#0" value="Minha canção... vacila..."/>
 	<entry name="SistersOfBattle/Imagifier:BrokenCount" value="1"/>
-	<entry name="SistersOfBattle/Imagifier:Hurt#0" value="Grievious wounds they suffered, but forged on!"/>
+	<entry name="SistersOfBattle/Imagifier:Hurt#0" value="Ferimentos graves elas sofreram, mas seguiram adiante!"/>
 	<entry name="SistersOfBattle/Imagifier:HurtCount" value="1"/>
 	<entry name="SistersOfBattle/Imagifier:Idle#0" value="I bear the Simulacrum Imperialis."/>
 	<entry name="SistersOfBattle/Imagifier:Idle#1" value="In brief moments, they invoked the Emperor's love."/>
