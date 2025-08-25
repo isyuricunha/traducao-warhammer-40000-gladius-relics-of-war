@@ -2261,150 +2261,150 @@
 	<entry name="Tyranids/Tyrannofex" value="Tyranids/Carnifex"/>
 	<entry name="Tyranids/Warrior" value="Tyranids/Carnifex"/>
 	<entry name="Tyranids/Zoanthrope" value="Tyranids/Carnifex"/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Attack#0" value="Feel ten thousand years of rage."/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Attack#1" value="In the name of the Dark Gods"/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Attack#2" value="Kneel before your lord!"/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Attack#3" value="Die weaklings! Die scum!"/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Attack#4" value="For the glory of Chaos!"/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Attack#0" value="Sintam dez mil anos de raiva."/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Attack#1" value="Em nome dos Deuses Sombrios"/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Attack#2" value="Ajoelhem-se diante de seu senhor!"/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Attack#3" value="Morram fracos! Morram escumalha!"/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Attack#4" value="Pela glória do Caos!"/>
 	<entry name="ChaosSpaceMarines/ChaosLord:AttackCount" value="5"/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Broken#0" value="I will die not here!"/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Broken#1" value="Back to the Eye!"/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Broken#0" value="Não morrerei aqui!"/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Broken#1" value="De volta ao Olho!"/>
 	<entry name="ChaosSpaceMarines/ChaosLord:BrokenCount" value="2"/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Hurt#0" value="What, you hurt ME?"/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Hurt#0" value="O quê, vocês me feriram?"/>
 	<entry name="ChaosSpaceMarines/ChaosLord:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Idle#0" value="Whilst we stand idle, Imperials yet live."/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Idle#1" value="Do you remember? His blood stained every wall."/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Idle#2" value="Such joy, in seeing an angel fallen."/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Idle#3" value="Screams or songs, they are one to me."/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Idle#4" value="Was it worth it, the damnation?"/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Idle#0" value="Enquanto ficamos parados, Imperiais ainda vivem."/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Idle#1" value="Vocês se lembram? Seu sangue manchou cada parede."/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Idle#2" value="Que alegria, ver um anjo caído."/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Idle#3" value="Gritos ou canções, são a mesma coisa para mim."/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Idle#4" value="Valeu a pena, a condenação?"/>
 	<entry name="ChaosSpaceMarines/ChaosLord:IdleCount" value="5"/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Shaken#0" value="WHO DARES?"/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Shaken#1" value="I will lie to avenge this."/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Shaken#0" value="QUEM OUSA?"/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Shaken#1" value="Viverei para vingar isso."/>
 	<entry name="ChaosSpaceMarines/ChaosLord:ShakenCount" value="2"/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Victory#0" value="I dedicate this death to the gods."/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Victory#1" value="Is that all? Dotards!"/>
-	<entry name="ChaosSpaceMarines/ChaosLord:Victory#2" value="Victory is ash in my mouth whilst the Imperium stands."/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Victory#0" value="Dedico esta morte aos deuses."/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Victory#1" value="É só isso? Decrépitos!"/>
+	<entry name="ChaosSpaceMarines/ChaosLord:Victory#2" value="Vitória é cinza em minha boca enquanto o Império permanecer."/>
 	<entry name="ChaosSpaceMarines/ChaosLord:VictoryCount" value="3"/>
-	<entry name="ChaosSpaceMarines/ChaosRhino:Attack#0" value="What idiot sends us to war?"/>
-	<entry name="ChaosSpaceMarines/ChaosRhino:Attack#1" value="Grind their bones to dust."/>
-	<entry name="ChaosSpaceMarines/ChaosRhino:Attack#2" value="Drive faster!"/>
+	<entry name="ChaosSpaceMarines/ChaosRhino:Attack#0" value="Que idiota nos manda para a guerra?"/>
+	<entry name="ChaosSpaceMarines/ChaosRhino:Attack#1" value="Moam seus ossos até virar pó."/>
+	<entry name="ChaosSpaceMarines/ChaosRhino:Attack#2" value="Dirijam mais rápido!"/>
 	<entry name="ChaosSpaceMarines/ChaosRhino:AttackCount" value="3"/>
-	<entry name="ChaosSpaceMarines/ChaosRhino:Broken#0" value="Flee! We'll kill them another day."/>
+	<entry name="ChaosSpaceMarines/ChaosRhino:Broken#0" value="Fujam! Mataremos eles outro dia."/>
 	<entry name="ChaosSpaceMarines/ChaosRhino:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosRhino:Hurt#0" value="Who's putting holes in our armour?"/>
+	<entry name="ChaosSpaceMarines/ChaosRhino:Hurt#0" value="Quem está fazendo buracos em nossa blindagem?"/>
 	<entry name="ChaosSpaceMarines/ChaosRhino:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosRhino:Idle#0" value="Who'd be a Rhino driver?"/>
-	<entry name="ChaosSpaceMarines/ChaosRhino:Idle#1" value="Driving the Lord to war, yawwwn."/>
+	<entry name="ChaosSpaceMarines/ChaosRhino:Idle#0" value="Quem seria motorista de Rhino?"/>
+	<entry name="ChaosSpaceMarines/ChaosRhino:Idle#1" value="Levando o Senhor à guerra, bocejo."/>
 	<entry name="ChaosSpaceMarines/ChaosRhino:IdleCount" value="2"/>
-	<entry name="ChaosSpaceMarines/ChaosRhino:Shaken#0" value="Damnation, for this?"/>
+	<entry name="ChaosSpaceMarines/ChaosRhino:Shaken#0" value="Condenação, por isso?"/>
 	<entry name="ChaosSpaceMarines/ChaosRhino:ShakenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosRhino:Victory#0" value="You couldn't even beat a Rhino?"/>
+	<entry name="ChaosSpaceMarines/ChaosRhino:Victory#0" value="Vocês nem conseguiram vencer um Rhino?"/>
 	<entry name="ChaosSpaceMarines/ChaosRhino:VictoryCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Attack#0" value="Scream! Your doom is come!"/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Attack#1" value="I am pure in my hatred. Come test it!"/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Attack#2" value="I was the Emperor's son, you cannot stand against me!"/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Attack#3" value="Hahahaha! DIE!"/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Attack#0" value="Gritem! Sua condenação chegou!"/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Attack#1" value="Sou puro em meu ódio. Venham testá-lo!"/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Attack#2" value="Eu era filho do Imperador, vocês não podem se opor a mim!"/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Attack#3" value="Hahahaha! MORRAM!"/>
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:AttackCount" value="4"/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Broken#0" value="We are unbound and undone, we must flee!"/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Broken#0" value="Estamos descontrolados e perdidos, devemos fugir!"/>
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Hurt#0" value="Dark Gods protect us."/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Hurt#0" value="Deuses Sombrios nos protejam."/>
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Idle#0" value="Can I stand another ten thousand years of this?"/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Idle#1" value="Pass me another civilian. I'm out of ink."/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Idle#2" value="Why do they still shelter their corpse-Emperor?"/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Idle#3" value="Endless war, endless joy."/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Idle#0" value="Posso aguentar outros dez mil anos disso?"/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Idle#1" value="Passem-me outro civil. Estou sem tinta."/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Idle#2" value="Por que ainda abrigam seu Imperador-cadáver?"/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Idle#3" value="Guerra infinita, alegria infinita."/>
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:IdleCount" value="4"/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Shaken#0" value="We are… losing?"/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Shaken#0" value="Estamos... perdendo?"/>
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:ShakenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#0" value="So fall all enemies of Abaddon!"/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#1" value="Another step towards ruling this galaxy… our birthright."/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#2" value="Your death is nothing to me."/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#0" value="Assim caem todos os inimigos de Abaddon!"/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#1" value="Outro passo para governar esta galáxia... nosso direito de nascença."/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#2" value="Sua morte não é nada para mim."/>
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:VictoryCount" value="3"/>
-	<entry name="ChaosSpaceMarines/ChaosSpawn:Attack#0" value="…The widening gyre…"/>
-	<entry name="ChaosSpaceMarines/ChaosSpawn:Attack#1" value="*gibbers*"/>
+	<entry name="ChaosSpaceMarines/ChaosSpawn:Attack#0" value="...O giro que se expande..."/>
+	<entry name="ChaosSpaceMarines/ChaosSpawn:Attack#1" value="*balbucia*"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:Attack#2" value="ahhhhaahhhh"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:AttackCount" value="3"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:Broken#0" value="…"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:BrokenCount" value="1"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:Hurt#0" value="…"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosSpawn:Idle#0" value="…an eternity of madness..?"/>
+	<entry name="ChaosSpaceMarines/ChaosSpawn:Idle#0" value="...uma eternidade de loucura...?"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:Idle#1" value="ehaahahaahaha"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:Idle#2" value="mmmm mmmm"/>
-	<entry name="ChaosSpaceMarines/ChaosSpawn:Idle#3" value="…slouching to bedlam…"/>
+	<entry name="ChaosSpaceMarines/ChaosSpawn:Idle#3" value="...cambaleando para o caos..."/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:Idle#4" value="nnnhhhrrr."/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:IdleCount" value="5"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:Shaken#0" value="eh"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:ShakenCount" value="1"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:Victory#0" value="ach"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:VictoryCount" value="1"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Attack#0" value="The warp touches you, little ones."/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Attack#1" value="Feel the power of a god-to-be!"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Attack#2" value="Playthings, puppets, fall!"/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Attack#0" value="A Warp os toca, pequeninos."/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Attack#1" value="Sintam o poder de um deus em ascensão!"/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Attack#2" value="Brinquedos, marionetes, caiam!"/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:Attack#3" value="Ahahahahaha."/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:AttackCount" value="4"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Broken#0" value="It can't be, defeated, by-"/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Broken#0" value="Não pode ser, derrotado, por-"/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Hurt#0" value="YOU DARE CONTEND WITH ME"/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Hurt#0" value="VOCÊS OUSAM CONTENDER COMIGO"/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#0" value="…what fools these mortals be!"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#1" value="The physical plane… I have missed it."/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#2" value="Strange, a world that doesn't shift form at whim."/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#3" value="What a strange doom sits on Gladius."/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#4" value="Come, slaves. Entertain your god!"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#5" value="Odd, to think that these talons were once mortal hands…"/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#0" value="...que tolos são estes mortais!"/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#1" value="O plano físico... senti sua falta."/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#2" value="Estranho, um mundo que não muda de forma por capricho."/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#3" value="Que destino estranho paira sobre Gladius."/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#4" value="Venham, escravos. Entretenham seu deus!"/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#5" value="Estranho, pensar que essas garras já foram mãos mortais..."/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:IdleCount" value="6"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#0" value="I tore the hearts from a thousand men… and this is how you thank me?"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#1" value="The warp is calling…"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#2" value="…madness takes its toll—I must keep control."/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#3" value="I have my own special hell for those like you!"/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#0" value="Arranquei os corações de mil homens... e assim me agradecem?"/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#1" value="A Warp está chamando..."/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#2" value="...a loucura cobra seu preço—devo manter controle."/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#3" value="Tenho meu próprio inferno especial para os como vocês!"/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:ShakenCount" value="4"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Victory#0" value="Another skull for my collection… Khorne can beg."/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Victory#1" value="Heads without eyes… pleasing."/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Victory#2" value="Hold still, mortal—I want to enjoy your death."/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Victory#0" value="Outro crânio para minha coleção... Khorne pode implorar."/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Victory#1" value="Cabeças sem olhos... agradável."/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Victory#2" value="Fique quieto, mortal—quero aproveitar sua morte."/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:VictoryCount" value="3"/>
-	<entry name="ChaosSpaceMarines/Defiler:Attack#0" value="Yes, yes, die mortals, die die."/>
-	<entry name="ChaosSpaceMarines/Defiler:Attack#1" value="Closer, claws, calling, come!"/>
-	<entry name="ChaosSpaceMarines/Defiler:Attack#2" value="Meet our gods, go meet our gods."/>
-	<entry name="ChaosSpaceMarines/Defiler:Attack#3" value="For Chaos, blood, skulls, for Chaos."/>
-	<entry name="ChaosSpaceMarines/Defiler:Attack#4" value="Tear and rend… mortality is joy."/>
-	<entry name="ChaosSpaceMarines/Defiler:Attack#5" value="Flense, cut, smash, joy, shred!"/>
+	<entry name="ChaosSpaceMarines/Defiler:Attack#0" value="Sim, sim, morram mortais, morram morram."/>
+	<entry name="ChaosSpaceMarines/Defiler:Attack#1" value="Mais perto, garras, chamando, venham!"/>
+	<entry name="ChaosSpaceMarines/Defiler:Attack#2" value="Conheçam nossos deuses, vão conhecer nossos deuses."/>
+	<entry name="ChaosSpaceMarines/Defiler:Attack#3" value="Pelo Caos, sangue, crânios, pelo Caos."/>
+	<entry name="ChaosSpaceMarines/Defiler:Attack#4" value="Rasguem e despedaçem... mortalidade é alegria."/>
+	<entry name="ChaosSpaceMarines/Defiler:Attack#5" value="Esfole, corte, esmague, alegria, despedaçe!"/>
 	<entry name="ChaosSpaceMarines/Defiler:AttackCount" value="6"/>
-	<entry name="ChaosSpaceMarines/Defiler:Broken#0" value="Dark gods!"/>
-	<entry name="ChaosSpaceMarines/Defiler:Broken#1" value="Losing, losing, hahaha, losing!"/>
+	<entry name="ChaosSpaceMarines/Defiler:Broken#0" value="Deuses sombrios!"/>
+	<entry name="ChaosSpaceMarines/Defiler:Broken#1" value="Perdendo, perdendo, hahaha, perdendo!"/>
 	<entry name="ChaosSpaceMarines/Defiler:BrokenCount" value="2"/>
-	<entry name="ChaosSpaceMarines/Defiler:Hurt#0" value="Yes, back to the warp, yes, free us."/>
-	<entry name="ChaosSpaceMarines/Defiler:Hurt#1" value="Smash my cage, free daemon-I"/>
+	<entry name="ChaosSpaceMarines/Defiler:Hurt#0" value="Sim, de volta à warp, sim, nos libertem."/>
+	<entry name="ChaosSpaceMarines/Defiler:Hurt#1" value="Quebrem minha jaula, libertem daemon-eu"/>
 	<entry name="ChaosSpaceMarines/Defiler:HurtCount" value="2"/>
-	<entry name="ChaosSpaceMarines/Defiler:Idle#0" value="Warp, where, warp gone!"/>
-	<entry name="ChaosSpaceMarines/Defiler:Idle#1" value="Mustn't kill, runebound, sorcery. Mustn't… want to."/>
-	<entry name="ChaosSpaceMarines/Defiler:Idle#2" value="Why not kill, kill, kill, where kill?"/>
-	<entry name="ChaosSpaceMarines/Defiler:Idle#3" value="Old ones stink here. Stink dead gods, stink."/>
+	<entry name="ChaosSpaceMarines/Defiler:Idle#0" value="Warp, onde, warp sumiu!"/>
+	<entry name="ChaosSpaceMarines/Defiler:Idle#1" value="Não devo matar, preso por runas, feitiçaria. Não devo... quero."/>
+	<entry name="ChaosSpaceMarines/Defiler:Idle#2" value="Por que não matar, matar, matar, onde matar?"/>
+	<entry name="ChaosSpaceMarines/Defiler:Idle#3" value="Antigos fedem aqui. Fedem deuses mortos, fedem."/>
 	<entry name="ChaosSpaceMarines/Defiler:IdleCount" value="4"/>
-	<entry name="ChaosSpaceMarines/Defiler:Shaken#0" value="Haha, warp is calling, freeeee."/>
+	<entry name="ChaosSpaceMarines/Defiler:Shaken#0" value="Haha, warp está chamando, livreeee."/>
 	<entry name="ChaosSpaceMarines/Defiler:ShakenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Defiler:Victory#0" value="Break so easily, snap, sad, more?"/>
-	<entry name="ChaosSpaceMarines/Defiler:Victory#1" value="Dead so soon."/>
-	<entry name="ChaosSpaceMarines/Defiler:Victory#2" value="To the warp, to the masters' glory."/>
-	<entry name="ChaosSpaceMarines/Defiler:Victory#3" value="Little soul. Forge is hot, burning, waiting. For you."/>
+	<entry name="ChaosSpaceMarines/Defiler:Victory#0" value="Quebram tão fácil, estalo, triste, mais?"/>
+	<entry name="ChaosSpaceMarines/Defiler:Victory#1" value="Mortos tão cedo."/>
+	<entry name="ChaosSpaceMarines/Defiler:Victory#2" value="Para a warp, para a glória dos mestres."/>
+	<entry name="ChaosSpaceMarines/Defiler:Victory#3" value="Pequena alma. Forja está quente, queimando, esperando. Por você."/>
 	<entry name="ChaosSpaceMarines/Defiler:VictoryCount" value="4"/>
-	<entry name="ChaosSpaceMarines/Havoc:Attack#0" value="Annihilation!"/>
-	<entry name="ChaosSpaceMarines/Havoc:Attack#1" value="SHOOT BACK COWARDS"/>
-	<entry name="ChaosSpaceMarines/Havoc:Attack#2" value="One bolt, two bolts, three bolts, four-"/>
-	<entry name="ChaosSpaceMarines/Havoc:Attack#3" value="For the glory of Chaos! For the Dark Mechanicum! For the joy of shooting!"/>
-	<entry name="ChaosSpaceMarines/Havoc:Attack#4" value="From hell, we fire!"/>
+	<entry name="ChaosSpaceMarines/Havoc:Attack#0" value="Aniquilação!"/>
+	<entry name="ChaosSpaceMarines/Havoc:Attack#1" value="REVIDEM COVARDES"/>
+	<entry name="ChaosSpaceMarines/Havoc:Attack#2" value="Um projétil, dois projéteis, três projéteis, quatro-"/>
+	<entry name="ChaosSpaceMarines/Havoc:Attack#3" value="Pela glória do Caos! Pelo Mechanicum Sombrio! Pela alegria de atirar!"/>
+	<entry name="ChaosSpaceMarines/Havoc:Attack#4" value="Do inferno, nós atiramos!"/>
 	<entry name="ChaosSpaceMarines/Havoc:AttackCount" value="5"/>
-	<entry name="ChaosSpaceMarines/Havoc:Broken#0" value="Backfired…"/>
+	<entry name="ChaosSpaceMarines/Havoc:Broken#0" value="Saiu pela culatra..."/>
 	<entry name="ChaosSpaceMarines/Havoc:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Havoc:Hurt#0" value="Not dead, keep shooting."/>
+	<entry name="ChaosSpaceMarines/Havoc:Hurt#0" value="Não morto, continuem atirando."/>
 	<entry name="ChaosSpaceMarines/Havoc:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Havoc:Idle#0" value="When you talk with guns, people listen. When you talk to guns, people run."/>
-	<entry name="ChaosSpaceMarines/Havoc:Idle#1" value="My blood is plasma."/>
-	<entry name="ChaosSpaceMarines/Havoc:Idle#2" value="Bless the Warp, that gives us such plenty."/>
+	<entry name="ChaosSpaceMarines/Havoc:Idle#0" value="Quando você fala com armas, as pessoas escutam. Quando você fala com armas, as pessoas correm."/>
+	<entry name="ChaosSpaceMarines/Havoc:Idle#1" value="Meu sangue é plasma."/>
+	<entry name="ChaosSpaceMarines/Havoc:Idle#2" value="Abençoada seja a Warp, que nos dá tanta abundância."/>
 	<entry name="ChaosSpaceMarines/Havoc:IdleCount" value="3"/>
-	<entry name="ChaosSpaceMarines/Havoc:Shaken#0" value="Our guns, not yours. From our cold dead fingers…"/>
+	<entry name="ChaosSpaceMarines/Havoc:Shaken#0" value="Nossas armas, não suas. De nossos dedos frios e mortos..."/>
 	<entry name="ChaosSpaceMarines/Havoc:ShakenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Havoc:Victory#0" value="Shot into peace."/>
+	<entry name="ChaosSpaceMarines/Havoc:Victory#0" value="Baleado para a paz."/>
 	<entry name="ChaosSpaceMarines/Havoc:VictoryCount" value="1"/>
 	<entry name="ChaosSpaceMarines/Heldrake:Attack#0" value="HhhrrraaaaaHHHH!"/>
 	<entry name="ChaosSpaceMarines/Heldrake:Attack#1" value="Graaarh."/>
@@ -2414,7 +2414,7 @@
 	<entry name="ChaosSpaceMarines/Heldrake:BrokenCount" value="1"/>
 	<entry name="ChaosSpaceMarines/Heldrake:Hurt#0" value="Arkh! Arkh!"/>
 	<entry name="ChaosSpaceMarines/Heldrake:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Heldrake:Idle#0" value="Man… once."/>
+	<entry name="ChaosSpaceMarines/Heldrake:Idle#0" value="Homem... uma vez."/>
 	<entry name="ChaosSpaceMarines/Heldrake:Idle#1" value="Grrrrhhh."/>
 	<entry name="ChaosSpaceMarines/Heldrake:Idle#2" value="Rrrrrrr…"/>
 	<entry name="ChaosSpaceMarines/Heldrake:IdleCount" value="3"/>
@@ -2422,314 +2422,314 @@
 	<entry name="ChaosSpaceMarines/Heldrake:ShakenCount" value="1"/>
 	<entry name="ChaosSpaceMarines/Heldrake:Victory#0" value="HhhrrrrrraaaaaaaHHHHHH!"/>
 	<entry name="ChaosSpaceMarines/Heldrake:VictoryCount" value="1"/>
-	<entry name="ChaosSpaceMarines/KhorneBerzerker:Attack#0" value="Blood for the Blood God!"/>
-	<entry name="ChaosSpaceMarines/KhorneBerzerker:Attack#1" value="Khorne wants your skull."/>
-	<entry name="ChaosSpaceMarines/KhorneBerzerker:Attack#2" value="My axe longs to taste your blood!"/>
-	<entry name="ChaosSpaceMarines/KhorneBerzerker:Attack#3" value="Stand and fight, cowards!"/>
-	<entry name="ChaosSpaceMarines/KhorneBerzerker:Attack#4" value="There is no honor in a warrior's death!"/>
+	<entry name="ChaosSpaceMarines/KhorneBerzerker:Attack#0" value="Sangue para o Deus do Sangue!"/>
+	<entry name="ChaosSpaceMarines/KhorneBerzerker:Attack#1" value="Khorne quer seu crânio."/>
+	<entry name="ChaosSpaceMarines/KhorneBerzerker:Attack#2" value="Meu machado anseia provar seu sangue!"/>
+	<entry name="ChaosSpaceMarines/KhorneBerzerker:Attack#3" value="Fiquem e lutem, covardes!"/>
+	<entry name="ChaosSpaceMarines/KhorneBerzerker:Attack#4" value="Não há honra na morte de um guerreiro!"/>
 	<entry name="ChaosSpaceMarines/KhorneBerzerker:AttackCount" value="5"/>
-	<entry name="ChaosSpaceMarines/KhorneBerzerker:Broken#0" value="Khorne will doom us!"/>
+	<entry name="ChaosSpaceMarines/KhorneBerzerker:Broken#0" value="Khorne nos condenará!"/>
 	<entry name="ChaosSpaceMarines/KhorneBerzerker:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/KhorneBerzerker:Hurt#0" value="My… My blood for the Blood GOD!"/>
+	<entry name="ChaosSpaceMarines/KhorneBerzerker:Hurt#0" value="Meu... Meu sangue para o Deus do SANGUE!"/>
 	<entry name="ChaosSpaceMarines/KhorneBerzerker:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/KhorneBerzerker:Idle#0" value="WHY DO WE NOT FIGHT?"/>
+	<entry name="ChaosSpaceMarines/KhorneBerzerker:Idle#0" value="POR QUE NÃO LUTAMOS?"/>
 	<entry name="ChaosSpaceMarines/KhorneBerzerker:IdleCount" value="1"/>
-	<entry name="ChaosSpaceMarines/KhorneBerzerker:Shaken#0" value="We will not die easily!"/>
+	<entry name="ChaosSpaceMarines/KhorneBerzerker:Shaken#0" value="Não morreremos facilmente!"/>
 	<entry name="ChaosSpaceMarines/KhorneBerzerker:ShakenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/KhorneBerzerker:Victory#0" value="BLOOD!"/>
-	<entry name="ChaosSpaceMarines/KhorneBerzerker:Victory#1" value="KHORNE CALLS YOU"/>
-	<entry name="ChaosSpaceMarines/KhorneBerzerker:Victory#2" value="ALL ARE SKULLS"/>
+	<entry name="ChaosSpaceMarines/KhorneBerzerker:Victory#0" value="SANGUE!"/>
+	<entry name="ChaosSpaceMarines/KhorneBerzerker:Victory#1" value="KHORNE OS CHAMA"/>
+	<entry name="ChaosSpaceMarines/KhorneBerzerker:Victory#2" value="TODOS SÃO CRÂNIOS"/>
 	<entry name="ChaosSpaceMarines/KhorneBerzerker:VictoryCount" value="3"/>
-	<entry name="ChaosSpaceMarines/MasterOfPossession:Attack#0" value="By your true name, I compel you."/>
-	<entry name="ChaosSpaceMarines/MasterOfPossession:Attack#1" value="Wherefore your fear? A breach is near."/>
-	<entry name="ChaosSpaceMarines/MasterOfPossession:Attack#2" value="My stave hungers, your soul lingers."/>
+	<entry name="ChaosSpaceMarines/MasterOfPossession:Attack#0" value="Por seu nome verdadeiro, eu os compilo."/>
+	<entry name="ChaosSpaceMarines/MasterOfPossession:Attack#1" value="Por que seu medo? Uma brecha está próxima."/>
+	<entry name="ChaosSpaceMarines/MasterOfPossession:Attack#2" value="Meu cajado tem fome, sua alma persiste."/>
 	<entry name="ChaosSpaceMarines/MasterOfPossession:AttackCount" value="3"/>
-	<entry name="ChaosSpaceMarines/MasterOfPossession:Broken#0" value="What lives but will not die?"/>
+	<entry name="ChaosSpaceMarines/MasterOfPossession:Broken#0" value="O que vive mas não morrerá?"/>
 	<entry name="ChaosSpaceMarines/MasterOfPossession:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/MasterOfPossession:Hurt#0" value="Is this my bone? Fie, I see it none."/>
+	<entry name="ChaosSpaceMarines/MasterOfPossession:Hurt#0" value="Este é meu osso? Ora, não vejo nenhum."/>
 	<entry name="ChaosSpaceMarines/MasterOfPossession:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#0" value="Useless men and ghosts… we need better hosts."/>
-	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#1" value="Soon the athame, then Fatewalker's true name…"/>
-	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#2" value="Possession is nine tenths of the lore…"/>
-	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#3" value="They will taste the planet's heart, before our time is done."/>
+	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#0" value="Homens inúteis e fantasmas... precisamos de melhores hospedeiros."/>
+	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#1" value="Logo o athame, depois o nome verdadeiro do Caminhante do Destino..."/>
+	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#2" value="Possessão é nove décimos do conhecimento..."/>
+	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#3" value="Eles provarão o coração do planeta, antes de nosso tempo acabar."/>
 	<entry name="ChaosSpaceMarines/MasterOfPossession:IdleCount" value="4"/>
-	<entry name="ChaosSpaceMarines/MasterOfPossession:Shaken#0" value="What is fear, the mindkiller?"/>
+	<entry name="ChaosSpaceMarines/MasterOfPossession:Shaken#0" value="O que é o medo, o matador da mente?"/>
 	<entry name="ChaosSpaceMarines/MasterOfPossession:ShakenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/MasterOfPossession:Victory#0" value="My demons whisper, each to each. They will whisper to you."/>
+	<entry name="ChaosSpaceMarines/MasterOfPossession:Victory#0" value="Meus demônios sussurram, uns aos outros. Eles sussurrarão para vocês."/>
 	<entry name="ChaosSpaceMarines/MasterOfPossession:VictoryCount" value="1"/>
 	<entry name="ChaosSpaceMarines/Venomcrawler" value="ChaosSpaceMarines/Defiler"/>
-	<entry name="ChaosSpaceMarines/WarpTalon:Attack#0" value="…prey…"/>
+	<entry name="ChaosSpaceMarines/WarpTalon:Attack#0" value="...presa..."/>
 	<entry name="ChaosSpaceMarines/WarpTalon:AttackCount" value="1"/>
-	<entry name="ChaosSpaceMarines/WarpTalon:Broken#0" value="…fear…"/>
+	<entry name="ChaosSpaceMarines/WarpTalon:Broken#0" value="...medo..."/>
 	<entry name="ChaosSpaceMarines/WarpTalon:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/WarpTalon:Hurt#0" value="…pain…"/>
+	<entry name="ChaosSpaceMarines/WarpTalon:Hurt#0" value="...dor..."/>
 	<entry name="ChaosSpaceMarines/WarpTalon:HurtCount" value="1"/>
 	<entry name="ChaosSpaceMarines/WarpTalon:Idle#0" value="…"/>
 	<entry name="ChaosSpaceMarines/WarpTalon:IdleCount" value="1"/>
-	<entry name="ChaosSpaceMarines/WarpTalon:Shaken#0" value="…fear…"/>
+	<entry name="ChaosSpaceMarines/WarpTalon:Shaken#0" value="...medo..."/>
 	<entry name="ChaosSpaceMarines/WarpTalon:ShakenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/WarpTalon:Victory#0" value="…death…"/>
+	<entry name="ChaosSpaceMarines/WarpTalon:Victory#0" value="...morte..."/>
 	<entry name="ChaosSpaceMarines/WarpTalon:VictoryCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Attack#0" value="Target diagnostic: you… are not perfect."/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Attack#1" value="Cogitators, mechatendrils, armaments: deployed."/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Attack#2" value="GOTO target elimination. Execute."/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Attack#0" value="Diagnóstico do alvo: vocês... não são perfeitos."/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Attack#1" value="Cogitadores, mechatendris, armamentos: implantados."/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Attack#2" value="IR PARA eliminação do alvo. Executar."/>
 	<entry name="ChaosSpaceMarines/Warpsmith:AttackCount" value="3"/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Broken#0" value="Damage limitation programme initiate."/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Broken#0" value="Programa de limitação de danos iniciado."/>
 	<entry name="ChaosSpaceMarines/Warpsmith:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Hurt#0" value="Diagnostic: organical/mechanic ERROR"/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Hurt#0" value="Diagnóstico: ERRO orgânico/mecânico"/>
 	<entry name="ChaosSpaceMarines/Warpsmith:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Idle#0" value="Ridiculous Warsmiths. Ridiculous!"/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Idle#1" value="Man, machine, daemon—together, perfection."/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Idle#2" value="Dear mechatendrils…"/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Idle#3" value="Error: emotional core recovery. Delete."/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Idle#4" value="Soul Forge, gods, we are your weapons."/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Idle#0" value="Ferreiros ridículos. Ridículos!"/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Idle#1" value="Homem, máquina, daemon—juntos, perfeição."/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Idle#2" value="Queridos mechatendris..."/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Idle#3" value="Erro: recuperação do núcleo emocional. Deletar."/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Idle#4" value="Forja da Alma, deuses, somos suas armas."/>
 	<entry name="ChaosSpaceMarines/Warpsmith:IdleCount" value="5"/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Shaken#0" value="Reports: damage sustained."/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Shaken#0" value="Relatórios: dano sustentado."/>
 	<entry name="ChaosSpaceMarines/Warpsmith:ShakenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Victory#0" value="Assessment: opposition deactivated. Predictable."/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Victory#0" value="Avaliação: oposição desativada. Previsível."/>
 	<entry name="ChaosSpaceMarines/Warpsmith:VictoryCount" value="1"/>
 	<entry name="ChaosSpaceMarines/Helbrute" value="ChaosSpaceMarines/Defiler"/>
 	<entry name="ChaosSpaceMarines/Maulerfiend" value="ChaosSpaceMarines/Defiler"/>
 	<entry name="ChaosSpaceMarines/Obliterator" value="ChaosSpaceMarines/Havoc"/>
-	<entry name="AstraMilitarum/TempestusScion:Attack#0" value="So fall all enemies of the Imperium"/>
-	<entry name="AstraMilitarum/TempestusScion:Attack#1" value="Heretics, xenos: all shall fall."/>
-	<entry name="AstraMilitarum/TempestusScion:Attack#2" value="Hellguns at the ready…"/>
-	<entry name="AstraMilitarum/TempestusScion:Attack#3" value="Our lives for Terra!"/>
+	<entry name="AstraMilitarum/TempestusScion:Attack#0" value="Assim caem todos os inimigos do Império"/>
+	<entry name="AstraMilitarum/TempestusScion:Attack#1" value="Heréticos, xenos: todos cairão."/>
+	<entry name="AstraMilitarum/TempestusScion:Attack#2" value="Armas infernais prontas..."/>
+	<entry name="AstraMilitarum/TempestusScion:Attack#3" value="Nossas vidas por Terra!"/>
 	<entry name="AstraMilitarum/TempestusScion:AttackCount" value="4"/>
-	<entry name="AstraMilitarum/TempestusScion:Broken#0" value="The shame of it! Stormtroopers retreating!"/>
+	<entry name="AstraMilitarum/TempestusScion:Broken#0" value="A vergonha! Soldados de Assalto recuando!"/>
 	<entry name="AstraMilitarum/TempestusScion:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/TempestusScion:Hurt#0" value="I gladly give my life for my Emperor."/>
+	<entry name="AstraMilitarum/TempestusScion:Hurt#0" value="Dou minha vida alegremente por meu Imperador."/>
 	<entry name="AstraMilitarum/TempestusScion:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/TempestusScion:Idle#0" value="They call us 'Glory Boys'. The only glory we seek is that of the Emperor."/>
-	<entry name="AstraMilitarum/TempestusScion:Idle#1" value="The Regimental Standard? Not an obligation, but a joy to read."/>
-	<entry name="AstraMilitarum/TempestusScion:Idle#2" value="Have you read this article about Marbo? How can a hero disregard Munitorum regulations?"/>
-	<entry name="AstraMilitarum/TempestusScion:Idle#3" value="In the mess, R&R. This is the life."/>
+	<entry name="AstraMilitarum/TempestusScion:Idle#0" value="Nos chamam de 'Garotos da Glória'. A única glória que buscamos é a do Imperador."/>
+	<entry name="AstraMilitarum/TempestusScion:Idle#1" value="O Padrão Regimental? Não uma obrigação, mas uma alegria de ler."/>
+	<entry name="AstraMilitarum/TempestusScion:Idle#2" value="Leram este artigo sobre Marbo? Como pode um herói desrespeitar regulamentos do Munitorum?"/>
+	<entry name="AstraMilitarum/TempestusScion:Idle#3" value="No refeitório, descanso e recreação. Esta é a vida."/>
 	<entry name="AstraMilitarum/TempestusScion:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/TempestusScion:Shaken#0" value="I have passed the Trials of Compliance: I will not run."/>
+	<entry name="AstraMilitarum/TempestusScion:Shaken#0" value="Passei pelos Testes de Conformidade: não correrei."/>
 	<entry name="AstraMilitarum/TempestusScion:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/TempestusScion:Victory#0" value="Let the Guard celebrate. Our war is unending."/>
+	<entry name="AstraMilitarum/TempestusScion:Victory#0" value="Deixem a Guarda celebrar. Nossa guerra é infinita."/>
 	<entry name="AstraMilitarum/TempestusScion:VictoryCount" value="1"/>
-	<entry name="Necrons/FlayedOne:Attack#0" value="…flesh"/>
-	<entry name="Necrons/FlayedOne:Attack#1" value="-tear-"/>
-	<entry name="Necrons/FlayedOne:Attack#2" value="…rend-rip-tear…"/>
+	<entry name="Necrons/FlayedOne:Attack#0" value="...carne"/>
+	<entry name="Necrons/FlayedOne:Attack#1" value="-rasgar-"/>
+	<entry name="Necrons/FlayedOne:Attack#2" value="...despedaçar-rasgar-dilacerar..."/>
 	<entry name="Necrons/FlayedOne:AttackCount" value="3"/>
-	<entry name="Necrons/FlayedOne:Broken#0" value="…esssscape…"/>
+	<entry name="Necrons/FlayedOne:Broken#0" value="...esssscapar..."/>
 	<entry name="Necrons/FlayedOne:BrokenCount" value="1"/>
-	<entry name="Necrons/FlayedOne:Hurt#0" value="…flesh wound…"/>
+	<entry name="Necrons/FlayedOne:Hurt#0" value="...ferida na carne..."/>
 	<entry name="Necrons/FlayedOne:HurtCount" value="1"/>
-	<entry name="Necrons/FlayedOne:Idle#0" value="…hunger…"/>
-	<entry name="Necrons/FlayedOne:Idle#1" value="…linger…"/>
-	<entry name="Necrons/FlayedOne:Idle#2" value="…langour…"/>
+	<entry name="Necrons/FlayedOne:Idle#0" value="...fome..."/>
+	<entry name="Necrons/FlayedOne:Idle#1" value="...persistir..."/>
+	<entry name="Necrons/FlayedOne:Idle#2" value="...languidez..."/>
 	<entry name="Necrons/FlayedOne:IdleCount" value="3"/>
-	<entry name="Necrons/FlayedOne:Shaken#0" value="…Llandu'gor…!"/>
+	<entry name="Necrons/FlayedOne:Shaken#0" value="...Llandu'gor...!"/>
 	<entry name="Necrons/FlayedOne:ShakenCount" value="1"/>
-	<entry name="Necrons/FlayedOne:Victory#0" value="…live again…"/>
+	<entry name="Necrons/FlayedOne:Victory#0" value="...viver novamente..."/>
 	<entry name="Necrons/FlayedOne:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/Chimera:Attack#0" value="Supporting infantry with fire."/>
-	<entry name="AstraMilitarum/Chimera:Attack#1" value="Transport assaulting."/>
-	<entry name="AstraMilitarum/Chimera:Attack#2" value="Firing everything we've got."/>
+	<entry name="AstraMilitarum/Chimera:Attack#0" value="Apoiando infantaria com fogo."/>
+	<entry name="AstraMilitarum/Chimera:Attack#1" value="Transporte atacando."/>
+	<entry name="AstraMilitarum/Chimera:Attack#2" value="Disparando tudo que temos."/>
 	<entry name="AstraMilitarum/Chimera:AttackCount" value="3"/>
-	<entry name="AstraMilitarum/Chimera:Broken#0" value="Fast armour retreating fast…"/>
+	<entry name="AstraMilitarum/Chimera:Broken#0" value="Blindagem rápida recuando rapidamente..."/>
 	<entry name="AstraMilitarum/Chimera:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Chimera:Hurt#0" value="Heavy armour needed!"/>
+	<entry name="AstraMilitarum/Chimera:Hurt#0" value="Blindagem pesada necessária!"/>
 	<entry name="AstraMilitarum/Chimera:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Chimera:Idle#0" value="Awaiting orders"/>
-	<entry name="AstraMilitarum/Chimera:Idle#1" value="Anyone to move?"/>
-	<entry name="AstraMilitarum/Chimera:Idle#2" value="Whose turn is it to polish the lens on the multilaser?"/>
+	<entry name="AstraMilitarum/Chimera:Idle#0" value="Aguardando ordens"/>
+	<entry name="AstraMilitarum/Chimera:Idle#1" value="Alguém para mover?"/>
+	<entry name="AstraMilitarum/Chimera:Idle#2" value="De quem é a vez de polir a lente do multilaser?"/>
 	<entry name="AstraMilitarum/Chimera:IdleCount" value="3"/>
-	<entry name="AstraMilitarum/Chimera:Shaken#0" value="Get this hunk outta here!"/>
+	<entry name="AstraMilitarum/Chimera:Shaken#0" value="Tirem esta sucata daqui!"/>
 	<entry name="AstraMilitarum/Chimera:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Chimera:Victory#0" value="Tank shocked."/>
+	<entry name="AstraMilitarum/Chimera:Victory#0" value="Tanque em choque."/>
 	<entry name="AstraMilitarum/Chimera:VictoryCount" value="1"/>
-	<entry name="Orks/Warbiker:Attack#0" value="RED WUNZ GO FASTA!"/>
+	<entry name="Orks/Warbiker:Attack#0" value="OS VERMELHO VAI MAIS RÁPIDO!"/>
 	<entry name="Orks/Warbiker:Attack#1" value="Dakka dakka dakka!"/>
-	<entry name="Orks/Warbiker:Attack#2" value="Shoot 'em all!"/>
+	<entry name="Orks/Warbiker:Attack#2" value="Atira em todos!"/>
 	<entry name="Orks/Warbiker:AttackCount" value="3"/>
-	<entry name="Orks/Warbiker:Broken#0" value="Fasta fasta fasta fasta…"/>
+	<entry name="Orks/Warbiker:Broken#0" value="Mais rápido mais rápido mais rápido..."/>
 	<entry name="Orks/Warbiker:BrokenCount" value="1"/>
-	<entry name="Orks/Warbiker:Hurt#0" value="Oi, Baz, was dat yer wheel or mine?"/>
-	<entry name="Orks/Warbiker:Hurt#1" value="We don't need does bitz anyhow."/>
+	<entry name="Orks/Warbiker:Hurt#0" value="Ei, Baz, essa roda era sua ou minha?"/>
+	<entry name="Orks/Warbiker:Hurt#1" value="Não precisamos dessas peças mesmo."/>
 	<entry name="Orks/Warbiker:HurtCount" value="2"/>
-	<entry name="Orks/Warbiker:Idle#0" value="move us, fer zog's sake."/>
-	<entry name="Orks/Warbiker:Idle#1" value="Vroom, vroom, dakka, dakka. Does were the days."/>
+	<entry name="Orks/Warbiker:Idle#0" value="nos move, pelo amor de Gork."/>
+	<entry name="Orks/Warbiker:Idle#1" value="Vrum, vrum, dakka, dakka. Esses eram os tempos."/>
 	<entry name="Orks/Warbiker:IdleCount" value="2"/>
-	<entry name="Orks/Warbiker:Shaken#0" value="Need sum blue paint, fast!"/>
+	<entry name="Orks/Warbiker:Shaken#0" value="Precisa de tinta azul, rápido!"/>
 	<entry name="Orks/Warbiker:ShakenCount" value="1"/>
-	<entry name="Orks/Warbiker:Victory#0" value="WAAAGH! Kult of Speed! WAAAGH!"/>
+	<entry name="Orks/Warbiker:Victory#0" value="WAAAGH! Culto da Velocidade! WAAAGH!"/>
 	<entry name="Orks/Warbiker:VictoryCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Attack#0" value="They seek death at our hands."/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Attack#1" value="Crush their skulls 'neath our treads!"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Attack#2" value="They seek death at our hands."/>
+	<entry name="ChaosSpaceMarines/ChaosLandRaider:Attack#0" value="Eles buscam a morte em nossas mãos."/>
+	<entry name="ChaosSpaceMarines/ChaosLandRaider:Attack#1" value="Esmaguem seus crânios sob nossas esteiras!"/>
+	<entry name="ChaosSpaceMarines/ChaosLandRaider:Attack#2" value="Eles buscam a morte em nossas mãos."/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:AttackCount" value="3"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Broken#0" value="The Dark Gods will damn us for this…"/>
+	<entry name="ChaosSpaceMarines/ChaosLandRaider:Broken#0" value="Os Deuses Sombrios nos condenarão por isso..."/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Hurt#0" value="We will not die here, weaklings!"/>
+	<entry name="ChaosSpaceMarines/ChaosLandRaider:Hurt#0" value="Não morreremos aqui, fracos!"/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Idle#0" value="Holding up pretty well for ten thousand years without a service."/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Idle#1" value="Dark gods preserve us."/>
+	<entry name="ChaosSpaceMarines/ChaosLandRaider:Idle#0" value="Resistindo bem para dez mil anos sem manutenção."/>
+	<entry name="ChaosSpaceMarines/ChaosLandRaider:Idle#1" value="Deuses sombrios nos preservem."/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:IdleCount" value="2"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Shaken#0" value="Save yourselves…"/>
+	<entry name="ChaosSpaceMarines/ChaosLandRaider:Shaken#0" value="Salvem-se..."/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:ShakenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Victory#0" value="They're dead. Predictable."/>
+	<entry name="ChaosSpaceMarines/ChaosLandRaider:Victory#0" value="Estão mortos. Previsível."/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:VictoryCount" value="1"/>
-	<entry name="Tau/TidewallGunrig:Attack#0" value="Firing railgun."/>
-	<entry name="Tau/TidewallGunrig:Attack#1" value="Emplacement activated."/>
-	<entry name="Tau/TidewallGunrig:Attack#2" value="Stabilized and ready to fire."/>
+	<entry name="Tau/TidewallGunrig:Attack#0" value="Disparando canhão de trilho."/>
+	<entry name="Tau/TidewallGunrig:Attack#1" value="Posicionamento ativado."/>
+	<entry name="Tau/TidewallGunrig:Attack#2" value="Estabilizado e pronto para disparar."/>
 	<entry name="Tau/TidewallGunrig:AttackCount" value="3"/>
-	<entry name="Tau/TidewallGunrig:Broken#0" value="Pulling the gunrig back."/>
+	<entry name="Tau/TidewallGunrig:Broken#0" value="Puxando a plataforma de volta."/>
 	<entry name="Tau/TidewallGunrig:BrokenCount" value="1"/>
-	<entry name="Tau/TidewallGunrig:Hurt#0" value="Shieldwall failing, emplacement compromised."/>
+	<entry name="Tau/TidewallGunrig:Hurt#0" value="Muralha de escudos falhando, posicionamento comprometido."/>
 	<entry name="Tau/TidewallGunrig:HurtCount" value="1"/>
-	<entry name="Tau/TidewallGunrig:Idle#0" value="Got any tanks for us to hit?"/>
-	<entry name="Tau/TidewallGunrig:Idle#1" value="Mobile emplacement ready for action."/>
+	<entry name="Tau/TidewallGunrig:Idle#0" value="Têm tanques para atingirmos?"/>
+	<entry name="Tau/TidewallGunrig:Idle#1" value="Posicionamento móvel pronto para ação."/>
 	<entry name="Tau/TidewallGunrig:IdleCount" value="2"/>
-	<entry name="Tau/TidewallGunrig:Shaken#0" value="The Tidewall can't take this amount of fire!"/>
+	<entry name="Tau/TidewallGunrig:Shaken#0" value="A Muralha de Maré não aguenta essa quantidade de fogo!"/>
 	<entry name="Tau/TidewallGunrig:ShakenCount" value="1"/>
-	<entry name="Tau/TidewallGunrig:Victory#0" value="Target… atomised."/>
+	<entry name="Tau/TidewallGunrig:Victory#0" value="Alvo... atomizado."/>
 	<entry name="Tau/TidewallGunrig:VictoryCount" value="1"/>
 	<entry name="Tyranids/ScythedHierodule" value="Tyranids/Carnifex"/>
 	<entry name="SpaceMarines/Razorback" value="SpaceMarines/Hunter"/>
-	<entry name="Neutral/Umbra:Attack#0" value="…llll…"/>
-	<entry name="Neutral/Umbra:Attack#1" value="(linger)"/>
-	<entry name="Neutral/Umbra:Attack#2" value="Linger…"/>
-	<entry name="Neutral/Umbra:Attack#3" value="…inger…"/>
+	<entry name="Neutral/Umbra:Attack#0" value="...llll..."/>
+	<entry name="Neutral/Umbra:Attack#1" value="(persistir)"/>
+	<entry name="Neutral/Umbra:Attack#2" value="Persistir..."/>
+	<entry name="Neutral/Umbra:Attack#3" value="...ersistir..."/>
 	<entry name="Neutral/Umbra:AttackCount" value="4"/>
-	<entry name="Neutral/Umbra:Broken#0" value="Linger…"/>
+	<entry name="Neutral/Umbra:Broken#0" value="Persistir..."/>
 	<entry name="Neutral/Umbra:BrokenCount" value="1"/>
-	<entry name="Neutral/Umbra:Hurt#0" value="LIN-"/>
+	<entry name="Neutral/Umbra:Hurt#0" value="PER-"/>
 	<entry name="Neutral/Umbra:HurtCount" value="1"/>
 	<entry name="Neutral/Umbra:Idle#0" value="…"/>
-	<entry name="Neutral/Umbra:Idle#1" value="…linger"/>
-	<entry name="Neutral/Umbra:Idle#2" value="linger…"/>
-	<entry name="Neutral/Umbra:Idle#3" value="…ng…"/>
+	<entry name="Neutral/Umbra:Idle#1" value="...persistir"/>
+	<entry name="Neutral/Umbra:Idle#2" value="persistir..."/>
+	<entry name="Neutral/Umbra:Idle#3" value="...stir..."/>
 	<entry name="Neutral/Umbra:IdleCount" value="4"/>
-	<entry name="Neutral/Umbra:Shaken#0" value="lin…ger…"/>
+	<entry name="Neutral/Umbra:Shaken#0" value="per...sistir..."/>
 	<entry name="Neutral/Umbra:ShakenCount" value="1"/>
-	<entry name="Neutral/Umbra:Victory#0" value="LINGER"/>
+	<entry name="Neutral/Umbra:Victory#0" value="PERSISTIR"/>
 	<entry name="Neutral/Umbra:VictoryCount" value="1"/>
-	<entry name="Eldar/Wraithblade:Attack#0" value="…the enemy will fall…"/>
-	<entry name="Eldar/Wraithblade:Attack#1" value="…join the dead…"/>
-	<entry name="Eldar/Wraithblade:Attack#2" value="…for our Craftworld…"/>
-	<entry name="Eldar/Wraithblade:Attack#3" value="…for the Aeldari…"/>
+	<entry name="Eldar/Wraithblade:Attack#0" value="...o inimigo cairá..."/>
+	<entry name="Eldar/Wraithblade:Attack#1" value="...junte-se aos mortos..."/>
+	<entry name="Eldar/Wraithblade:Attack#2" value="...por nosso Mundo-Artesão..."/>
+	<entry name="Eldar/Wraithblade:Attack#3" value="...pelos Aeldari..."/>
 	<entry name="Eldar/Wraithblade:AttackCount" value="4"/>
-	<entry name="Eldar/Wraithblade:Broken#0" value="…we fear She Who Thirsts…"/>
+	<entry name="Eldar/Wraithblade:Broken#0" value="...tememos Aquela Que Tem Sede..."/>
 	<entry name="Eldar/Wraithblade:BrokenCount" value="1"/>
-	<entry name="Eldar/Wraithblade:Hurt#0" value="…to die, again?"/>
+	<entry name="Eldar/Wraithblade:Hurt#0" value="...morrer, novamente?"/>
 	<entry name="Eldar/Wraithblade:HurtCount" value="1"/>
-	<entry name="Eldar/Wraithblade:Idle#0" value="…need guidance…"/>
-	<entry name="Eldar/Wraithblade:Idle#1" value="…we are dead…"/>
-	<entry name="Eldar/Wraithblade:Idle#2" value="…let us rest…"/>
-	<entry name="Eldar/Wraithblade:Idle#3" value="…we live for war…"/>
+	<entry name="Eldar/Wraithblade:Idle#0" value="...precisamos de orientação..."/>
+	<entry name="Eldar/Wraithblade:Idle#1" value="...estamos mortos..."/>
+	<entry name="Eldar/Wraithblade:Idle#2" value="...deixem-nos descansar..."/>
+	<entry name="Eldar/Wraithblade:Idle#3" value="...vivemos para a guerra..."/>
 	<entry name="Eldar/Wraithblade:IdleCount" value="4"/>
-	<entry name="Eldar/Wraithblade:Shaken#0" value="…fear is beyond us…"/>
+	<entry name="Eldar/Wraithblade:Shaken#0" value="...o medo está além de nós..."/>
 	<entry name="Eldar/Wraithblade:ShakenCount" value="1"/>
-	<entry name="Eldar/Wraithblade:Victory#0" value="…they have joined us…"/>
+	<entry name="Eldar/Wraithblade:Victory#0" value="...eles se juntaram a nós..."/>
 	<entry name="Eldar/Wraithblade:VictoryCount" value="1"/>
-	<entry name="Eldar/WaveSerpent:Attack#0" value="Firing all systems"/>
-	<entry name="Eldar/WaveSerpent:Attack#1" value="Yes, we're attacking"/>
-	<entry name="Eldar/WaveSerpent:Attack#2" value="Should we fire our Serpent Shield?"/>
-	<entry name="Eldar/WaveSerpent:Attack#3" value="Transport in combat."/>
+	<entry name="Eldar/WaveSerpent:Attack#0" value="Disparando todos os sistemas"/>
+	<entry name="Eldar/WaveSerpent:Attack#1" value="Sim, estamos atacando"/>
+	<entry name="Eldar/WaveSerpent:Attack#2" value="Devemos disparar nosso Escudo Serpente?"/>
+	<entry name="Eldar/WaveSerpent:Attack#3" value="Transporte em combate."/>
 	<entry name="Eldar/WaveSerpent:AttackCount" value="4"/>
-	<entry name="Eldar/WaveSerpent:Broken#0" value="Save yourselves!"/>
+	<entry name="Eldar/WaveSerpent:Broken#0" value="Salvem-se!"/>
 	<entry name="Eldar/WaveSerpent:BrokenCount" value="1"/>
-	<entry name="Eldar/WaveSerpent:Hurt#0" value="Shield penetrated."/>
+	<entry name="Eldar/WaveSerpent:Hurt#0" value="Escudo penetrado."/>
 	<entry name="Eldar/WaveSerpent:HurtCount" value="1"/>
-	<entry name="Eldar/WaveSerpent:Idle#0" value="Ready to move."/>
-	<entry name="Eldar/WaveSerpent:Idle#1" value="Coiled, ready to spring."/>
-	<entry name="Eldar/WaveSerpent:Idle#2" value="Who needs moving?"/>
-	<entry name="Eldar/WaveSerpent:Idle#3" value="What a wonderful world."/>
+	<entry name="Eldar/WaveSerpent:Idle#0" value="Pronto para mover."/>
+	<entry name="Eldar/WaveSerpent:Idle#1" value="Enrolado, pronto para saltar."/>
+	<entry name="Eldar/WaveSerpent:Idle#2" value="Quem precisa se mover?"/>
+	<entry name="Eldar/WaveSerpent:Idle#3" value="Que mundo maravilhoso."/>
 	<entry name="Eldar/WaveSerpent:IdleCount" value="4"/>
-	<entry name="Eldar/WaveSerpent:Shaken#0" value="Get us out of here!"/>
+	<entry name="Eldar/WaveSerpent:Shaken#0" value="Tirem-nos daqui!"/>
 	<entry name="Eldar/WaveSerpent:ShakenCount" value="1"/>
-	<entry name="Eldar/WaveSerpent:Victory#0" value="Load up for the next target."/>
+	<entry name="Eldar/WaveSerpent:Victory#0" value="Carreguem para o próximo alvo."/>
 	<entry name="Eldar/WaveSerpent:VictoryCount" value="1"/>
-	<entry name="Eldar/VaulsWrathSupportBattery:Attack#0" value="Guardian battery firing."/>
-	<entry name="Eldar/VaulsWrathSupportBattery:Attack#1" value="Weaving shadows."/>
-	<entry name="Eldar/VaulsWrathSupportBattery:Attack#2" value="Artillery ready to move."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Attack#0" value="Bateria Guardiã disparando."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Attack#1" value="Tecendo sombras."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Attack#2" value="Artilharia pronta para mover."/>
 	<entry name="Eldar/VaulsWrathSupportBattery:AttackCount" value="3"/>
-	<entry name="Eldar/VaulsWrathSupportBattery:Broken#0" value="We cannot hold this alone."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Broken#0" value="Não podemos manter isso sozinhos."/>
 	<entry name="Eldar/VaulsWrathSupportBattery:BrokenCount" value="1"/>
-	<entry name="Eldar/VaulsWrathSupportBattery:Hurt#0" value="We will not survive."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Hurt#0" value="Não sobreviveremos."/>
 	<entry name="Eldar/VaulsWrathSupportBattery:HurtCount" value="1"/>
-	<entry name="Eldar/VaulsWrathSupportBattery:Idle#0" value="Spooling monofilament."/>
-	<entry name="Eldar/VaulsWrathSupportBattery:Idle#1" value="Checking the anti-gravitic generators."/>
-	<entry name="Eldar/VaulsWrathSupportBattery:Idle#2" value="Let's support from the back."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Idle#0" value="Enrolando monofilamento."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Idle#1" value="Verificando os geradores anti-gravíticos."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Idle#2" value="Vamos apoiar pela retaguarda."/>
 	<entry name="Eldar/VaulsWrathSupportBattery:IdleCount" value="3"/>
-	<entry name="Eldar/VaulsWrathSupportBattery:Shaken#0" value="We must disengage!"/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Shaken#0" value="Devemos nos retirar!"/>
 	<entry name="Eldar/VaulsWrathSupportBattery:ShakenCount" value="1"/>
-	<entry name="Eldar/VaulsWrathSupportBattery:Victory#0" value="We've… dissolved… the enemy formation."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Victory#0" value="Nós... dissolvemos... a formação inimiga."/>
 	<entry name="Eldar/VaulsWrathSupportBattery:VictoryCount" value="1"/>
-	<entry name="Eldar/ShiningSpear:Attack#0" value="We strike faster than the eye can see."/>
-	<entry name="Eldar/ShiningSpear:Attack#1" value="For Drastanta!"/>
-	<entry name="Eldar/ShiningSpear:Attack#2" value="They pale before our virtue."/>
-	<entry name="Eldar/ShiningSpear:Attack#3" value="We are the spear of Khaine!"/>
+	<entry name="Eldar/ShiningSpear:Attack#0" value="Atacamos mais rápido que o olho pode ver."/>
+	<entry name="Eldar/ShiningSpear:Attack#1" value="Por Drastanta!"/>
+	<entry name="Eldar/ShiningSpear:Attack#2" value="Eles empalidecem diante de nossa virtude."/>
+	<entry name="Eldar/ShiningSpear:Attack#3" value="Somos a lança de Khaine!"/>
 	<entry name="Eldar/ShiningSpear:AttackCount" value="4"/>
-	<entry name="Eldar/ShiningSpear:Broken#0" value="The spear is… broken."/>
+	<entry name="Eldar/ShiningSpear:Broken#0" value="A lança está... quebrada."/>
 	<entry name="Eldar/ShiningSpear:BrokenCount" value="1"/>
-	<entry name="Eldar/ShiningSpear:Hurt#0" value="We must go faster."/>
+	<entry name="Eldar/ShiningSpear:Hurt#0" value="Devemos ir mais rápido."/>
 	<entry name="Eldar/ShiningSpear:HurtCount" value="1"/>
-	<entry name="Eldar/ShiningSpear:Idle#0" value="We are legend, manifest."/>
-	<entry name="Eldar/ShiningSpear:Idle#1" value="We wait to charge."/>
-	<entry name="Eldar/ShiningSpear:Idle#2" value="Spears at the ready."/>
-	<entry name="Eldar/ShiningSpear:Idle#3" value="I long to remove this War Mask."/>
+	<entry name="Eldar/ShiningSpear:Idle#0" value="Somos lenda, manifesta."/>
+	<entry name="Eldar/ShiningSpear:Idle#1" value="Esperamos para carregar."/>
+	<entry name="Eldar/ShiningSpear:Idle#2" value="Lanças prontas."/>
+	<entry name="Eldar/ShiningSpear:Idle#3" value="Anseio remover esta Máscara de Guerra."/>
 	<entry name="Eldar/ShiningSpear:IdleCount" value="4"/>
-	<entry name="Eldar/ShiningSpear:Shaken#0" value="We ride through the valley of fear."/>
+	<entry name="Eldar/ShiningSpear:Shaken#0" value="Cavalgamos pelo vale do medo."/>
 	<entry name="Eldar/ShiningSpear:ShakenCount" value="1"/>
-	<entry name="Eldar/ShiningSpear:Victory#0" value="They didn't see us coming."/>
+	<entry name="Eldar/ShiningSpear:Victory#0" value="Eles não nos viram chegando."/>
 	<entry name="Eldar/ShiningSpear:VictoryCount" value="1"/>
-	<entry name="Eldar/Ranger:Attack#0" value="Choosing targets…"/>
-	<entry name="Eldar/Ranger:Attack#1" value="They will die before they know we fired."/>
-	<entry name="Eldar/Ranger:Attack#2" value="My long rifle whispers death."/>
-	<entry name="Eldar/Ranger:Attack#3" value="We. Do. Not. Miss."/>
+	<entry name="Eldar/Ranger:Attack#0" value="Escolhendo alvos..."/>
+	<entry name="Eldar/Ranger:Attack#1" value="Eles morrerão antes de saber que atiramos."/>
+	<entry name="Eldar/Ranger:Attack#2" value="Meu rifle longo sussurra morte."/>
+	<entry name="Eldar/Ranger:Attack#3" value="Nós. Não. Erramos."/>
 	<entry name="Eldar/Ranger:AttackCount" value="4"/>
-	<entry name="Eldar/Ranger:Broken#0" value="Fall back! They come!"/>
+	<entry name="Eldar/Ranger:Broken#0" value="Recuem! Eles vêm!"/>
 	<entry name="Eldar/Ranger:BrokenCount" value="1"/>
-	<entry name="Eldar/Ranger:Hurt#0" value="We are walking in the dark…"/>
+	<entry name="Eldar/Ranger:Hurt#0" value="Estamos caminhando no escuro..."/>
 	<entry name="Eldar/Ranger:HurtCount" value="1"/>
-	<entry name="Eldar/Ranger:Idle#0" value="Our exile is done."/>
-	<entry name="Eldar/Ranger:Idle#1" value="Our cameleoline shields us."/>
-	<entry name="Eldar/Ranger:Idle#2" value="It is good to be somewhere new."/>
-	<entry name="Eldar/Ranger:Idle#3" value="Come, listen to our tales of the galaxy!"/>
+	<entry name="Eldar/Ranger:Idle#0" value="Nosso exílio acabou."/>
+	<entry name="Eldar/Ranger:Idle#1" value="Nossa cameleolina nos protege."/>
+	<entry name="Eldar/Ranger:Idle#2" value="É bom estar em algum lugar novo."/>
+	<entry name="Eldar/Ranger:Idle#3" value="Venham, ouçam nossos contos da galáxia!"/>
 	<entry name="Eldar/Ranger:IdleCount" value="4"/>
-	<entry name="Eldar/Ranger:Shaken#0" value="Away from the frontline, quickly."/>
+	<entry name="Eldar/Ranger:Shaken#0" value="Para longe da linha de frente, rapidamente."/>
 	<entry name="Eldar/Ranger:ShakenCount" value="1"/>
-	<entry name="Eldar/Ranger:Victory#0" value="They are gone and we we are free to range once more."/>
+	<entry name="Eldar/Ranger:Victory#0" value="Eles se foram e estamos livres para vagar mais uma vez."/>
 	<entry name="Eldar/Ranger:VictoryCount" value="1"/>
-	<entry name="Eldar/HowlingBanshee:Attack#0" value="Our cries speak your death."/>
-	<entry name="Eldar/HowlingBanshee:Attack#1" value="They fall like grass before our blades."/>
-	<entry name="Eldar/HowlingBanshee:Attack#2" value="We call them to a final judgement."/>
-	<entry name="Eldar/HowlingBanshee:Attack#3" value="Swiftly!"/>
+	<entry name="Eldar/HowlingBanshee:Attack#0" value="Nossos gritos falam sua morte."/>
+	<entry name="Eldar/HowlingBanshee:Attack#1" value="Eles caem como grama diante de nossas lâminas."/>
+	<entry name="Eldar/HowlingBanshee:Attack#2" value="Nós os chamamos para um julgamento final."/>
+	<entry name="Eldar/HowlingBanshee:Attack#3" value="Rapidamente!"/>
 	<entry name="Eldar/HowlingBanshee:AttackCount" value="4"/>
-	<entry name="Eldar/HowlingBanshee:Broken#0" value="Hear our lamentations!"/>
+	<entry name="Eldar/HowlingBanshee:Broken#0" value="Ouçam nossas lamentações!"/>
 	<entry name="Eldar/HowlingBanshee:BrokenCount" value="1"/>
-	<entry name="Eldar/HowlingBanshee:Hurt#0" value="The old familiar sting!"/>
+	<entry name="Eldar/HowlingBanshee:Hurt#0" value="A velha picada familiar!"/>
 	<entry name="Eldar/HowlingBanshee:HurtCount" value="1"/>
-	<entry name="Eldar/HowlingBanshee:Idle#0" value="We howl their doom."/>
-	<entry name="Eldar/HowlingBanshee:Idle#1" value="Would that our foes would test our blades, now!"/>
-	<entry name="Eldar/HowlingBanshee:Idle#2" value="We are the children of Morai-Heg."/>
-	<entry name="Eldar/HowlingBanshee:Idle#3" value="Our song is death."/>
+	<entry name="Eldar/HowlingBanshee:Idle#0" value="Uivamos sua condenação."/>
+	<entry name="Eldar/HowlingBanshee:Idle#1" value="Quem dera nossos inimigos testassem nossas lâminas, agora!"/>
+	<entry name="Eldar/HowlingBanshee:Idle#2" value="Somos os filhos de Morai-Heg."/>
+	<entry name="Eldar/HowlingBanshee:Idle#3" value="Nossa canção é a morte."/>
 	<entry name="Eldar/HowlingBanshee:IdleCount" value="4"/>
-	<entry name="Eldar/HowlingBanshee:Shaken#0" value="They interrupt our song!"/>
+	<entry name="Eldar/HowlingBanshee:Shaken#0" value="Eles interrompem nossa canção!"/>
 	<entry name="Eldar/HowlingBanshee:ShakenCount" value="1"/>
-	<entry name="Eldar/HowlingBanshee:Victory#0" value="And only whispers greet their demise."/>
+	<entry name="Eldar/HowlingBanshee:Victory#0" value="E apenas sussurros sadam sua morte."/>
 	<entry name="Eldar/HowlingBanshee:VictoryCount" value="1"/>
-	<entry name="Eldar/Headquarters:Attack#0" value="Defending the webway"/>
-	<entry name="Eldar/Headquarters:Attack#1" value="You shall not pass!"/>
-	<entry name="Eldar/Headquarters:Attack#2" value="Redoubt taking fire."/>
-	<entry name="Eldar/Headquarters:Attack#3" value="Guardians of the webway."/>
+	<entry name="Eldar/Headquarters:Attack#0" value="Defendendo a teia dimensional"/>
+	<entry name="Eldar/Headquarters:Attack#1" value="Vocês não passarão!"/>
+	<entry name="Eldar/Headquarters:Attack#2" value="Reduto sob fogo."/>
+	<entry name="Eldar/Headquarters:Attack#3" value="Guardiões da teia dimensional."/>
 	<entry name="Eldar/Headquarters:AttackCount" value="4"/>
-	<entry name="Eldar/Headquarters:Broken#0" value="They are breaking through!"/>
+	<entry name="Eldar/Headquarters:Broken#0" value="Eles estão rompendo!"/>
 	<entry name="Eldar/Headquarters:BrokenCount" value="1"/>
-	<entry name="Eldar/Headquarters:Hurt#0" value="Khaine aid us!"/>
+	<entry name="Eldar/Headquarters:Hurt#0" value="Khaine nos ajude!"/>
 	<entry name="Eldar/Headquarters:HurtCount" value="1"/>
-	<entry name="Eldar/Headquarters:Idle#0" value="Watching the Webway."/>
-	<entry name="Eldar/Headquarters:Idle#1" value="We stand ready, Seer."/>
-	<entry name="Eldar/Headquarters:Idle#2" value="I long to return to my craftworld, to doff this mask."/>
-	<entry name="Eldar/Headquarters:Idle#3" value="Why are we here?"/>
+	<entry name="Eldar/Headquarters:Idle#0" value="Vigiando a Teia Dimensional."/>
+	<entry name="Eldar/Headquarters:Idle#1" value="Estamos prontos, Vidente."/>
+	<entry name="Eldar/Headquarters:Idle#2" value="Anseio retornar ao meu mundo-artesão, para tirar esta máscara."/>
+	<entry name="Eldar/Headquarters:Idle#3" value="Por que estamos aqui?"/>
 	<entry name="Eldar/Headquarters:IdleCount" value="4"/>
-	<entry name="Eldar/Headquarters:Shaken#0" value="I fear death and the Great Enemy."/>
+	<entry name="Eldar/Headquarters:Shaken#0" value="Temo a morte e o Grande Inimigo."/>
 	<entry name="Eldar/Headquarters:ShakenCount" value="1"/>
-	<entry name="Eldar/Headquarters:Victory#0" value="This gate will not close, yet."/>
+	<entry name="Eldar/Headquarters:Victory#0" value="Este portal não se fechará, ainda."/>
 	<entry name="Eldar/Headquarters:VictoryCount" value="1"/>
 	<entry name="Eldar/Guardian:Attack#0" value="Duty calls us."/>
 	<entry name="Eldar/Guardian:Attack#1" value="We must not fall."/>
