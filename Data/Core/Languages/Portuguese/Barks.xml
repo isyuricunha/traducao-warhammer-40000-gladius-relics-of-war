@@ -1,466 +1,467 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#0" value="Vector keyed in."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#1" value="Five-by-five."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#2" value="Fly-by commencing."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#3" value="Stubber round saturation commencing."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#0" value="Vetor inserido."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#1" value="Cinco por cinco."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#2" value="Iniciando sobrevoo."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#3" value="Iniciando saturação com metralhadora."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Broken#0" value="Preserving aerial asset"/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Broken#0" value="Preservando recurso aéreo"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Hurt#0" value="Wings clipped"/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Hurt#0" value="Asas cortadas"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#0" value="Circling, circling."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#1" value="Aerial libation distribution."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#2" value="Pressure change. Morphing fibre-weave."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#3" value="Preparing to evacuate Land Crawlers."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#0" value="Circulando, circulando."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#1" value="Distribuição de libação aérea."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#2" value="Mudança de pressão. Tecido de fibra se transformando."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#3" value="Preparando para evacuar Rastejadores Terrestres."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:IdleCount" value="4"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Shaken#0" value="Mayday, mayday!"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Victory#0" value="Enemy signatures no longer detected. Returning to cycle."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Victory#0" value="Assinaturas inimigas não mais detectadas. Retornando ao ciclo."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#0" value="Directing Kastelans."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#1" value="Anointing runes."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#2" value="Suppressing silica animus."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#3" value="Inserting doctrina wafers."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#0" value="Direcionando Kastelans."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#1" value="Ungindo runas."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#2" value="Suprimindo animus de sílica."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#3" value="Inserindo wafers de doutrina."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Broken#0" value="…the Men of Iron…"/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Broken#0" value="…os Homens de Ferro…"/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Hurt#0" value="…beyond repair…"/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Hurt#0" value="…além do reparo…"/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#0" value="The flesh is weak, the machine is strong."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#1" value="In binary, rhythm and song. I would that you could hear."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#2" value="There can be no improvement on the Omnissiah's design."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#0" value="A carne é fraca, a máquina é forte."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#1" value="Em binário, ritmo e canção. Eu gostaria que você pudesse ouvir."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#2" value="Não pode haver melhoria no design do Omnissiah."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#3" value="In nomine imperii et mechanici et spiritus omnissiah."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Shaken#0" value="Retreat wafers found."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Shaken#0" value="Wafers de retirada encontrados."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Victory#0" value="Ancient wisdom, power proved."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Victory#0" value="Sabedoria antiga, poder comprovado."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:VictoryCount" value="1"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#0" value="VESTRA INDUSTRIA NOSTRUM"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#1" value="WASTE IS SIN"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#2" value="FOR THE MOTIVE FORCE!"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#3" value="THE SPARK MOVES WITHIN"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#1" value="DESPERDÍCIO É PECADO"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#2" value="PELA FORÇA MOTRIZ!"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#3" value="A FAÍSCA MOVE-SE POR DENTRO"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Broken#0" value="Nostra potex decit… our will fails!"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Broken#0" value="Nostra potex decit… nossa vontade falha!"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Hurt#0" value="WE YET MARCH."/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Hurt#0" value="NÓS AINDA MARCHAMOS."/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#0" value="I CRY THE OMNISSIAH'S TEARS"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#1" value="CURSE THE CORPUSCARII"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#2" value="MY ELECTOO, IT HUNGERS"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#0" value="EU CHORO AS LÁGRIMAS DO OMNISSIAH"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#1" value="AMALDIÇOEM OS CORPUSCARII"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#2" value="MEU ELETRO-TATUADOR, ELE ANSEIA"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#3" value="IN NOMINE DEI MECHANICI"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Shaken#0" value="SPARK OUT"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Shaken#0" value="FAÍSCA APAGADA"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Victory#0" value="WE ARE VIGOUR, PERSONIFIED"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Victory#0" value="SOMOS O VIGOR, PERSONIFICADO"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#0" value="They will taste Mars' wisdom!"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#1" value="Long-range solution found."/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#2" value="Datalink targetted accepted."/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#3" value="Machine Spirits unleashed."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#0" value="Eles provarão a sabedoria de Marte!"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#1" value="Solução de longo alcance encontrada."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#2" value="Alvo do datalink aceito."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#3" value="Espíritos da Máquina liberados."/>
 	<entry name="AdeptusMechanicus/IronstriderBallistarius:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Broken#0" value="Dominus, we must-"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Broken#0" value="Dominus, nós devemos-"/>
 	<entry name="AdeptusMechanicus/IronstriderBallistarius:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Hurt#0" value="Monotask Servitors failing."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Hurt#0" value="Servidores Monotarefa falhando."/>
 	<entry name="AdeptusMechanicus/IronstriderBallistarius:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#0" value="Resting the servitors."/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#1" value="Oiling the chassis."/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#2" value="Excising weakness."/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#3" value="Dreaming of a red planet…"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#0" value="Descansando os servidores."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#1" value="Oleando o chassi."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#2" value="Extirpando a fraqueza."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#3" value="Sonhando com um planeta vermelho…"/>
 	<entry name="AdeptusMechanicus/IronstriderBallistarius:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Shaken#0" value="Superior enemy firing solutions!"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Shaken#0" value="Soluções de tiro inimigas superiores!"/>
 	<entry name="AdeptusMechanicus/IronstriderBallistarius:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Victory#0" value="For 10,000 years, our victory has been certain."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Victory#0" value="Por 10.000 anos, nossa vitória tem sido certa."/>
 	<entry name="AdeptusMechanicus/IronstriderBallistarius:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#0" value="C32: Firing Pattern Achieved."/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#1" value="8-7: Destroyer Clade Active"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#2" value="7T32: All Armaments Deployed."/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#3" value="867: Cognis And-or Phosphor Ignition."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#0" value="C32: Padrão de Tiro Alcançado."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#1" value="8-7: Clade Destruidora Ativa"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#2" value="7T32: Todos os Armamentos Implantados."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#3" value="867: Ignição de Cognis e/ou Fósforo."/>
 	<entry name="AdeptusMechanicus/KataphronDestroyer:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Broken#0" value="Only Men Fear. We Once Were-"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Broken#0" value="Apenas Homens temem. Nós já fomos-"/>
 	<entry name="AdeptusMechanicus/KataphronDestroyer:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Hurt#0" value="Functionality Compromised. Flesh Extant."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Hurt#0" value="Funcionalidade Comprometida. Carne Existente."/>
 	<entry name="AdeptusMechanicus/KataphronDestroyer:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#0" value="T418: Idle Servitor Present"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#1" value="182: Awaiting Maintenance."/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#2" value="ERROR: What Was I?"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#3" value="326: Memories Surfacing… Suppressed"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#0" value="T418: Servitor Ocioso Presente"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#1" value="182: Aguardando Manutenção."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#2" value="ERRO: O Que Eu Era?"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#3" value="326: Memórias Aflorando… Suprimidas"/>
 	<entry name="AdeptusMechanicus/KataphronDestroyer:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Shaken#0" value="991: Emotions Escaping."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Shaken#0" value="991: Emoções Escapando."/>
 	<entry name="AdeptusMechanicus/KataphronDestroyer:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Victory#0" value="T1: Function Fulfilled, Next Target."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Victory#0" value="T1: Função Cumprida, Próximo Alvo."/>
 	<entry name="AdeptusMechanicus/KataphronDestroyer:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Attack#0" value="We are but a weapon in the right hand of the Emperor."/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Attack#1" value="For the honour of the Questor Mechanicus!"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Attack#2" value="Fear my tread!"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Attack#3" value="I AM AN IMPERIAL KNIGHT!"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Attack#0" value="Nós somos apenas uma arma na mão direita do Imperador."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Attack#1" value="Pela honra do Questor Mechanicus!"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Attack#2" value="Tema meus passos!"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Attack#3" value="EU SOU UM CAVALEIRO IMPERIAL!"/>
 	<entry name="AdeptusMechanicus/KnightCrusader:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Broken#0" value="It… it cannot be."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Broken#0" value="Não… não pode ser."/>
 	<entry name="AdeptusMechanicus/KnightCrusader:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Hurt#0" value="Death before dishonour."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Hurt#0" value="Morte antes da desonra."/>
 	<entry name="AdeptusMechanicus/KnightCrusader:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Idle#0" value="My lady awaits."/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Idle#1" value="For the jousts of my homeworld."/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Idle#2" value="My house is famed for its humility, you know."/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Idle#3" value="This iron giant awaits."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Idle#0" value="Eu sou um com meu Trono Mechanicum."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Idle#1" value="Minha casa está com Marte."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Idle#2" value="Eu sinto os espíritos de meus ancestrais."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Idle#3" value="O Código de Cavalaria me guia."/>
 	<entry name="AdeptusMechanicus/KnightCrusader:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Shaken#0" value="YOU DARE."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Shaken#0" value="Minha honra está manchada."/>
 	<entry name="AdeptusMechanicus/KnightCrusader:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Victory#0" value="It is no shame to fall at my hand."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Victory#0" value="Outra vitória para minha casa!"/>
 	<entry name="AdeptusMechanicus/KnightCrusader:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#0" value="Purging, Dominus."/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#1" value="Still purging, Dominus."/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#2" value="My talons cut cleanly."/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#3" value="You cannot escape phosphor, fools."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#0" value="Purgando, Dominus."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#1" value="Ainda purgando, Dominus."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#2" value="Minhas garras cortam de forma limpa."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#3" value="Vocês não podem escapar do fósforo, tolos."/>
 	<entry name="AdeptusMechanicus/PteraxiiSterylizor:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Broken#0" value="Already in flight…"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Broken#0" value="Já em voo…"/>
 	<entry name="AdeptusMechanicus/PteraxiiSterylizor:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Hurt#0" value="Our purging is at hand…"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Hurt#0" value="Nossa purga está próxima…"/>
 	<entry name="AdeptusMechanicus/PteraxiiSterylizor:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#0" value="Clean… must clean."/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#1" value="Limb stumps… itch."/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#2" value="Always on the wing."/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:IdleCount" value="3"/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Shaken#0" value="The filth is… rampant."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#0" value="Eu vejo o campo de batalha do alto."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#1" value="Minhas asas não são minhas."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#2" value="O sopro do Omnissiah enche meus pulmões."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#3" value="Eu sou um recipiente para a Força Motriz."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:IdleCount" value="4"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Shaken#0" value="Minhas asas foram cortadas!"/>
 	<entry name="AdeptusMechanicus/PteraxiiSterylizor:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Victory#0" value="Ashes to ashes…"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Victory#0" value="A vontade do Omnissiah será feita."/>
 	<entry name="AdeptusMechanicus/PteraxiiSterylizor:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#0" value="Unleashing the Motive Force, tch."/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#1" value="Galvanising the Skitarii, yesss…"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#2" value="…mmmagnarail lance…"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#3" value="Are we not invigorated?!"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#0" value="Liberando a Força Motriz, tch."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#1" value="Galvanizando os Skitarii, simmm…"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#2" value="…lança de magnatrilho…"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#3" value="Não estamos revigorados?!"/>
 	<entry name="AdeptusMechanicus/TechPriestManipulus:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Broken#0" value="Logic dictates this is not happening."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Broken#0" value="A lógica dita que isto não está acontecendo."/>
 	<entry name="AdeptusMechanicus/TechPriestManipulus:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Hurt#0" value="We… we did not plan for this."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Hurt#0" value="Nós… nós não planejamos para isto."/>
 	<entry name="AdeptusMechanicus/TechPriestManipulus:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#0" value="Oh, I am just leaking power."/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#1" value="Tapping the Galvanic Cell."/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#2" value="Overcharging, underserving."/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#3" value="To understand the Xenos…"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#0" value="Oh, estou apenas vazando poder."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#1" value="Acessando a Célula Galvânica."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#2" value="Sobrecarga, subserviço."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#3" value="Para entender os Xenos…"/>
 	<entry name="AdeptusMechanicus/TechPriestManipulus:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Shaken#0" value="Protect your Magos, insects!"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Shaken#0" value="Protejam o vosso Magos, insetos!"/>
 	<entry name="AdeptusMechanicus/TechPriestManipulus:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Victory#0" value="Their bioelectricity… is mine."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Victory#0" value="A bioeletricidade deles… é minha."/>
 	<entry name="AdeptusMechanicus/TechPriestManipulus:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#0" value="Use cover, conserve fire."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#1" value="I need you alive, Skitarii."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#2" value="No dissent, now we fight."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#3" value="I have control!"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#0" value="Usem cobertura, conservem fogo."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#1" value="Preciso de vocês vivos, Skitarii."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#2" value="Sem dissidência, agora lutamos."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#3" value="Eu tenho o controle!"/>
 	<entry name="AdeptusMechanicus/SkitariiMarshal:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Broken#0" value="We are disposable…"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Broken#0" value="Somos descartáveis…"/>
 	<entry name="AdeptusMechanicus/SkitariiMarshal:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Hurt#0" value="Dying..? Save the Magos!"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Hurt#0" value="Morrendo..? Salvem o Magos!"/>
 	<entry name="AdeptusMechanicus/SkitariiMarshal:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#0" value="Following your plans, Magos."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#1" value="Could we save some Skitarii?"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#2" value="We live to die, Magos."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#3" value="Servo Skull, I name thee Morte."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#0" value="Meus homens estão prontos."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#1" value="O Omnissiah protege."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#2" value="Eu sou a vontade do Magos."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#3" value="Minha lealdade é para com Marte."/>
 	<entry name="AdeptusMechanicus/SkitariiMarshal:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Shaken#0" value="Issue the Control Edict!"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Shaken#0" value="Meu controle está escapando!"/>
 	<entry name="AdeptusMechanicus/SkitariiMarshal:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Victory#0" value="Our losses were minimal, Magos."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Victory#0" value="Uma vitória para o Omnissiah."/>
 	<entry name="AdeptusMechanicus/SkitariiMarshal:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#0" value="Rad-Troopers in the field!"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#1" value="Let's see who the Radium kills faster…"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#2" value="Carbines a-glow."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#3" value="There's no stopping us."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#0" value="Rad-Troopers em campo!"/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#1" value="Vamos ver quem o Rádio mata mais rápido…"/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#2" value="Carabinas brilhando."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#3" value="Não há como nos parar."/>
 	<entry name="AdeptusMechanicus/SkitariiVanguard:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Broken#0" value="Let's die later instead."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Broken#0" value="Vamos morrer mais tarde."/>
 	<entry name="AdeptusMechanicus/SkitariiVanguard:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Hurt#0" value="Leaking rad and blood, here."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Hurt#0" value="Vazando rad e sangue, aqui."/>
 	<entry name="AdeptusMechanicus/SkitariiVanguard:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#0" value="I've 99 upgrades, but rad-protection isn't one of them."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#1" value="I'm burning up."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#2" value="Ugh… don't feel so good."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#3" value="I mean, I wouldn't eat near us either."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#0" value="Tenho 99 melhorias, mas proteção contra radiação não é uma delas."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#1" value="Estou queimando."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#2" value="Ugh… não me sinto muito bem."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#3" value="Quer dizer, eu também não comeria perto de nós."/>
 	<entry name="AdeptusMechanicus/SkitariiVanguard:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Shaken#0" value="Magos, we are dying for you."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Shaken#0" value="Magos, estamos morrendo por você."/>
 	<entry name="AdeptusMechanicus/SkitariiVanguard:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Victory#0" value="Not even a half-life left of them."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Victory#0" value="Não sobrou nem meia-vida deles."/>
 	<entry name="AdeptusMechanicus/SkitariiVanguard:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#0" value="My move, your death."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#1" value="Pawns, advance."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#2" value="I see all the pieces."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#3" value="Making every move."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#0" value="Meu movimento, sua morte."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#1" value="Peões, avancem."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#2" value="Eu vejo todas as peças."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#3" value="Fazendo cada movimento."/>
 	<entry name="AdeptusMechanicus/TechPriestDominus:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Broken#0" value="A defense becomes necessary… Luzhin?"/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Broken#0" value="Uma defesa se torna necessária… Luzhin?"/>
 	<entry name="AdeptusMechanicus/TechPriestDominus:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Hurt#0" value="Targetting the king, clever."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Hurt#0" value="Mirando no rei, inteligente."/>
 	<entry name="AdeptusMechanicus/TechPriestDominus:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#0" value="No cycle is idle."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#1" value="Inefficiency becomes entropy."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#2" value="What joy in manipulation."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#3" value="Yes… I see their moves and countermoves."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#0" value="Nenhum ciclo é ocioso."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#1" value="A ineficiência se torna entropia."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#2" value="Que alegria na manipulação."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#3" value="Sim… eu vejo seus movimentos e contra-movimentos."/>
 	<entry name="AdeptusMechanicus/TechPriestDominus:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Shaken#0" value="Unexpected, a gambit. Admirable."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Shaken#0" value="Inesperado, um gambito. Admirável."/>
 	<entry name="AdeptusMechanicus/TechPriestDominus:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Victory#0" value="I planned this victory several moves ago. But the sweetness remains."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Victory#0" value="Eu planejei esta vitória vários movimentos atrás. Mas a doçura permanece."/>
 	<entry name="AdeptusMechanicus/TechPriestDominus:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/Headquarters:Attack#0" value="The city awaits."/>
-	<entry name="AdeptusMechanicus/Headquarters:Attack#1" value="Their lives are for us to take, not you."/>
-	<entry name="AdeptusMechanicus/Headquarters:Attack#2" value="Servitors firing."/>
-	<entry name="AdeptusMechanicus/Headquarters:Attack#3" value="Forge in combat."/>
+	<entry name="AdeptusMechanicus/Headquarters:Attack#0" value="A cidade aguarda."/>
+	<entry name="AdeptusMechanicus/Headquarters:Attack#1" value="As vidas deles são para nós tirarmos, não você."/>
+	<entry name="AdeptusMechanicus/Headquarters:Attack#2" value="Servidores atirando."/>
+	<entry name="AdeptusMechanicus/Headquarters:Attack#3" value="Forja em combate."/>
 	<entry name="AdeptusMechanicus/Headquarters:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/Headquarters:Broken#0" value="The city will fall."/>
+	<entry name="AdeptusMechanicus/Headquarters:Broken#0" value="A cidade vai cair."/>
 	<entry name="AdeptusMechanicus/Headquarters:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/Headquarters:Hurt#0" value="We are sustaining civilian casualties. Acceptable."/>
+	<entry name="AdeptusMechanicus/Headquarters:Hurt#0" value="Estamos sofrendo baixas civis. Aceitável."/>
 	<entry name="AdeptusMechanicus/Headquarters:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/Headquarters:Idle#0" value="A revolt is being suppressed."/>
-	<entry name="AdeptusMechanicus/Headquarters:Idle#1" value="Clones are being sent to the Protoservitor Cradles."/>
-	<entry name="AdeptusMechanicus/Headquarters:Idle#2" value="In the name of the Omnissiah, hab-fanes cleared."/>
-	<entry name="AdeptusMechanicus/Headquarters:Idle#3" value="Bionics production up 0.1%"/>
+	<entry name="AdeptusMechanicus/Headquarters:Idle#0" value="Uma revolta está sendo suprimida."/>
+	<entry name="AdeptusMechanicus/Headquarters:Idle#1" value="Clones estão sendo enviados para os Berços de Protoservidores."/>
+	<entry name="AdeptusMechanicus/Headquarters:Idle#2" value="Em nome do Omnissiah, santuários-hab limpos."/>
+	<entry name="AdeptusMechanicus/Headquarters:Idle#3" value="Produção de biônicos aumentada em 0.1%"/>
 	<entry name="AdeptusMechanicus/Headquarters:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/Headquarters:Shaken#0" value="The masses are terrified. Provosts have been deployed."/>
+	<entry name="AdeptusMechanicus/Headquarters:Shaken#0" value="As massas estão aterrorizadas. Prebostes foram enviados."/>
 	<entry name="AdeptusMechanicus/Headquarters:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/Headquarters:Victory#0" value="External threats eliminated. Turning attention to dissent."/>
+	<entry name="AdeptusMechanicus/Headquarters:Victory#0" value="Ameaças externas eliminadas. Voltando a atenção para a dissidência."/>
 	<entry name="AdeptusMechanicus/Headquarters:VictoryCount" value="1"/>
 	<entry name="AdeptusMechanicus/ArchaeopterStratoraptor" value="AdeptusMechanicus/ArchaeopterTransvector"/>
 	<entry name="AdeptusMechanicus/OnagerDunecrawler" value="AdeptusMechanicus/IronstriderBallistarius"/>
 	<entry name="AdeptusMechanicus/SkorpiusDisintegrator" value="AdeptusMechanicus/IronstriderBallistarius"/>
 	<entry name="AdeptusMechanicus/SerberysSulphurhound" value="AdeptusMechanicus/SkitariiVanguard"/>
-	<entry name="AstraMilitarum/Baneblade:AlliedFaction:SpaceMarines#0" value="Space Marines sighted, commander. Comms channels are open."/>
+	<entry name="AstraMilitarum/Baneblade:AlliedFaction:SpaceMarines#0" value="Space Marines avistados, comandante. Canais de comunicação abertos."/>
 	<entry name="AstraMilitarum/Baneblade:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Lord Commissar spotted. Preparing to drive him closer."/>
+	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Lord Comissário avistado. Preparando para aproximá-lo."/>
 	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/TankCommander#0" value="Sir, glad to see an officer who appreciates the value of armour, sir!"/>
+	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/TankCommander#0" value="Senhor, feliz em ver um oficial que aprecia o valor da blindagem, senhor!"/>
 	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/TankCommanderCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:Artefact#0" value="Xenos structure sighted."/>
+	<entry name="AstraMilitarum/Baneblade:Artefact#0" value="Estrutura Xenos avistada."/>
 	<entry name="AstraMilitarum/Baneblade:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:Attack#0" value="Firing solution plotted in."/>
-	<entry name="AstraMilitarum/Baneblade:Attack#1" value="Target acquired."/>
-	<entry name="AstraMilitarum/Baneblade:Attack#2" value="Firing barrels 1-11, sir."/>
+	<entry name="AstraMilitarum/Baneblade:Attack#0" value="Solução de tiro traçada."/>
+	<entry name="AstraMilitarum/Baneblade:Attack#1" value="Alvo adquirido."/>
+	<entry name="AstraMilitarum/Baneblade:Attack#2" value="Disparando canos 1 a 11, senhor."/>
 	<entry name="AstraMilitarum/Baneblade:AttackCount" value="3"/>
-	<entry name="AstraMilitarum/Baneblade:Broken#0" value="Engaging reverse gear, sir."/>
+	<entry name="AstraMilitarum/Baneblade:Broken#0" value="Engatando marcha à ré, senhor."/>
 	<entry name="AstraMilitarum/Baneblade:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:Cover#0" value="Not sure how, but the tank is in cover, sir."/>
+	<entry name="AstraMilitarum/Baneblade:Cover#0" value="Não tenho certeza de como, mas o tanque está em cobertura, senhor."/>
 	<entry name="AstraMilitarum/Baneblade:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:EnemyFaction:AstraMilitarum#0" value="Traitors sighted, sir."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:AstraMilitarum#0" value="Traidores avistados, senhor."/>
 	<entry name="AstraMilitarum/Baneblade:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:EnemyFaction:Necrons#0" value="Xenos sighted, sir. Preparing to show them what a real metal monster is."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:Necrons#0" value="Xenos avistados, senhor. Preparando para mostrar a eles o que é um verdadeiro monstro de metal."/>
 	<entry name="AstraMilitarum/Baneblade:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:EnemyFaction:Orks#0" value="Greenskins in the area, sir. They're not going to make a Skullhamma out of us!"/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:Orks#0" value="Peles-verdes na área, senhor. Eles não farão um Skullhamma de nós!"/>
 	<entry name="AstraMilitarum/Baneblade:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:EnemyFaction:SpaceMarines#0" value="Enemy Adeptus Astartes located. No Fellblades in sight."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:SpaceMarines#0" value="Adeptus Astartes inimigo localizado. Nenhum Fellblade à vista."/>
 	<entry name="AstraMilitarum/Baneblade:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:EnemyUnit:Neutral/Enslaver#0" value="Sir, advise rapid retreat. We can't guarantee this vehicle won't be compromised."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyUnit:Neutral/Enslaver#0" value="Senhor, aconselho retirada rápida. Não podemos garantir que este veículo não será comprometido."/>
 	<entry name="AstraMilitarum/Baneblade:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:Hurt#0" value="Severe damage sustained, sir. Advise return to Mars for repairs."/>
+	<entry name="AstraMilitarum/Baneblade:Hurt#0" value="Dano severo sofrido, senhor. Aconselho retorno a Marte para reparos."/>
 	<entry name="AstraMilitarum/Baneblade:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:Idle#0" value="Making tracks, sir."/>
-	<entry name="AstraMilitarum/Baneblade:Idle#1" value="Checking all eleven barrels for hell, sir."/>
-	<entry name="AstraMilitarum/Baneblade:Idle#2" value="The enemy is weak, sir. We will help them fail."/>
-	<entry name="AstraMilitarum/Baneblade:Idle#3" value="Counting rivets, sir."/>
-	<entry name="AstraMilitarum/Baneblade:Idle#4" value="When I grow up, I want to be a Hellhammer. Sir."/>
-	<entry name="AstraMilitarum/Baneblade:Idle#5" value="Did you hear that Vance Stubbs lost a hundred Baneblades, sir? Somewhat careless."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#0" value="Deixando rastros, senhor."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#1" value="Verificando todos os onze canos para o inferno, senhor."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#2" value="O inimigo é fraco, senhor. Nós os ajudaremos a falhar."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#3" value="Contando rebites, senhor."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#4" value="Quando eu crescer, quero ser um Hellhammer. Senhor."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#5" value="Você ouviu que Vance Stubbs perdeu cem Baneblades, senhor? Um tanto descuidado."/>
 	<entry name="AstraMilitarum/Baneblade:IdleCount" value="6"/>
-	<entry name="AstraMilitarum/Baneblade:QuestStory0#0" value="Ready to reclaim Gladius Prime, sir."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory0#0" value="Pronto para reconquistar Gladius Prime, senhor."/>
 	<entry name="AstraMilitarum/Baneblade:QuestStory0Count" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:QuestStory1#0" value="Regrouping the Guard, sir."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory1#0" value="Reagrupando a Guarda, senhor."/>
 	<entry name="AstraMilitarum/Baneblade:QuestStory1Count" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:QuestStory2#0" value="Sir, will all respect, that Tech-Priest isn't fit to oil our sponsons."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory2#0" value="Senhor, com todo o respeito, aquele Tech-Priest não serve para lubrificar nossos sponsons."/>
 	<entry name="AstraMilitarum/Baneblade:QuestStory2Count" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:QuestStory3#0" value="We'll leave the underground exploration to the infantry. Sir."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory3#0" value="Deixaremos a exploração subterrânea para a infantaria. Senhor."/>
 	<entry name="AstraMilitarum/Baneblade:QuestStory3Count" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:QuestStory4#0" value="We can keep the Xenos back, not a problem, sir."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory4#0" value="Podemos manter os Xenos recuados, sem problemas, senhor."/>
 	<entry name="AstraMilitarum/Baneblade:QuestStory4Count" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:QuestStory5#0" value="Kastelans! We'll need all eleven barrels, sir!"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory5#0" value="Kastelans! Precisaremos de todos os onze canos, senhor!"/>
 	<entry name="AstraMilitarum/Baneblade:QuestStory5Count" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:Shaken#0" value="No retreat, sir! Not sure this thing actually goes backwards, anyway."/>
+	<entry name="AstraMilitarum/Baneblade:Shaken#0" value="Sem recuar, senhor! De qualquer forma, não tenho certeza se esta coisa anda para trás."/>
 	<entry name="AstraMilitarum/Baneblade:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:Victory#0" value="Target eliminated, sir. Reloading all barrels."/>
+	<entry name="AstraMilitarum/Baneblade:Victory#0" value="Alvo eliminado, senhor. Recarregando todos os canos."/>
 	<entry name="AstraMilitarum/Baneblade:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:WireWeed#0" value="Sir, advise we move the vehicle; the crew can't handle this wire."/>
+	<entry name="AstraMilitarum/Baneblade:WireWeed#0" value="Senhor, aconselho mover o veículo; a tripulação não aguenta este arame."/>
 	<entry name="AstraMilitarum/Baneblade:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:AlliedFaction:SpaceMarines#0" value="Allied Astartes sighted, praise the Emperor"/>
+	<entry name="AstraMilitarum/Basilisk:AlliedFaction:SpaceMarines#0" value="Astartes aliados avistados, louvado seja o Imperador"/>
 	<entry name="AstraMilitarum/Basilisk:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Commissar sighted. Glad he's on the frontlines… far away from us."/>
+	<entry name="AstraMilitarum/Basilisk:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Comissário avistado. Feliz que ele está na linha de frente... longe de nós."/>
 	<entry name="AstraMilitarum/Basilisk:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:Artefact#0" value="Shells aren't scratching that thing. What's it made of?"/>
-	<entry name="AstraMilitarum/Basilisk:Artefact#1" value="We'll be purged just for looking at that."/>
+	<entry name="AstraMilitarum/Basilisk:Artefact#0" value="Os projéteis não estão arranhando essa coisa. Do que é feito?"/>
+	<entry name="AstraMilitarum/Basilisk:Artefact#1" value="Seremos expurgados só por olhar para isso."/>
 	<entry name="AstraMilitarum/Basilisk:ArtefactCount" value="2"/>
-	<entry name="AstraMilitarum/Basilisk:Attack#0" value="Co-ordinates received, solution set. Firing."/>
-	<entry name="AstraMilitarum/Basilisk:Attack#1" value="Shells en route."/>
-	<entry name="AstraMilitarum/Basilisk:Attack#2" value="Spotters in the field."/>
-	<entry name="AstraMilitarum/Basilisk:Attack#3" value="Target under fire. Glad we're back here!"/>
+	<entry name="AstraMilitarum/Basilisk:Attack#0" value="Coordenadas recebidas, solução definida. Atirando."/>
+	<entry name="AstraMilitarum/Basilisk:Attack#1" value="Projéteis a caminho."/>
+	<entry name="AstraMilitarum/Basilisk:Attack#2" value="Batedores em campo."/>
+	<entry name="AstraMilitarum/Basilisk:Attack#3" value="Alvo sob fogo. Que bom que estamos aqui atrás!"/>
 	<entry name="AstraMilitarum/Basilisk:AttackCount" value="4"/>
-	<entry name="AstraMilitarum/Basilisk:Broken#0" value="Leave the gun and run!"/>
+	<entry name="AstraMilitarum/Basilisk:Broken#0" value="Largue a arma e corra!"/>
 	<entry name="AstraMilitarum/Basilisk:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:Cover#0" value="Perfect artillery location. They won't see us coming."/>
+	<entry name="AstraMilitarum/Basilisk:Cover#0" value="Localização de artilharia perfeita. Eles não nos verão chegando."/>
 	<entry name="AstraMilitarum/Basilisk:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:EnemyFaction:AstraMilitarum#0" value="We always have a gift for traitors—132mm of the Emperor's fury."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:AstraMilitarum#0" value="Sempre temos um presente para traidores—132mm da fúria do Imperador."/>
 	<entry name="AstraMilitarum/Basilisk:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:EnemyFaction:Necrons#0" value="Tin men? 15km seems the perfect distance to engage them."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:Necrons#0" value="Homens de lata? 15km parece a distância perfeita para enfrentá-los."/>
 	<entry name="AstraMilitarum/Basilisk:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:EnemyFaction:Orks#0" value="Ah, Greenskins. What this cannon was built for."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:Orks#0" value="Ah, Peles-verdes. Para isso este canhão foi construído."/>
 	<entry name="AstraMilitarum/Basilisk:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:EnemyFaction:SpaceMarines#0" value="Renegade Marines? I wonder if their haloes protect them against hi-ex?"/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:SpaceMarines#0" value="Marines Renegados? Será que suas auréolas os protegem contra alto explosivo?"/>
 	<entry name="AstraMilitarum/Basilisk:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:EnemyUnit:Neutral/Enslaver#0" value="What are those THINGS? Keep them at range, men."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyUnit:Neutral/Enslaver#0" value="O que são aquelas COISAS? Mantenham-nas à distância, homens."/>
 	<entry name="AstraMilitarum/Basilisk:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:Hurt#0" value="Crew compartment penetrated… it's a mess in here."/>
+	<entry name="AstraMilitarum/Basilisk:Hurt#0" value="Compartimento da tripulação penetrado... está uma bagunça aqui."/>
 	<entry name="AstraMilitarum/Basilisk:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:Idle#0" value="Did you hear about the Saint of Basilisks? He got canonized. Geddit?"/>
-	<entry name="AstraMilitarum/Basilisk:Idle#1" value="Don't send a Manticore to do a Basilisk's job."/>
-	<entry name="AstraMilitarum/Basilisk:Idle#2" value="I pity the poor grunts on the frontlines… but not enough to join 'em."/>
-	<entry name="AstraMilitarum/Basilisk:Idle#3" value="Just tell us when there's something to shoot."/>
-	<entry name="AstraMilitarum/Basilisk:Idle#4" value="Nothing happens in war… and it happens repeatedly."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#0" value="Você ouviu sobre o Santo dos Basiliscos? Ele foi canonizado. Entendeu?"/>
+	<entry name="AstraMilitarum/Basilisk:Idle#1" value="Não mande um Manticore para fazer o trabalho de um Basilisk."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#2" value="Tenho pena dos pobres infantes na linha de frente... mas não o suficiente para me juntar a eles."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#3" value="Apenas nos diga quando houver algo para atirar."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#4" value="Nada acontece na guerra... e acontece repetidamente."/>
 	<entry name="AstraMilitarum/Basilisk:IdleCount" value="5"/>
-	<entry name="AstraMilitarum/Basilisk:Shaken#0" value="Is someone actually shooting… at us?"/>
+	<entry name="AstraMilitarum/Basilisk:Shaken#0" value="Alguém está realmente atirando... em nós?"/>
 	<entry name="AstraMilitarum/Basilisk:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:Victory#0" value="Turning enemies into craters for ten millenium, sah!"/>
+	<entry name="AstraMilitarum/Basilisk:Victory#0" value="Transformando inimigos em crateras por dez milênios, senhor!"/>
 	<entry name="AstraMilitarum/Basilisk:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:WireWeed#0" value="Biowire? I mean there are worse firing positions, like inside the Great Rift…"/>
+	<entry name="AstraMilitarum/Basilisk:WireWeed#0" value="Bio-arame? Quero dizer, existem posições de tiro piores, como dentro da Grande Fenda..."/>
 	<entry name="AstraMilitarum/Basilisk:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:AlliedFaction:SpaceMarines#0" value="Marines bossman!"/>
+	<entry name="AstraMilitarum/Bullgryn:AlliedFaction:SpaceMarines#0" value="Marines, chefia!"/>
 	<entry name="AstraMilitarum/Bullgryn:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Bullgryns loyal."/>
+	<entry name="AstraMilitarum/Bullgryn:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Bullgryns leais."/>
 	<entry name="AstraMilitarum/Bullgryn:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:Artefact#0" value="Big fing?"/>
+	<entry name="AstraMilitarum/Bullgryn:Artefact#0" value="Coisa grande?"/>
 	<entry name="AstraMilitarum/Bullgryn:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:Attack#0" value="Bullgryns fighting, yer bossman."/>
+	<entry name="AstraMilitarum/Bullgryn:Attack#0" value="Bullgryns lutando, chefia."/>
 	<entry name="AstraMilitarum/Bullgryn:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:Broken#0" value="Ogryns not that tough."/>
+	<entry name="AstraMilitarum/Bullgryn:Broken#0" value="Ogryns não são tão fortes."/>
 	<entry name="AstraMilitarum/Bullgryn:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:Cover#0" value="Hiding inna bush."/>
+	<entry name="AstraMilitarum/Bullgryn:Cover#0" value="Escondido no mato."/>
 	<entry name="AstraMilitarum/Bullgryn:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:AstraMilitarum#0" value="Wait, oos fighting fer the Emperor? Us or dem?"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:AstraMilitarum#0" value="Pera, quem tá lutando pelo Imperador? Nóis ou eles?"/>
 	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:Necrons#0" value="Can't chew tin. Damn."/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:Necrons#0" value="Não dá pra mastigar lata. Droga."/>
 	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:Orks#0" value="Orks. Tough, good lookin, clevver. Like us."/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:Orks#0" value="Orks. Fortes, bonitos, espertos. Que nem a gente."/>
 	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:SpaceMarines#0" value="Da Emperor's kids? We goota fight dem?!"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:SpaceMarines#0" value="Os filhos do Imperador? A gente tem que lutar com eles?!"/>
 	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:EnemyUnit:Neutral/Enslaver#0" value="Nah, I don't get what dey are."/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyUnit:Neutral/Enslaver#0" value="Nah, não entendo o que eles são."/>
 	<entry name="AstraMilitarum/Bullgryn:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:Hurt#0" value="Ow."/>
+	<entry name="AstraMilitarum/Bullgryn:Hurt#0" value="Ai."/>
 	<entry name="AstraMilitarum/Bullgryn:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:Idle#0" value="Dem Bone'eads… deys smart."/>
-	<entry name="AstraMilitarum/Bullgryn:Idle#1" value="One Ogryn on dead Ork's chest. Uh… two! Two Ogryns…"/>
-	<entry name="AstraMilitarum/Bullgryn:Idle#2" value="Sharpening our clubs, sir."/>
-	<entry name="AstraMilitarum/Bullgryn:Idle#3" value="We do what's we's told. And you told us nuffin."/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#0" value="Aqueles Cabeça-dura... eles são espertos."/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#1" value="Um Ogryn no peito de um Ork morto. Uh... dois! Dois Ogryns..."/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#2" value="Afiando nossos porretes, senhor."/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#3" value="A gente faz o que mandam. E você não mandou nada."/>
 	<entry name="AstraMilitarum/Bullgryn:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/Bullgryn:Shaken#0" value="Wait… which way we goin?"/>
+	<entry name="AstraMilitarum/Bullgryn:Shaken#0" value="Pera... pra que lado a gente vai?"/>
 	<entry name="AstraMilitarum/Bullgryn:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:Victory#0" value="What? Did we win?"/>
+	<entry name="AstraMilitarum/Bullgryn:Victory#0" value="O quê? A gente ganhou?"/>
 	<entry name="AstraMilitarum/Bullgryn:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:WireWeed#0" value="Ow, me leg!"/>
+	<entry name="AstraMilitarum/Bullgryn:WireWeed#0" value="Ai, minha perna!"/>
 	<entry name="AstraMilitarum/Bullgryn:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:AlliedFaction:SpaceMarines#0" value="Praise the Emperor, the Astartes are here!"/>
+	<entry name="AstraMilitarum/Guardsman:AlliedFaction:SpaceMarines#0" value="Louve o Imperador, os Astartes estão aqui!"/>
 	<entry name="AstraMilitarum/Guardsman:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Chests out, bellies in lads, it's the Lord Commissar."/>
+	<entry name="AstraMilitarum/Guardsman:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Peito para fora, barriga para dentro, rapazes, é o Lorde Comissário."/>
 	<entry name="AstraMilitarum/Guardsman:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:Artefact#0" value="Was that made by… Xenos?"/>
+	<entry name="AstraMilitarum/Guardsman:Artefact#0" value="Isso foi feito por... Xenos?"/>
 	<entry name="AstraMilitarum/Guardsman:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:Attack#0" value="Can anyone see what we're shooting at?"/>
-	<entry name="AstraMilitarum/Guardsman:Attack#1" value="Enemies in front, commissar at our back…"/>
-	<entry name="AstraMilitarum/Guardsman:Attack#2" value="Give it everything you've got!"/>
-	<entry name="AstraMilitarum/Guardsman:Attack#3" value="I wish Creed was here…"/>
-	<entry name="AstraMilitarum/Guardsman:Attack#4" value="Pour on the las-fire, we might just make it."/>
+	<entry name="AstraMilitarum/Guardsman:Attack#0" value="Alguém consegue ver no que estamos atirando?"/>
+	<entry name="AstraMilitarum/Guardsman:Attack#1" value="Inimigos na frente, comissário nas nossas costas..."/>
+	<entry name="AstraMilitarum/Guardsman:Attack#2" value="Deem tudo de si!"/>
+	<entry name="AstraMilitarum/Guardsman:Attack#3" value="Eu queria que Creed estivesse aqui..."/>
+	<entry name="AstraMilitarum/Guardsman:Attack#4" value="Despejem o fogo laser, talvez a gente consiga."/>
 	<entry name="AstraMilitarum/Guardsman:AttackCount" value="5"/>
-	<entry name="AstraMilitarum/Guardsman:Broken#0" value="I didn't sign up for this!"/>
-	<entry name="AstraMilitarum/Guardsman:Broken#1" value="Run lads, and hope the Commissar ain't watching!"/>
-	<entry name="AstraMilitarum/Guardsman:Broken#2" value="They're killing us! And we can't kill them back!"/>
-	<entry name="AstraMilitarum/Guardsman:Broken#3" value="This is a bloody Death World!"/>
-	<entry name="AstraMilitarum/Guardsman:Broken#4" value="Where are the reinforcements? Where are-!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#0" value="Eu não me alistei para isso!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#1" value="Corram, rapazes, e torçam para o Comissário não estar olhando!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#2" value="Eles estão nos matando! E não conseguimos matá-los de volta!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#3" value="Este é um maldito Mundo da Morte!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#4" value="Onde estão os reforços? Onde estão-!"/>
 	<entry name="AstraMilitarum/Guardsman:BrokenCount" value="5"/>
-	<entry name="AstraMilitarum/Guardsman:Cover#0" value="Back in the trenches, thank the Emperor."/>
+	<entry name="AstraMilitarum/Guardsman:Cover#0" value="De volta às trincheiras, graças ao Imperador."/>
 	<entry name="AstraMilitarum/Guardsman:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/Enslaver#0" value="Enslavers? Oh, Emperor preserve us."/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/Enslaver#0" value="Escravizadores? Oh, Imperador, nos proteja."/>
 	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/Psychneuein#0" value="Big bugs from Prospero—keep them away from the psykers!"/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/Psychneuein#0" value="Insetos grandes de Prospero—mantenham-nos longe dos psykers!"/>
 	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:EnemyUnitNeutral/KhorneLordOfSkulls#0" value="Chaos! Here?"/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnitNeutral/KhorneLordOfSkulls#0" value="Caos! Aqui?"/>
 	<entry name="AstraMilitarum/Guardsman:EnemyUnitNeutral/KhorneLordOfSkullsCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:Hurt#0" value="We're done for, sir."/>
+	<entry name="AstraMilitarum/Guardsman:Hurt#0" value="Estamos acabados, senhor."/>
 	<entry name="AstraMilitarum/Guardsman:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:Idle#0" value="By the Golden Throne…!"/>
-	<entry name="AstraMilitarum/Guardsman:Idle#1" value="For Guilliman and the Emperor!"/>
-	<entry name="AstraMilitarum/Guardsman:Idle#2" value="How high, sir?"/>
-	<entry name="AstraMilitarum/Guardsman:Idle#3" value="It's the silence before the battle that's the worst."/>
-	<entry name="AstraMilitarum/Guardsman:Idle#4" value="Just playing games, sir, Commissar says it's good for morale."/>
-	<entry name="AstraMilitarum/Guardsman:Idle#5" value="Life in the guard, sir. Terribly hard."/>
-	<entry name="AstraMilitarum/Guardsman:Idle#6" value="Receiving you loud and clear, sir!"/>
-	<entry name="AstraMilitarum/Guardsman:Idle#7" value="Sir, yes, sir!"/>
-	<entry name="AstraMilitarum/Guardsman:Idle#8" value="Watch out, the Commissar's coming!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#0" value="Pelo Trono Dourado...!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#1" value="Por Guilliman e pelo Imperador!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#2" value="O quão alto, senhor?"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#3" value="O silêncio antes da batalha é o pior."/>
+	<entry name="AstraMilitarum/Guardsman:Idle#4" value="Apenas jogando, senhor, o Comissário diz que é bom para o moral."/>
+	<entry name="AstraMilitarum/Guardsman:Idle#5" value="A vida na guarda, senhor. Terrivelmente dura."/>
+	<entry name="AstraMilitarum/Guardsman:Idle#6" value="Recebendo em alto e bom som, senhor!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#7" value="Senhor, sim, senhor!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#8" value="Cuidado, o Comissário está vindo!"/>
 	<entry name="AstraMilitarum/Guardsman:IdleCount" value="9"/>
-	<entry name="AstraMilitarum/Guardsman:QuestStory0#0" value="I still can't believe we survived. So many…"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory0#0" value="Ainda não consigo acreditar que sobrevivemos. Tantos..."/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory0Count" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:QuestStory1#0" value="Getting the gang back together, sir."/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory1#0" value="Reunindo a turma, senhor."/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory1Count" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:QuestStory2#0" value="A new city? Are we sure—no, sir, not questioning your orders, sir!"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory2#0" value="Uma nova cidade? Temos certeza—não, senhor, não questionando suas ordens, senhor!"/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory2Count" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:QuestStory3#0" value="Those storms make my head hurt—will we be trapped here forever?"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory3#0" value="Essas tempestades me dão dor de cabeça—ficaremos presos aqui para sempre?"/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory3Count" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:QuestStory4#0" value="They're inside the city! Get back!"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory4#0" value="Eles estão dentro da cidade! Recuem!"/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory4Count" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:QuestStory5#0" value="My mum always said, 'never trust a tech-priest'. She was alright, my mum."/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory5#0" value="Minha mãe sempre dizia, 'nunca confie em um tecno-sacerdote'. Ela era legal, minha mãe."/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory5Count" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:Shaken#0" value="Can we pray? Oh, Emperor, oh Guilliman, preserve us."/>
-	<entry name="AstraMilitarum/Guardsman:Shaken#1" value="Commander, we're falling back."/>
-	<entry name="AstraMilitarum/Guardsman:Shaken#2" value="Courage, lads, courage."/>
-	<entry name="AstraMilitarum/Guardsman:Shaken#3" value="If we stay, the enemy will shoot us. If we run, the Commissar will shoot us!"/>
-	<entry name="AstraMilitarum/Guardsman:Shaken#4" value="Can we get better guns, please?"/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#0" value="Podemos rezar? Oh, Imperador, oh Guilliman, nos proteja."/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#1" value="Comandante, estamos recuando."/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#2" value="Coragem, rapazes, coragem."/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#3" value="Se ficarmos, o inimigo nos matará. Se corrermos, o Comissário nos matará!"/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#4" value="Podemos ter armas melhores, por favor?"/>
 	<entry name="AstraMilitarum/Guardsman:ShakenCount" value="5"/>
-	<entry name="AstraMilitarum/Guardsman:Victory#0" value="Commissar, sir, permission to celebrate?"/>
-	<entry name="AstraMilitarum/Guardsman:Victory#1" value="Ha! I feel like we took down a Titan with a lightstick."/>
-	<entry name="AstraMilitarum/Guardsman:Victory#2" value="To the memory of Cadia and to Creed…"/>
-	<entry name="AstraMilitarum/Guardsman:Victory#3" value="We're winning..? We're winning!"/>
-	<entry name="AstraMilitarum/Guardsman:Victory#4" value="Wow, the Primer is right! These xenos are easy!"/>
+	<entry name="AstraMilitarum/Guardsman:Victory#0" value="Comissário, senhor, permissão para comemorar?"/>
+	<entry name="AstraMilitarum/Guardsman:Victory#1" value="Ha! Sinto como se tivéssemos derrubado um Titã com uma lanterna."/>
+	<entry name="AstraMilitarum/Guardsman:Victory#2" value="À memória de Cadia e a Creed..."/>
+	<entry name="AstraMilitarum/Guardsman:Victory#3" value="Estamos ganhando..? Estamos ganhando!"/>
+	<entry name="AstraMilitarum/Guardsman:Victory#4" value="Uau, a Cartilha está certa! Esses xenos são fáceis!"/>
 	<entry name="AstraMilitarum/Guardsman:VictoryCount" value="5"/>
-	<entry name="AstraMilitarum/Guardsman:WireWeed#0" value="Sir, the wire, it's alive!"/>
+	<entry name="AstraMilitarum/Guardsman:WireWeed#0" value="Senhor, o arame, está vivo!"/>
 	<entry name="AstraMilitarum/Guardsman:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:AlliedFaction:SpaceMarines#0" value="Commander, HQ has sighted the allied Space Marines."/>
+	<entry name="AstraMilitarum/Headquarters:AlliedFaction:SpaceMarines#0" value="Comandante, o QG avistou os Space Marines aliados."/>
 	<entry name="AstraMilitarum/Headquarters:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Happy to see you out in the field, Sir."/>
+	<entry name="AstraMilitarum/Headquarters:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Feliz em vê-lo em campo, senhor."/>
 	<entry name="AstraMilitarum/Headquarters:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Artefact#0" value="Xenos artefact dangerously near to the city, sir."/>
+	<entry name="AstraMilitarum/Headquarters:Artefact#0" value="Artefato Xenos perigosamente perto da cidade, senhor."/>
 	<entry name="AstraMilitarum/Headquarters:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Attack#0" value="Maintaining territorial control."/>
+	<entry name="AstraMilitarum/Headquarters:Attack#0" value="Mantendo o controle territorial."/>
 	<entry name="AstraMilitarum/Headquarters:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Broken#0" value="Last stand orders issued."/>
+	<entry name="AstraMilitarum/Headquarters:Broken#0" value="Ordens de última resistência emitidas."/>
 	<entry name="AstraMilitarum/Headquarters:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Cover#0" value="How… is a city… in cover?"/>
+	<entry name="AstraMilitarum/Headquarters:Cover#0" value="Como... uma cidade... está em cobertura?"/>
 	<entry name="AstraMilitarum/Headquarters:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:EnemyFaction:AstraMilitarum#0" value="Traitors approaching the city, sir!"/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:AstraMilitarum#0" value="Traidores se aproximando da cidade, senhor!"/>
 	<entry name="AstraMilitarum/Headquarters:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:EnemyFaction:Necrons#0" value="Necrons troops on the approach."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:Necrons#0" value="Tropas Necrons se aproximando."/>
 	<entry name="AstraMilitarum/Headquarters:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:EnemyFaction:Orks#0" value="Greenskins uncomfortably close, Sir."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:Orks#0" value="Peles-verdes desconfortavelmente perto, senhor."/>
 	<entry name="AstraMilitarum/Headquarters:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:EnemyFaction:SpaceMarines#0" value="Space Marines approaching. They'll wipe the city out if they get inside the walls."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:SpaceMarines#0" value="Space Marines se aproximando. Eles vão varrer a cidade se entrarem nas muralhas."/>
 	<entry name="AstraMilitarum/Headquarters:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:EnemyUnit:Neutral/Enslaver#0" value="WARNING: EXTREMELY DANGEROUS XENOS DETECTED."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyUnit:Neutral/Enslaver#0" value="AVISO: XENOS EXTREMAMENTE PERIGOSOS DETECTADOS."/>
 	<entry name="AstraMilitarum/Headquarters:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Hurt#0" value="Infrastructure damage sustained!"/>
+	<entry name="AstraMilitarum/Headquarters:Hurt#0" value="Dano à infraestrutura sofrido!"/>
 	<entry name="AstraMilitarum/Headquarters:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Idle#0" value="Guards on shift."/>
-	<entry name="AstraMilitarum/Headquarters:Idle#1" value="Always watchful."/>
-	<entry name="AstraMilitarum/Headquarters:Idle#2" value="Who's been playing Tarot? Put it away."/>
-	<entry name="AstraMilitarum/Headquarters:Idle#3" value="All quiet, sir."/>
+	<entry name="AstraMilitarum/Headquarters:Idle#0" value="Guardas de turno."/>
+	<entry name="AstraMilitarum/Headquarters:Idle#1" value="Sempre vigilantes."/>
+	<entry name="AstraMilitarum/Headquarters:Idle#2" value="Quem esteve jogando Tarô? Guarde isso."/>
+	<entry name="AstraMilitarum/Headquarters:Idle#3" value="Tudo quieto, senhor."/>
 	<entry name="AstraMilitarum/Headquarters:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/Headquarters:Shaken#0" value="Pulling back to defensive positions, sir."/>
+	<entry name="AstraMilitarum/Headquarters:Shaken#0" value="Recuando para posições defensivas, senhor."/>
 	<entry name="AstraMilitarum/Headquarters:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Victory#0" value="City secure, sir."/>
+	<entry name="AstraMilitarum/Headquarters:Victory#0" value="Cidade segura, senhor."/>
 	<entry name="AstraMilitarum/Headquarters:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:WireWeed#0" value="Was building this city on bio-wire such a great idea?"/>
+	<entry name="AstraMilitarum/Headquarters:WireWeed#0" value="Construir esta cidade sobre bio-arame foi uma boa ideia?"/>
 	<entry name="AstraMilitarum/Headquarters:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedFaction:SpaceMarines#0" value="Good of the Astartes to turn up."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedFaction:SpaceMarines#0" value="Bom da parte dos Astartes aparecerem."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Where do Commissars get their lunch? At the commissary. Heh."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Onde os Comissários almoçam? No comissariado. Heh."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Artefact#0" value="If we can't shoot that thing, I'm not interested."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Artefact#0" value="Se não podemos atirar nisso, não estou interessado."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#0" value="Can anyone see if the target's still there?"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#1" value="Throne, the recoil!"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#2" value="Heavies firing!"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#3" value="Let's crack 'em open!"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#4" value="When lasguns don't cut it…"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#0" value="Alguém consegue ver se o alvo ainda está lá?"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#1" value="Trono, o recuo!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#2" value="Pesadas atirando!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#3" value="Vamos abri-los!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#4" value="Quando armas laser não dão conta..."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:AttackCount" value="5"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Broken#0" value="Fall back, you hounds, fall back!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Broken#0" value="Recuem, seus cães, recuem!"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Cover#0" value="Like they say on Krieg: keep your mortars in cover, and they'll cover you."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Cover#0" value="Como dizem em Krieg: mantenha seus morteiros em cobertura, e eles te darão cobertura."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:CoverCount" value="1"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:AstraMilitarum#0" value="Damn traitors. Light 'em up!"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:AstraMilitarumCount" value="1"/>
