@@ -1045,87 +1045,87 @@
 	<entry name="Necrons/TesseractVault:Idle#1" value="Oh, me libertem?"/>
 	<entry name="Necrons/TesseractVault:Idle#2" value="Esta prisão NÃO PODE ME CONTER."/>
 	<entry name="Necrons/TesseractVault:Idle#3" value="Estou tão... diminuído. Eu era um deus estelar!"/>
-	<entry name="Necrons/TesseractVault:Idle#4" value="I am a star god. Let me blow your mind."/>
+	<entry name="Necrons/TesseractVault:Idle#4" value="Sou um deus estelar. Deixe-me explodir sua mente."/>
 	<entry name="Necrons/TesseractVault:IdleCount" value="5"/>
-	<entry name="Necrons/TesseractVault:Shaken#0" value="Yes, destroy my prison…"/>
+	<entry name="Necrons/TesseractVault:Shaken#0" value="Sim, destruam minha prisão..."/>
 	<entry name="Necrons/TesseractVault:ShakenCount" value="1"/>
-	<entry name="Necrons/TesseractVault:Victory#0" value="Not enough. Not until all life is mine."/>
+	<entry name="Necrons/TesseractVault:Victory#0" value="Não é suficiente. Não até que toda vida seja minha."/>
 	<entry name="Necrons/TesseractVault:VictoryCount" value="1"/>
-	<entry name="Necrons/TombBlade:Attack#0" value="Assault at speed."/>
+	<entry name="Necrons/TombBlade:Attack#0" value="Assalto em velocidade."/>
 	<entry name="Necrons/TombBlade:AttackCount" value="1"/>
-	<entry name="Necrons/TombBlade:Broken#0" value="Dispersed, falling back."/>
+	<entry name="Necrons/TombBlade:Broken#0" value="Dispersos, recuando."/>
 	<entry name="Necrons/TombBlade:BrokenCount" value="1"/>
-	<entry name="Necrons/TombBlade:Hurt#0" value="Low-level fire, warriors down."/>
+	<entry name="Necrons/TombBlade:Hurt#0" value="Fogo de baixo nível, guerreiros abatidos."/>
 	<entry name="Necrons/TombBlade:HurtCount" value="1"/>
-	<entry name="Necrons/TombBlade:Idle#0" value="Never still."/>
-	<entry name="Necrons/TombBlade:Idle#1" value="Programmming attack patterns."/>
-	<entry name="Necrons/TombBlade:Idle#2" value="Space… we remember."/>
-	<entry name="Necrons/TombBlade:Idle#3" value="Testing dimensional repulsors."/>
+	<entry name="Necrons/TombBlade:Idle#0" value="Nunca parados."/>
+	<entry name="Necrons/TombBlade:Idle#1" value="Programando padrões de ataque."/>
+	<entry name="Necrons/TombBlade:Idle#2" value="Espaço... nós lembramos."/>
+	<entry name="Necrons/TombBlade:Idle#3" value="Testando repulsores dimensionais."/>
 	<entry name="Necrons/TombBlade:IdleCount" value="4"/>
-	<entry name="Necrons/TombBlade:Shaken#0" value="Struck. Improbably, we have been struck."/>
+	<entry name="Necrons/TombBlade:Shaken#0" value="Atingidos. Improvavelmente, fomos atingidos."/>
 	<entry name="Necrons/TombBlade:ShakenCount" value="1"/>
-	<entry name="Necrons/TombBlade:Victory#0" value="Enemy… disintegrated."/>
+	<entry name="Necrons/TombBlade:Victory#0" value="Inimigo... desintegrado."/>
 	<entry name="Necrons/TombBlade:VictoryCount" value="1"/>
 	<entry name="Necrons/TranscendentCtan" value="Necrons/TesseractVault"/>
-	<entry name="Necrons/TriarchPraetorian:Attack#0" value="The first law is… do not stand against the Triarch."/>
+	<entry name="Necrons/TriarchPraetorian:Attack#0" value="A primeira lei é... não se oponham ao Triarca."/>
 	<entry name="Necrons/TriarchPraetorian:AttackCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:Broken#0" value="The last law is… leave to fight again."/>
+	<entry name="Necrons/TriarchPraetorian:Broken#0" value="A última lei é... partir para lutar novamente."/>
 	<entry name="Necrons/TriarchPraetorian:BrokenCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:EnemyFaction:AstraMilitarum#0" value="Ah, primitives. We were their gods once."/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:AstraMilitarum#0" value="Ah, primitivos. Fomos seus deuses uma vez."/>
 	<entry name="Necrons/TriarchPraetorian:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:EnemyFaction:Necrons#0" value="Another court? They must be brought in line."/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:Necrons#0" value="Outra corte? Devem ser colocados na linha."/>
 	<entry name="Necrons/TriarchPraetorian:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:EnemyFaction:Orks#0" value="Untrainable, savage."/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:Orks#0" value="Intreináveis, selvagens."/>
 	<entry name="Necrons/TriarchPraetorian:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:EnemyFaction:SpaceMarines#0" value="Honourable foes. Respectfully, we must kill them."/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:SpaceMarines#0" value="Inimigos honrados. Respeitosamente, devemos matá-los."/>
 	<entry name="Necrons/TriarchPraetorian:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:Hurt#0" value="We are the law!"/>
+	<entry name="Necrons/TriarchPraetorian:Hurt#0" value="Nós somos a lei!"/>
 	<entry name="Necrons/TriarchPraetorian:HurtCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:Idle#0" value="Would you know the codes of law?"/>
-	<entry name="Necrons/TriarchPraetorian:Idle#1" value="The first code is of honour."/>
-	<entry name="Necrons/TriarchPraetorian:Idle#2" value="The second code is of pride."/>
-	<entry name="Necrons/TriarchPraetorian:Idle#3" value="The third code… shall I share this data?"/>
-	<entry name="Necrons/TriarchPraetorian:Idle#4" value="The fifty-seventh code… obey all codes."/>
+	<entry name="Necrons/TriarchPraetorian:Idle#0" value="Gostariam de conhecer os códigos da lei?"/>
+	<entry name="Necrons/TriarchPraetorian:Idle#1" value="O primeiro código é da honra."/>
+	<entry name="Necrons/TriarchPraetorian:Idle#2" value="O segundo código é do orgulho."/>
+	<entry name="Necrons/TriarchPraetorian:Idle#3" value="O terceiro código... devo compartilhar estes dados?"/>
+	<entry name="Necrons/TriarchPraetorian:Idle#4" value="O quinquagésimo sétimo código... obedeçam todos os códigos."/>
 	<entry name="Necrons/TriarchPraetorian:IdleCount" value="5"/>
-	<entry name="Necrons/TriarchPraetorian:Shaken#0" value="Resurrection is so… loss-laden."/>
+	<entry name="Necrons/TriarchPraetorian:Shaken#0" value="A ressurreição é tão... carregada de perdas."/>
 	<entry name="Necrons/TriarchPraetorian:ShakenCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:Victory#0" value="We take no pleasure in this."/>
+	<entry name="Necrons/TriarchPraetorian:Victory#0" value="Não temos prazer nisso."/>
 	<entry name="Necrons/TriarchPraetorian:VictoryCount" value="1"/>
 	<entry name="Necrons/TriarchStalker" value="Necrons/TriarchPraetorian"/>
-	<entry name="Necrons/Warrior:Artefact#0" value="Old One horrors—on our Crownworld? How dare they?"/>
+	<entry name="Necrons/Warrior:Artefact#0" value="Horrores dos Antigos—no nosso Mundo-Coroa? Como ousam?"/>
 	<entry name="Necrons/Warrior:ArtefactCount" value="1"/>
-	<entry name="Necrons/Warrior:Attack#0" value="Does it hurt, to have your nerves stripped, atom by atom?"/>
-	<entry name="Necrons/Warrior:Attack#1" value="Engaging."/>
-	<entry name="Necrons/Warrior:Attack#2" value="History shall forget them."/>
-	<entry name="Necrons/Warrior:Attack#3" value="Resistance is… annoying."/>
+	<entry name="Necrons/Warrior:Attack#0" value="Dói ter seus nervos arrancados, átomo por átomo?"/>
+	<entry name="Necrons/Warrior:Attack#1" value="Engajando."/>
+	<entry name="Necrons/Warrior:Attack#2" value="A história os esquecerá."/>
+	<entry name="Necrons/Warrior:Attack#3" value="Resistência é... irritante."/>
 	<entry name="Necrons/Warrior:AttackCount" value="4"/>
-	<entry name="Necrons/Warrior:Broken#0" value="Damage simulations running at 99%."/>
-	<entry name="Necrons/Warrior:Broken#1" value="Our unit is dispersed. We retreat."/>
-	<entry name="Necrons/Warrior:Broken#2" value="Recall protocol initiated."/>
-	<entry name="Necrons/Warrior:Broken#3" value="The tomb calls and we obey."/>
-	<entry name="Necrons/Warrior:Broken#4" value="Your orders are impossible, my Lord."/>
+	<entry name="Necrons/Warrior:Broken#0" value="Simulações de dano executando a 99%."/>
+	<entry name="Necrons/Warrior:Broken#1" value="Nossa unidade está dispersa. Recuamos."/>
+	<entry name="Necrons/Warrior:Broken#2" value="Protocolo de recolhimento iniciado."/>
+	<entry name="Necrons/Warrior:Broken#3" value="A tumba chama e obedecemos."/>
+	<entry name="Necrons/Warrior:Broken#4" value="Suas ordens são impossíveis, meu Senhor."/>
 	<entry name="Necrons/Warrior:BrokenCount" value="5"/>
-	<entry name="Necrons/Warrior:Cover#0" value="Making use of cover."/>
+	<entry name="Necrons/Warrior:Cover#0" value="Fazendo uso de cobertura."/>
 	<entry name="Necrons/Warrior:CoverCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyFaction:AstraMilitarum#0" value="Weak, fleshy things but a fine slave race."/>
+	<entry name="Necrons/Warrior:EnemyFaction:AstraMilitarum#0" value="Coisas fracas e carnudas, mas uma boa raça escrava."/>
 	<entry name="Necrons/Warrior:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyFaction:Necrons#0" value="Our cousins, in error."/>
+	<entry name="Necrons/Warrior:EnemyFaction:Necrons#0" value="Nossos primos, em erro."/>
 	<entry name="Necrons/Warrior:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyFaction:Orks#0" value="Rogue bioweapon. Brutally effective."/>
+	<entry name="Necrons/Warrior:EnemyFaction:Orks#0" value="Bioarma rebelde. Brutalmente eficaz."/>
 	<entry name="Necrons/Warrior:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyFaction:SpaceMarines#0" value="Flesh, remade in our form. Not to be trifled with."/>
+	<entry name="Necrons/Warrior:EnemyFaction:SpaceMarines#0" value="Carne, refeita à nossa forma. Não devem ser subestimados."/>
 	<entry name="Necrons/Warrior:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/CatachanDevil#0" value="Organic, insectoid, gigantic. Possible Tyranid precursor?"/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/CatachanDevil#0" value="Orgânico, insetóide, gigantesco. Possível precursor Tiranida?"/>
 	<entry name="Necrons/Warrior:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/Enslaver#0" value="An Old One side-effect? Sensors are only 30% effective."/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/Enslaver#0" value="Um efeito colateral dos Antigos? Sensores são apenas 30% eficazes."/>
 	<entry name="Necrons/Warrior:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KastelanRobot#0" value="Do the humans mock us? Such disappointing copies."/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KastelanRobot#0" value="Os humanos zombam de nós? Cópias tão decepcionantes."/>
 	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
 	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="1"/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="Sensors failing! Unknown unknown unknown."/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/Psychneuein#0" value="Megafauna. A threat only to organic races."/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="Sensores falhando! Desconhecido desconhecido desconhecido."/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/Psychneuein#0" value="Megafauna. Uma ameaça apenas para raças orgânicas."/>
 	<entry name="Necrons/Warrior:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
-	<entry name="Necrons/Warrior:Hurt#0" value="Damage exceeds expectations… recall protocols?"/>
+	<entry name="Necrons/Warrior:Hurt#0" value="Danos excedem expectativas... protocolos de recolhimento?"/>
 	<entry name="Necrons/Warrior:HurtCount" value="1"/>
 	<entry name="Necrons/Warrior:Idle#0" value="All systems are operational."/>
 	<entry name="Necrons/Warrior:Idle#1" value="For all time… curse the Deceiver."/>
