@@ -463,170 +463,170 @@
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:BrokenCount" value="1"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:Cover#0" value="Como dizem em Krieg: mantenha seus morteiros em cobertura, e eles te darão cobertura."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:AstraMilitarum#0" value="Damn traitors. Light 'em up!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:AstraMilitarum#0" value="Malditos traidores. Abram fogo neles!"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:Necrons#0" value="Let's peel their metal hides off 'em."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:Necrons#0" value="Vamos arrancar suas peles de metal."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:Orks#0" value="Firing at Greenskins is a waste of ammo."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:Orks#0" value="Atirar em Peles-Verdes é desperdício de munição."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:SpaceMarines#0" value="If you have to fire at a Space Marine, make sure you hit."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:SpaceMarines#0" value="Se tiver que atirar em um Space Marine, certifique-se de acertar."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyUnit:Neutral/Enslaver#0" value="Blow those hellspawn back to the warp!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyUnit:Neutral/Enslaver#0" value="Mandem esses demônios de volta para o Warp!"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Hurt#0" value="I ain't got time to bleed."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Hurt#0" value="Não tenho tempo para sangrar."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#0" value="Do you know how long it takes to fix bayonets on lascannons?"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#1" value="The Xenos can come to us."/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#2" value="There's something waiting for us out there…"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#3" value="We're just like a tank that can actually hit the target."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#0" value="Sabe quanto tempo leva para fixar baionetas em canhões laser?"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#1" value="Os Xenos podem vir até nós."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#2" value="Há algo nos esperando lá fora…"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#3" value="Somos como um tanque que realmente acerta o alvo."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Shaken#0" value="We're not meant to be under fire, Sir."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Shaken#0" value="Não fomos feitos para ficar sob fogo, senhor."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Victory#0" value="Dead, of course."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Victory#0" value="Mortos, é claro."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:WireWeed#0" value="Filthy Xenos traps."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:WireWeed#0" value="Armadilhas imundas de Xenos."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:AlliedFaction:SpaceMarines#0" value="The angels are with us."/>
+	<entry name="AstraMilitarum/Hydra:AlliedFaction:SpaceMarines#0" value="Os anjos estão conosco."/>
 	<entry name="AstraMilitarum/Hydra:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:AlliedUnit:AstraMilitarum/LordCommissar#0" value="It is useful to have a man to keep us grounded."/>
+	<entry name="AstraMilitarum/Hydra:AlliedUnit:AstraMilitarum/LordCommissar#0" value="É útil ter um homem para nos manter com os pés no chão."/>
 	<entry name="AstraMilitarum/Hydra:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:Artefact#0" value="Something alien."/>
+	<entry name="AstraMilitarum/Hydra:Artefact#0" value="Algo alienígena."/>
 	<entry name="AstraMilitarum/Hydra:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:Attack#0" value="Keeping the skies clear."/>
+	<entry name="AstraMilitarum/Hydra:Attack#0" value="Mantendo os céus limpos."/>
 	<entry name="AstraMilitarum/Hydra:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:Broken#0" value="Retreating to higher ground."/>
+	<entry name="AstraMilitarum/Hydra:Broken#0" value="Recuando para terreno elevado."/>
 	<entry name="AstraMilitarum/Hydra:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:Cover#0" value="Perfect cover for cloud-watching."/>
+	<entry name="AstraMilitarum/Hydra:Cover#0" value="Cobertura perfeita para observar as nuvens."/>
 	<entry name="AstraMilitarum/Hydra:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:EnemyFaction:AstraMilitarum#0" value="Imperials, but with clouded minds."/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:AstraMilitarum#0" value="Imperiais, mas com mentes nubladas."/>
 	<entry name="AstraMilitarum/Hydra:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:EnemyFaction:Necrons#0" value="Such strange flying machines, so deadly."/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:Necrons#0" value="Máquinas voadoras tão estranhas, tão letais."/>
 	<entry name="AstraMilitarum/Hydra:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:EnemyFaction:Orks#0" value="Greenskin fliers are crude, but effective."/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:Orks#0" value="Aeronaves dos Peles-Verdes são toscas, mas eficazes."/>
 	<entry name="AstraMilitarum/Hydra:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:EnemyFaction:SpaceMarines#0" value="Can I shoot down Thunderhawks? Let's find out!"/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:SpaceMarines#0" value="Posso abater Thunderhawks? Vamos descobrir!"/>
 	<entry name="AstraMilitarum/Hydra:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:EnemyUnit:Neutral/Enslaver#0" value="Floating isn't flying, you alien horrors."/>
+	<entry name="AstraMilitarum/Hydra:EnemyUnit:Neutral/Enslaver#0" value="Flutuar não é voar, horrores alienígenas."/>
 	<entry name="AstraMilitarum/Hydra:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:Hurt#0" value="We watch over the skies, you're meant to watch over us."/>
+	<entry name="AstraMilitarum/Hydra:Hurt#0" value="Vigiamos os céus; era para vocês cuidarem de nós."/>
 	<entry name="AstraMilitarum/Hydra:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:Idle#0" value="Cloudwatching, sir."/>
-	<entry name="AstraMilitarum/Hydra:Idle#1" value="Jaghatai nimbus, rogal stratus, cirrosanguinius…"/>
-	<entry name="AstraMilitarum/Hydra:Idle#2" value="The stars are amazing here."/>
-	<entry name="AstraMilitarum/Hydra:Idle#3" value="This planet has the most amazing sunsets. Sir."/>
+	<entry name="AstraMilitarum/Hydra:Idle#0" value="Observando nuvens, senhor."/>
+	<entry name="AstraMilitarum/Hydra:Idle#1" value="Nimbo jaghatai, estrato rogal, cirrosanguinius…"/>
+	<entry name="AstraMilitarum/Hydra:Idle#2" value="As estrelas são incríveis aqui."/>
+	<entry name="AstraMilitarum/Hydra:Idle#3" value="Este planeta tem os pores do sol mais incríveis. Senhor."/>
 	<entry name="AstraMilitarum/Hydra:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/Hydra:Shaken#0" value="Someone's bringing us down, sir."/>
+	<entry name="AstraMilitarum/Hydra:Shaken#0" value="Alguém está nos derrubando, senhor."/>
 	<entry name="AstraMilitarum/Hydra:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:Victory#0" value="Clear skies, sir."/>
+	<entry name="AstraMilitarum/Hydra:Victory#0" value="Céus limpos, senhor."/>
 	<entry name="AstraMilitarum/Hydra:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:WireWeed#0" value="Earthly entanglements, sir."/>
+	<entry name="AstraMilitarum/Hydra:WireWeed#0" value="Emaranhados terrestres, senhor."/>
 	<entry name="AstraMilitarum/Hydra:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedFaction:SpaceMarines#0" value="Strongpoint reporting Adeptus Astartes on the perimeter—friendlies."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedFaction:SpaceMarines#0" value="Ponto fortificado reportando Adeptus Astartes no perímetro—aliados."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/Baneblade#0" value="Thrill to see a Baneblade, sir. Especially when the guns are pointed the other way."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/Baneblade#0" value="É empolgante ver um Baneblade, senhor. Especialmente quando os canhões estão apontados para o outro lado."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/BanebladeCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Strongpoint holding the line, sir."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Ponto fortificado mantendo a linha, senhor."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Artefact#0" value="Strongpoint reporting Xenos artefact in close proximity."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Artefact#0" value="Ponto fortificado reportando artefato Xenos em proximidade."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Attack#0" value="Strongpoint deploying military assets."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Attack#0" value="Ponto fortificado implantando recursos militares."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Broken#0" value="Strongpoint is lost, repeat, Strongpoint is lost."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Broken#0" value="Ponto fortificado perdido, repito, ponto fortificado perdido."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:AstraMilitarum#0" value="Strongpoint reporting traitor movement on the peripherary."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:AstraMilitarum#0" value="Ponto fortificado reportando movimento de traidores na periferia."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Necrons#0" value="Strongpoint reporting Necrons are on the move."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Necrons#0" value="Ponto fortificado reportando Necrons em movimento."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Orks#0" value="Strongpoint reporting Ork presence."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Orks#0" value="Ponto fortificado reportando presença Ork."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarines#0" value="Strongpoint reporting… Emperor preserve us… enemy Adeptus Astartes."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarines#0" value="Ponto fortificado reportando… que o Imperador nos proteja… Adeptus Astartes inimigos."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyUnit:Neutral/Enslaver#0" value="Strongpoint reporting Xenos—Enslavers, sir."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyUnit:Neutral/Enslaver#0" value="Ponto fortificado reportando Xenos—Enslavers, senhor."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Hurt#0" value="Strongpoint reporting—not sure if we can survive this, sir."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Hurt#0" value="Ponto fortificado reportando—não sei se podemos sobreviver a isto, senhor."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#0" value="Guard on watch, sir."/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#1" value="Always watchful."/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#2" value="Strongpoint reporting—nothing to report."/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#3" value="All quiet, sir."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#0" value="Guarda em vigilância, senhor."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#1" value="Sempre vigilantes."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#2" value="Ponto fortificado reportando—nada a relatar."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#3" value="Tudo quieto, senhor."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Shaken#0" value="Sir, can you hear us? We're under fire."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Shaken#0" value="Senhor, está nos ouvindo? Estamos sob fogo."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Victory#0" value="Strongpoint is holding, sir."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Victory#0" value="Ponto fortificado mantendo-se, senhor."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:WireWeed#0" value="Bio-wire is infesting the command center, sir."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:WireWeed#0" value="Bioarame infestando o centro de comando, senhor."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedFaction:SpaceMarines#0" value="The Marines have joined the party! Good of 'em."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedFaction:SpaceMarines#0" value="Os Marines se juntaram à festa! Boa deles."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Another noble footslogger. Why did only Yarrick get his own Baneblade?"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Outro nobre pé-de-chumbo. Por que só Yarrick ganhou seu próprio Baneblade?"/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Artefact#0" value="Guarding the artefact. Our pleasure."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Artefact#0" value="Protegendo o artefato. É um prazer."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Attack#0" value="Sending some lovely shells their way, sir."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Attack#0" value="Enviando algumas belas granadas para eles, senhor."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Broken#0" value="Sadly, sir, we're pulling out."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Broken#0" value="Infelizmente, senhor, estamos recuando."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Cover#0" value="In the trees, setting an ambuscade, sir."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Cover#0" value="Entre as árvores, preparando uma emboscada, senhor."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:AstraMilitarum#0" value="We'll be rolling the bones of heretics before the day is done.."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:AstraMilitarum#0" value="Estaremos moendo os ossos dos hereges antes do dia acabar.."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Necrons#0" value="Ah, exactly our favourite targets—Necrons."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Necrons#0" value="Ah, exatamente nossos alvos favoritos—Necrons."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Orks#0" value="Prepared to self-destruct—Orks love to borrow Leman Russ tanks."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Orks#0" value="Prontos para autodestruição—Orks adoram 'pegar emprestado' tanques Leman Russ."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarines#0" value="This cannon is designed to make Marines weep."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarines#0" value="Este canhão foi feito para fazer Marines chorarem."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyUnit:Neutral/Enslaver#0" value="Enemy Xenos—keep them at range."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyUnit:Neutral/Enslaver#0" value="Xenos inimigos—mantenham-nos à distância."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Hurt#0" value="Wow, that one went straight through the plating!"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Hurt#0" value="Uau, essa passou direto pelo revestimento!"/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#0" value="Could Leman Russ even drive?"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#1" value="Making tracks."/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#2" value="Tanking."/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#3" value="Wishing Pask was driving."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#0" value="Será que Leman Russ sabia dirigir?"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#1" value="Deixando trilhas."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#2" value="Blindando."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#3" value="Queria que Pask estivesse dirigindo."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Shaken#0" value="Tank shocked!"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Shaken#0" value="Choque de tanque!"/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Victory#0" value="Another victory for the galaxy's most popular tank!"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Victory#0" value="Outra vitória para o tanque mais popular da galáxia!"/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:WireWeed#0" value="Bio-wire, the only thing more common than the Leman Russ."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:WireWeed#0" value="Bioarame, a única coisa mais comum que o Leman Russ."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:AlliedFaction:SpaceMarines#0" value="It is always welcome to see loyal Astartes… if surprising."/>
+	<entry name="AstraMilitarum/LordCommissar:AlliedFaction:SpaceMarines#0" value="É sempre bem-vindo ver Astartes leais… ainda que surpreendente."/>
 	<entry name="AstraMilitarum/LordCommissar:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Ah, a comrade in arms."/>
+	<entry name="AstraMilitarum/LordCommissar:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Ah, um camarada de armas."/>
 	<entry name="AstraMilitarum/LordCommissar:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:Artefact#0" value="Xenos filth. We should burn it."/>
+	<entry name="AstraMilitarum/LordCommissar:Artefact#0" value="Imundície Xenos. Devíamos queimá-la."/>
 	<entry name="AstraMilitarum/LordCommissar:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:Attack#0" value="Shoot them or I'll shoot you!"/>
+	<entry name="AstraMilitarum/LordCommissar:Attack#0" value="Atirem neles ou eu atiro em vocês!"/>
 	<entry name="AstraMilitarum/LordCommissar:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:Broken#0" value="I can't let the men see me like this!"/>
+	<entry name="AstraMilitarum/LordCommissar:Broken#0" value="Não posso deixar os homens me verem assim!"/>
 	<entry name="AstraMilitarum/LordCommissar:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:Cover#0" value="Tactically sound to hide, but not great for morale."/>
+	<entry name="AstraMilitarum/LordCommissar:Cover#0" value="Esconder-se é taticamente sensato, mas péssimo para o moral."/>
 	<entry name="AstraMilitarum/LordCommissar:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:AstraMilitarum#0" value="Traitors! Filth! YOU SHALL FACE THE EMPEROR'S JUSTICE!"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:AstraMilitarum#0" value="Traidores! Imundície! VOCÊS ENFRENTARÃO A JUSTIÇA DO IMPERADOR!"/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Necrons#0" value="Tin filth. Let's melt them down for more bullets."/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Necrons#0" value="Imundície enlatada. Vamos derretê-los para fazer mais balas."/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Orks#0" value="Greenskin thugs. Imperial rigour should make swift work of them."/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Orks#0" value="Bandoleiros Peles-Verdes. O rigor Imperial deve cuidar deles rapidamente."/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:SpaceMarines#0" value="Renegade dregs of our Emperor's proudest creation. We must wipe them from the galaxy."/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:SpaceMarines#0" value="Escória renegada da mais orgulhosa criação de nosso Imperador. Devemos varrê-los da galáxia."/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:EnemyUnit:Neutral/Enslaver#0" value="Xenos horrors, in my head!"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyUnit:Neutral/Enslaver#0" value="Horrores Xenos, na minha mente!"/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:Hurt#0" value="It's only a flesh wound."/>
+	<entry name="AstraMilitarum/LordCommissar:Hurt#0" value="É só um arranhão."/>
 	<entry name="AstraMilitarum/LordCommissar:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:Idle#0" value="Dispensing justice is so tiring."/>
-	<entry name="AstraMilitarum/LordCommissar:Idle#1" value="Idle hands make ill work"/>
-	<entry name="AstraMilitarum/LordCommissar:Idle#2" value="Rations are halved. That's why I look a little Gaunt."/>
-	<entry name="AstraMilitarum/LordCommissar:Idle#3" value="What would Cain do?"/>
-	<entry name="AstraMilitarum/LordCommissar:Idle#4" value="Adjutant! Clean this again!"/>
-	<entry name="AstraMilitarum/LordCommissar:Idle#5" value="Do your duty in the name of- Oh, I always forget this bit."/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#0" value="Aplicar justiça é tão cansativo."/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#1" value="Mãos ociosas fazem mau trabalho"/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#2" value="As rações foram reduzidas pela metade. Por isso pareço um pouco Gaunt."/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#3" value="O que Cain faria?"/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#4" value="Adjunto! Limpe isso de novo!"/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#5" value="Cumpra seu dever em nome do— Oh, sempre esqueço essa parte."/>
 	<entry name="AstraMilitarum/LordCommissar:IdleCount" value="6"/>
 	<entry name="AstraMilitarum/LordCommissar:Shaken#0" value="A spiritu dominatus, Domine, libra nos."/>
 	<entry name="AstraMilitarum/LordCommissar:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:Victory#0" value="Setting an example to my troops."/>
+	<entry name="AstraMilitarum/LordCommissar:Victory#0" value="Dando o exemplo às minhas tropas."/>
 	<entry name="AstraMilitarum/LordCommissar:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:WireWeed#0" value="It would be foolhardy to remain in the bio-wire, however brave."/>
+	<entry name="AstraMilitarum/LordCommissar:WireWeed#0" value="Seria temerário permanecer no bioarame, por mais corajoso que seja."/>
 	<entry name="AstraMilitarum/LordCommissar:WireWeedCount" value="1"/>
 	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarines#0" value="Some Astartes down there. Friendlies."/>
 	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarinesCount" value="1"/>
