@@ -3650,50 +3650,50 @@
 	<entry name="Drukhari/Raider:BrokenCount" value="1"/>
 	<entry name="Drukhari/Raider:Hurt#0" value="A velocidade deveria ser nossa armadura!"/>
 	<entry name="Drukhari/Raider:HurtCount" value="1"/>
-	<entry name="Drukhari/Raider:Idle#0" value="Our trophy hooks are bare!"/>
-	<entry name="Drukhari/Raider:Idle#1" value="Pile the bodies at the rear. Only the weak die."/>
-	<entry name="Drukhari/Raider:Idle#2" value="Sharpen the keelblade, the fins."/>
-	<entry name="Drukhari/Raider:Idle#3" value="Only Vect recalls the pleasure yachts of ancient days…"/>
+	<entry name="Drukhari/Raider:Idle#0" value="Nossos ganchos de troféu estão vazios!"/>
+	<entry name="Drukhari/Raider:Idle#1" value="Empilhem os corpos na traseira. Apenas os fracos morrem."/>
+	<entry name="Drukhari/Raider:Idle#2" value="Afiem a lâmina de quilha, as barbatanas."/>
+	<entry name="Drukhari/Raider:Idle#3" value="Apenas Vect se lembra dos iates de prazer dos tempos antigos..."/>
 	<entry name="Drukhari/Raider:IdleCount" value="4"/>
-	<entry name="Drukhari/Raider:Shaken#0" value="Quicker, upon them!"/>
+	<entry name="Drukhari/Raider:Shaken#0" value="Mais rápido, sobre eles!"/>
 	<entry name="Drukhari/Raider:ShakenCount" value="1"/>
-	<entry name="Drukhari/Raider:Victory#0" value="Put the captives on the trophy-hooks. Alive or dead."/>
+	<entry name="Drukhari/Raider:Victory#0" value="Coloquem os cativos nos ganchos de troféu. Vivos ou mortos."/>
 	<entry name="Drukhari/Raider:VictoryCount" value="1"/>
-	<entry name="Drukhari/RazorwingJetfighter:Attack#0" value="Raking the ground, Archon!"/>
-	<entry name="Drukhari/RazorwingJetfighter:Attack#1" value="Our grace brings doom."/>
-	<entry name="Drukhari/RazorwingJetfighter:Attack#2" value="Oh, flee, prey, flee!"/>
-	<entry name="Drukhari/RazorwingJetfighter:Attack#3" value="Massacre them! Let none escape."/>
+	<entry name="Drukhari/RazorwingJetfighter:Attack#0" value="Varrendo o solo, Arconte!"/>
+	<entry name="Drukhari/RazorwingJetfighter:Attack#1" value="Nossa graça traz a perdição."/>
+	<entry name="Drukhari/RazorwingJetfighter:Attack#2" value="Oh, fujam, presas, fujam!"/>
+	<entry name="Drukhari/RazorwingJetfighter:Attack#3" value="Massacrem-nos! Que nenhum escape."/>
 	<entry name="Drukhari/RazorwingJetfighter:AttackCount" value="4"/>
-	<entry name="Drukhari/RazorwingJetfighter:Broken#0" value="Save your own skins!"/>
+	<entry name="Drukhari/RazorwingJetfighter:Broken#0" value="Salvem suas próprias peles!"/>
 	<entry name="Drukhari/RazorwingJetfighter:BrokenCount" value="1"/>
-	<entry name="Drukhari/RazorwingJetfighter:Hurt#0" value="I did not seek a fair fight!"/>
+	<entry name="Drukhari/RazorwingJetfighter:Hurt#0" value="Eu não buscava uma luta justa!"/>
 	<entry name="Drukhari/RazorwingJetfighter:HurtCount" value="1"/>
-	<entry name="Drukhari/RazorwingJetfighter:Idle#0" value="Better here than the arena death races…"/>
-	<entry name="Drukhari/RazorwingJetfighter:Idle#1" value="Blame it on the Nightwings…"/>
-	<entry name="Drukhari/RazorwingJetfighter:Idle#2" value="We are the best of the Reavers."/>
-	<entry name="Drukhari/RazorwingJetfighter:Idle#3" value="Death from such a distance. The cruelty is that we can't see their torment."/>
+	<entry name="Drukhari/RazorwingJetfighter:Idle#0" value="Melhor aqui do que nas corridas da morte da arena..."/>
+	<entry name="Drukhari/RazorwingJetfighter:Idle#1" value="Culpem as Asas Noturnas..."/>
+	<entry name="Drukhari/RazorwingJetfighter:Idle#2" value="Somos os melhores dos Ceifadores."/>
+	<entry name="Drukhari/RazorwingJetfighter:Idle#3" value="Morte de tal distância. A crueldade é que não podemos ver seu tormento."/>
 	<entry name="Drukhari/RazorwingJetfighter:IdleCount" value="4"/>
-	<entry name="Drukhari/RazorwingJetfighter:Shaken#0" value="They're shooting back?"/>
+	<entry name="Drukhari/RazorwingJetfighter:Shaken#0" value="Eles estão atirando de volta?"/>
 	<entry name="Drukhari/RazorwingJetfighter:ShakenCount" value="1"/>
-	<entry name="Drukhari/RazorwingJetfighter:Victory#0" value="Bisected beautifully. Never saw us coming."/>
+	<entry name="Drukhari/RazorwingJetfighter:Victory#0" value="Cortados ao meio magnificamente. Nunca nos viram chegando."/>
 	<entry name="Drukhari/RazorwingJetfighter:VictoryCount" value="1"/>
-	<entry name="Drukhari/Scourge:Attack#0" value="Tread upon the dying, not the dirt."/>
-	<entry name="Drukhari/Scourge:Attack#1" value="Swooping raptors…"/>
-	<entry name="Drukhari/Scourge:Attack#2" value="Do you hear your death upon the wind?"/>
-	<entry name="Drukhari/Scourge:Attack#3" value="Pluck their eyes, vulture-kin!"/>
+	<entry name="Drukhari/Scourge:Attack#0" value="Pisem nos moribundos, não na terra."/>
+	<entry name="Drukhari/Scourge:Attack#1" value="Raptores em mergulho..."/>
+	<entry name="Drukhari/Scourge:Attack#2" value="Você ouve sua morte no vento?"/>
+	<entry name="Drukhari/Scourge:Attack#3" value="Arranquem seus olhos, irmãos-abutres!"/>
 	<entry name="Drukhari/Scourge:AttackCount" value="4"/>
-	<entry name="Drukhari/Scourge:Broken#0" value="Take to the air! Aiee!"/>
+	<entry name="Drukhari/Scourge:Broken#0" value="Voem para o ar! Aiee!"/>
 	<entry name="Drukhari/Scourge:BrokenCount" value="1"/>
-	<entry name="Drukhari/Scourge:Hurt#0" value="A brave one who kills a Scourge."/>
+	<entry name="Drukhari/Scourge:Hurt#0" value="Um corajoso que mata um Flagelo."/>
 	<entry name="Drukhari/Scourge:HurtCount" value="1"/>
-	<entry name="Drukhari/Scourge:Idle#0" value="Couriers of the Dark City."/>
-	<entry name="Drukhari/Scourge:Idle#1" value="Bearers of intrigue."/>
-	<entry name="Drukhari/Scourge:Idle#2" value="Our wealth is in our wings."/>
-	<entry name="Drukhari/Scourge:Idle#3" value="My pinions long to be stretched."/>
+	<entry name="Drukhari/Scourge:Idle#0" value="Correios da Cidade Sombria."/>
+	<entry name="Drukhari/Scourge:Idle#1" value="Portadores de intrigas."/>
+	<entry name="Drukhari/Scourge:Idle#2" value="Nossa riqueza está em nossas asas."/>
+	<entry name="Drukhari/Scourge:Idle#3" value="Minhas penas anseiam ser estendidas."/>
 	<entry name="Drukhari/Scourge:IdleCount" value="4"/>
-	<entry name="Drukhari/Scourge:Shaken#0" value="We must rise higher!"/>
+	<entry name="Drukhari/Scourge:Shaken#0" value="Devemos voar mais alto!"/>
 	<entry name="Drukhari/Scourge:ShakenCount" value="1"/>
-	<entry name="Drukhari/Scourge:Victory#0" value="Listen to those screammms, ahh…"/>
+	<entry name="Drukhari/Scourge:Victory#0" value="Escutem esses gritoooos, ahh..."/>
 	<entry name="Drukhari/Scourge:VictoryCount" value="1"/>
 	<entry name="Drukhari/Succubus:Attack#0" value="Are you not entertained?"/>
 	<entry name="Drukhari/Succubus:Attack#1" value="More suitors? Eh."/>
