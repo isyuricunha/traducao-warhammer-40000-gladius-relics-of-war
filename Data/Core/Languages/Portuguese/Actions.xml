@@ -4,17 +4,17 @@
 	<entry name="Artefacts/AncientExterminatusDevice" value="<string name='Units/Neutral/Artefacts/AncientExterminatusDevice'/>"/>
 	<entry name="Artefacts/AncientExterminatusDeviceDescription" value=""/>
 	<entry name="Artefacts/Damage" value="<string name='Units/Neutral/Artefacts/Damage'/>"/>
-	<entry name="Artefacts/DamageDescription" value="Increases the damage of your units."/>
+	<entry name="Artefacts/DamageDescription" value="Aumenta o dano das suas unidades."/>
 	<entry name="Artefacts/Healing" value="<string name='Units/Neutral/Artefacts/Healing'/>"/>
-	<entry name="Artefacts/HealingDescription" value="Restores hitpoints of your units each turn."/>
+	<entry name="Artefacts/HealingDescription" value="Restaura os pontos de vida das suas unidades a cada turno."/>
 	<entry name="Artefacts/Hitpoints" value="<string name='Units/Neutral/Artefacts/Hitpoints'/>"/>
-	<entry name="Artefacts/HitpointsDescription" value="Increases the hitpoints of your units."/>
+	<entry name="Artefacts/HitpointsDescription" value="Aumenta os pontos de vida das suas unidades."/>
 	<entry name="Artefacts/Loyalty" value="<string name='Units/Neutral/Artefacts/Loyalty'/>"/>
-	<entry name="Artefacts/LoyaltyDescription" value="Increases the loyalty of your cities."/>
+	<entry name="Artefacts/LoyaltyDescription" value="Aumenta a lealdade das suas cidades."/>
 	<entry name="Artefacts/Movement" value="<string name='Units/Neutral/Artefacts/Movement'/>"/>
-	<entry name="Artefacts/MovementDescription" value="Increases the movement of your units."/>
+	<entry name="Artefacts/MovementDescription" value="Aumenta o movimento das suas unidades."/>
 	<entry name="Artefacts/Sight" value="<string name='Units/Neutral/Artefacts/Sight'/>"/>
-	<entry name="Artefacts/SightDescription" value="Increases the sight of your units."/>
+	<entry name="Artefacts/SightDescription" value="Aumenta o alcance de visão das suas unidades."/>
 	
 	<!-- Items -->
 	<entry name="BlightGrenade" value="<string name='Items/BlightGrenade'/>"/>
@@ -38,15 +38,15 @@
 	<entry name="TemporaryShield" value="<string name='Items/TemporaryShield'/>"/>
 	<entry name="TemporaryShieldDescription" value="<string name='Items/TemporaryShieldDescription'/>"/>
 
-	<entry name="AcquireTile" value="Acquire Tile"/>
-	<entry name="AcquireTileDescription" value="Acquires a new tile for the city. Buildings can only be built on acquired tiles. Each tile has an influence upkeep."/>
-	<entry name="Activate" value="Activate"/>
-	<entry name="AdeptusMechanicus/AggressionOverride" value="Aggression Override"/> <!-- Skitarii Marshal ability -->
-	<entry name="AdeptusMechanicus/AggressionOverrideDescription" value="Increases the attacks of target allied Adeptus Mechanicus infantry unit."/>
-	<entry name="AdeptusMechanicus/AggressionOverrideFlavor" value="Employing data-refined kill-canticle protocols, the Marshal ensures his Skitarii are driven into a state of heightened ferocity that sees their bloodstreams boil with combat hyperstimulants."/>
-	<entry name="AdeptusMechanicus/AggressorImperative" value="Aggressor Imperative"/>
-	<entry name="AdeptusMechanicus/AggressorImperativeDescription" value="Increases the movement, but decreases the armour of Doctrina Imperatives units. Cost scales with the amount of affected units (up to 10)."/>
-	<entry name="AdeptusMechanicus/AggressorImperativeFlavor" value="The Skitarii feel the press of an invisible hand upon their minds as the Machine God drives them forward. Servos are pushed to their structural limits as fibre bundles fill with the boundless energy of the Motive Force and propel the faithful on an unstoppable crusade."/>
+	<entry name="AcquireTile" value="Adquirir Terreno"/>
+	<entry name="AcquireTileDescription" value="Adquire um novo terreno para a cidade. Construções só podem ser feitas em terrenos adquiridos. Cada terreno tem um custo de manutenção de influência."/>
+	<entry name="Activate" value="Ativar"/>
+	<entry name="AdeptusMechanicus/AggressionOverride" value="Invalidação de Agressão"/> <!-- Skitarii Marshal ability -->
+	<entry name="AdeptusMechanicus/AggressionOverrideDescription" value="Aumenta os ataques da unidade de infantaria do Adeptus Mechanicus aliada alvo."/>
+	<entry name="AdeptusMechanicus/AggressionOverrideFlavor" value="Empregando protocolos de cânticos de morte com dados refinados, o Marechal garante que seus Skitarii sejam levados a um estado de ferocidade aguçada que faz suas correntes sanguíneas ferverem com hiperestimulantes de combate."/>
+	<entry name="AdeptusMechanicus/AggressorImperative" value="Imperativo Agressor"/>
+	<entry name="AdeptusMechanicus/AggressorImperativeDescription" value="Aumenta o movimento, mas diminui a armadura das unidades com Imperativos de Doutrina. O custo escala com a quantidade de unidades afetadas (até 10)."/>
+	<entry name="AdeptusMechanicus/AggressorImperativeFlavor" value="Os Skitarii sentem a pressão de uma mão invisível em suas mentes enquanto o Deus Máquina os impulsiona para a frente. Servos são levados aos seus limites estruturais enquanto feixes de fibras se enchem com a energia ilimitada da Força Motriz e impelem os fiéis em uma cruzada imparável."/>
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscience" value="Benediction of Omniscience"/>
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceDescription" value="Increases the ranged accuracy of Canticles of the Omnissiah units. Cost and effectiveness scales with the amount of affected units (up to 10)."/>
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceFlavor" value="Those blessed enough to comprehend this blaring vox-prayer find their targeting reticules guided by the Omnissiah’s own vigilance."/>
