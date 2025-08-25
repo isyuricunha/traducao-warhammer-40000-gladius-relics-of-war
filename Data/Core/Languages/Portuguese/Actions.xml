@@ -113,15 +113,15 @@
 	<entry name="AdeptusMechanicus/Scryerskull" value="Crânio-Vidente"/> <!-- Tech-Priest Dominus ability -->
 	<entry name="AdeptusMechanicus/ScryerskullDescription" value="Revela o terreno alvo e os terrenos adjacentes."/>
 	<entry name="AdeptusMechanicus/ScryerskullFlavor" value="O Adeptus Mechanicus leva a avaliação e exploração dos recursos do campo de batalha muito a sério – tanto que muitos deles continuam seu trabalho nesta função além do ponto da morte."/>
-	<entry name="AdeptusMechanicus/ServoSkullUplink" value="Servo-Skull Uplink"/> <!-- Skitarii Marshal ability -->
-	<entry name="AdeptusMechanicus/ServoSkullUplinkDescription" value="Increases the damage of allied Adeptus Mechanicus infantry units in range."/>
-	<entry name="AdeptusMechanicus/ServoSkullUplinkFlavor" value="It is a great honour for a pious Imperial servant or tech-adept to be converted into a servo skull after death—to have their skull augmented with anti-grav and a rudimentary machine intelligence. Optically-augmented servo skulls like those possessed by a Skitarii Marshal are useful for reconnaissance and targeting, hugely reducing the chance of wasted shots."/>
-	<entry name="AdeptusMechanicus/Shroudpsalm" value="Shroudpsalm"/>
-	<entry name="AdeptusMechanicus/ShroudpsalmDescription" value="Increases the ranged damage reduction of Canticles of the Omnissiah units. Cost and effectiveness scales with the amount of affected units (up to 10)."/>
-	<entry name="AdeptusMechanicus/ShroudpsalmFlavor" value="Robot, servitor and priest shift their binharic emissions into the visible spectra, the static pouring from their vox-grilles manifesting as an electromagnetic storm that hides them from the foe."/>
-	<entry name="AdeptusMechanicus/TechAdept" value="Tech-Adept"/> <!-- Tech-Priest Manipulus ability -->
+	<entry name="AdeptusMechanicus/ServoSkullUplink" value="Uplink de Servo-Crânio"/> <!-- Skitarii Marshal ability -->
+	<entry name="AdeptusMechanicus/ServoSkullUplinkDescription" value="Aumenta o dano das unidades de infantaria do Adeptus Mechanicus aliadas no alcance."/>
+	<entry name="AdeptusMechanicus/ServoSkullUplinkFlavor" value="É uma grande honra para um servo Imperial piedoso ou tecno-adepto ser convertido em um servo-crânio após a morte — ter seu crânio aumentado com antigravidade e uma inteligência de máquina rudimentar. Servo-crânios oticamente aumentados como os possuídos por um Marechal Skitarii são úteis para reconhecimento e mira, reduzindo enormemente a chance de tiros desperdiçados."/>
+	<entry name="AdeptusMechanicus/Shroudpsalm" value="Salmo da Mortalha"/>
+	<entry name="AdeptusMechanicus/ShroudpsalmDescription" value="Aumenta a redução de dano de longo alcance das unidades com Cânticos do Omnissiah. O custo e a eficácia escalam com a quantidade de unidades afetadas (até 10)."/>
+	<entry name="AdeptusMechanicus/ShroudpsalmFlavor" value="Robô, servitor e sacerdote mudam suas emissões bináricas para o espectro visível, a estática que sai de suas grades-vox se manifestando como uma tempestade eletromagnética que os esconde do inimigo."/>
+	<entry name="AdeptusMechanicus/TechAdept" value="Tecno-Adepto"/> <!-- Tech-Priest Manipulus ability -->
 	<entry name="AdeptusMechanicus/TechAdeptDescription" value="<string name='Actions/AdeptusMechanicus/MasterOfMachinesDescription'/>"/>
-	<entry name="AdeptusMechanicus/TechAdeptFlavor" value="Repairing war engines damaged in the crusade is a holy task."/>
+	<entry name="AdeptusMechanicus/TechAdeptFlavor" value="Reparar máquinas de guerra danificadas na cruzada é uma tarefa sagrada."/>
 	<entry name="AdeptusMechanicus/VoicesInTheCode" value="Voices in the Code"/>
 	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Increases the morale loss of adjacent enemy units."/>
 	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="Closing with a Sicarian Infiltrator is a mistake—their augmented craniums broadcast a brutally disruptive audiovisual assault, causing enemies to fall deafened and blinded; battles are often decided before even a single kill is confirmed."/>
