@@ -1758,254 +1758,254 @@
 	<entry name="SpaceMarines/PrimarisInceptor:Hurt#0" value="Exfiltrando!"/>
 	<entry name="SpaceMarines/PrimarisInceptor:HurtCount" value="1"/>
 	<entry name="SpaceMarines/PrimarisInceptor:Idle#0" value="Esperando para descer."/>
-	<entry name="SpaceMarines/PrimarisInceptor:Idle#1" value="Ready to strike."/>
-	<entry name="SpaceMarines/PrimarisInceptor:Idle#2" value="For the Chapter!"/>
-	<entry name="SpaceMarines/PrimarisInceptor:Idle#3" value="Unnumbered Sons no more."/>
+	<entry name="SpaceMarines/PrimarisInceptor:Idle#1" value="Pronto para atacar."/>
+	<entry name="SpaceMarines/PrimarisInceptor:Idle#2" value="Pelo Capítulo!"/>
+	<entry name="SpaceMarines/PrimarisInceptor:Idle#3" value="Não somos mais Filhos Inumerados."/>
 	<entry name="SpaceMarines/PrimarisInceptor:IdleCount" value="4"/>
-	<entry name="SpaceMarines/PrimarisInceptor:Shaken#0" value="Focus!"/>
+	<entry name="SpaceMarines/PrimarisInceptor:Shaken#0" value="Foco!"/>
 	<entry name="SpaceMarines/PrimarisInceptor:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisInceptor:Victory#0" value="Send us where we are needed."/>
+	<entry name="SpaceMarines/PrimarisInceptor:Victory#0" value="Nos enviem onde somos necessários."/>
 	<entry name="SpaceMarines/PrimarisInceptor:VictoryCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisIntercessor:AlliedUnit:SpaceMarines/TacticalSpaceMarine#0" value="…ancient Brothers…"/>
+	<entry name="SpaceMarines/PrimarisIntercessor:AlliedUnit:SpaceMarines/TacticalSpaceMarine#0" value="...Irmãos antigos..."/>
 	<entry name="SpaceMarines/PrimarisIntercessor:AlliedUnit:SpaceMarines/TacticalSpaceMarineCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisIntercessor:Attack#0" value="Bolt rifles, Brothers."/>
-	<entry name="SpaceMarines/PrimarisIntercessor:Attack#1" value="Standard firing pattern."/>
-	<entry name="SpaceMarines/PrimarisIntercessor:Attack#2" value="Overwatch!"/>
-	<entry name="SpaceMarines/PrimarisIntercessor:Attack#3" value="Watch for stragglers."/>
+	<entry name="SpaceMarines/PrimarisIntercessor:Attack#0" value="Rifles bolt, Irmãos."/>
+	<entry name="SpaceMarines/PrimarisIntercessor:Attack#1" value="Padrão de tiro padrão."/>
+	<entry name="SpaceMarines/PrimarisIntercessor:Attack#2" value="Vigilância!"/>
+	<entry name="SpaceMarines/PrimarisIntercessor:Attack#3" value="Vigiem os retardatários."/>
 	<entry name="SpaceMarines/PrimarisIntercessor:AttackCount" value="4"/>
-	<entry name="SpaceMarines/PrimarisIntercessor:Broken#0" value="Retreat as a unit."/>
+	<entry name="SpaceMarines/PrimarisIntercessor:Broken#0" value="Recuem como uma unidade."/>
 	<entry name="SpaceMarines/PrimarisIntercessor:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisIntercessor:Hurt#0" value="A brother has fallen. Repeat."/>
+	<entry name="SpaceMarines/PrimarisIntercessor:Hurt#0" value="Um irmão caiu. Repito."/>
 	<entry name="SpaceMarines/PrimarisIntercessor:HurtCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisIntercessor:Idle#0" value="In His name."/>
-	<entry name="SpaceMarines/PrimarisIntercessor:Idle#1" value="We were all Greyshields once."/>
-	<entry name="SpaceMarines/PrimarisIntercessor:Idle#2" value="Proof against heresy!"/>
-	<entry name="SpaceMarines/PrimarisIntercessor:Idle#3" value="For the Primarchs!"/>
+	<entry name="SpaceMarines/PrimarisIntercessor:Idle#0" value="Em Seu nome."/>
+	<entry name="SpaceMarines/PrimarisIntercessor:Idle#1" value="Todos fomos Escudos Cinzentos uma vez."/>
+	<entry name="SpaceMarines/PrimarisIntercessor:Idle#2" value="Prova contra heresia!"/>
+	<entry name="SpaceMarines/PrimarisIntercessor:Idle#3" value="Pelos Primarcas!"/>
 	<entry name="SpaceMarines/PrimarisIntercessor:IdleCount" value="4"/>
-	<entry name="SpaceMarines/PrimarisIntercessor:Shaken#0" value="Hold fast, Brothers."/>
+	<entry name="SpaceMarines/PrimarisIntercessor:Shaken#0" value="Resistam, Irmãos."/>
 	<entry name="SpaceMarines/PrimarisIntercessor:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisIntercessor:Victory#0" value="Squad requesting new targets."/>
+	<entry name="SpaceMarines/PrimarisIntercessor:Victory#0" value="Esquadrão solicitando novos alvos."/>
 	<entry name="SpaceMarines/PrimarisIntercessor:VictoryCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisInvaderATV:Attack#0" value="Firing! Forwards!"/>
-	<entry name="SpaceMarines/PrimarisInvaderATV:Attack#1" value="Anti-infantry."/>
-	<entry name="SpaceMarines/PrimarisInvaderATV:Attack#2" value="Striking at the foe!"/>
-	<entry name="SpaceMarines/PrimarisInvaderATV:Attack#3" value="Escorting."/>
+	<entry name="SpaceMarines/PrimarisInvaderATV:Attack#0" value="Disparando! Avante!"/>
+	<entry name="SpaceMarines/PrimarisInvaderATV:Attack#1" value="Anti-infantaria."/>
+	<entry name="SpaceMarines/PrimarisInvaderATV:Attack#2" value="Atacando o inimigo!"/>
+	<entry name="SpaceMarines/PrimarisInvaderATV:Attack#3" value="Escoltando."/>
 	<entry name="SpaceMarines/PrimarisInvaderATV:AttackCount" value="4"/>
-	<entry name="SpaceMarines/PrimarisInvaderATV:Broken#0" value="Disengaging."/>
+	<entry name="SpaceMarines/PrimarisInvaderATV:Broken#0" value="Desengajando."/>
 	<entry name="SpaceMarines/PrimarisInvaderATV:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisInvaderATV:Hurt#0" value="Receiving fire."/>
+	<entry name="SpaceMarines/PrimarisInvaderATV:Hurt#0" value="Recebendo fogo."/>
 	<entry name="SpaceMarines/PrimarisInvaderATV:HurtCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisInvaderATV:Idle#0" value="Checking turret movement."/>
-	<entry name="SpaceMarines/PrimarisInvaderATV:Idle#1" value="That will need a Tech-marine's attention."/>
-	<entry name="SpaceMarines/PrimarisInvaderATV:Idle#2" value="Scouting for Orks."/>
-	<entry name="SpaceMarines/PrimarisInvaderATV:Idle#3" value="It is too quiet."/>
+	<entry name="SpaceMarines/PrimarisInvaderATV:Idle#0" value="Verificando movimento da torre."/>
+	<entry name="SpaceMarines/PrimarisInvaderATV:Idle#1" value="Isso vai precisar da atenção de um Tecmarine."/>
+	<entry name="SpaceMarines/PrimarisInvaderATV:Idle#2" value="Bateando por Orks."/>
+	<entry name="SpaceMarines/PrimarisInvaderATV:Idle#3" value="Está muito quieto."/>
 	<entry name="SpaceMarines/PrimarisInvaderATV:IdleCount" value="4"/>
-	<entry name="SpaceMarines/PrimarisInvaderATV:Shaken#0" value="Keep moving!"/>
+	<entry name="SpaceMarines/PrimarisInvaderATV:Shaken#0" value="Continuem se movendo!"/>
 	<entry name="SpaceMarines/PrimarisInvaderATV:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisInvaderATV:Victory#0" value="Foe eliminated. Extracting."/>
+	<entry name="SpaceMarines/PrimarisInvaderATV:Victory#0" value="Inimigo eliminado. Extraindo."/>
 	<entry name="SpaceMarines/PrimarisInvaderATV:VictoryCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Attack#0" value="Firing main guns."/>
-	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Attack#1" value="Executing!"/>
-	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Attack#2" value="Xenos, heretics… all fall!"/>
-	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Attack#3" value="By the Codex!"/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Attack#0" value="Disparando canhões principais."/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Attack#1" value="Executando!"/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Attack#2" value="Xenos, heréticos... todos caem!"/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Attack#3" value="Pelo Codex!"/>
 	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:AttackCount" value="4"/>
-	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Broken#0" value="By the Emperor!"/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Broken#0" value="Pelo Imperador!"/>
 	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Hurt#0" value="Hull breach! Keep firing."/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Hurt#0" value="Brecha no casco! Continuem disparando."/>
 	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:HurtCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Idle#0" value="Checking all the guns."/>
-	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Idle#1" value="Stowing ammunition."/>
-	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Idle#2" value="Restoring plating."/>
-	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Idle#3" value="A tank fit for an Astartes!"/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Idle#0" value="Verificando todas as armas."/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Idle#1" value="Guardando munição."/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Idle#2" value="Restaurando blindagem."/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Idle#3" value="Um tanque digno de um Astartes!"/>
 	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:IdleCount" value="4"/>
-	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Shaken#0" value="Unthinkable!"/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Shaken#0" value="Impensável!"/>
 	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Victory#0" value="Inevitable."/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:Victory#0" value="Inevitável."/>
 	<entry name="SpaceMarines/PrimarisRepulsorExecutioner:VictoryCount" value="1"/>
-	<entry name="SpaceMarines/RedemptorDreadnought:Attack#0" value="Macro… plasma… incinerator!"/>
-	<entry name="SpaceMarines/RedemptorDreadnought:Attack#1" value="I am… His wrath!"/>
-	<entry name="SpaceMarines/RedemptorDreadnought:Attack#2" value="Our hour… is here!"/>
-	<entry name="SpaceMarines/RedemptorDreadnought:Attack#3" value="Face… me!"/>
+	<entry name="SpaceMarines/RedemptorDreadnought:Attack#0" value="Macro... plasma... incinerador!"/>
+	<entry name="SpaceMarines/RedemptorDreadnought:Attack#1" value="Eu sou... Sua ira!"/>
+	<entry name="SpaceMarines/RedemptorDreadnought:Attack#2" value="Nossa hora... chegou!"/>
+	<entry name="SpaceMarines/RedemptorDreadnought:Attack#3" value="Enfrentem... me!"/>
 	<entry name="SpaceMarines/RedemptorDreadnought:AttackCount" value="4"/>
-	<entry name="SpaceMarines/RedemptorDreadnought:Broken#0" value="Stand and fight… brothers!"/>
+	<entry name="SpaceMarines/RedemptorDreadnought:Broken#0" value="Resistam e lutem... irmãos!"/>
 	<entry name="SpaceMarines/RedemptorDreadnought:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/RedemptorDreadnought:Hurt#0" value="Only… in death…"/>
+	<entry name="SpaceMarines/RedemptorDreadnought:Hurt#0" value="Apenas... na morte..."/>
 	<entry name="SpaceMarines/RedemptorDreadnought:HurtCount" value="1"/>
-	<entry name="SpaceMarines/RedemptorDreadnought:Idle#0" value="Redemption… awaits."/>
-	<entry name="SpaceMarines/RedemptorDreadnought:Idle#1" value="So… long ago."/>
-	<entry name="SpaceMarines/RedemptorDreadnought:Idle#2" value="Duty… never ends."/>
-	<entry name="SpaceMarines/RedemptorDreadnought:Idle#3" value="Onward… to battle."/>
+	<entry name="SpaceMarines/RedemptorDreadnought:Idle#0" value="Redenção... aguarda."/>
+	<entry name="SpaceMarines/RedemptorDreadnought:Idle#1" value="Há... tanto tempo."/>
+	<entry name="SpaceMarines/RedemptorDreadnought:Idle#2" value="O dever... nunca termina."/>
+	<entry name="SpaceMarines/RedemptorDreadnought:Idle#3" value="Avante... para a batalha."/>
 	<entry name="SpaceMarines/RedemptorDreadnought:IdleCount" value="4"/>
-	<entry name="SpaceMarines/RedemptorDreadnought:Shaken#0" value="Emperor…"/>
+	<entry name="SpaceMarines/RedemptorDreadnought:Shaken#0" value="Imperador..."/>
 	<entry name="SpaceMarines/RedemptorDreadnought:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/RedemptorDreadnought:Victory#0" value="Indomitus… continues."/>
+	<entry name="SpaceMarines/RedemptorDreadnought:Victory#0" value="Indomitus... continua."/>
 	<entry name="SpaceMarines/RedemptorDreadnought:VictoryCount" value="1"/>
-	<entry name="SpaceMarines/ScoutBiker:Attack#0" value="Hitting fast and hard."/>
+	<entry name="SpaceMarines/ScoutBiker:Attack#0" value="Atacando rápido e forte."/>
 	<entry name="SpaceMarines/ScoutBiker:AttackCount" value="1"/>
-	<entry name="SpaceMarines/ScoutBiker:Broken#0" value="Moving to a safe distance"/>
+	<entry name="SpaceMarines/ScoutBiker:Broken#0" value="Movendo para distância segura"/>
 	<entry name="SpaceMarines/ScoutBiker:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/ScoutBiker:Hurt#0" value="We're not armoured for this."/>
+	<entry name="SpaceMarines/ScoutBiker:Hurt#0" value="Não temos blindagem para isso."/>
 	<entry name="SpaceMarines/ScoutBiker:HurtCount" value="1"/>
-	<entry name="SpaceMarines/ScoutBiker:Idle#0" value="An idle scout is useless."/>
+	<entry name="SpaceMarines/ScoutBiker:Idle#0" value="Um batedor parado é inútil."/>
 	<entry name="SpaceMarines/ScoutBiker:IdleCount" value="1"/>
-	<entry name="SpaceMarines/ScoutBiker:Shaken#0" value="We need to keep moving."/>
+	<entry name="SpaceMarines/ScoutBiker:Shaken#0" value="Precisamos continuar nos movendo."/>
 	<entry name="SpaceMarines/ScoutBiker:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/ScoutBiker:Victory#0" value="Chalk another one up to the fast attack."/>
+	<entry name="SpaceMarines/ScoutBiker:Victory#0" value="Mais uma para o ataque rápido."/>
 	<entry name="SpaceMarines/ScoutBiker:VictoryCount" value="1"/>
-	<entry name="SpaceMarines/StormravenGunship:Attack#0" value="Air support engaging."/>
+	<entry name="SpaceMarines/StormravenGunship:Attack#0" value="Apoio aéreo engajando."/>
 	<entry name="SpaceMarines/StormravenGunship:AttackCount" value="1"/>
-	<entry name="SpaceMarines/StormravenGunship:Broken#0" value="Heading back to base."/>
+	<entry name="SpaceMarines/StormravenGunship:Broken#0" value="Voltando para a base."/>
 	<entry name="SpaceMarines/StormravenGunship:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/StormravenGunship:Hurt#0" value="AA fire, incoming."/>
-	<entry name="SpaceMarines/StormravenGunship:Hurt#1" value="Engine is gone!"/>
+	<entry name="SpaceMarines/StormravenGunship:Hurt#0" value="Fogo antiaéreo, chegando."/>
+	<entry name="SpaceMarines/StormravenGunship:Hurt#1" value="Motor foi!"/>
 	<entry name="SpaceMarines/StormravenGunship:HurtCount" value="2"/>
-	<entry name="SpaceMarines/StormravenGunship:Idle#0" value="Any orders?"/>
-	<entry name="SpaceMarines/StormravenGunship:Idle#1" value="Circling, looking for targets."/>
-	<entry name="SpaceMarines/StormravenGunship:Idle#2" value="Eye in the sky."/>
+	<entry name="SpaceMarines/StormravenGunship:Idle#0" value="Alguma ordem?"/>
+	<entry name="SpaceMarines/StormravenGunship:Idle#1" value="Circulando, procurando alvos."/>
+	<entry name="SpaceMarines/StormravenGunship:Idle#2" value="Olho no céu."/>
 	<entry name="SpaceMarines/StormravenGunship:IdleCount" value="3"/>
-	<entry name="SpaceMarines/StormravenGunship:Shaken#0" value="Like flying through a mountain, ouch."/>
+	<entry name="SpaceMarines/StormravenGunship:Shaken#0" value="Como voar através de uma montanha, ai."/>
 	<entry name="SpaceMarines/StormravenGunship:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/StormravenGunship:Victory#0" value="Can't see anything down there any more."/>
+	<entry name="SpaceMarines/StormravenGunship:Victory#0" value="Não consigo ver mais nada lá embaixo."/>
 	<entry name="SpaceMarines/StormravenGunship:VictoryCount" value="1"/>
-	<entry name="SpaceMarines/StormSpeederThunderstrike:Attack#0" value="Attack swiftly"/>
-	<entry name="SpaceMarines/StormSpeederThunderstrike:Attack#1" value="Striking from the sun."/>
-	<entry name="SpaceMarines/StormSpeederThunderstrike:Attack#2" value="Suffer not the xenos or heretic to live."/>
-	<entry name="SpaceMarines/StormSpeederThunderstrike:Attack#3" value="No mercy."/>
+	<entry name="SpaceMarines/StormSpeederThunderstrike:Attack#0" value="Ataquem rapidamente"/>
+	<entry name="SpaceMarines/StormSpeederThunderstrike:Attack#1" value="Atacando do sol."/>
+	<entry name="SpaceMarines/StormSpeederThunderstrike:Attack#2" value="Não permitam que xenos ou heréticos vivam."/>
+	<entry name="SpaceMarines/StormSpeederThunderstrike:Attack#3" value="Sem piedade."/>
 	<entry name="SpaceMarines/StormSpeederThunderstrike:AttackCount" value="4"/>
-	<entry name="SpaceMarines/StormSpeederThunderstrike:Broken#0" value="Breaking off."/>
+	<entry name="SpaceMarines/StormSpeederThunderstrike:Broken#0" value="Desengajando."/>
 	<entry name="SpaceMarines/StormSpeederThunderstrike:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/StormSpeederThunderstrike:Hurt#0" value="Get us out of range!"/>
+	<entry name="SpaceMarines/StormSpeederThunderstrike:Hurt#0" value="Nos tirem do alcance!"/>
 	<entry name="SpaceMarines/StormSpeederThunderstrike:HurtCount" value="1"/>
-	<entry name="SpaceMarines/StormSpeederThunderstrike:Idle#0" value="Duty unto death."/>
-	<entry name="SpaceMarines/StormSpeederThunderstrike:Idle#1" value="The honour of being first into battle."/>
-	<entry name="SpaceMarines/StormSpeederThunderstrike:Idle#2" value="Their armour fears us."/>
-	<entry name="SpaceMarines/StormSpeederThunderstrike:Idle#3" value="Idleness is heresy."/>
+	<entry name="SpaceMarines/StormSpeederThunderstrike:Idle#0" value="Dever até a morte."/>
+	<entry name="SpaceMarines/StormSpeederThunderstrike:Idle#1" value="A honra de ser o primeiro na batalha."/>
+	<entry name="SpaceMarines/StormSpeederThunderstrike:Idle#2" value="Sua armadura nos teme."/>
+	<entry name="SpaceMarines/StormSpeederThunderstrike:Idle#3" value="Ociosidade é heresia."/>
 	<entry name="SpaceMarines/StormSpeederThunderstrike:IdleCount" value="4"/>
-	<entry name="SpaceMarines/StormSpeederThunderstrike:Shaken#0" value="What orders, Commander?"/>
+	<entry name="SpaceMarines/StormSpeederThunderstrike:Shaken#0" value="Que ordens, Comandante?"/>
 	<entry name="SpaceMarines/StormSpeederThunderstrike:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/StormSpeederThunderstrike:Victory#0" value="Already on the next target."/>
+	<entry name="SpaceMarines/StormSpeederThunderstrike:Victory#0" value="Já no próximo alvo."/>
 	<entry name="SpaceMarines/StormSpeederThunderstrike:VictoryCount" value="1"/>
 	<entry name="SpaceMarines/StormtalonGunship" value="SpaceMarines/StormravenGunship"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Artefact#0" value="What is that foul xenos device?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Artefact#0" value="O que é esse dispositivo xenos imundo?"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:ArtefactCount" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#0" value="Eat boltgun!"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#1" value="Engaging the enemy!"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#2" value="For the glory of the Imperium!"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#3" value="I am your salvation!"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#4" value="Space Marines, attack!"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#5" value="Taste the Emperor's fury!"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#6" value="We are the fist of Guilliman."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#7" value="You pollute this world, filth!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#0" value="Prove boltgun!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#1" value="Engajando o inimigo!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#2" value="Pela glória do Império!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#3" value="Eu sou sua salvação!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#4" value="Space Marines, ataquem!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#5" value="Provem a fúria do Imperador!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#6" value="Somos o punho de Guilliman."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#7" value="Vocês poluem este mundo, imundície!"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:AttackCount" value="8"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#0" value="Fall back to the prepared defenses!"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#1" value="Fight to the last marine!"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#2" value="Preserve the gene-seed!"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#3" value="The Emperor has abandoned us!"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#4" value="We bring shame upon our Chapter!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#0" value="Recuem para as defesas preparadas!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#1" value="Lutem até o último marine!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#2" value="Preservem a semente genética!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#3" value="O Imperador nos abandonou!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#4" value="Trazemos vergonha ao nosso Capítulo!"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:BrokenCount" value="5"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Cover#0" value="The Emperor protects those who protect themselves."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Cover#0" value="O Imperador protege aqueles que se protegem."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:CoverCount" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:AstraMilitarum#0" value="Even as allies, the Guard cannot be trusted."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:AstraMilitarum#0" value="Mesmo como aliados, a Guarda não pode ser confiável."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:Necrons#0" value="Ancient revenant horrors? Ha! Far darker things there are in the heart of man."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:Necrons#0" value="Horrores revenants antigos? Ha! Coisas muito mais sombrias existem no coração do homem."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:Orks#0" value="You dare to invade OUR homeworld, Greenskin scum?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:Orks#0" value="Ousam invadir NOSSO mundo natal, escória Pele-verde?"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:OrksCount" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:SpaceMarines#0" value="Traitors, on our homeworld?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:SpaceMarines#0" value="Traidores, em nosso mundo natal?"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/CatachanDevil#0" value="Devil! Stay at range and aim for the legs"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/CatachanDevil#0" value="Demônio! Mantenham distância e mirem nas pernas"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/Enslaver#0" value="Blasted puppeteers—where are the Librarians?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/Enslaver#0" value="Malditos titereiros—onde estão os Bibliotecários?"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KastelanRobot#0" value="Our own creations are turned against us."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KastelanRobot#0" value="Nossas próprias criações se voltaram contra nós."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="Foul Chaos, here, on our planet? Summon the Inquisition!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="Caos imundo, aqui, em nosso planeta? Convoquem a Inquisição!"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/Psychneuein#0" value="Space Marines, seal your suits to prevent infestation."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/Psychneuein#0" value="Space Marines, selem seus trajes para prevenir infestação."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Hurt#0" value="We will stand until the last Marine."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Hurt#1" value="We… will… not… fall!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Hurt#0" value="Resistiremos até o último Marine."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Hurt#1" value="Nós... não... cairemos!"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:HurtCount" value="2"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#0" value="Burn the heretic."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#1" value="I hunger for battle."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#2" value="Let them come… I grow impatient."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#3" value="So many Xenos… so few bolts."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#4" value="We are the Emperor's fist."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#5" value="We fight, we prevail."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#6" value="We must not meddle with these xenos artefacts, my lord."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#7" value="What orders, my lord?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#0" value="Queimem o herético."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#1" value="Tenho fome de batalha."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#2" value="Deixem-nos vir... estou ficando impaciente."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#3" value="Tantos Xenos... tão poucos projéteis."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#4" value="Somos o punho do Imperador."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#5" value="Lutamos, prevalecemos."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#6" value="Não devemos mexer com esses artefatos xenos, meu senhor."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#7" value="Que ordens, meu senhor?"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:IdleCount" value="8"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory0#0" value="Low ammunition… need to make every shot count."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory0#0" value="Pouca munição... preciso fazer cada tiro valer."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory0Count" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory1#0" value="The Librarian says the Guard cannot be trusted—we will do what we must."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory1#0" value="O Bibliotecário diz que a Guarda não pode ser confiável—faremos o que for preciso."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory1Count" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory2#0" value="The homeworld is… hollow?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory2#0" value="O mundo natal é... oco?"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory2Count" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory3#0" value="Study the Xenos? My Lord, is this in the Codex Astartes?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory3#0" value="Estudar os Xenos? Meu Senhor, isso está no Codex Astartes?"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory3Count" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory4#0" value="I fear nothing, not even Exterminatus."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory4#0" value="Não temo nada, nem mesmo Exterminatus."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory4Count" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory5#0" value="The gene-seed will survive us all—it must!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory5#0" value="A semente genética sobreviverá a todos nós—deve!"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory5Count" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#0" value="…blessed is the mind too small for doubt."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#1" value="Against this darkness, we shall prevail."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#2" value="I am an unbreakable shield, forged against the darkness."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#3" value="I… believe in the Emperor. Credo!"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#4" value="Whilst our enemies draw breath, we cannot afford fear."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#0" value="...abençoada é a mente pequena demais para a dúvida."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#1" value="Contra essa escuridão, prevaleceremos."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#2" value="Sou um escudo inquebrantável, forjado contra a escuridão."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#3" value="Eu... acredito no Imperador. Credo!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#4" value="Enquanto nossos inimigos respiram, não podemos nos dar ao luxo do medo."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:ShakenCount" value="5"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#0" value="All xenos and traitors are blights, to be cleansed from the galaxy."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#1" value="At the Lord Commander's order."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#2" value="Death at our hands is no dishonour."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#3" value="In the Emperor's name."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#4" value="My fist, clenched tight in ceramite, smashes with the force of a Chapter."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#5" value="So fall all enemies of the Imperium."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#6" value="Through the destruction of our enemies do we earn our salvation."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#7" value="We are the Emperor's vengeance, made flesh."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#0" value="Todos os xenos e traidores são pragas, a serem purificados da galáxia."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#1" value="À ordem do Senhor Comandante."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#2" value="Morte em nossas mãos não é desonra."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#3" value="Em nome do Imperador."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#4" value="Meu punho, cerrado em ceramita, esmaga com a força de um Capítulo."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#5" value="Assim caem todos os inimigos do Império."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#6" value="Através da destruição de nossos inimigos ganhamos nossa salvação."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#7" value="Somos a vingança do Imperador, feita carne."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:VictoryCount" value="8"/>
 	<entry name="SpaceMarines/Terminator" value="SpaceMarines/TacticalSpaceMarine"/>
 	<entry name="SpaceMarines/ThunderfireCannon" value="SpaceMarines/Hunter"/>
 	<entry name="SpaceMarines/Vindicator" value="SpaceMarines/Hunter"/>
 	<entry name="Tau/BroadsideBattlesuit" value="Tau/CrisisBattlesuit"/>
-	<entry name="Tau/BuilderDrone:Attack#0" value="This is an inefficient use of resources."/>
-	<entry name="Tau/BuilderDrone:Attack#1" value="Performing inadvisable attack."/>
-	<entry name="Tau/BuilderDrone:Attack#2" value="Doing minimal damage."/>
+	<entry name="Tau/BuilderDrone:Attack#0" value="Este é um uso ineficiente de recursos."/>
+	<entry name="Tau/BuilderDrone:Attack#1" value="Executando ataque desaconselhável."/>
+	<entry name="Tau/BuilderDrone:Attack#2" value="Causando dano mínimo."/>
 	<entry name="Tau/BuilderDrone:AttackCount" value="3"/>
-	<entry name="Tau/BuilderDrone:Broken#0" value="Unit in danger."/>
+	<entry name="Tau/BuilderDrone:Broken#0" value="Unidade em perigo."/>
 	<entry name="Tau/BuilderDrone:BrokenCount" value="1"/>
-	<entry name="Tau/BuilderDrone:Hurt#0" value="Unit compromised."/>
+	<entry name="Tau/BuilderDrone:Hurt#0" value="Unidade comprometida."/>
 	<entry name="Tau/BuilderDrone:HurtCount" value="1"/>
-	<entry name="Tau/BuilderDrone:Idle#0" value="Powering down"/>
-	<entry name="Tau/BuilderDrone:Idle#1" value="Assessing schematics…"/>
-	<entry name="Tau/BuilderDrone:Idle#2" value="Serving the Earth Caste and the Greater Good."/>
+	<entry name="Tau/BuilderDrone:Idle#0" value="Desligando"/>
+	<entry name="Tau/BuilderDrone:Idle#1" value="Avaliando esquemáticos..."/>
+	<entry name="Tau/BuilderDrone:Idle#2" value="Servindo a Casta da Terra e o Bem Maior."/>
 	<entry name="Tau/BuilderDrone:IdleCount" value="3"/>
-	<entry name="Tau/BuilderDrone:Shaken#0" value="Construction unit under fire."/>
+	<entry name="Tau/BuilderDrone:Shaken#0" value="Unidade de construção sob fogo."/>
 	<entry name="Tau/BuilderDrone:ShakenCount" value="1"/>
-	<entry name="Tau/BuilderDrone:Victory#0" value="T'au over-engineering in action."/>
+	<entry name="Tau/BuilderDrone:Victory#0" value="Super-engenharia T'au em ação."/>
 	<entry name="Tau/BuilderDrone:VictoryCount" value="1"/>
-	<entry name="Tau/CadreFireblade:Attack#0" value="Gunline, attack!"/>
-	<entry name="Tau/CadreFireblade:Attack#1" value="Fire Warriors, show them The Good."/>
-	<entry name="Tau/CadreFireblade:Attack#2" value="Feel the power of pulse technology!"/>
-	<entry name="Tau/CadreFireblade:Attack#3" value="Wait until you see the whites of their eyes… through your scope."/>
+	<entry name="Tau/CadreFireblade:Attack#0" value="Linha de tiro, ataquem!"/>
+	<entry name="Tau/CadreFireblade:Attack#1" value="Guerreiros do Fogo, mostrem-lhes o Bem."/>
+	<entry name="Tau/CadreFireblade:Attack#2" value="Sintam o poder da tecnologia de pulso!"/>
+	<entry name="Tau/CadreFireblade:Attack#3" value="Esperem até verem o branco dos olhos deles... através da mira."/>
 	<entry name="Tau/CadreFireblade:AttackCount" value="4"/>
-	<entry name="Tau/CadreFireblade:Broken#0" value="What would Puretide think..?"/>
+	<entry name="Tau/CadreFireblade:Broken#0" value="O que Puretide pensaria...?"/>
 	<entry name="Tau/CadreFireblade:BrokenCount" value="1"/>
-	<entry name="Tau/CadreFireblade:Hurt#0" value="It takes more than that to put me down!"/>
+	<entry name="Tau/CadreFireblade:Hurt#0" value="Precisa de mais que isso para me derrubar!"/>
 	<entry name="Tau/CadreFireblade:HurtCount" value="1"/>
-	<entry name="Tau/CadreFireblade:Idle#0" value="Target practice, shas'el, fall in!"/>
-	<entry name="Tau/CadreFireblade:Idle#1" value="We lead from the front."/>
-	<entry name="Tau/CadreFireblade:Idle#2" value="A good leader keeps his feet on the ground."/>
+	<entry name="Tau/CadreFireblade:Idle#0" value="Prática de tiro, shas'el, formem!"/>
+	<entry name="Tau/CadreFireblade:Idle#1" value="Lideramos da frente."/>
+	<entry name="Tau/CadreFireblade:Idle#2" value="Um bom líder mantém os pés no chão."/>
 	<entry name="Tau/CadreFireblade:IdleCount" value="3"/>
-	<entry name="Tau/CadreFireblade:Shaken#0" value="This is not the way…"/>
+	<entry name="Tau/CadreFireblade:Shaken#0" value="Este não é o caminho..."/>
 	<entry name="Tau/CadreFireblade:ShakenCount" value="1"/>
-	<entry name="Tau/CadreFireblade:Victory#0" value="Tactically wise."/>
+	<entry name="Tau/CadreFireblade:Victory#0" value="Taticamente sábio."/>
 	<entry name="Tau/CadreFireblade:VictoryCount" value="1"/>
-	<entry name="Tau/Commander:Attack#0" value="For Aun'Va!"/>
-	<entry name="Tau/Commander:Attack#1" value="We will teach you the way."/>
-	<entry name="Tau/Commander:Attack#2" value="Join us!"/>
+	<entry name="Tau/Commander:Attack#0" value="Por Aun'Va!"/>
+	<entry name="Tau/Commander:Attack#1" value="Ensinaremos o caminho a vocês."/>
+	<entry name="Tau/Commander:Attack#2" value="Juntem-se a nós!"/>
 	<entry name="Tau/Commander:AttackCount" value="3"/>
-	<entry name="Tau/Commander:Broken#0" value="Retreat is the only option…"/>
+	<entry name="Tau/Commander:Broken#0" value="Recuar é a única opção..."/>
 	<entry name="Tau/Commander:BrokenCount" value="1"/>
-	<entry name="Tau/Commander:Hurt#0" value="Battlesuit compromised."/>
+	<entry name="Tau/Commander:Hurt#0" value="Armadura de batalha comprometida."/>
 	<entry name="Tau/Commander:HurtCount" value="1"/>
 	<entry name="Tau/Commander:Idle#0" value="Use me, for the Greater Good."/>
 	<entry name="Tau/Commander:Idle#1" value="Always thinking one step ahead."/>
