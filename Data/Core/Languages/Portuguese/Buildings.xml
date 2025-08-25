@@ -309,137 +309,137 @@
 
 	<entry name="SistersOfBattle/Infantry" value="Capela de Batalha"/>
 	<entry name="SistersOfBattle/InfantryDescription" value="Edifício que produz infantaria, além de aumentar o limite populacional e gerar requisições."/>
-	<entry name="SistersOfBattle/InfantryFlavor" value="The final stage of a novice’s career occurs in the Battle Chapel. Here, the cantus is trained in the use of her sacred weaponry—bolter, flamer, melta—and confirmed in her faith, proof against heresy. Normally, once trained, she would visit a primary Convent’s great hall for assignment to an Order—but on Gladius Prime, where no escape is possible, she enters straight into the ranks of her sistren, defending this world."/>
+	<entry name="SistersOfBattle/InfantryFlavor" value="O estágio final da carreira de uma noviça ocorre na Capela de Batalha. Aqui, a cantus é treinada no uso de suas armas sagradas — bólter, lança-chamas, fuzil de fusão — e confirmada em sua fé, prova contra a heresia. Normalmente, uma vez treinada, ela visitaria o grande salão de um Convento Primário para ser designada a uma Ordem — mas em Gladius Prime, onde não há escapatória, ela entra diretamente nas fileiras de suas irmãs, defendendo este mundo."/>
 	<entry name="SistersOfBattle/Influence" value="Scriptório Dialogus"/>
 	<entry name="SistersOfBattle/InfluenceDescription" value="Edifício que gera influência."/>
-	<entry name="SistersOfBattle/InfluenceFlavor" value="Seria falso chamar a ordem Dialogus de não-militante — nenhuma Irmã de Batalha aceitaria isso — mas mais verdadeiro que seu foco está longe da guerra física e psíquica, e mais no psicológico e fiel. Neste Scriptório, seus discursos, orações e ditados inspiradores são transcritos, copiados por auto-escribas e disseminados por Gladius Prime, para inspirar a população restante a continuar sobrevivendo…"/>
+	<entry name="SistersOfBattle/InfluenceFlavor" value="Seria falso chamar a Ordem Dialogus de não-militante — nenhuma Irmã de Batalha aceitaria isso — mas é mais verdadeiro dizer que seu foco está longe da guerra física e psíquica, e mais no psicológico e espiritual. Neste Scriptório, seus discursos, orações e ditados inspiradores são transcritos, copiados por auto-escribas e disseminados por Gladius Prime, para inspirar a população restante a continuar sobrevivendo…"/>
 	<entry name="SistersOfBattle/Loyalty" value="Missão Famulus"/>
 	<entry name="SistersOfBattle/LoyaltyDescription" value="Edifício que aumenta a lealdade."/>
-	<entry name="SistersOfBattle/LoyaltyFlavor" value="Diplomacy and subtlety aren’t normally associated with the frothing fanatics of the Ecclesiarchy or the grim faith of the Battle Sisters—but those rare sisters who can charm and plot find themselves assigned to the Orders Famulus. They move with grace amongst the powerful of the Imperium, shifting their behaviour and breeding for the greater good of the Empire. Their extensive, regular connections with the Inquisition come in useful when they encounter… problems."/>
+	<entry name="SistersOfBattle/LoyaltyFlavor" value="Diplomacia e sutileza não são normalmente associadas aos fanáticos fervorosos da Eclesiarquia ou à fé severa das Irmãs de Batalha — mas aquelas raras irmãs que sabem encantar e tramar acabam designadas às Ordens Famulus. Elas se movem com graça entre os poderosos do Império, moldando seu comportamento e linhagem para o bem maior do Imperium. Suas extensas e regulares conexões com a Inquisição provam-se úteis quando encontram… problemas."/>
 	<entry name="SistersOfBattle/Requisitions" value="Depósito do Ministorum"/>
 	<entry name="SistersOfBattle/RequisitionsDescription" value="Edifício que gera requisições."/>
-	<entry name="SistersOfBattle/RequisitionsFlavor" value="A Adepta Sororitas, embora ultimamente leal a Terra, é abastecida tanto por suas próprias redes quanto pela burocracia que abrange a galáxia que é o Adeptus Administratum. De onde quer que seus recursos sejam trazidos, porém, eles acabam no mesmo lugar — os grandes armazéns ecoantes de um depósito do Ministorum."/>
+	<entry name="SistersOfBattle/RequisitionsFlavor" value="A Adepta Sororitas, embora ultimamente leal a Terra, é abastecida tanto por suas próprias redes quanto pela vasta burocracia galáctica que é o Adeptus Administratum. De onde quer que seus recursos sejam trazidos, porém, eles acabam no mesmo lugar — os grandes armazéns ecoantes de um Depósito do Ministorum."/>
 	<entry name="SistersOfBattle/Research" value="Relicário Pronatus"/>
-	<entry name="SistersOfBattle/ResearchDescription" value="Building that generates research."/>
-	<entry name="SistersOfBattle/ResearchFlavor" value="Like the infamous Blood Ravens chapter or even the Necron Lord Trazyn the Infinite, the Adepta Sororitas Orders Pronatus are known for their hoarding tendencies. However, unlike the others, the Orders Pronatus are focused: their entire purpose is to gather, study and guard artefacts of value to the Ecclesiarchy. Whether a holy relic or a dangerous weapon, the Orders Pronatus will store it and guard it to the last Sister."/>
-	<entry name="SistersOfBattle/Vehicles" value="Anointed Hangar"/>
-	<entry name="SistersOfBattle/VehiclesDescription" value="Building that produces ground vehicles as well as generates requisitions and research."/>
-	<entry name="SistersOfBattle/VehiclesFlavor" value="The vehicles of the Adepta Sororitas are ancient—relic battle tanks of long-ago crusades. In this hangar, Exorcists, Castigators and Immolators have their machine spirits revived by the Ministorum technicians, are sprinkled with sacred oils, and sacred incantations handed down for thousands of years. To the T’au and Votann, this would be rank superstition—yet the machines work with a deadly efficiency."/>
-	<entry name="SpaceMarines/Aircraft" value="Launch Pads"/>
-	<entry name="SpaceMarines/AircraftDescription" value="Building that produces aircraft as well as generates requisitions and influence."/>
-	<entry name="SpaceMarines/AircraftFlavor" value="Staging area for the Chapter's aerial assault craft and transports, from whence battle-brothers may embark upon their endless crusade. The fortress-monastery's active gunships, interceptors, landing craft and even its mighty Thunderhawks are housed in a hive of hangars below the launch pads."/>
-	<entry name="SpaceMarines/Construction" value="Orbital Relay"/>
-	<entry name="SpaceMarines/ConstructionDescription" value="Building that constructs new buildings and generates influence."/>
-	<entry name="SpaceMarines/ConstructionFlavor" value="In normal times, the various Teleportaria would be used to transport troops to and from nearby starships. In these warptorn times, the Orbital Relay serves a more important function, communicating with the low-orbiting Battle Barge and calling down important requisitions for rapid surface deployment."/>
+	<entry name="SistersOfBattle/ResearchDescription" value="Edifício que gera pesquisa."/>
+	<entry name="SistersOfBattle/ResearchFlavor" value="Assim como o infame Capítulo Corvos Sangrentos ou até mesmo o Senhor Necron Trazyn, o Infinito, as Ordens Pronatus da Adepta Sororitas são conhecidas por sua tendência de acumular. Contudo, ao contrário dos outros, as Ordens Pronatus são focadas: sua missão inteira é reunir, estudar e proteger artefatos de valor para a Eclesiarquia. Seja uma relíquia sagrada ou uma arma perigosa, as Ordens Pronatus irão guardá-la até a última Irmã."/>
+	<entry name="SistersOfBattle/Vehicles" value="Hangar Consagrado"/>
+	<entry name="SistersOfBattle/VehiclesDescription" value="Edifício que produz veículos terrestres, além de gerar requisições e pesquisa."/>
+	<entry name="SistersOfBattle/VehiclesFlavor" value="Os veículos da Adepta Sororitas são antigos — tanques de batalha reliquiares de cruzadas de eras passadas. Neste hangar, Exorcistas, Castigadores e Imoladores têm seus espíritos-máquina revividos pelos técnicos do Ministorum, são ungidos com óleos sagrados e recebem encantamentos transmitidos por milhares de anos. Para os T’au e Votann, isso seria superstição absurda — ainda assim, as máquinas funcionam com eficiência mortal."/>
+	<entry name="SpaceMarines/Aircraft" value="Plataformas de Lançamento"/>
+	<entry name="SpaceMarines/AircraftDescription" value="Edifício que produz aeronaves, além de gerar requisições e influência."/>
+	<entry name="SpaceMarines/AircraftFlavor" value="Área de preparação para as naves de assalto aéreo e transportes do Capítulo, de onde os irmãos de batalha partem em suas cruzadas intermináveis. As plataformas de lançamento abrigam uma colmeia de hangares abaixo, contendo gunships, interceptores, naves de desembarque e até mesmo os poderosos Thunderhawks do mosteiro-fortaleza."/>
+	<entry name="SpaceMarines/Construction" value="Retransmissor Orbital"/>
+	<entry name="SpaceMarines/ConstructionDescription" value="Edifício que constrói novas estruturas e gera influência."/>
+	<entry name="SpaceMarines/ConstructionFlavor" value="Em tempos normais, os diversos Teleportaria seriam usados para transportar tropas de e para naves estelares próximas. Nestes tempos dilacerados pela Disformidade, o Retransmissor Orbital serve a uma função mais importante: comunicar-se com a Barca de Batalha em órbita baixa e requisitar suprimentos cruciais para rápido desdobramento na superfície."/>
 	<entry name="SpaceMarines/Energy" value="Generatorum"/>
-	<entry name="SpaceMarines/EnergyDescription" value="Building that generates energy."/>
-	<entry name="SpaceMarines/EnergyFlavor" value="Though the light of the Emperor is the true source of every Chapter's strength, a physical power source is also required. The exact nature of its Generatorum differs from Chapter to Chapter. The Space Wolves, for instance, have driven immense crystal shafts deep into the surface of the planet Fenris, transforming subterranean heat into the endless energy their fortress-monastery demands."/>
-	<entry name="SpaceMarines/GeneseedBunker" value="Geneseed Bunker"/>
-	<entry name="SpaceMarines/GeneseedBunkerDescription" value="Building that stores the geneseed of your chapter and generates influence."/>
-	<entry name="SpaceMarines/GeneseedBunkerFlavor" value="Using all of the secrets of the machine spirits, Techmarines have designed these bunkers to be shielded in every possible way—physically, electromagnetically and psychically. It will take the labour of hundreds of heavy Servitors, but even if a Chapter's warriors die to a man, the Apothecaries and geneseed in these bunkers will be able to resurrect it… eventually."/>
-	<entry name="SpaceMarines/Headquarters" value="Great Hall"/>
-	<entry name="SpaceMarines/HeadquartersDescription" value="Headquarters building that generates resources."/>
-	<entry name="SpaceMarines/HeadquartersFlavor" value="Every fortress-monastery contains myriad halls large enough to house several armies, but most have too a Great Hall, centerpiece of a Chapter's home. Trophies, relics and even its most revered spacecraft may be housed within the Great Hall. If the sight of the Great Hall does not reduce a visitor to dumbfounded silence, then it has failed in its purpose."/>
+	<entry name="SpaceMarines/EnergyDescription" value="Edifício que gera energia."/>
+	<entry name="SpaceMarines/EnergyFlavor" value="Embora a luz do Imperador seja a verdadeira fonte da força de cada Capítulo, uma fonte de energia física também é necessária. A natureza exata de seu Generatorum difere de Capítulo para Capítulo. Os Lobos Espaciais, por exemplo, cravaram imensos eixos cristalinos nas entranhas do planeta Fenris, transformando o calor subterrâneo na energia infinita que seu mosteiro-fortaleza exige."/>
+	<entry name="SpaceMarines/GeneseedBunker" value="Bunker de Geneseed"/>
+	<entry name="SpaceMarines/GeneseedBunkerDescription" value="Edifício que armazena o geneseed do seu Capítulo e gera influência."/>
+	<entry name="SpaceMarines/GeneseedBunkerFlavor" value="Usando todos os segredos dos espíritos-máquina, os Tecno-Marine projetaram estes bunkers para serem protegidos de todas as formas possíveis — fisicamente, eletromagneticamente e psiquicamente. Demandará o trabalho de centenas de Servos pesados, mas mesmo que os guerreiros de um Capítulo pereçam até o último homem, os Apotecários e o geneseed nesses bunkers poderão ressuscitá-lo… eventualmente."/>
+	<entry name="SpaceMarines/Headquarters" value="Grande Salão"/>
+	<entry name="SpaceMarines/HeadquartersDescription" value="Edifício de quartel-general que gera recursos."/>
+	<entry name="SpaceMarines/HeadquartersFlavor" value="Todo mosteiro-fortaleza contém inúmeros salões grandes o suficiente para abrigar vários exércitos, mas a maioria também possui um Grande Salão, a peça central do lar de um Capítulo. Troféus, relíquias e até mesmo sua espaçonave mais reverenciada podem estar abrigados dentro do Grande Salão. Se a visão do Grande Salão não reduz um visitante ao silêncio atônito, então ele falhou em seu propósito."/>
 	<entry name="SpaceMarines/Heroes" value="Reclusiam"/>
-	<entry name="SpaceMarines/HeroesDescription" value="Building that produces heroes as well as generates influence and increases loyalty."/>
-	<entry name="SpaceMarines/HeroesFlavor" value="For those rare ceremonies that require the attendance of every Battle Brother, the vastness of the Reclusiam allows the entire Chapter to gather. This is the most precious place in a fortress-monastery—home to its most sacred relics and, in a rare few, the very body of its Primarch. It is also the seat of the chapter's commanders and heroes."/>
-	<entry name="SpaceMarines/Housing" value="Dormitories"/>
-	<entry name="SpaceMarines/HousingDescription" value="Building that increases population limit."/>
-	<entry name="SpaceMarines/HousingFlavor" value="Though each Battle-Brother receives his own personal cell, those members of a Chapter who do not directly enforce the will of the Emperor share communal quarters spread across the fortress-monastery. Support staff including servants, nurses and technicians call these stark dormitories home."/>
+	<entry name="SpaceMarines/HeroesDescription" value="Edifício que produz heróis, além de gerar influência e aumentar a lealdade."/>
+	<entry name="SpaceMarines/HeroesFlavor" value="Para aquelas raras cerimônias que exigem a presença de todos os Irmãos de Batalha, a vastidão do Reclusiam permite que o Capítulo inteiro se reúna. Este é o lugar mais precioso de um mosteiro-fortaleza — lar de suas relíquias mais sagradas e, em alguns casos raros, do próprio corpo de seu Primarca. Também é a sede dos comandantes e heróis do Capítulo."/>
+	<entry name="SpaceMarines/Housing" value="Dormitórios"/>
+	<entry name="SpaceMarines/HousingDescription" value="Edifício que aumenta o limite populacional."/>
+	<entry name="SpaceMarines/HousingFlavor" value="Embora cada Irmão de Batalha receba sua própria cela pessoal, aqueles membros de um Capítulo que não aplicam diretamente a vontade do Imperador compartilham alojamentos comunitários espalhados pelo mosteiro-fortaleza. Equipes de apoio, incluindo servos, enfermeiros e técnicos, chamam esses austeros dormitórios de lar."/>
 	<entry name="SpaceMarines/Infantry" value="Apothecarion"/>
-	<entry name="SpaceMarines/InfantryDescription" value="Building that produces infantry as well as increases population limit and generates research."/>
-	<entry name="SpaceMarines/InfantryFlavor" value="The Apothecarion provides medical support for wounded Battle-Brothers, and plays a vital role in the elevation of an Aspirant to a Space Marine. Both these functions pale into insignificance against the Apothecarion's other purpose—the preservation of its Chapter's unique gene-seed, from which new Space Marines are created. If the gene-seed is lost, so too is the Chapter."/>
+	<entry name="SpaceMarines/InfantryDescription" value="Edifício que produz infantaria, além de aumentar o limite populacional e gerar pesquisa."/>
+	<entry name="SpaceMarines/InfantryFlavor" value="O Apothecarion fornece suporte médico para Irmãos de Batalha feridos e desempenha um papel vital na elevação de um Aspirante a um Space Marine. Ambas as funções, porém, empalidecem diante do outro propósito do Apothecarion — a preservação do geneseed único de seu Capítulo, a partir do qual novos Space Marines são criados. Se o geneseed for perdido, o Capítulo também perece."/>
 	<entry name="SpaceMarines/Influence" value="Assimularum"/>
-	<entry name="SpaceMarines/InfluenceDescription" value="Building that generates influence."/>
-	<entry name="SpaceMarines/InfluenceFlavor" value="An immense and high-ceilinged gathering-place, wherein every member of the Chapter may assemble to attend briefings, ceremonies and even feasts of particular import. In most fortress-monasteries, the Great Hall is the only room to exceed the sheer size of the Assimularum."/>
-	<entry name="SpaceMarines/Loyalty" value="Company Chapel"/>
-	<entry name="SpaceMarines/LoyaltyDescription" value="Building that increases loyalty."/>
-	<entry name="SpaceMarines/LoyaltyFlavor" value="Here the Chaplains tend to the spiritual well-being of their charges, ensuring the discipline of every Marine and keeping their minds and spirits pure. In order to accommodate this, each of the Chapter's ten Companies has its own dedicated chapel. Greater ceremonies take place in the Reclusiam itself."/>
-	<entry name="SpaceMarines/Requisitions" value="Refectory"/>
-	<entry name="SpaceMarines/RequisitionsDescription" value="Building that generates requisitions."/>
-	<entry name="SpaceMarines/RequisitionsFlavor" value="The Chapter's mammoth dining halls and kitchens are contained within its Refectories. The Space Marine diet is a spartan affair, augmented with a cocktail of bio-chemical supplements to ensure constant battle-readiness. The Battle-Brothers consume this repast in complete silence."/>
+	<entry name="SpaceMarines/InfluenceDescription" value="Edifício que gera influência."/>
+	<entry name="SpaceMarines/InfluenceFlavor" value="Um imenso salão de teto alto, onde todos os membros do Capítulo podem se reunir para instruções, cerimônias e até banquetes de importância especial. Na maioria dos mosteiros-fortalezas, apenas o Grande Salão supera o Assimularum em tamanho."/>
+	<entry name="SpaceMarines/Loyalty" value="Capela da Companhia"/>
+	<entry name="SpaceMarines/LoyaltyDescription" value="Edifício que aumenta a lealdade."/>
+	<entry name="SpaceMarines/LoyaltyFlavor" value="Aqui, os Capelães cuidam do bem-estar espiritual de seus subordinados, garantindo a disciplina de cada Marine e mantendo suas mentes e espíritos puros. Para isso, cada uma das dez Companhias de um Capítulo possui sua própria capela dedicada. As cerimônias maiores acontecem no próprio Reclusiam."/>
+	<entry name="SpaceMarines/Requisitions" value="Refeitório"/>
+	<entry name="SpaceMarines/RequisitionsDescription" value="Edifício que gera requisições."/>
+	<entry name="SpaceMarines/RequisitionsFlavor" value="Os imensos refeitórios e cozinhas de um Capítulo estão contidos dentro de seus Refeitórios. A dieta dos Space Marines é espartana, complementada com um coquetel de suplementos bioquímicos para garantir prontidão constante para a batalha. Os Irmãos de Batalha consomem essa refeição em completo silêncio."/>
 	<entry name="SpaceMarines/Research" value="Librarium"/>
-	<entry name="SpaceMarines/ResearchDescription" value="Building that generates research."/>
-	<entry name="SpaceMarines/ResearchFlavor" value="Though also a store for extensive written histories of its Chapter, the Librarium is first and foremost its central command, communications and defence station. Here, Astropaths manage external and intra-base comms, while Librarians and psykers pore over, protect and update the Chapter's centuries of wisdom."/>
-	<entry name="SpaceMarines/Vehicles" value="Armoury"/>
-	<entry name="SpaceMarines/VehiclesDescription" value="Building that produces ground vehicles as well as generates requisitions and research."/>
-	<entry name="SpaceMarines/VehiclesFlavor" value="Home to anything that a Marine might employ to purge the battlefield of xenos and heretics, from the simplest combat knife to the most redoubtable of relics. The Master of Ordnance keeps a close watch upon the Chapter's wargear—only his gene-print can grant access to this titanic underground repository of weapons and vehicles."/>
-	<entry name="Tau/Aircraft" value="Kor'vattra Nacelle"/>
-	<entry name="Tau/AircraftDescription" value="Building that produces aircraft as well as increases population limit and generates influence."/>
-	<entry name="Tau/AircraftFlavor" value="The Air Caste’s slender limbs and hollow bones are so ill-suited to life on the ground that they are often called ‘The Invisible Caste’ by planet-dwellers. Their nacelles are combined factories, hangars and living spaces—throughout holding technology that reduces the effects of Gladius Prime’s gravity on their delicate physiology."/>
-	<entry name="Tau/Construction" value="Brachyuran'm Foundry"/>
-	<entry name="Tau/ConstructionDescription" value="Building that constructs new buildings as well as generates ore, research and influence."/>
-	<entry name="Tau/ConstructionFlavor" value="The Brachyuran might not be suited to combat—after all, they mostly closely resemble crustaceans similar to tiny Terran crabs—but their compact form conceals a fierce technical intelligence, ideally suited to delicate construction. In this foundry, teams of Brachyuran can aid the Earth Caste in building structures, from the macro to the micro level."/>
-	<entry name="Tau/Energy" value="Sho'aun'or'es Plant"/>
-	<entry name="Tau/EnergyDescription" value="Building that generates energy."/>
-	<entry name="Tau/EnergyFlavor" value="The Demiurg were the first to lend the T’au their expertise, but the T’au have also drawn upon the abandoned technology of the Imperium, refining it in their way. This strange structure reflects that mixed origin, showing T’au aesthetics imposed on an Imperial reactor cluster."/>
-	<entry name="Tau/Food" value="P'greet'an Hydroponics"/>
-	<entry name="Tau/FoodDescription" value="Building that harvests food."/>
-	<entry name="Tau/FoodFlavor" value="Many races have joined the T’au, but not all have some unique skillset. The Greet are an aquatic race, undistinguished in most fields; all they can contribute to the T’au is their labour and knowledge of aquaculture in these sealed hydroponic farms."/>
-	<entry name="Tau/Loyalty" value="Ta'aun Totem"/>
-	<entry name="Tau/LoyaltyDescription" value="Building that increases loyalty."/>
-	<entry name="Tau/LoyaltyFlavor" value="This is a simple statue to Aun’Va, the Ethereal Supreme, showing him supporting the way, sculpted as a portal through which all the races of the galaxy flow. Embedded in its bone-white surface are a range of listening devices, to track the sentiment of the population and isolate dissident elements."/>
-	<entry name="Tau/Headquarters" value="Tau'shiro HQ"/>
-	<entry name="Tau/HeadquartersDescription" value="Headquarters building that generates resources."/>
-	<entry name="Tau/HeadquartersFlavor" value="Named after the Air Caste’s continent-sized space stations, this fortress acts as the central point of the colony-city. It is theoretically the solitary preserve of the Commanders in a military situation, but in practice is the seat of the colony’s Ethereals."/>
-	<entry name="Tau/Heroes" value="Shan'ar'tol Stasis"/>
-	<entry name="Tau/HeroesDescription" value="Building that produces heroes as well as generates food and influence."/>
-	<entry name="Tau/HeroesFlavor" value="Commanders like ShadowSun and PureTide are rare individuals, raised up by the Ethereals to be representatives of all that is good and true about the T’au. So few are they that, when not deployed on campaigns, they are placed in stasis until the next time they are needed."/>
-	<entry name="Tau/Housing" value="Tio'ur'm Pods"/>
-	<entry name="Tau/HousingDescription" value="Building that increases population limit."/>
-	<entry name="Tau/HousingFlavor" value="These sturdy housing units shelter the T’au’s greatest resource—its population of T’au and general workers. It is often the best-defended location next to the Ethereals—because without workers and families to survive and rebuild, where is the worth in fighting?"/>
-	<entry name="Tau/Infantry" value="Shas'm Barracks"/>
-	<entry name="Tau/InfantryDescription" value="Building that produces infantry as well as increases population limit and generates influence."/>
-	<entry name="Tau/InfantryFlavor" value="In this smooth-skinned blister-bunker, Fireblades and other T’au veterans train up the members of the fire caste from Shas’saal recruits into full-blown Shas’la Fire Warriors, administering the Trial of Fire at the end of their fourth year."/>
-	<entry name="Tau/Influence" value="Por'sral Broadcaster"/>
-	<entry name="Tau/InfluenceDescription" value="Building that generates influence."/>
-	<entry name="Tau/InfluenceFlavor" value="The Water Caste are diplomats-supreme—able to talk round the most intransigent, alien species to the T’au—but on hostile Gladius, their skills are best employed in this lean communications tower proselytising on all channels, attracting the remaining population to the cause."/>
-	<entry name="Tau/MonstrousCreatures" value="Xar'vesa Crisis Centre"/>
-	<entry name="Tau/MonstrousCreaturesDescription" value="Building that produces monstrous creatures as well as generates research and influence."/>
-	<entry name="Tau/MonstrousCreaturesFlavor" value="Once a Fire Warrior has passed their Trial-By-Fire and proven themself, they are allowed to don the Her'ex'evre or Mantle of Heroes and pilot a battlesuit. Here, the iconic T’au machines are assembled by the Earth Caste, with Brachyuran technicians working on the fine internal mechanisms."/>
-	<entry name="Tau/Ore" value="Anthrazod'm Refinery"/>
-	<entry name="Tau/OreDescription" value="Building that harvests ore."/>
-	<entry name="Tau/OreFlavor" value="A sturdy Xenos species, the Anthrazods normally spend their lives mining asteroids for the greater good. The shortage of manpower—and lack of asteroids—on Gladius means they’re working more closely with the Earth Caste to extract and refine ore."/>
-	<entry name="Tau/Research" value="Bentu'sin Lab"/>
-	<entry name="Tau/ResearchDescription" value="Building that generates research."/>
-	<entry name="Tau/ResearchFlavor" value="The squat race that the Imperium knows as the Demiurg are called the ‘wise-gifted ones’ or Bentusi by the T’au, for their mastery of advanced science and automation. They are normally a semi-allied space-bound race, but on Gladius they have been forced to the ground, where they dole out their advanced technology to the T’au grudgingly."/>
-	<entry name="Tau/Vehicles" value="Fio'xar Arsenal"/>
-	<entry name="Tau/VehiclesDescription" value="Building that produces ground vehicles as well as generates ore and influence."/>
-	<entry name="Tau/VehiclesFlavor" value="Here the dour Earth caste craft the unique skimmer vehicles available to the T’au military. Over time, they assure you, they will be able to increase their capabilities."/>
-	<entry name="Tyranids/Aircraft" value="Capillary Tower"/>
-	<entry name="Tyranids/AircraftDescription" value="Building that produces flying monstrous creatures and generates research as well as increases the loyalty and population limit."/>
-	<entry name="Tyranids/AircraftFlavor" value="Tall as a human Hive City, Capillary Towers are the backbone of Tyranid conquest. Here, the resources of the planet are siphoned from Reclamation Pools and fed up through the troposphere to meet the umbilical tongues of orbiting Hive ships. On Gladius, the Towers have no Hive Ships to feed. Instead, Gargoyles and Hive Crones crawl from birthing sacs on the Tower's sides and wait for their newborn wings to stiffen so they can join the war."/>
-	<entry name="Tyranids/Biomass" value="Reclamation Pool"/>
-	<entry name="Tyranids/BiomassDescription" value="Building that generates biomass."/>
-	<entry name="Tyranids/BiomassFlavor" value="A Reclamation Pool is one of the core structures of a Tyranid invasion, a wide bubbling cartilaginous pit bubbling with acids and enzymes. Irrespective of the war raging around it, the Hive's swarming rippers bring collected biomass to the Reclamation Pool where it is dissolved. In a normal situation, it would be fed through Capillary Towers up to the waiting Hive Fleet; on Gladius, the biomass is stored or used in the creation of more troops."/>
-	<entry name="Tyranids/Construction" value="Megafauna Sac"/>
-	<entry name="Tyranids/ConstructionDescription" value="Building that constructs new buildings as well as generates biomass and increases the population limit."/>
-	<entry name="Tyranids/ConstructionFlavor" value="Nothing reflects the inhumanity of a hive more than the Megafauna Sac. To a human eye, its smooth membranous dome is reminiscent of a design for a museum. However, when it tears itself asunder to reveal another giant biostructure, pulsating and screaming in its birth throes—when that building is half-dragged, half-crawls its towering flesh into position—when the Sac gums itself back together and ripper swarms consume its afterbirth—the human mind then sees it as truly alien."/>
-	<entry name="Tyranids/Headquarters" value="Norn Cyst"/>
-	<entry name="Tyranids/HeadquartersDescription" value="Headquarters building that generates resources."/>
-	<entry name="Tyranids/HeadquartersFlavor" value="The organising organism of a Tyranid's hive, the Norn Cyst is always the first biostructure to be placed. The Malanthrope places the hive in a suitable location and tends its exponential growth as the hive manages and defends any connected biostructures. When the hive's use has passed, the Malanthrope strips the Cyst's living connections and carries to a new source of biomass. The remaining redundant structure sloughs itself back into the nearest reclamation pool. Soon, the hive is completely gone."/>
-	<entry name="Tyranids/Heroes" value="Alpha Ovipository"/>
-	<entry name="Tyranids/HeroesDescription" value="Building that produces heroes as well as generates biomass and increases loyalty."/>
-	<entry name="Tyranids/HeroesFlavor" value="Whilst the Anthropia emerge solely from the Aedanthropum's long-gestation sacs, the most complex synapse creatures take even more of the Hive Mind's resources and, crucially, focus. Each Tyrant, Tervigon and Prime requires careful design from the Mind, to give it that balance between total control and useful independence. The concentrated sensoria of the Ovipository enable that focus."/>
-	<entry name="Tyranids/Housing" value="Hibernation Marsupia"/>
-	<entry name="Tyranids/HousingDescription" value="Building that increases population limit."/>
-	<entry name="Tyranids/HousingFlavor" value="Excess biomass and genetic data are simply stored in the thickened walls of the biostructures or flow twitching between them. But when a creature has been grown, sometimes the Hive Mind deems it more efficient to retain it but shut down its functions, stored in serried ranks of marsupia."/>
-	<entry name="Tyranids/Infantry" value="Brood Nest"/>
-	<entry name="Tyranids/InfantryDescription" value="Building that produces infantry and beasts as well as generates biomass and increases loyalty."/>
-	<entry name="Tyranids/InfantryFlavor" value="While a Norn Queen normally produces all the creatures of a Tyranid invasion, in the circumstances that a brood is physically isolated from the Hive Fleet, certain specialised structures are used. Smaller creatures like Termagants are gestated in the pods of this nest, fed and warmed by the unthinking structures."/>
-	<entry name="Tyranids/Influence" value="Synapse Node"/>
-	<entry name="Tyranids/InfluenceDescription" value="Building that generates influence."/>
-	<entry name="Tyranids/InfluenceFlavor" value="The Hive Mind's capabilities aren't spread evenly throughout its structures—somewhere, there needs to be concentrated systems for thought. In the Hive Fleet, these are the Norn Queens. On the ground, these synapses act as temporary back-ups to the network effect from its individual creatures, allowing the Mind to focus on more objectives than simply controlling the swarm."/>
-	<entry name="Tyranids/Loyalty" value="Coherence Node"/>
-	<entry name="Tyranids/LoyaltyDescription" value="Building that increases loyalty."/>
-	<entry name="Tyranids/LoyaltyFlavor" value="An Imperial scholar, might make an analogy between a coherence node and something like a radio tower—and, certainly, it's orchid-ear appearance fits—but it doesn't transmit but receives. The node's folded surfaces track the locations of the Hive Mind's creatures for the most efficient deployment of its synapses, to prevent the Hive swarms falling into anarchy and chaos."/>
-	<entry name="Tyranids/Research" value="Genetic Epicure"/>
-	<entry name="Tyranids/ResearchDescription" value="Building that generates research."/>
-	<entry name="Tyranids/ResearchFlavor" value="Though the Malanthropes are responsible for physically collecting genetic data from a planet's population, the Epicure is the structure that processes those samples. Inside the Epicure's fluted mass, delicate structures pare and sort the genetic samples, testing them on a microscopic scale for useful innovations. When something is discovered, it is immediately communicated to the Norn Cyst and hence onto the Hive Mind."/>
+	<entry name="SpaceMarines/ResearchDescription" value="Edifício que gera pesquisa."/>
+	<entry name="SpaceMarines/ResearchFlavor" value="Embora também seja um arquivo das extensas histórias escritas do Capítulo, o Librarium é, antes de tudo, seu centro de comando, comunicações e defesa. Aqui, Astropatas gerenciam as comunicações externas e internas, enquanto Bibliotecários e psíquicos estudam, protegem e atualizam a sabedoria secular do Capítulo."/>
+	<entry name="SpaceMarines/Vehicles" value="Arsenal"/>
+	<entry name="SpaceMarines/VehiclesDescription" value="Edifício que produz veículos terrestres, além de gerar requisições e pesquisa."/>
+	<entry name="SpaceMarines/VehiclesFlavor" value="Lar de tudo que um Marine possa usar para purgar o campo de batalha de xenos e hereges, desde a mais simples faca de combate até a mais formidável das relíquias. O Mestre de Armamentos vigia de perto o equipamento bélico do Capítulo — apenas sua impressão genética pode conceder acesso a este titânico repositório subterrâneo de armas e veículos."/>
+	<entry name="Tau/Aircraft" value="Nacele Kor'vattra"/>
+	<entry name="Tau/AircraftDescription" value="Edifício que produz aeronaves, além de aumentar o limite populacional e gerar influência."/>
+	<entry name="Tau/AircraftFlavor" value="Os membros da Casta do Ar têm membros delgados e ossos ocos tão mal-adaptados à vida terrestre que muitas vezes são chamados de 'Casta Invisível' pelos habitantes dos planetas. Suas naceles são fábricas, hangares e moradias combinados — todas equipadas com tecnologia que reduz os efeitos da gravidade de Gladius Prime em sua fisiologia delicada."/>
+	<entry name="Tau/Construction" value="Fundição Brachyuran'm"/>
+	<entry name="Tau/ConstructionDescription" value="Edifício que constrói novas estruturas, além de gerar minério, pesquisa e influência."/>
+	<entry name="Tau/ConstructionFlavor" value="Os Brachyuran podem não ser adequados para o combate — afinal, eles lembram mais crustáceos semelhantes a pequenos caranguejos terrestres — mas sua forma compacta oculta uma inteligência técnica feroz, ideal para construções delicadas. Nesta fundição, equipes de Brachyuran auxiliam a Casta da Terra na construção de estruturas, do nível macro ao micro."/>
+	<entry name="Tau/Energy" value="Usina Sho'aun'or'es"/>
+	<entry name="Tau/EnergyDescription" value="Edifício que gera energia."/>
+	<entry name="Tau/EnergyFlavor" value="Os Demiurg foram os primeiros a emprestar sua expertise aos T’au, mas estes também recorreram à tecnologia abandonada do Império, refinando-a ao seu modo. Esta estranha estrutura reflete essa origem mista, mostrando a estética T’au imposta sobre um conjunto de reatores imperiais."/>
+	<entry name="Tau/Food" value="Hidropônicos P'greet'an"/>
+	<entry name="Tau/FoodDescription" value="Edifício que produz alimento."/>
+	<entry name="Tau/FoodFlavor" value="Muitas raças uniram-se aos T’au, mas nem todas possuem habilidades únicas. Os Greet são uma raça aquática, pouco distintos em outros campos; tudo que podem contribuir aos T’au é sua mão de obra e conhecimento de aquicultura nestas fazendas hidropônicas seladas."/>
+	<entry name="Tau/Loyalty" value="Totem Ta'aun"/>
+	<entry name="Tau/LoyaltyDescription" value="Edifício que aumenta a lealdade."/>
+	<entry name="Tau/LoyaltyFlavor" value="Esta é uma simples estátua de Aun’Va, o Etereo Supremo, mostrando-o guiando o caminho, esculpida como um portal através do qual todas as raças da galáxia fluem. Inseridos em sua superfície de marfim estão diversos dispositivos de escuta, para rastrear o sentimento da população e isolar elementos dissidentes."/>
+	<entry name="Tau/Headquarters" value="Quartel-General Tau'shiro"/>
+	<entry name="Tau/HeadquartersDescription" value="Edifício de quartel-general que gera recursos."/>
+	<entry name="Tau/HeadquartersFlavor" value="Nomeada em homenagem às estações espaciais do tamanho de continentes da Casta do Ar, esta fortaleza atua como ponto central da colônia-cidade. Teoricamente, é um espaço reservado apenas para os Comandantes em situações militares, mas na prática é a sede dos Etéreos da colônia."/>
+	<entry name="Tau/Heroes" value="Estase Shan'ar'tol"/>
+	<entry name="Tau/HeroesDescription" value="Edifício que produz heróis, além de gerar alimento e influência."/>
+	<entry name="Tau/HeroesFlavor" value="Comandantes como Shadowsun e Puretide são indivíduos raros, elevados pelos Etéreos para representarem tudo o que é bom e verdadeiro nos T’au. São tão poucos que, quando não estão em campanha, são colocados em estase até que sejam novamente necessários."/>
+	<entry name="Tau/Housing" value="Pods Tio'ur'm"/>
+	<entry name="Tau/HousingDescription" value="Edifício que aumenta o limite populacional."/>
+	<entry name="Tau/HousingFlavor" value="Estas unidades de habitação resistentes abrigam o maior recurso dos T’au — sua população de T’au e trabalhadores em geral. Muitas vezes, é o local mais bem-defendido depois dos Etéreos — pois sem trabalhadores e famílias para sobreviver e reconstruir, de que vale lutar?"/>
+	<entry name="Tau/Infantry" value="Quartel Shas'm"/>
+	<entry name="Tau/InfantryDescription" value="Edifício que produz infantaria, além de aumentar o limite populacional e gerar influência."/>
+	<entry name="Tau/InfantryFlavor" value="Neste bunker de superfície lisa, Fireblades e outros veteranos T’au treinam os membros da Casta do Fogo, transformando recrutas Shas’saal em verdadeiros Shas’la Guerreiros de Fogo, administrando o Julgamento do Fogo ao final de seu quarto ano."/>
+	<entry name="Tau/Influence" value="Transmissor Por'sral"/>
+	<entry name="Tau/InfluenceDescription" value="Edifício que gera influência."/>
+	<entry name="Tau/InfluenceFlavor" value="A Casta da Água é composta por diplomatas supremos — capazes de convencer até as espécies mais intransigentes a se unirem aos T’au — mas em Gladius hostil, suas habilidades são melhor empregadas nesta esguia torre de comunicações, pregando em todos os canais e atraindo a população remanescente para a causa."/>
+	<entry name="Tau/MonstrousCreatures" value="Centro de Crise Xar'vesa"/>
+	<entry name="Tau/MonstrousCreaturesDescription" value="Edifício que produz criaturas monstruosas, além de gerar pesquisa e influência."/>
+	<entry name="Tau/MonstrousCreaturesFlavor" value="Uma vez que um Guerreiro de Fogo passa pelo Julgamento do Fogo e prova seu valor, ele tem o direito de vestir o Her'ex'evre, ou Manto dos Heróis, e pilotar um battlesuit. Aqui, as icônicas máquinas T’au são montadas pela Casta da Terra, com técnicos Brachyuran trabalhando nos mecanismos internos delicados."/>
+	<entry name="Tau/Ore" value="Refinaria Anthrazod'm"/>
+	<entry name="Tau/OreDescription" value="Edifício que extrai minério."/>
+	<entry name="Tau/OreFlavor" value="Uma raça xenos robusta, os Anthrazods normalmente passam suas vidas minerando asteroides pelo bem maior. A escassez de mão de obra — e a falta de asteroides — em Gladius significa que eles estão trabalhando mais de perto com a Casta da Terra para extrair e refinar minério."/>
+	<entry name="Tau/Research" value="Laboratório Bentu'sin"/>
+	<entry name="Tau/ResearchDescription" value="Edifício que gera pesquisa."/>
+	<entry name="Tau/ResearchFlavor" value="A raça baixa que o Império conhece como Demiurg é chamada pelos T’au de 'os sábios-dadivosos', ou Bentusi, por sua maestria em ciência avançada e automação. Normalmente, são uma raça semi-aliada que vive no espaço, mas em Gladius foram forçados a permanecer no solo, onde concedem sua tecnologia avançada aos T’au de maneira relutante."/>
+	<entry name="Tau/Vehicles" value="Arsenal Fio'xar"/>
+	<entry name="Tau/VehiclesDescription" value="Edifício que produz veículos terrestres, além de gerar minério e influência."/>
+	<entry name="Tau/VehiclesFlavor" value="Aqui, a sisuda Casta da Terra fabrica os veículos aerodeslizadores únicos disponíveis para o exército T’au. Com o tempo, asseguram eles, suas capacidades poderão ser ampliadas."/>
+	<entry name="Tyranids/Aircraft" value="Torre Capilar"/>
+	<entry name="Tyranids/AircraftDescription" value="Edifício que produz criaturas monstruosas voadoras e gera pesquisa, além de aumentar a lealdade e o limite de população."/>
+	<entry name="Tyranids/AircraftFlavor" value="Altas como uma Colmeia-Cidade humana, as Torres Capilares são a espinha dorsal da conquista Tirânida. Aqui, os recursos do planeta são drenados das Piscinas de Reclamamento e enviados através da estratosfera para encontrar as línguas umbilicais das Naves-colmeia em órbita. Em Gladius, as Torres não têm Naves-colmeia para alimentar. Em vez disso, Gárgulas e Crone de Colmeia rastejam de sacos de incubação nas laterais da Torre e aguardam até que suas asas recém-formadas endureçam para se juntar à guerra."/>
+	<entry name="Tyranids/Biomass" value="Piscina de Reclamamento"/>
+	<entry name="Tyranids/BiomassDescription" value="Edifício que gera biomassa."/>
+	<entry name="Tyranids/BiomassFlavor" value="Uma Piscina de Reclamamento é uma das estruturas centrais de uma invasão Tirânida, uma vasta fossa cartilaginosa borbulhante de ácidos e enzimas. Independentemente da guerra ao seu redor, os enxames de Rippers trazem biomassa coletada para a piscina, onde ela é dissolvida. Normalmente, seria enviada pelas Torres Capilares até a Frota-colmeia; em Gladius, a biomassa é armazenada ou usada na criação de mais tropas."/>
+	<entry name="Tyranids/Construction" value="Saco de Megafauna"/>
+	<entry name="Tyranids/ConstructionDescription" value="Edifício que constrói novas biostruturas, além de gerar biomassa e aumentar o limite de população."/>
+	<entry name="Tyranids/ConstructionFlavor" value="Nada reflete tanto a desumanidade de uma colmeia quanto o Saco de Megafauna. Para olhos humanos, sua cúpula membranosa lisa pode lembrar o design de um museu. Porém, quando se rasga revelando outra biostrutura gigante, pulsante e gritando em seus estertores de nascimento—quando essa construção se arrasta meio erguida, meio puxada para sua posição—quando o Saco se fecha novamente e enxames de Rippers consomem seus restos—então a mente humana compreende algo verdadeiramente alienígena."/>
+	<entry name="Tyranids/Headquarters" value="Cisto Norn"/>
+	<entry name="Tyranids/HeadquartersDescription" value="Edifício-sede que gera recursos."/>
+	<entry name="Tyranids/HeadquartersFlavor" value="O organismo organizador de uma colmeia Tirânida, o Cisto Norn é sempre a primeira biostrutura a ser implantada. O Malanthrope posiciona a colmeia em um local adequado e supervisiona seu crescimento exponencial, enquanto a colmeia administra e defende as biostruturas conectadas. Quando sua utilidade termina, o Malanthrope corta as conexões vivas do Cisto e o transfere para uma nova fonte de biomassa. A estrutura redundante restante dissolve-se na piscina de reclamamento mais próxima. Em pouco tempo, a colmeia desaparece por completo."/>
+	<entry name="Tyranids/Heroes" value="Ovipositório Alfa"/>
+	<entry name="Tyranids/HeroesDescription" value="Edifício que produz heróis, além de gerar biomassa e aumentar a lealdade."/>
+	<entry name="Tyranids/HeroesFlavor" value="Enquanto os Anthropia emergem apenas dos sacos de longa gestação do Aedanthropum, as criaturas sinápticas mais complexas exigem ainda mais recursos e, acima de tudo, foco da Mente Colmeia. Cada Tirano, Tervigon e Prime precisa de um design meticuloso, equilibrando controle total e independência útil. Os sensores concentrados do Ovipositório permitem essa focalização."/>
+	<entry name="Tyranids/Housing" value="Marsúpia de Hibernação"/>
+	<entry name="Tyranids/HousingDescription" value="Edifício que aumenta o limite de população."/>
+	<entry name="Tyranids/HousingFlavor" value="Excesso de biomassa e dados genéticos são simplesmente armazenados nas paredes espessadas das biostruturas ou fluem tremendo entre elas. Mas quando uma criatura já foi formada, às vezes a Mente Colmeia decide que é mais eficiente preservá-la desligando suas funções, armazenando-a em fileiras de marsúpias."/>
+	<entry name="Tyranids/Infantry" value="Ninho da Ninhada"/>
+	<entry name="Tyranids/InfantryDescription" value="Edifício que produz infantaria e feras, além de gerar biomassa e aumentar a lealdade."/>
+	<entry name="Tyranids/InfantryFlavor" value="Enquanto normalmente uma Rainha Norn gera todas as criaturas de uma invasão Tirânida, em situações onde uma ninhada está fisicamente isolada da Frota-colmeia, certas estruturas especializadas são usadas. Criaturas menores como Termagantes são gestadas nos casulos desse ninho, nutridos e aquecidos por estruturas instintivas."/>
+	<entry name="Tyranids/Influence" value="Nó Sináptico"/>
+	<entry name="Tyranids/InfluenceDescription" value="Edifício que gera influência."/>
+	<entry name="Tyranids/InfluenceFlavor" value="As capacidades da Mente Colmeia não se distribuem igualmente entre suas estruturas—em algum ponto, precisam existir sistemas concentrados de pensamento. Na Frota-colmeia, esses são as Rainhas Norn. No solo, esses nós funcionam como respaldos temporários para o efeito de rede das criaturas individuais, permitindo que a Mente se concentre em mais objetivos do que apenas controlar o enxame."/>
+	<entry name="Tyranids/Loyalty" value="Nó de Coerência"/>
+	<entry name="Tyranids/LoyaltyDescription" value="Edifício que aumenta a lealdade."/>
+	<entry name="Tyranids/LoyaltyFlavor" value="Um erudito imperial poderia traçar uma analogia entre um Nó de Coerência e algo como uma torre de rádio—e, certamente, sua aparência em forma de orquídea se encaixa nisso—mas ele não transmite, e sim recebe. As superfícies dobradas do nó rastreiam as localizações das criaturas da Mente Colmeia para o uso mais eficiente de seus sinapses, prevenindo que os enxames caiam em anarquia e caos."/>
+	<entry name="Tyranids/Research" value="Epicúrio Genético"/>
+	<entry name="Tyranids/ResearchDescription" value="Edifício que gera pesquisa."/>
+	<entry name="Tyranids/ResearchFlavor" value="Embora os Malanthropes sejam responsáveis por coletar fisicamente dados genéticos da população de um planeta, o Epicúrio é a estrutura que processa essas amostras. Dentro de sua massa estriada, delicadas estruturas separam e analisam o material genético, testando-o em escala microscópica em busca de inovações úteis. Quando algo é descoberto, é imediatamente comunicado ao Cisto Norn e, consequentemente, à Mente Colmeia."/>
 	<entry name="Tyranids/Thropes" value="Aedanthropum"/>
-	<entry name="Tyranids/ThropesDescription" value="Building that produces Thropes and generates research."/>
-	<entry name="Tyranids/ThropesFlavor" value="Not all Tyranid creatures are equal; whilst Termagants and Hormagaunts require little focus and unspecialised resources, the construction and gestation of more complex creatures can take more care. In isolated hives like that of Gladius, the diverse support creatures the Imperium calls Anthropia—Venomthropes, Zoanthropes and Malanthropes—all emerge from a specialised biostructure of gristly columns, podia and caverns."/>
-	<entry name="Tyranids/Vehicles" value="Brood Haunt"/>
-	<entry name="Tyranids/VehiclesDescription" value="Building that produces ground-based monstrous creatures and generates biomass."/>
-	<entry name="Tyranids/VehiclesFlavor" value="Some of the Hive Mind's creations are produced by separate biostructures because of the care and resources taken in their rendering. Others are simply large. The Brood Haunt houses those brutish giants that are far too big for the Brood Nest. Inside this high-spined haunt, womb-caverns of bone filled with suspensory fluid allow the layering of muscle and bone for these monstrous giants."/>
+	<entry name="Tyranids/ThropesDescription" value="Edifício que produz Thropes e gera pesquisa."/>
+	<entry name="Tyranids/ThropesFlavor" value="Nem todas as criaturas Tirânidas são iguais; enquanto Termagantes e Hormagantes exigem pouco foco e recursos não especializados, a construção e gestação de criaturas mais complexas requer maior cuidado. Em colmeias isoladas como a de Gladius, os diversos organismos de apoio que o Império chama de Anthropia—Venomthropes, Zoanthropes e Malanthropes—emergem de uma biostrutura especializada de colunas cartilaginosas, pódios e cavernas."/>
+	<entry name="Tyranids/Vehicles" value="Covil da Ninhada"/>
+	<entry name="Tyranids/VehiclesDescription" value="Edifício que produz criaturas monstruosas terrestres e gera biomassa."/>
+	<entry name="Tyranids/VehiclesFlavor" value="Algumas das criações da Mente Colmeia são produzidas em biostruturas separadas devido ao cuidado e recursos necessários em sua formação. Outras, simplesmente, são grandes demais. O Covil da Ninhada abriga aqueles gigantes brutais que são muito grandes para o Ninho da Ninhada. Dentro desse covil espinhoso, cavernas-útero de osso cheias de fluido suspensor permitem a formação gradual de músculos e ossos desses monstros colossais."/>
 </language>
