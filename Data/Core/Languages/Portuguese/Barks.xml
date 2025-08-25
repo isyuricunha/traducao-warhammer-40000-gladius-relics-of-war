@@ -746,284 +746,284 @@
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:NecronsCount" value="1"/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:Orks#0" value="É, devíamos ter trazido o Demolisher."/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:EnemyFaction:SpaceMarines#0" value="Traitors! They probably don't know the which is the front end of a Rhino."/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:SpaceMarines#0" value="Traidores! Provavelmente nem sabem qual é a frente de um Rhino."/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:EnemyUnit:Neutral/KastelanRobot#0" value="Oh, they don't make armour like that anymore."/>
+	<entry name="AstraMilitarum/TankCommander:EnemyUnit:Neutral/KastelanRobot#0" value="Ah, não fazem mais blindagem assim."/>
 	<entry name="AstraMilitarum/TankCommander:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:Hurt#0" value="Keeping them busy by letting them shoot holes in me."/>
+	<entry name="AstraMilitarum/TankCommander:Hurt#0" value="Mantendo-os ocupados deixando eles fazerem buracos em mim."/>
 	<entry name="AstraMilitarum/TankCommander:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:Idle#0" value="Better a tread-head than a dead-head. Ha!"/>
-	<entry name="AstraMilitarum/TankCommander:Idle#1" value="Just polishing my medals."/>
-	<entry name="AstraMilitarum/TankCommander:Idle#2" value="What do you mean, get inside? I need to see."/>
-	<entry name="AstraMilitarum/TankCommander:Idle#3" value="Getting itchy for action."/>
+	<entry name="AstraMilitarum/TankCommander:Idle#0" value="Melhor ser um cabeça-de-esteira que um cabeça-morta. Ha!"/>
+	<entry name="AstraMilitarum/TankCommander:Idle#1" value="Só polindo minhas medalhas."/>
+	<entry name="AstraMilitarum/TankCommander:Idle#2" value="Como assim, entrar? Eu preciso ver."/>
+	<entry name="AstraMilitarum/TankCommander:Idle#3" value="Ansioso por ação."/>
 	<entry name="AstraMilitarum/TankCommander:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/TankCommander:Shaken#0" value="Not sure the old lady's can take many more of those."/>
+	<entry name="AstraMilitarum/TankCommander:Shaken#0" value="Não sei se a velha senhora aguenta muito mais disso."/>
 	<entry name="AstraMilitarum/TankCommander:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:Victory#0" value="The best place for an enemy is under your tracks."/>
+	<entry name="AstraMilitarum/TankCommander:Victory#0" value="O melhor lugar para um inimigo é debaixo das suas esteiras."/>
 	<entry name="AstraMilitarum/TankCommander:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:WireWeed#0" value="Hey, that wire's scratching the paintwork!"/>
+	<entry name="AstraMilitarum/TankCommander:WireWeed#0" value="Ei, esse arame está arranhando a pintura!"/>
 	<entry name="AstraMilitarum/TankCommander:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Glad to be beyond that fanatic's jurisdiction."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Feliz por estar além da jurisdição daquele fanático."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:Artefact#0" value="Dismantling tempting."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Artefact#0" value="Desmontagem tentadora."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:Attack#0" value="In combat."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Attack#0" value="Em combate."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:Broken#0" value="Flesh is weak, must retreat."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Broken#0" value="A carne é fraca, devo recuar."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:Cover#0" value="Enemy balistic hit likelihood heavily reduced."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Cover#0" value="Probabilidade de acerto balístico inimigo drasticamente reduzida."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:AstraMilitarum#0" value="Annoyances."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:AstraMilitarum#0" value="Aborrecimentos."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:Necrons#0" value="The forms of true Machine God devotees, with the souls of foul Xenos."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:Necrons#0" value="As formas de verdadeiros devotos do Deus-Máquina, com almas de Xenos imundos."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:Orks#0" value="Primitives. Keep them away from our sacred machines."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:Orks#0" value="Primitivos. Mantenham-nos longe de nossas máquinas sagradas."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:SpaceMarines#0" value="A pity."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:SpaceMarines#0" value="Uma pena."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/KastelanRobot#0" value="A sacred relic! Minimise damage to it."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/KastelanRobot#0" value="Uma relíquia sagrada! Minimize os danos a ela."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/TechpriestBetrayer#0" value="A heretek? Here. Unlikely."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/TechpriestBetrayer#0" value="Um heretek? Aqui. Improvável."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/TechpriestBetrayerCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:Hurt#0" value="Repairs needed."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Hurt#0" value="Reparos necessários."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#0" value="Applying sacred unguents."/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#1" value="Checking cogitators."/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#2" value="Performing machine rites."/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#3" value="Revitalising machine spirits."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#0" value="Aplicando unguentos sagrados."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#1" value="Verificando cogitadores."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#2" value="Realizando ritos das máquinas."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#3" value="Revitalizando espíritos das máquinas."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:Shaken#0" value="The Omnissiah is with me."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Shaken#0" value="O Omnissiah está comigo."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:Victory#0" value="Predictable."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Victory#0" value="Previsível."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:WireWeed#0" value="Biowire is such a joy. We must replicate it."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:WireWeed#0" value="Bioarame é uma alegria. Devemos replicá-lo."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:WireWeedCount" value="1"/>
 	<entry name="AstraMilitarum/TempestusScion" value="AstraMilitarum/Guardsman"/>
-	<entry name="AstraMilitarum/Thunderbolt:AlliedFaction:SpaceMarines#0" value="Something shiny down there!"/>
+	<entry name="AstraMilitarum/Thunderbolt:AlliedFaction:SpaceMarines#0" value="Algo brilhante lá embaixo!"/>
 	<entry name="AstraMilitarum/Thunderbolt:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Thunderbolt:AlliedUnit:AstraMilitarum/MarauderBomber#0" value="Us flyboys need to stick together!"/>
+	<entry name="AstraMilitarum/Thunderbolt:AlliedUnit:AstraMilitarum/MarauderBomber#0" value="Nós pilotos precisamos nos manter unidos!"/>
 	<entry name="AstraMilitarum/Thunderbolt:AlliedUnit:AstraMilitarum/MarauderBomberCount" value="1"/>
-	<entry name="AstraMilitarum/Thunderbolt:Artefact#0" value="Did anyone see what that was? Wow!"/>
+	<entry name="AstraMilitarum/Thunderbolt:Artefact#0" value="Alguém viu o que era aquilo? Uau!"/>
 	<entry name="AstraMilitarum/Thunderbolt:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/Thunderbolt:Attack#0" value="Short bursts only! Conserve ammo!"/>
+	<entry name="AstraMilitarum/Thunderbolt:Attack#0" value="Apenas rajadas curtas! Economize munição!"/>
 	<entry name="AstraMilitarum/Thunderbolt:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/Thunderbolt:Broken#0" value="Heading home."/>
+	<entry name="AstraMilitarum/Thunderbolt:Broken#0" value="Voltando para casa."/>
 	<entry name="AstraMilitarum/Thunderbolt:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Thunderbolt:Cover#0" value="Cloud cover only."/>
+	<entry name="AstraMilitarum/Thunderbolt:Cover#0" value="Apenas cobertura de nuvens."/>
 	<entry name="AstraMilitarum/Thunderbolt:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:AstraMilitarum#0" value="Traitor guard. A target-rich environment."/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:AstraMilitarum#0" value="Guarda traidora. Um ambiente rico em alvos."/>
 	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:Orks#0" value="Orks. Ain't happy less they're landing too fast with their head on fire."/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:Orks#0" value="Orks. Só ficam felizes quando pousam muito rápido com a cabeça em chamas."/>
 	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:SpaceMarines#0" value="Marines. Spend more time decorating their armour than fighting."/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:SpaceMarines#0" value="Marines. Gastam mais tempo decorando suas armaduras do que lutando."/>
 	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Thunderbolt:EnemyUnit:Neutral/Psychneuein#0" value="Anyone fancy buzzing a big bee?"/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyUnit:Neutral/Psychneuein#0" value="Alguém quer zumbir uma abelha grande?"/>
 	<entry name="AstraMilitarum/Thunderbolt:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
-	<entry name="AstraMilitarum/Thunderbolt:Hurt#0" value="Hnn, no points for second place."/>
+	<entry name="AstraMilitarum/Thunderbolt:Hurt#0" value="Hnn, não há pontos para segundo lugar."/>
 	<entry name="AstraMilitarum/Thunderbolt:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Thunderbolt:Idle#0" value="I feel the desire, to fire."/>
-	<entry name="AstraMilitarum/Thunderbolt:Idle#1" value="No time to think up here."/>
-	<entry name="AstraMilitarum/Thunderbolt:Idle#2" value="This planet's just a walk in the park."/>
-	<entry name="AstraMilitarum/Thunderbolt:Idle#3" value="You can be my wingman, any time."/>
+	<entry name="AstraMilitarum/Thunderbolt:Idle#0" value="Sinto o desejo de atirar."/>
+	<entry name="AstraMilitarum/Thunderbolt:Idle#1" value="Não há tempo para pensar aqui em cima."/>
+	<entry name="AstraMilitarum/Thunderbolt:Idle#2" value="Este planeta é apenas um passeio no parque."/>
+	<entry name="AstraMilitarum/Thunderbolt:Idle#3" value="Você pode ser meu companheiro de voo, a qualquer hora."/>
 	<entry name="AstraMilitarum/Thunderbolt:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/Thunderbolt:Shaken#0" value="Let's turn and burn!"/>
+	<entry name="AstraMilitarum/Thunderbolt:Shaken#0" value="Vamos virar e queimar!"/>
 	<entry name="AstraMilitarum/Thunderbolt:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Thunderbolt:Victory#0" value="Victory takes a lot more than fancy flying."/>
+	<entry name="AstraMilitarum/Thunderbolt:Victory#0" value="Vitória exige muito mais que voo elegante."/>
 	<entry name="AstraMilitarum/Thunderbolt:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/Valkyrie:Artefact#0" value="No, seriously, I can't pick that up."/>
+	<entry name="AstraMilitarum/Valkyrie:Artefact#0" value="Não, sério, não posso pegar isso."/>
 	<entry name="AstraMilitarum/Valkyrie:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/Valkyrie:Attack#0" value="Extracting under fire."/>
+	<entry name="AstraMilitarum/Valkyrie:Attack#0" value="Extraindo sob fogo."/>
 	<entry name="AstraMilitarum/Valkyrie:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/Valkyrie:Broken#0" value="We're meant to be in and out fast!"/>
+	<entry name="AstraMilitarum/Valkyrie:Broken#0" value="Devemos entrar e sair rápido!"/>
 	<entry name="AstraMilitarum/Valkyrie:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:AstraMilitarum#0" value="Grunts in the field."/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:AstraMilitarum#0" value="Soldados no campo."/>
 	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:Necrons#0" value="Tin men coming up fast."/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:Necrons#0" value="Homens de lata se aproximando rápido."/>
 	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:Orks#0" value="Greenskins in the LZ"/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:Orks#0" value="Peles-verdes na ZA"/>
 	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:SpaceMarines#0" value="I never signed up to fight Marines!"/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:SpaceMarines#0" value="Nunca me alistei para lutar contra Marines!"/>
 	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Valkyrie:Hurt#0" value="It's hot here, repeat hot!"/>
+	<entry name="AstraMilitarum/Valkyrie:Hurt#0" value="Está quente aqui, repito quente!"/>
 	<entry name="AstraMilitarum/Valkyrie:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Valkyrie:Idle#0" value="Can we requisition speakers?"/>
-	<entry name="AstraMilitarum/Valkyrie:Idle#1" value="Damn, where's the action at?"/>
-	<entry name="AstraMilitarum/Valkyrie:Idle#2" value="It's the quiet that kills you."/>
-	<entry name="AstraMilitarum/Valkyrie:Idle#3" value="We don't stop until we drop."/>
+	<entry name="AstraMilitarum/Valkyrie:Idle#0" value="Podemos requisitar alto-falantes?"/>
+	<entry name="AstraMilitarum/Valkyrie:Idle#1" value="Droga, onde está a ação?"/>
+	<entry name="AstraMilitarum/Valkyrie:Idle#2" value="É o silêncio que te mata."/>
+	<entry name="AstraMilitarum/Valkyrie:Idle#3" value="Não paramos até cairmos."/>
 	<entry name="AstraMilitarum/Valkyrie:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/Valkyrie:Shaken#0" value="We're not frontline! Get us out!"/>
+	<entry name="AstraMilitarum/Valkyrie:Shaken#0" value="Não somos linha de frente! Nos tirem daqui!"/>
 	<entry name="AstraMilitarum/Valkyrie:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Valkyrie:Victory#0" value="Enemy down, extraction please."/>
+	<entry name="AstraMilitarum/Valkyrie:Victory#0" value="Inimigo abatido, extração por favor."/>
 	<entry name="AstraMilitarum/Valkyrie:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedFaction:SpaceMarines#0" value="We feel… reassured."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedFaction:SpaceMarines#0" value="Sentimos... tranquilidade."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedUnit:AstraMilitarum/PrimarisPsyker#0" value="Our brother from the Black Ships…"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedUnit:AstraMilitarum/PrimarisPsyker#0" value="Nosso irmão das Naves Negras..."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedUnit:AstraMilitarum/PrimarisPsykerCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:Artefact#0" value="Unholy of holies."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Artefact#0" value="Ímpio dos ímpios."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#0" value="Accelerando now, together we tear them."/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#1" value="Here is a codetta for their sad lives."/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#2" value="And, as one, we caper."/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#3" value="A simple Soul Storm to sing them apart."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#0" value="Accelerando agora, juntos os despedaçamos."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#1" value="Aqui está uma codeta para suas vidas tristes."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#2" value="E, como um só, saltitamos."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#3" value="Uma simples Tempestade da Alma para cantá-los em pedaços."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:AttackCount" value="4"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:Broken#0" value="We are sundered, we are lost."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Broken#0" value="Estamos separados, estamos perdidos."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:Cover#0" value="Shielded from the eye, not the mind."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Cover#0" value="Protegidos do olho, não da mente."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:AstraMilitarum#0" value="Kith and kin, but lost to sin."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:AstraMilitarum#0" value="Parentes e conhecidos, mas perdidos para o pecado."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:Necrons#0" value="Nothing, there is nothing there."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:Necrons#0" value="Nada, não há nada lá."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:Orks#0" value="Another collective will… alien, though."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:Orks#0" value="Outra vontade coletiva... alienígena, porém."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:SpaceMarines#0" value="The Emperor's own misbegotten sons…"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:SpaceMarines#0" value="Os próprios filhos bastardos do Imperador..."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyUnit:Neutral/Psychneuein#0" value="The avatars of fecundity, waiting to birth more horrors."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyUnit:Neutral/Psychneuein#0" value="Os avatares da fecundidade, esperando para gerar mais horrores."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:Hurt#0" value="Dissonance comes, we drift apart."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Hurt#0" value="A dissonância vem, nos afastamos."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#0" value="Just beyond sight, they are. The warp."/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#1" value="So far from His light."/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#2" value="We survived the Black Ships, we can survive this."/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#3" value="The planet whispers to us."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#0" value="Logo além da vista, eles estão. A Warp."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#1" value="Tão longe de Sua luz."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#2" value="Sobrevivemos às Naves Negras, podemos sobreviver a isso."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#3" value="O planeta sussurra para nós."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:Shaken#0" value="Our harmony collapses, our requiem nears."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Shaken#0" value="Nossa harmonia desmorona, nosso réquiem se aproxima."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:Victory#0" value="What elegy for those who die as cattle?"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Victory#0" value="Que elegia para aqueles que morrem como gado?"/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:WireWeed#0" value="Silver serpents entwine us, prick us."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:WireWeed#0" value="Serpentes prateadas nos entrelaçam, nos picam."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:WireWeedCount" value="1"/>
-	<entry name="Necrons/CanoptekScarab:Attack#0" value="Combat protocol"/>
+	<entry name="Necrons/CanoptekScarab:Attack#0" value="Protocolo de combate"/>
 	<entry name="Necrons/CanoptekScarab:AttackCount" value="1"/>
-	<entry name="Necrons/CanoptekScarab:Broken#0" value="Damage control"/>
+	<entry name="Necrons/CanoptekScarab:Broken#0" value="Controle de danos"/>
 	<entry name="Necrons/CanoptekScarab:BrokenCount" value="1"/>
-	<entry name="Necrons/CanoptekScarab:Hurt#0" value="Damage sustained."/>
+	<entry name="Necrons/CanoptekScarab:Hurt#0" value="Danos sofridos."/>
 	<entry name="Necrons/CanoptekScarab:HurtCount" value="1"/>
-	<entry name="Necrons/CanoptekScarab:Idle#0" value="Maintenance protocol."/>
-	<entry name="Necrons/CanoptekScarab:Idle#1" value="Minimising power consumption."/>
-	<entry name="Necrons/CanoptekScarab:Idle#2" value="Tending the damaged."/>
-	<entry name="Necrons/CanoptekScarab:Idle#3" value="We have waited aeons. We will wait… more."/>
+	<entry name="Necrons/CanoptekScarab:Idle#0" value="Protocolo de manutenção."/>
+	<entry name="Necrons/CanoptekScarab:Idle#1" value="Minimizando consumo de energia."/>
+	<entry name="Necrons/CanoptekScarab:Idle#2" value="Cuidando dos danificados."/>
+	<entry name="Necrons/CanoptekScarab:Idle#3" value="Esperamos éons. Esperaremos... mais."/>
 	<entry name="Necrons/CanoptekScarab:IdleCount" value="4"/>
-	<entry name="Necrons/CanoptekScarab:Shaken#0" value="Evasion advised."/>
+	<entry name="Necrons/CanoptekScarab:Shaken#0" value="Evasão recomendada."/>
 	<entry name="Necrons/CanoptekScarab:ShakenCount" value="1"/>
-	<entry name="Necrons/CanoptekScarab:Victory#0" value="Invader deterred."/>
+	<entry name="Necrons/CanoptekScarab:Victory#0" value="Invasor dissuadido."/>
 	<entry name="Necrons/CanoptekScarab:VictoryCount" value="1"/>
 	<entry name="Necrons/CanoptekSpyder" value="Necrons/CanoptekScarab"/>
-	<entry name="Necrons/Cryptek:Attack#0" value="Die, cattle."/>
-	<entry name="Necrons/Cryptek:Attack#1" value="Physics itself betrays you."/>
-	<entry name="Necrons/Cryptek:Attack#2" value="You will never understand what killed you."/>
+	<entry name="Necrons/Cryptek:Attack#0" value="Morram, gado."/>
+	<entry name="Necrons/Cryptek:Attack#1" value="A própria física os trai."/>
+	<entry name="Necrons/Cryptek:Attack#2" value="Vocês nunca entenderão o que os matou."/>
 	<entry name="Necrons/Cryptek:AttackCount" value="3"/>
-	<entry name="Necrons/Cryptek:Broken#0" value="Aeons of learning, and I have at last learned to fear."/>
+	<entry name="Necrons/Cryptek:Broken#0" value="Éons de aprendizado, e finalmente aprendi a temer."/>
 	<entry name="Necrons/Cryptek:BrokenCount" value="1"/>
-	<entry name="Necrons/Cryptek:EnemyFaction:AstraMilitarum#0" value="Slave races of the Old enemy."/>
+	<entry name="Necrons/Cryptek:EnemyFaction:AstraMilitarum#0" value="Raças escravas do Antigo inimigo."/>
 	<entry name="Necrons/Cryptek:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Necrons/Cryptek:EnemyFaction:Necrons#0" value="Another court? Perhaps they need my services…"/>
+	<entry name="Necrons/Cryptek:EnemyFaction:Necrons#0" value="Outra corte? Talvez precisem dos meus serviços..."/>
 	<entry name="Necrons/Cryptek:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Necrons/Cryptek:EnemyFaction:Orks#0" value="Flesh, weaponised. Admirable."/>
+	<entry name="Necrons/Cryptek:EnemyFaction:Orks#0" value="Carne, armada. Admirável."/>
 	<entry name="Necrons/Cryptek:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Necrons/Cryptek:EnemyFaction:SpaceMarines#0" value="Self-improved slaves. Dissection might teach us much."/>
+	<entry name="Necrons/Cryptek:EnemyFaction:SpaceMarines#0" value="Escravos auto-aprimorados. A disseção pode nos ensinar muito."/>
 	<entry name="Necrons/Cryptek:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/Cryptek:Hurt#0" value="Fascinating, they've managed to injure me."/>
+	<entry name="Necrons/Cryptek:Hurt#0" value="Fascinante, conseguiram me ferir."/>
 	<entry name="Necrons/Cryptek:HurtCount" value="1"/>
-	<entry name="Necrons/Cryptek:Idle#0" value="Dissection or vivisection? Ah, an eternal question."/>
-	<entry name="Necrons/Cryptek:Idle#1" value="Do you remember… dreams? I do."/>
-	<entry name="Necrons/Cryptek:Idle#2" value="I will split atoms until I am needed."/>
-	<entry name="Necrons/Cryptek:Idle#3" value="So much to learn, yet here I sit."/>
+	<entry name="Necrons/Cryptek:Idle#0" value="Disseção ou vivisseção? Ah, uma questão eterna."/>
+	<entry name="Necrons/Cryptek:Idle#1" value="Você se lembra... de sonhos? Eu me lembro."/>
+	<entry name="Necrons/Cryptek:Idle#2" value="Dividirei átomos até ser necessário."/>
+	<entry name="Necrons/Cryptek:Idle#3" value="Tanto para aprender, mas aqui estou sentado."/>
 	<entry name="Necrons/Cryptek:IdleCount" value="4"/>
-	<entry name="Necrons/Cryptek:Shaken#0" value="Perhaps there is something to the Old One's creations."/>
+	<entry name="Necrons/Cryptek:Shaken#0" value="Talvez haja algo nas criações dos Antigos."/>
 	<entry name="Necrons/Cryptek:ShakenCount" value="1"/>
-	<entry name="Necrons/Cryptek:Victory#0" value="And so ends all life that challenges us."/>
+	<entry name="Necrons/Cryptek:Victory#0" value="E assim termina toda vida que nos desafia."/>
 	<entry name="Necrons/Cryptek:VictoryCount" value="1"/>
 	<entry name="Necrons/DestroyerLord" value="Necrons/Lord"/>
-	<entry name="Necrons/DoomScythe:Attack#0" value="Descending on the chattels."/>
+	<entry name="Necrons/DoomScythe:Attack#0" value="Descendo sobre os bens móveis."/>
 	<entry name="Necrons/DoomScythe:AttackCount" value="1"/>
-	<entry name="Necrons/DoomScythe:Broken#0" value="We must depart."/>
+	<entry name="Necrons/DoomScythe:Broken#0" value="Devemos partir."/>
 	<entry name="Necrons/DoomScythe:BrokenCount" value="1"/>
-	<entry name="Necrons/DoomScythe:Hurt#0" value="They… dare?"/>
+	<entry name="Necrons/DoomScythe:Hurt#0" value="Eles... ousam?"/>
 	<entry name="Necrons/DoomScythe:HurtCount" value="1"/>
-	<entry name="Necrons/DoomScythe:Idle#0" value="Circling."/>
-	<entry name="Necrons/DoomScythe:Idle#1" value="Manouevres."/>
-	<entry name="Necrons/DoomScythe:Idle#2" value="Watching horizon."/>
-	<entry name="Necrons/DoomScythe:Idle#3" value="Focused."/>
+	<entry name="Necrons/DoomScythe:Idle#0" value="Circulando."/>
+	<entry name="Necrons/DoomScythe:Idle#1" value="Manobras."/>
+	<entry name="Necrons/DoomScythe:Idle#2" value="Observando horizonte."/>
+	<entry name="Necrons/DoomScythe:Idle#3" value="Focado."/>
 	<entry name="Necrons/DoomScythe:IdleCount" value="4"/>
-	<entry name="Necrons/DoomScythe:Shaken#0" value="Damaged?"/>
+	<entry name="Necrons/DoomScythe:Shaken#0" value="Danificado?"/>
 	<entry name="Necrons/DoomScythe:ShakenCount" value="1"/>
-	<entry name="Necrons/DoomScythe:Victory#0" value="Humbling our foes."/>
+	<entry name="Necrons/DoomScythe:Victory#0" value="Humilhando nossos inimigos."/>
 	<entry name="Necrons/DoomScythe:VictoryCount" value="1"/>
 	<entry name="Necrons/DoomsdayArk" value="Necrons/AnnihilationBarge"/>
 	<entry name="Necrons/Headquarters" value="Necrons/Monolith"/>
-	<entry name="Necrons/HeavyDestroyer:Attack#0" value="Life is our foe!"/>
+	<entry name="Necrons/HeavyDestroyer:Attack#0" value="A vida é nosso inimigo!"/>
 	<entry name="Necrons/HeavyDestroyer:AttackCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:Broken#0" value="Death is our victory!"/>
+	<entry name="Necrons/HeavyDestroyer:Broken#0" value="A morte é nossa vitória!"/>
 	<entry name="Necrons/HeavyDestroyer:BrokenCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:EnemyFaction:AstraMilitarum#0" value="Crush the weak flesh!"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:AstraMilitarum#0" value="Esmaguem a carne fraca!"/>
 	<entry name="Necrons/HeavyDestroyer:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:EnemyFaction:Necrons#0" value="Ourselves, a proud foe!"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:Necrons#0" value="Nós mesmos, um inimigo orgulhoso!"/>
 	<entry name="Necrons/HeavyDestroyer:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:EnemyFaction:Orks#0" value="Purge the galaxy of the fungal filth!"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:Orks#0" value="Purguem a galáxia da imundice fúngica!"/>
 	<entry name="Necrons/HeavyDestroyer:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:EnemyFaction:SpaceMarines#0" value="Pawns of the God-Emperor!"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:SpaceMarines#0" value="Peões do Deus-Imperador!"/>
 	<entry name="Necrons/HeavyDestroyer:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:Hurt#0" value="Pain drives us on!"/>
+	<entry name="Necrons/HeavyDestroyer:Hurt#0" value="A dor nos impulsiona!"/>
 	<entry name="Necrons/HeavyDestroyer:HurtCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:Idle#0" value="We are nihilists!"/>
-	<entry name="Necrons/HeavyDestroyer:Idle#1" value="We hunger!"/>
-	<entry name="Necrons/HeavyDestroyer:Idle#2" value="We must improve, to destroy!"/>
-	<entry name="Necrons/HeavyDestroyer:Idle#3" value="Why are we still? Why do we not kill?!"/>
+	<entry name="Necrons/HeavyDestroyer:Idle#0" value="Somos niilistas!"/>
+	<entry name="Necrons/HeavyDestroyer:Idle#1" value="Temos fome!"/>
+	<entry name="Necrons/HeavyDestroyer:Idle#2" value="Devemos melhorar, para destruir!"/>
+	<entry name="Necrons/HeavyDestroyer:Idle#3" value="Por que estamos parados? Por que não matamos?!"/>
 	<entry name="Necrons/HeavyDestroyer:IdleCount" value="4"/>
-	<entry name="Necrons/HeavyDestroyer:Shaken#0" value="Why do they not die faster?"/>
+	<entry name="Necrons/HeavyDestroyer:Shaken#0" value="Por que eles não morrem mais rápido?"/>
 	<entry name="Necrons/HeavyDestroyer:ShakenCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:Victory#0" value="They die! It is not enough!"/>
+	<entry name="Necrons/HeavyDestroyer:Victory#0" value="Eles morrem! Não é suficiente!"/>
 	<entry name="Necrons/HeavyDestroyer:VictoryCount" value="1"/>
 	<entry name="Necrons/Immortal" value="Necrons/Warrior"/>
-	<entry name="Necrons/Lord:Attack#0" value="Feel the undying force of the Necrons!"/>
-	<entry name="Necrons/Lord:Attack#1" value="Perish proudly at my hands."/>
-	<entry name="Necrons/Lord:Attack#2" value="Who dares challenge me?"/>
-	<entry name="Necrons/Lord:Attack#3" value="You will learn obedience!"/>
+	<entry name="Necrons/Lord:Attack#0" value="Sintam a força imortal dos Necrons!"/>
+	<entry name="Necrons/Lord:Attack#1" value="Pereçam orgulhosamente em minhas mãos."/>
+	<entry name="Necrons/Lord:Attack#2" value="Quem ousa me desafiar?"/>
+	<entry name="Necrons/Lord:Attack#3" value="Vocês aprenderão obediência!"/>
 	<entry name="Necrons/Lord:AttackCount" value="4"/>
-	<entry name="Necrons/Lord:Broken#0" value="Where are my Immortals? My guards?"/>
+	<entry name="Necrons/Lord:Broken#0" value="Onde estão meus Imortais? Meus guardas?"/>
 	<entry name="Necrons/Lord:BrokenCount" value="1"/>
-	<entry name="Necrons/Lord:EnemyFaction:AstraMilitarum#0" value="Mayflies, destined to live but a day."/>
+	<entry name="Necrons/Lord:EnemyFaction:AstraMilitarum#0" value="Efêmeras, destinadas a viver apenas um dia."/>
 	<entry name="Necrons/Lord:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Necrons/Lord:EnemyFaction:Necrons#0" value="Iniquity! Rivals, on my Crownworld?!"/>
+	<entry name="Necrons/Lord:EnemyFaction:Necrons#0" value="Iniquidade! Rivais, no meu Mundo-Coroa?!"/>
 	<entry name="Necrons/Lord:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Necrons/Lord:EnemyFaction:Orks#0" value="Such brutes! And, yet they rule my galaxy."/>
+	<entry name="Necrons/Lord:EnemyFaction:Orks#0" value="Tais brutos! E, ainda assim, governam minha galáxia."/>
 	<entry name="Necrons/Lord:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Necrons/Lord:EnemyFaction:SpaceMarines#0" value="So wise, so young. They will not live long."/>
+	<entry name="Necrons/Lord:EnemyFaction:SpaceMarines#0" value="Tão sábios, tão jovens. Não viverão muito."/>
 	<entry name="Necrons/Lord:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/Lord:Hurt#0" value="They have singed my cloak? Destroy them!"/>
+	<entry name="Necrons/Lord:Hurt#0" value="Eles chamuscaram minha capa? Destruam-nos!"/>
 	<entry name="Necrons/Lord:HurtCount" value="1"/>
-	<entry name="Necrons/Lord:Idle#0" value="Conscience is a mere word, to keep the strong restrained."/>
-	<entry name="Necrons/Lord:Idle#1" value="The farseers, I shall kill them last."/>
-	<entry name="Necrons/Lord:Idle#2" value="What shall I do first, when we rule this world?"/>
+	<entry name="Necrons/Lord:Idle#0" value="Consciência é apenas uma palavra, para manter os fortes contidos."/>
+	<entry name="Necrons/Lord:Idle#1" value="Os videntes, eu os matarei por último."/>
+	<entry name="Necrons/Lord:Idle#2" value="O que farei primeiro, quando governarmos este mundo?"/>
 	<entry name="Necrons/Lord:IdleCount" value="3"/>
-	<entry name="Necrons/Lord:Shaken#0" value="Death can set no mark on me."/>
-	<entry name="Necrons/Lord:Shaken#1" value="The Old Ones have trained them well."/>
+	<entry name="Necrons/Lord:Shaken#0" value="A morte não pode deixar marca em mim."/>
+	<entry name="Necrons/Lord:Shaken#1" value="Os Antigos os treinaram bem."/>
 	<entry name="Necrons/Lord:ShakenCount" value="2"/>
-	<entry name="Necrons/Lord:Victory#0" value="Despair and die."/>
+	<entry name="Necrons/Lord:Victory#0" value="Desespere e morra."/>
 	<entry name="Necrons/Lord:VictoryCount" value="1"/>
-	<entry name="Necrons/Monolith:Attack#0" value="Particle Whip deployed."/>
+	<entry name="Necrons/Monolith:Attack#0" value="Chicote de Partículas implantado."/>
 	<entry name="Necrons/Monolith:AttackCount" value="1"/>
-	<entry name="Necrons/Monolith:Broken#0" value="Retreating… slowly."/>
+	<entry name="Necrons/Monolith:Broken#0" value="Recuando... lentamente."/>
 	<entry name="Necrons/Monolith:BrokenCount" value="1"/>
-	<entry name="Necrons/Monolith:EnemyFaction:AstraMilitarum#0" value="Humans sighted."/>
+	<entry name="Necrons/Monolith:EnemyFaction:AstraMilitarum#0" value="Humanos avistados."/>
 	<entry name="Necrons/Monolith:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Necrons/Monolith:EnemyFaction:Necrons#0" value="Enemy court on-planet."/>
+	<entry name="Necrons/Monolith:EnemyFaction:Necrons#0" value="Corte inimiga no planeta."/>
 	<entry name="Necrons/Monolith:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Necrons/Monolith:EnemyFaction:Orks#0" value="Orks sighted."/>
+	<entry name="Necrons/Monolith:EnemyFaction:Orks#0" value="Orks avistados."/>
 	<entry name="Necrons/Monolith:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Necrons/Monolith:EnemyFaction:SpaceMarines#0" value="Humans sighted. Augmented."/>
+	<entry name="Necrons/Monolith:EnemyFaction:SpaceMarines#0" value="Humanos avistados. Aumentados."/>
 	<entry name="Necrons/Monolith:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/Monolith:Hurt#0" value="Armour pierced, crew damaged."/>
+	<entry name="Necrons/Monolith:Hurt#0" value="Blindagem perfurada, tripulação danificada."/>
 	<entry name="Necrons/Monolith:HurtCount" value="1"/>
-	<entry name="Necrons/Monolith:Idle#0" value="Channeling Eternity Gate."/>
-	<entry name="Necrons/Monolith:Idle#1" value="Generating Inscrutable Secrets."/>
-	<entry name="Necrons/Monolith:Idle#2" value="Decomposing Singular Values."/>
-	<entry name="Necrons/Monolith:Idle#3" value="Reconstructing Fundamental Particles."/>
-	<entry name="Necrons/Monolith:Idle#4" value="Debanking Ark Memories."/>
-	<entry name="Necrons/Monolith:Idle#5" value="Reticulating Splines."/>
+	<entry name="Necrons/Monolith:Idle#0" value="Canalizando Portal da Eternidade."/>
+	<entry name="Necrons/Monolith:Idle#1" value="Gerando Segredos Inescrutáveis."/>
+	<entry name="Necrons/Monolith:Idle#2" value="Decompondo Valores Singulares."/>
+	<entry name="Necrons/Monolith:Idle#3" value="Reconstruindo Partículas Fundamentais."/>
+	<entry name="Necrons/Monolith:Idle#4" value="Desbancando Memórias da Arca."/>
+	<entry name="Necrons/Monolith:Idle#5" value="Reticulando Splines."/>
 	<entry name="Necrons/Monolith:IdleCount" value="6"/>
-	<entry name="Necrons/Monolith:Shaken#0" value="Under attack. Compromised."/>
+	<entry name="Necrons/Monolith:Shaken#0" value="Sob ataque. Comprometido."/>
 	<entry name="Necrons/Monolith:ShakenCount" value="1"/>
 	<entry name="Necrons/Monolith:Victory#0" value="Eliminated foe. As expected."/>
 	<entry name="Necrons/Monolith:VictoryCount" value="1"/>
