@@ -122,12 +122,12 @@
 	<entry name="AdeptusMechanicus/TechAdept" value="Tecno-Adepto"/> <!-- Tech-Priest Manipulus ability -->
 	<entry name="AdeptusMechanicus/TechAdeptDescription" value="<string name='Actions/AdeptusMechanicus/MasterOfMachinesDescription'/>"/>
 	<entry name="AdeptusMechanicus/TechAdeptFlavor" value="Reparar máquinas de guerra danificadas na cruzada é uma tarefa sagrada."/>
-	<entry name="AdeptusMechanicus/VoicesInTheCode" value="Voices in the Code"/>
-	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Increases the morale loss of adjacent enemy units."/>
-	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="Closing with a Sicarian Infiltrator is a mistake—their augmented craniums broadcast a brutally disruptive audiovisual assault, causing enemies to fall deafened and blinded; battles are often decided before even a single kill is confirmed."/>
-	<entry name="AdeptusMechanicus/WrathOfMars" value="Wrath of Mars"/> <!-- Tech-Priest Dominus ability -->
-	<entry name="AdeptusMechanicus/WrathOfMarsDescription" value="Increases the damage of the Tech-Priest Dominus."/>
-	<entry name="AdeptusMechanicus/WrathOfMarsFlavor" value="None can smite the blasphemer like those from Mars, for theirs is the most righteous of zeal. All praise the glory of the Machine God!"/>
+	<entry name="AdeptusMechanicus/VoicesInTheCode" value="Vozes no Código"/>
+	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Aumenta a perda de moral das unidades inimigas adjacentes."/>
+	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="Aproximar-se de um Infiltrador Sicariano é um erro — seus crânios aumentados transmitem um ataque audiovisual brutalmente disruptivo, fazendo com que os inimigos caiam ensurdecidos e cegos; as batalhas são frequentemente decididas antes mesmo de uma única morte ser confirmada."/>
+	<entry name="AdeptusMechanicus/WrathOfMars" value="Ira de Marte"/> <!-- Tech-Priest Dominus ability -->
+	<entry name="AdeptusMechanicus/WrathOfMarsDescription" value="Aumenta o dano do Tecno-Sacerdote Dominus."/>
+	<entry name="AdeptusMechanicus/WrathOfMarsFlavor" value="Ninguém pode punir o blasfemo como aqueles de Marte, pois o zelo deles é o mais justo. Todos louvem a glória do Deus Máquina!"/>
 	<entry name="Agile" value="Agile"/>
 	<entry name="AgileDescription" value="Increases the movement, but decreases the attacks."/>
 	<entry name="AgileFlavor" value="Size doesn’t preclude speed. Look at the incredible manoeuvrability of the Imperium’s Lightning Fighter. Or take the Tyranid’s Hierodule. Instead of lumbering forward like a lumpen Ogryn, their focus and grace is closer to that of a Harlequin. A hungry Harlequin the size of a house, admittedly, with acid drool and scytheblade arms the length of a Land Raider, that is. But elegant all the same."/>
