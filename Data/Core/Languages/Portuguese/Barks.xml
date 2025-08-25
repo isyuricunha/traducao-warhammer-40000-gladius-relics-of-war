@@ -2007,208 +2007,208 @@
 	<entry name="Tau/Commander:BrokenCount" value="1"/>
 	<entry name="Tau/Commander:Hurt#0" value="Armadura de batalha comprometida."/>
 	<entry name="Tau/Commander:HurtCount" value="1"/>
-	<entry name="Tau/Commander:Idle#0" value="Use me, for the Greater Good."/>
-	<entry name="Tau/Commander:Idle#1" value="Always thinking one step ahead."/>
-	<entry name="Tau/Commander:Idle#2" value="What is a single life to the Greater Good?"/>
+	<entry name="Tau/Commander:Idle#0" value="Use-me, pelo Bem Maior."/>
+	<entry name="Tau/Commander:Idle#1" value="Sempre pensando um passo à frente."/>
+	<entry name="Tau/Commander:Idle#2" value="O que é uma única vida para o Bem Maior?"/>
 	<entry name="Tau/Commander:IdleCount" value="3"/>
-	<entry name="Tau/Commander:Shaken#0" value="I will not falter."/>
+	<entry name="Tau/Commander:Shaken#0" value="Não vacilarei."/>
 	<entry name="Tau/Commander:ShakenCount" value="1"/>
-	<entry name="Tau/Commander:Victory#0" value="The Fire Caste leads."/>
+	<entry name="Tau/Commander:Victory#0" value="A Casta do Fogo lidera."/>
 	<entry name="Tau/Commander:VictoryCount" value="1"/>
-	<entry name="Tau/CrisisBattlesuit:Attack#0" value="Battlesuits in action."/>
-	<entry name="Tau/CrisisBattlesuit:Attack#1" value="Firing pulse weaponry."/>
-	<entry name="Tau/CrisisBattlesuit:Attack#2" value="Enabling countermeasures."/>
-	<entry name="Tau/CrisisBattlesuit:Attack#3" value="You can count on us!"/>
+	<entry name="Tau/CrisisBattlesuit:Attack#0" value="Armaduras de batalha em ação."/>
+	<entry name="Tau/CrisisBattlesuit:Attack#1" value="Disparando armamento de pulso."/>
+	<entry name="Tau/CrisisBattlesuit:Attack#2" value="Ativando contramedidas."/>
+	<entry name="Tau/CrisisBattlesuit:Attack#3" value="Podem contar conosco!"/>
 	<entry name="Tau/CrisisBattlesuit:AttackCount" value="4"/>
-	<entry name="Tau/CrisisBattlesuit:Broken#0" value="Elite… retreat."/>
+	<entry name="Tau/CrisisBattlesuit:Broken#0" value="Elite... recuar."/>
 	<entry name="Tau/CrisisBattlesuit:BrokenCount" value="1"/>
-	<entry name="Tau/CrisisBattlesuit:Hurt#0" value="We're losing systems!"/>
+	<entry name="Tau/CrisisBattlesuit:Hurt#0" value="Estamos perdendo sistemas!"/>
 	<entry name="Tau/CrisisBattlesuit:HurtCount" value="1"/>
-	<entry name="Tau/CrisisBattlesuit:Idle#0" value="Always ready."/>
-	<entry name="Tau/CrisisBattlesuit:Idle#1" value="We'll get it done."/>
-	<entry name="Tau/CrisisBattlesuit:Idle#2" value="What do the Ethereals will?"/>
+	<entry name="Tau/CrisisBattlesuit:Idle#0" value="Sempre prontos."/>
+	<entry name="Tau/CrisisBattlesuit:Idle#1" value="Faremos isso."/>
+	<entry name="Tau/CrisisBattlesuit:Idle#2" value="O que desejam os Etéreos?"/>
 	<entry name="Tau/CrisisBattlesuit:IdleCount" value="3"/>
-	<entry name="Tau/CrisisBattlesuit:Shaken#0" value="We cannot hold this position."/>
+	<entry name="Tau/CrisisBattlesuit:Shaken#0" value="Não podemos manter esta posição."/>
 	<entry name="Tau/CrisisBattlesuit:ShakenCount" value="1"/>
-	<entry name="Tau/CrisisBattlesuit:Victory#0" value="That's why you send Battlesuits."/>
-	<entry name="Tau/CrisisBattlesuit:Victory#1" value="Killing blow, delivered."/>
-	<entry name="Tau/CrisisBattlesuit:Victory#2" value="Do they have anything… tougher?"/>
-	<entry name="Tau/CrisisBattlesuit:Victory#3" value="Mark another one up to us, shas'el."/>
+	<entry name="Tau/CrisisBattlesuit:Victory#0" value="Por isso vocês enviam Armaduras de Batalha."/>
+	<entry name="Tau/CrisisBattlesuit:Victory#1" value="Golpe mortal, entregue."/>
+	<entry name="Tau/CrisisBattlesuit:Victory#2" value="Eles têm algo... mais resistente?"/>
+	<entry name="Tau/CrisisBattlesuit:Victory#3" value="Marquem mais um para nós, shas'el."/>
 	<entry name="Tau/CrisisBattlesuit:VictoryCount" value="4"/>
-	<entry name="Tau/Devilfish:Attack#0" value="Moving to the enemy."/>
-	<entry name="Tau/Devilfish:Attack#1" value="Teaching our foes to fear all T'au."/>
-	<entry name="Tau/Devilfish:Attack#2" value="Feel my fury!"/>
-	<entry name="Tau/Devilfish:Attack#3" value="Firing all weapons."/>
+	<entry name="Tau/Devilfish:Attack#0" value="Movendo em direção ao inimigo."/>
+	<entry name="Tau/Devilfish:Attack#1" value="Ensinando nossos inimigos a temer todos os T'au."/>
+	<entry name="Tau/Devilfish:Attack#2" value="Sintam minha fúria!"/>
+	<entry name="Tau/Devilfish:Attack#3" value="Disparando todas as armas."/>
 	<entry name="Tau/Devilfish:AttackCount" value="4"/>
-	<entry name="Tau/Devilfish:Broken#0" value="We're in too deep!"/>
+	<entry name="Tau/Devilfish:Broken#0" value="Estamos muito expostos!"/>
 	<entry name="Tau/Devilfish:BrokenCount" value="1"/>
-	<entry name="Tau/Devilfish:Hurt#0" value="Can't take many more strikes like that."/>
+	<entry name="Tau/Devilfish:Hurt#0" value="Não posso aguentar muitos golpes assim."/>
 	<entry name="Tau/Devilfish:HurtCount" value="1"/>
-	<entry name="Tau/Devilfish:Idle#0" value="Ready to move on your command."/>
-	<entry name="Tau/Devilfish:Idle#1" value="Just waiting around."/>
-	<entry name="Tau/Devilfish:Idle#2" value="Checking chips—this one's fried."/>
+	<entry name="Tau/Devilfish:Idle#0" value="Pronto para mover sob suas ordens."/>
+	<entry name="Tau/Devilfish:Idle#1" value="Apenas esperando."/>
+	<entry name="Tau/Devilfish:Idle#2" value="Verificando chips—este está queimado."/>
 	<entry name="Tau/Devilfish:IdleCount" value="3"/>
-	<entry name="Tau/Devilfish:Shaken#0" value="They're turning the tide!"/>
+	<entry name="Tau/Devilfish:Shaken#0" value="Eles estão virando o jogo!"/>
 	<entry name="Tau/Devilfish:ShakenCount" value="1"/>
-	<entry name="Tau/Devilfish:Victory#0" value="Transporting them to a better place."/>
-	<entry name="Tau/Devilfish:Victory#1" value="Shipping out."/>
+	<entry name="Tau/Devilfish:Victory#0" value="Transportando-os para um lugar melhor."/>
+	<entry name="Tau/Devilfish:Victory#1" value="Partindo."/>
 	<entry name="Tau/Devilfish:VictoryCount" value="2"/>
-	<entry name="Tau/Ethereal:Attack#0" value="This is for your own good."/>
-	<entry name="Tau/Ethereal:Attack#1" value="For the T'au."/>
-	<entry name="Tau/Ethereal:Attack#2" value="Why do you oppose us?"/>
+	<entry name="Tau/Ethereal:Attack#0" value="Isto é para o seu próprio bem."/>
+	<entry name="Tau/Ethereal:Attack#1" value="Pelos T'au."/>
+	<entry name="Tau/Ethereal:Attack#2" value="Por que se opõem a nós?"/>
 	<entry name="Tau/Ethereal:AttackCount" value="3"/>
-	<entry name="Tau/Ethereal:Broken#0" value="Perhaps… peace lies behind our own lines."/>
+	<entry name="Tau/Ethereal:Broken#0" value="Talvez... a paz esteja atrás de nossas próprias linhas."/>
 	<entry name="Tau/Ethereal:BrokenCount" value="1"/>
-	<entry name="Tau/Ethereal:Hurt#0" value="Though my flesh is weak, my spirit will triumph!"/>
+	<entry name="Tau/Ethereal:Hurt#0" value="Embora minha carne seja fraca, meu espírito triunfará!"/>
 	<entry name="Tau/Ethereal:HurtCount" value="1"/>
-	<entry name="Tau/Ethereal:Idle#0" value="I preach the Good."/>
-	<entry name="Tau/Ethereal:Idle#1" value="In meditation, comes understanding."/>
-	<entry name="Tau/Ethereal:Idle#2" value="Good alone is not enough—it is the greatest that we seek."/>
+	<entry name="Tau/Ethereal:Idle#0" value="Eu prego o Bem."/>
+	<entry name="Tau/Ethereal:Idle#1" value="Na meditação, vem a compreensão."/>
+	<entry name="Tau/Ethereal:Idle#2" value="O bem sozinho não é suficiente—é o maior que buscamos."/>
 	<entry name="Tau/Ethereal:IdleCount" value="3"/>
-	<entry name="Tau/Ethereal:Shaken#0" value="Defend me!"/>
+	<entry name="Tau/Ethereal:Shaken#0" value="Defendam-me!"/>
 	<entry name="Tau/Ethereal:ShakenCount" value="1"/>
-	<entry name="Tau/Ethereal:Victory#0" value="Spreading the word."/>
-	<entry name="Tau/Ethereal:Victory#1" value="I mourn every soul we lose."/>
-	<entry name="Tau/Ethereal:Victory#2" value="This too, was for the good."/>
+	<entry name="Tau/Ethereal:Victory#0" value="Espalhando a palavra."/>
+	<entry name="Tau/Ethereal:Victory#1" value="Lamento cada alma que perdemos."/>
+	<entry name="Tau/Ethereal:Victory#2" value="Isto também foi pelo bem."/>
 	<entry name="Tau/Ethereal:VictoryCount" value="3"/>
-	<entry name="Tau/FireWarrior:Attack#0" value="Firing on targets!"/>
-	<entry name="Tau/FireWarrior:Attack#1" value="In combat!"/>
-	<entry name="Tau/FireWarrior:Attack#2" value="We're the Fire Caste!"/>
-	<entry name="Tau/FireWarrior:Attack#3" value="Keep at range!"/>
-	<entry name="Tau/FireWarrior:Attack#4" value="Support each other!"/>
-	<entry name="Tau/FireWarrior:Attack#5" value="For Puretide's memory!"/>
+	<entry name="Tau/FireWarrior:Attack#0" value="Disparando nos alvos!"/>
+	<entry name="Tau/FireWarrior:Attack#1" value="Em combate!"/>
+	<entry name="Tau/FireWarrior:Attack#2" value="Somos a Casta do Fogo!"/>
+	<entry name="Tau/FireWarrior:Attack#3" value="Mantenham distância!"/>
+	<entry name="Tau/FireWarrior:Attack#4" value="Apoiem uns aos outros!"/>
+	<entry name="Tau/FireWarrior:Attack#5" value="Pela memória de Puretide!"/>
 	<entry name="Tau/FireWarrior:AttackCount" value="6"/>
-	<entry name="Tau/FireWarrior:Broken#0" value="Fall back! Run!"/>
+	<entry name="Tau/FireWarrior:Broken#0" value="Recuem! Corram!"/>
 	<entry name="Tau/FireWarrior:BrokenCount" value="1"/>
-	<entry name="Tau/FireWarrior:Hurt#0" value="We're losing troops!"/>
+	<entry name="Tau/FireWarrior:Hurt#0" value="Estamos perdendo tropas!"/>
 	<entry name="Tau/FireWarrior:HurtCount" value="1"/>
-	<entry name="Tau/FireWarrior:Idle#0" value="Taking a break."/>
-	<entry name="Tau/FireWarrior:Idle#1" value="Training, shas'el."/>
-	<entry name="Tau/FireWarrior:Idle#2" value="I miss my Sept…"/>
-	<entry name="Tau/FireWarrior:Idle#3" value="Let us never speak of sub-space again…"/>
-	<entry name="Tau/FireWarrior:Idle#4" value="Ready for action, shas'el."/>
+	<entry name="Tau/FireWarrior:Idle#0" value="Fazendo uma pausa."/>
+	<entry name="Tau/FireWarrior:Idle#1" value="Treinando, shas'el."/>
+	<entry name="Tau/FireWarrior:Idle#2" value="Sinto falta do meu Sept..."/>
+	<entry name="Tau/FireWarrior:Idle#3" value="Nunca mais falemos do sub-espaço..."/>
+	<entry name="Tau/FireWarrior:Idle#4" value="Pronto para a ação, shas'el."/>
 	<entry name="Tau/FireWarrior:IdleCount" value="5"/>
-	<entry name="Tau/FireWarrior:Shaken#0" value="Don't let them near us!"/>
+	<entry name="Tau/FireWarrior:Shaken#0" value="Não deixem eles se aproximarem!"/>
 	<entry name="Tau/FireWarrior:ShakenCount" value="1"/>
-	<entry name="Tau/FireWarrior:Victory#0" value="Superior firepower wins the day!"/>
-	<entry name="Tau/FireWarrior:Victory#1" value="Proving the power of the Fire Caste!"/>
+	<entry name="Tau/FireWarrior:Victory#0" value="Poder de fogo superior vence o dia!"/>
+	<entry name="Tau/FireWarrior:Victory#1" value="Provando o poder da Casta do Fogo!"/>
 	<entry name="Tau/FireWarrior:VictoryCount" value="2"/>
 	<entry name="Tau/GhostkeelBattlesuit" value="Tau/CrisisBattlesuit"/>
 	<entry name="Tau/GravInhibitorDrone" value="Tau/GunDrone"/>
-	<entry name="Tau/GunDrone:Attack#0" value="Firing solution found."/>
-	<entry name="Tau/GunDrone:Attack#1" value="Drone in action."/>
-	<entry name="Tau/GunDrone:Attack#2" value="Fighting for the good!"/>
-	<entry name="Tau/GunDrone:Attack#3" value="Limits of logic reached. Shots taken."/>
-	<entry name="Tau/GunDrone:Attack#4" value="89% certainty enemies identified. Engaging."/>
+	<entry name="Tau/GunDrone:Attack#0" value="Solução de tiro encontrada."/>
+	<entry name="Tau/GunDrone:Attack#1" value="Drone em ação."/>
+	<entry name="Tau/GunDrone:Attack#2" value="Lutando pelo bem!"/>
+	<entry name="Tau/GunDrone:Attack#3" value="Limites da lógica alcançados. Tiros efetuados."/>
+	<entry name="Tau/GunDrone:Attack#4" value="89% de certeza de inimigos identificados. Engajando."/>
 	<entry name="Tau/GunDrone:AttackCount" value="5"/>
-	<entry name="Tau/GunDrone:Broken#0" value="Preserving unit integrity."/>
+	<entry name="Tau/GunDrone:Broken#0" value="Preservando integridade da unidade."/>
 	<entry name="Tau/GunDrone:BrokenCount" value="1"/>
-	<entry name="Tau/GunDrone:Hurt#0" value="Operating capability down to 50%"/>
+	<entry name="Tau/GunDrone:Hurt#0" value="Capacidade operacional reduzida a 50%"/>
 	<entry name="Tau/GunDrone:HurtCount" value="1"/>
-	<entry name="Tau/GunDrone:Idle#0" value="Patrolling."/>
-	<entry name="Tau/GunDrone:Idle#1" value="The Greater Good is logical."/>
-	<entry name="Tau/GunDrone:Idle#2" value="Built by the Earth Caste."/>
-	<entry name="Tau/GunDrone:Idle#3" value="Subroutines idling."/>
-	<entry name="Tau/GunDrone:Idle#4" value="Ironing out gl-glitches."/>
+	<entry name="Tau/GunDrone:Idle#0" value="Patrulhando."/>
+	<entry name="Tau/GunDrone:Idle#1" value="O Bem Maior é lógico."/>
+	<entry name="Tau/GunDrone:Idle#2" value="Construído pela Casta da Terra."/>
+	<entry name="Tau/GunDrone:Idle#3" value="Sub-rotinas em espera."/>
+	<entry name="Tau/GunDrone:Idle#4" value="Corrigindo fa-falhas."/>
 	<entry name="Tau/GunDrone:IdleCount" value="5"/>
-	<entry name="Tau/GunDrone:Shaken#0" value="Inadequate routines. Falling back on failsafes."/>
+	<entry name="Tau/GunDrone:Shaken#0" value="Rotinas inadequadas. Recorrendo a seguranças."/>
 	<entry name="Tau/GunDrone:ShakenCount" value="1"/>
-	<entry name="Tau/GunDrone:Victory#0" value="Objective achieved. Moving on."/>
+	<entry name="Tau/GunDrone:Victory#0" value="Objetivo alcançado. Prosseguindo."/>
 	<entry name="Tau/GunDrone:VictoryCount" value="1"/>
-	<entry name="Tau/HammerheadGunship:Attack#0" value="Gunship firing, enemy falling."/>
-	<entry name="Tau/HammerheadGunship:Attack#1" value="Going in low."/>
-	<entry name="Tau/HammerheadGunship:Attack#2" value="Fire support in action"/>
+	<entry name="Tau/HammerheadGunship:Attack#0" value="Nave de guerra disparando, inimigo caindo."/>
+	<entry name="Tau/HammerheadGunship:Attack#1" value="Entrando baixo."/>
+	<entry name="Tau/HammerheadGunship:Attack#2" value="Apoio de fogo em ação"/>
 	<entry name="Tau/HammerheadGunship:AttackCount" value="3"/>
-	<entry name="Tau/HammerheadGunship:Broken#0" value="Gunship retreating."/>
+	<entry name="Tau/HammerheadGunship:Broken#0" value="Nave de guerra recuando."/>
 	<entry name="Tau/HammerheadGunship:BrokenCount" value="1"/>
-	<entry name="Tau/HammerheadGunship:Hurt#0" value="They've damaged us but we can keep going."/>
+	<entry name="Tau/HammerheadGunship:Hurt#0" value="Eles nos danificaram mas podemos continuar."/>
 	<entry name="Tau/HammerheadGunship:HurtCount" value="1"/>
-	<entry name="Tau/HammerheadGunship:Idle#0" value="Ready to fire at range."/>
-	<entry name="Tau/HammerheadGunship:Idle#1" value="Let us know if you need this bird in the sky."/>
-	<entry name="Tau/HammerheadGunship:Idle#2" value="The ky'husa? It's someone else's, sir."/>
+	<entry name="Tau/HammerheadGunship:Idle#0" value="Pronto para disparar à distância."/>
+	<entry name="Tau/HammerheadGunship:Idle#1" value="Nos avisem se precisarem desta ave no céu."/>
+	<entry name="Tau/HammerheadGunship:Idle#2" value="O ky'husa? É de outra pessoa, senhor."/>
 	<entry name="Tau/HammerheadGunship:IdleCount" value="3"/>
-	<entry name="Tau/HammerheadGunship:Shaken#0" value="We shouldn't be in the front line!"/>
+	<entry name="Tau/HammerheadGunship:Shaken#0" value="Não deveríamos estar na linha de frente!"/>
 	<entry name="Tau/HammerheadGunship:ShakenCount" value="1"/>
-	<entry name="Tau/HammerheadGunship:Victory#0" value="We are the first of the Mont'ka."/>
-	<entry name="Tau/HammerheadGunship:Victory#1" value="Sweep complete."/>
-	<entry name="Tau/HammerheadGunship:Victory#2" value="Searching for new targets."/>
+	<entry name="Tau/HammerheadGunship:Victory#0" value="Somos os primeiros do Mont'ka."/>
+	<entry name="Tau/HammerheadGunship:Victory#1" value="Varredura completa."/>
+	<entry name="Tau/HammerheadGunship:Victory#2" value="Procurando novos alvos."/>
 	<entry name="Tau/HammerheadGunship:VictoryCount" value="3"/>
 	<entry name="Tau/InterceptorDrone" value="Tau/GunDrone"/>
 	<entry name="Tau/MarkerDrone" value="Tau/GunDrone"/>
 	<entry name="Tau/Pathfinder" value="Tau/FireWarrior"/>
-	<entry name="Tau/Piranha:Attack#0" value="Firing burst cannon."/>
-	<entry name="Tau/Piranha:Attack#1" value="Any Pathfinders need support?"/>
-	<entry name="Tau/Piranha:Attack#2" value="Striking at speed."/>
-	<entry name="Tau/Piranha:Attack#3" value="Commencing strafing run."/>
+	<entry name="Tau/Piranha:Attack#0" value="Disparando canhão rajada."/>
+	<entry name="Tau/Piranha:Attack#1" value="Algum Batedor precisa de apoio?"/>
+	<entry name="Tau/Piranha:Attack#2" value="Atacando em velocidade."/>
+	<entry name="Tau/Piranha:Attack#3" value="Iniciando ataque de metralhamento."/>
 	<entry name="Tau/Piranha:AttackCount" value="4"/>
-	<entry name="Tau/Piranha:Broken#0" value="Scout armour falling back."/>
+	<entry name="Tau/Piranha:Broken#0" value="Blindagem de reconhecimento recuando."/>
 	<entry name="Tau/Piranha:BrokenCount" value="1"/>
-	<entry name="Tau/Piranha:Hurt#0" value="Evasion ineffective, serious damage sustained."/>
+	<entry name="Tau/Piranha:Hurt#0" value="Evasão ineficaz, dano sério sustentado."/>
 	<entry name="Tau/Piranha:HurtCount" value="1"/>
-	<entry name="Tau/Piranha:Idle#0" value="Any word from the Pathfinders?"/>
-	<entry name="Tau/Piranha:Idle#1" value="Reconnaisance waiting for orders."/>
+	<entry name="Tau/Piranha:Idle#0" value="Alguma palavra dos Batedores?"/>
+	<entry name="Tau/Piranha:Idle#1" value="Reconhecimento aguardando ordens."/>
 	<entry name="Tau/Piranha:IdleCount" value="2"/>
-	<entry name="Tau/Piranha:Shaken#0" value="Why is nothing working? Why-"/>
+	<entry name="Tau/Piranha:Shaken#0" value="Por que nada está funcionando? Por que-"/>
 	<entry name="Tau/Piranha:ShakenCount" value="1"/>
-	<entry name="Tau/Piranha:Victory#0" value="Target… shredded, shas'el."/>
+	<entry name="Tau/Piranha:Victory#0" value="Alvo... despedaçado, shas'el."/>
 	<entry name="Tau/Piranha:VictoryCount" value="1"/>
 	<entry name="Tau/PulseAcceleratorDrone" value="Tau/GunDrone"/>
-	<entry name="Tau/RazorsharkStrikeFighter:Attack#0" value="Aerial support incoming."/>
-	<entry name="Tau/RazorsharkStrikeFighter:Attack#1" value="Air Caste, for the Greater Good."/>
-	<entry name="Tau/RazorsharkStrikeFighter:Attack#2" value="They haven't seen us coming…"/>
+	<entry name="Tau/RazorsharkStrikeFighter:Attack#0" value="Apoio aéreo chegando."/>
+	<entry name="Tau/RazorsharkStrikeFighter:Attack#1" value="Casta do Ar, pelo Bem Maior."/>
+	<entry name="Tau/RazorsharkStrikeFighter:Attack#2" value="Eles não nos viram chegando..."/>
 	<entry name="Tau/RazorsharkStrikeFighter:AttackCount" value="3"/>
-	<entry name="Tau/RazorsharkStrikeFighter:Broken#0" value="In flight."/>
+	<entry name="Tau/RazorsharkStrikeFighter:Broken#0" value="Em voo."/>
 	<entry name="Tau/RazorsharkStrikeFighter:BrokenCount" value="1"/>
-	<entry name="Tau/RazorsharkStrikeFighter:Hurt#0" value="Enemy fire is effective. Need new orders!"/>
+	<entry name="Tau/RazorsharkStrikeFighter:Hurt#0" value="Fogo inimigo é eficaz. Precisamos de novas ordens!"/>
 	<entry name="Tau/RazorsharkStrikeFighter:HurtCount" value="1"/>
-	<entry name="Tau/RazorsharkStrikeFighter:Idle#0" value="Circling, awaiting orders."/>
-	<entry name="Tau/RazorsharkStrikeFighter:Idle#1" value="Should we return to base?"/>
-	<entry name="Tau/RazorsharkStrikeFighter:Idle#2" value="Any word on that promotion?"/>
+	<entry name="Tau/RazorsharkStrikeFighter:Idle#0" value="Circulando, aguardando ordens."/>
+	<entry name="Tau/RazorsharkStrikeFighter:Idle#1" value="Devemos retornar à base?"/>
+	<entry name="Tau/RazorsharkStrikeFighter:Idle#2" value="Alguma palavra sobre aquela promoção?"/>
 	<entry name="Tau/RazorsharkStrikeFighter:IdleCount" value="3"/>
-	<entry name="Tau/RazorsharkStrikeFighter:Shaken#0" value="Evasive manuevres!"/>
+	<entry name="Tau/RazorsharkStrikeFighter:Shaken#0" value="Manobras evasivas!"/>
 	<entry name="Tau/RazorsharkStrikeFighter:ShakenCount" value="1"/>
-	<entry name="Tau/RazorsharkStrikeFighter:Victory#0" value="Spotters report hostiles down."/>
-	<entry name="Tau/RazorsharkStrikeFighter:Victory#1" value="Now that's air superiority."/>
-	<entry name="Tau/RazorsharkStrikeFighter:Victory#2" value="Peeling off, mission accomplished."/>
+	<entry name="Tau/RazorsharkStrikeFighter:Victory#0" value="Observadores relatam hostis abatidos."/>
+	<entry name="Tau/RazorsharkStrikeFighter:Victory#1" value="Agora isso é superioridade aérea."/>
+	<entry name="Tau/RazorsharkStrikeFighter:Victory#2" value="Desengajando, missão cumprida."/>
 	<entry name="Tau/RazorsharkStrikeFighter:VictoryCount" value="3"/>
 	<entry name="Tau/ReconDrone" value="Tau/GunDrone"/>
-	<entry name="Tau/RiptideBattlesuit:Attack#0" value="Firing everything."/>
-	<entry name="Tau/RiptideBattlesuit:Attack#1" value="Why are they bothering shooting back?"/>
-	<entry name="Tau/RiptideBattlesuit:Attack#2" value="They'd better not scratch the Fio'tak."/>
+	<entry name="Tau/RiptideBattlesuit:Attack#0" value="Disparando tudo."/>
+	<entry name="Tau/RiptideBattlesuit:Attack#1" value="Por que se incomodam em revidar?"/>
+	<entry name="Tau/RiptideBattlesuit:Attack#2" value="É melhor não arranharem o Fio'tak."/>
 	<entry name="Tau/RiptideBattlesuit:AttackCount" value="3"/>
-	<entry name="Tau/RiptideBattlesuit:Broken#0" value="I need shield drone cover!"/>
+	<entry name="Tau/RiptideBattlesuit:Broken#0" value="Preciso de cobertura de drone escudo!"/>
 	<entry name="Tau/RiptideBattlesuit:BrokenCount" value="1"/>
-	<entry name="Tau/RiptideBattlesuit:Hurt#0" value="Reactor damage, armour compromised. I can keep going."/>
+	<entry name="Tau/RiptideBattlesuit:Hurt#0" value="Dano no reator, blindagem comprometida. Posso continuar."/>
 	<entry name="Tau/RiptideBattlesuit:HurtCount" value="1"/>
-	<entry name="Tau/RiptideBattlesuit:Idle#0" value="You'd better have plans for me."/>
-	<entry name="Tau/RiptideBattlesuit:Idle#1" value="ZZ…"/>
-	<entry name="Tau/RiptideBattlesuit:Idle#2" value="So much firepower…"/>
+	<entry name="Tau/RiptideBattlesuit:Idle#0" value="É melhor terem planos para mim."/>
+	<entry name="Tau/RiptideBattlesuit:Idle#1" value="ZZ..."/>
+	<entry name="Tau/RiptideBattlesuit:Idle#2" value="Tanto poder de fogo..."/>
 	<entry name="Tau/RiptideBattlesuit:IdleCount" value="3"/>
-	<entry name="Tau/RiptideBattlesuit:Shaken#0" value="Best of the best. Best. Of. The. Best."/>
+	<entry name="Tau/RiptideBattlesuit:Shaken#0" value="O melhor dos melhores. Melhor. Dos. Melhores."/>
 	<entry name="Tau/RiptideBattlesuit:ShakenCount" value="1"/>
-	<entry name="Tau/RiptideBattlesuit:Victory#0" value="They're dead. Keep firing."/>
-	<entry name="Tau/RiptideBattlesuit:Victory#1" value="Anyone see where my target went?"/>
+	<entry name="Tau/RiptideBattlesuit:Victory#0" value="Estão mortos. Continuem disparando."/>
+	<entry name="Tau/RiptideBattlesuit:Victory#1" value="Alguém viu para onde foi meu alvo?"/>
 	<entry name="Tau/RiptideBattlesuit:VictoryCount" value="2"/>
 	<entry name="Tau/ShieldDrone" value="Tau/GunDrone"/>
 	<entry name="Tau/ShieldedMissileDrone" value="Tau/GunDrone"/>
 	<entry name="Tau/SkyRayGunship" value="Tau/HammerheadGunship"/>
-	<entry name="Tau/StealthBattlesuit:Attack#0" value="They didn't see us coming."/>
-	<entry name="Tau/StealthBattlesuit:Attack#1" value="From the shadows…"/>
-	<entry name="Tau/StealthBattlesuit:Attack#2" value="Shas'el, we have them."/>
+	<entry name="Tau/StealthBattlesuit:Attack#0" value="Eles não nos viram chegando."/>
+	<entry name="Tau/StealthBattlesuit:Attack#1" value="Das sombras..."/>
+	<entry name="Tau/StealthBattlesuit:Attack#2" value="Shas'el, nós os temos."/>
 	<entry name="Tau/StealthBattlesuit:AttackCount" value="3"/>
-	<entry name="Tau/StealthBattlesuit:Broken#0" value="Exfiltration request issued."/>
+	<entry name="Tau/StealthBattlesuit:Broken#0" value="Pedido de exfiltração emitido."/>
 	<entry name="Tau/StealthBattlesuit:BrokenCount" value="1"/>
-	<entry name="Tau/StealthBattlesuit:Hurt#0" value="How are they hitting us?"/>
+	<entry name="Tau/StealthBattlesuit:Hurt#0" value="Como estão nos acertando?"/>
 	<entry name="Tau/StealthBattlesuit:HurtCount" value="1"/>
-	<entry name="Tau/StealthBattlesuit:Idle#0" value="Maintaining cover."/>
-	<entry name="Tau/StealthBattlesuit:Idle#1" value="Stealth team, radio silence."/>
-	<entry name="Tau/StealthBattlesuit:Idle#2" value="You can't be talking to us, we're not here."/>
+	<entry name="Tau/StealthBattlesuit:Idle#0" value="Mantendo cobertura."/>
+	<entry name="Tau/StealthBattlesuit:Idle#1" value="Equipe furtiva, silêncio de rádio."/>
+	<entry name="Tau/StealthBattlesuit:Idle#2" value="Vocês não podem estar falando conosco, não estamos aqui."/>
 	<entry name="Tau/StealthBattlesuit:IdleCount" value="3"/>
-	<entry name="Tau/StealthBattlesuit:Shaken#0" value="Are we in too deep?"/>
+	<entry name="Tau/StealthBattlesuit:Shaken#0" value="Estamos muito expostos?"/>
 	<entry name="Tau/StealthBattlesuit:ShakenCount" value="1"/>
-	<entry name="Tau/StealthBattlesuit:Victory#0" value="Spreading terror."/>
-	<entry name="Tau/StealthBattlesuit:Victory#1" value="Target ghosted."/>
-	<entry name="Tau/StealthBattlesuit:Victory#2" value="We have our own way."/>
+	<entry name="Tau/StealthBattlesuit:Victory#0" value="Espalhando terror."/>
+	<entry name="Tau/StealthBattlesuit:Victory#1" value="Alvo fantasma."/>
+	<entry name="Tau/StealthBattlesuit:Victory#2" value="Temos nosso próprio caminho."/>
 	<entry name="Tau/StealthBattlesuit:VictoryCount" value="3"/>
 	<entry name="Tau/StealthDrone" value="Tau/GunDrone"/>
 	<entry name="Tau/Stormsurge" value="Tau/RiptideBattlesuit"/>
