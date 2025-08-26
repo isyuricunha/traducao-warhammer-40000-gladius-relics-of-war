@@ -1141,252 +1141,252 @@
 	<entry name="MobileCommandDescription" value="Habilidades passivas funcionam para carga embarcada neste transporte."/>
 	<entry name="MobileCommandFlavor" value="Um veículo de transporte é tipicamente selado, tornando qualquer tropa ineficaz (mas protegida) até chegar ao destino. Diferente das aberturas de armas, equipamentos de comunicação não comprometem a proteção, como provado pela variante Imperial Chimera, permitindo que comandantes continuem a dirigir suas forças."/>
 	<entry name="Monofilament" value="Monofilamento"/>
-	<entry name="MonofilamentDescription" value="Inversely scales the accuracy with the maximum movement of the target unit. Increases the armour penetration."/>
+	<entry name="MonofilamentDescription" value="Reduz a precisão inversamente proporcional ao movimento máximo da unidade-alvo. Aumenta a penetração de armadura."/>
 	<entry name="MonofilamentFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
-	<entry name="MonstrousCreature" value="Monstrous Creature"/>
-	<entry name="MonstrousCreatureDescription" value="Classification."/>
-	<entry name="MonstrousCreatureFlavor" value="These are towering giants that are capable of crushing a tank–like the Tyranid Carnifex, a creature bioengineered and evolved to become a living battering ram."/>
-	<entry name="MoraleSoak" value="Morale Soak"/>
-	<entry name="MoraleSoakDescription" value="Reduces the damage by the target's morale."/>
-	<entry name="MoveThroughCover" value="Move Through Cover"/>
-	<entry name="MoveThroughCoverDescription" value="Negates the movement penalty in forests and imperial ruins."/>
-	<entry name="MoveThroughCoverFlavor" value="Some warriors are skilled at moving over broken and tangled terrain."/>
-	<entry name="Necrons/AircraftBuildingBonus" value="Orphic Starkness"/>
-	<entry name="Necrons/AircraftBuildingBonusDescription" value="Increases the production output."/>
-	<entry name="Necrons/AircraftBuildingBonusFlavor" value="This inhuman expanse of stone now seems to bend impossibly, filling more space than there is. The Necron flying machines stretch and flicker in and out of existence as they traverse it."/>
-	<entry name="Necrons/AttackCityBonus" value="Static Targetting"/>
-	<entry name="Necrons/AttackCityBonusDescription" value="Increases the accuracy against units in cities."/>
-	<entry name="Necrons/AttackCityBonusFlavor" value="The Necrons' technology may have been raised from dusty ancient tombs, but few races in the past 60 million years have matched their prowess in manipulating dimensional variables. No wall, bunker or laser grid is a defense against such weaponry."/>
-	<entry name="Necrons/BlastDamage" value="Dispersed Targetting"/>
-	<entry name="Necrons/BlastDamageDescription" value="Increases the armour penetration."/>
-	<entry name="Necrons/BlastDamageFlavor" value="Human targeting systems tend to focus on accuracy, narrowing the dispersal of a weapon's shots. Counter-intuitively, the more advanced Necron targeting systems spread a weapon's attacks out, yet somehow still increase the chance of each shot to hit."/>
+	<entry name="MonstrousCreature" value="Criatura Monstruosa"/>
+	<entry name="MonstrousCreatureDescription" value="Classificação."/>
+	<entry name="MonstrousCreatureFlavor" value="São gigantes imponentes capazes de esmagar tanques – como o Carnifex Tyranid, uma criatura bioengenheirada e evoluída para se tornar uma verdadeira aríete viva."/>
+	<entry name="MoraleSoak" value="Absorção de Moral"/>
+	<entry name="MoraleSoakDescription" value="Reduz o dano causado pela moral do alvo."/>
+	<entry name="MoveThroughCover" value="Movimentar-se pela Cobertura"/>
+	<entry name="MoveThroughCoverDescription" value="Anula a penalidade de movimento em florestas e ruínas imperiais."/>
+	<entry name="MoveThroughCoverFlavor" value="Alguns guerreiros são habilidosos em se mover por terrenos quebrados e entrelaçados."/>
+	<entry name="Necrons/AircraftBuildingBonus" value="Rigidez Órfica"/>
+	<entry name="Necrons/AircraftBuildingBonusDescription" value="Aumenta a produção."/>
+	<entry name="Necrons/AircraftBuildingBonusFlavor" value="Esta extensão desumana de pedra parece se curvar impossivelmente, ocupando mais espaço do que há disponível. As máquinas voadoras Necron se esticam e piscam ao atravessá-la."/>
+	<entry name="Necrons/AttackCityBonus" value="Mira Estática"/>
+	<entry name="Necrons/AttackCityBonusDescription" value="Aumenta a precisão contra unidades em cidades."/>
+	<entry name="Necrons/AttackCityBonusFlavor" value="A tecnologia Necron pode ter sido levantada de túmulos antigos empoeirados, mas poucas raças nos últimos 60 milhões de anos igualaram sua habilidade de manipular variáveis dimensionais. Nenhuma muralha, bunker ou grade de lasers resiste a tais armas."/>
+	<entry name="Necrons/BlastDamage" value="Mira Dispersa"/>
+	<entry name="Necrons/BlastDamageDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="Necrons/BlastDamageFlavor" value="Sistemas de mira humanos tendem a focar na precisão, estreitando a dispersão dos disparos. Contrariamente, sistemas avançados Necron espalham os ataques, mas ainda aumentam a chance de cada tiro atingir o alvo."/>
 	<entry name="Necrons/BloodyCrusade" value="<string name='Actions/Necrons/BloodyCrusade'/>"/>
-	<entry name="Necrons/BloodyCrusadeDescription" value="Increases the damage."/>
-	<entry name="Necrons/CityTier2" value="Preliminary Excavation"/>
-	<entry name="Necrons/CityTier2Description" value="Increases the tile acquisition radius."/>
-	<entry name="Necrons/CityTier2Flavor" value="More of the ancient city has been uncovered by the digging slaves, who are now turned to restoring the long-buried buildings."/>
-	<entry name="Necrons/CityTier3" value="Unearthed City"/>
-	<entry name="Necrons/CityTier3Description" value="Increases the tile acquisition radius."/>
-	<entry name="Necrons/CityTier3Flavor" value="The entirety of the buried necropolis has now been revealed, resplendent in its mind-bending horror."/>
-	<entry name="Necrons/ConstructionBuildingBonus" value="Slave Enrichment"/>
-	<entry name="Necrons/ConstructionBuildingBonusDescription" value="Increases the production output."/>
-	<entry name="Necrons/ConstructionBuildingBonusFlavor" value="Minor modifications to your slaves' bodies and minds enables them to sleep less and work more, for as long as their fragile bodies last."/>
-	<entry name="Necrons/CtanNecrodermis" value="C'tan Necrodermis"/>
-	<entry name="Necrons/CtanNecrodermisDescription" value="Increases the damage reduction."/>
-	<entry name="Necrons/CtanNecrodermisBlast" value="C'tan Necrodermis Blast"/>
-	<entry name="Necrons/CtanNecrodermisBlastDescription" value="Damages nearby units when dying."/>
+	<entry name="Necrons/BloodyCrusadeDescription" value="Aumenta o dano."/>
+	<entry name="Necrons/CityTier2" value="Escavação Preliminar"/>
+	<entry name="Necrons/CityTier2Description" value="Aumenta o raio de aquisição de tiles."/>
+	<entry name="Necrons/CityTier2Flavor" value="Mais da antiga cidade foi descoberta pelos escravos escavadores, que agora se dedicam a restaurar os edifícios enterrados há muito tempo."/>
+	<entry name="Necrons/CityTier3" value="Cidade Descoberta"/>
+	<entry name="Necrons/CityTier3Description" value="Aumenta o raio de aquisição de tiles."/>
+	<entry name="Necrons/CityTier3Flavor" value="Toda a necrópole enterrada agora foi revelada, resplandecente em seu horror que desafia a mente."/>
+	<entry name="Necrons/ConstructionBuildingBonus" value="Aprimoramento de Escravos"/>
+	<entry name="Necrons/ConstructionBuildingBonusDescription" value="Aumenta a produção."/>
+	<entry name="Necrons/ConstructionBuildingBonusFlavor" value="Pequenas modificações nos corpos e mentes dos escravos permitem que durmam menos e trabalhem mais, enquanto seus frágeis corpos resistirem."/>
+	<entry name="Necrons/CtanNecrodermis" value="Necrodermis C'tan"/>
+	<entry name="Necrons/CtanNecrodermisDescription" value="Aumenta a redução de dano."/>
+	<entry name="Necrons/CtanNecrodermisBlast" value="Explosão Necrodermis C'tan"/>
+	<entry name="Necrons/CtanNecrodermisBlastDescription" value="Dano a unidades próximas ao morrer."/>
 	<entry name="Necrons/DefensiveProtocols" value="<string name='Actions/Necrons/DefensiveProtocols'/>"/>
-	<entry name="Necrons/DefensiveProtocolsDescription" value="Increases the armour."/>
+	<entry name="Necrons/DefensiveProtocolsDescription" value="Aumenta a armadura."/>
 	<entry name="Necrons/DestructionProtocols" value="<string name='Actions/Necrons/DestructionProtocols'/>"/>
-	<entry name="Necrons/DestructionProtocolsDescription" value="Increases the damage taken."/>
+	<entry name="Necrons/DestructionProtocolsDescription" value="Aumenta o dano recebido."/>
 	<entry name="Necrons/Dynasty" value="<string name='Actions/Necrons/Dynasty'/>"/>
 	<entry name="Necrons/DynastyDescription" value="<string name='Actions/Necrons/DynastyDescription'/>"/>
-	<entry name="Necrons/EnergyBuildingBonus" value="Empyreal Accumulators"/>
-	<entry name="Necrons/EnergyBuildingBonusDescription" value="Increases the energy output."/>
-	<entry name="Necrons/EnergyBuildingBonusFlavor" value="Little has changed on the outside of this baroque sarcophagus—yet, inside its unheimlich interior, dark Cryptek devices are stabilising a much improved device."/>
-	<entry name="Necrons/EntropicStrike" value="Entropic Strike"/>
-	<entry name="Necrons/EntropicStrikeDescription" value="Scales the minimum damage with the hitpoints of the target unit."/>
-	<entry name="Necrons/EternityGate" value="Eternity Gate"/>
-	<entry name="Necrons/EternityGateDescription" value="Necron units can teleport to adjacent tiles."/>
-	<entry name="Necrons/EternityGateFlavor" value="A Monolith's eternity gate is a dimensional corridor between the battlefield and a tomb world, allowing legions of Necron warriors to cross vast distances and enter the fray with a single step."/>
+	<entry name="Necrons/EnergyBuildingBonus" value="Acumuladores Empíreos"/>
+	<entry name="Necrons/EnergyBuildingBonusDescription" value="Aumenta a produção de energia."/>
+	<entry name="Necrons/EnergyBuildingBonusFlavor" value="Pouco mudou por fora deste sarcófago barroco — mas dentro, dispositivos Cryptek estabilizam uma máquina muito melhorada."/>
+	<entry name="Necrons/EntropicStrike" value="Golpe Entrópico"/>
+	<entry name="Necrons/EntropicStrikeDescription" value="Reduz o dano mínimo proporcional aos pontos de vida da unidade-alvo."/>
+	<entry name="Necrons/EternityGate" value="Porta da Eternidade"/>
+	<entry name="Necrons/EternityGateDescription" value="Unidades Necron podem se teletransportar para tiles adjacentes."/>
+	<entry name="Necrons/EternityGateFlavor" value="A porta da eternidade de um Monólito é um corredor dimensional entre o campo de batalha e um mundo-túmulo, permitindo que legiões de guerreiros Necron atravessem grandes distâncias e entrem na batalha com um único passo."/>
 	<entry name="Necrons/GloomPrism" value="<string name='Actions/Necrons/GloomPrism'/>"/>
-	<entry name="Necrons/GloomPrismDescription" value="Increases the witchfire damage reduction."/>
+	<entry name="Necrons/GloomPrismDescription" value="Aumenta a redução de dano de feitiço."/>
 	<entry name="Necrons/GloomPrismFlavor" value="<string name='Actions/Necrons/GloomPrismFlavor'/>"/>
 	<entry name="Necrons/GravityPulse" value="<string name='Actions/Necrons/GravityPulse'/>"/>
-	<entry name="Necrons/GravityPulseDescription" value="Reduces the movement of and deals damage to flyers, jetbikes and skimmers in range."/>
-	<entry name="Necrons/GrowthBonus" value="Reanimation Rituals"/>
-	<entry name="Necrons/GrowthBonusDescription" value="Increases the growth rate."/>
-	<entry name="Necrons/GrowthBonusFlavor" value="Establishing more efficient protocols for recovering the long-buried Necrons from their tombs reduces the loss from clumsy slave excavators."/>
-	<entry name="Necrons/HardwiredForDestruction" value="Hardwired For Destruction"/>
-	<entry name="Necrons/HardwiredForDestructionDescription" value="Increases the accuracy."/>
-	<entry name="Necrons/HardwiredForDestructionFlavor" value="The Necrons of the Destroyer Cult are hate-fuelled harvesters of the living, obsessed with the eradication of all sentient beings. They task the Crypteks with modifying their bodies to turn themselves into optimised killing machines. On Gladius Prime, the recently risen Skorpekh Destroyers demonstrate that perfectly, landing brutally accurate blows with their great blades."/>
-	<entry name="Necrons/HousingBuildingBonus" value="Shelter Compression"/>
-	<entry name="Necrons/HousingBuildingBonusDescription" value="Increases the population limit."/>
-	<entry name="Necrons/HousingBuildingBonusFlavor" value="By altering the dimensional constraints of each shelter, many more Necrons can be accommodated for repair or maintenance."/>
+	<entry name="Necrons/GravityPulseDescription" value="Reduz o movimento e causa dano a flyers, jetbikes e skimmers na área."/>
+	<entry name="Necrons/GrowthBonus" value="Rituais de Reanimação"/>
+	<entry name="Necrons/GrowthBonusDescription" value="Aumenta a taxa de crescimento."/>
+	<entry name="Necrons/GrowthBonusFlavor" value="Estabelecer protocolos mais eficientes para recuperar os Necrons enterrados reduz perdas por escavadores descuidados."/>
+	<entry name="Necrons/HardwiredForDestruction" value="Programados para Destruição"/>
+	<entry name="Necrons/HardwiredForDestructionDescription" value="Aumenta a precisão."/>
+	<entry name="Necrons/HardwiredForDestructionFlavor" value="Os Necrons do Culto do Destruidor são colhedores de ódio, obcecados em erradicar seres sencientes. Os Crypteks modificam seus corpos, transformando-os em máquinas de matar. Em Gladius Prime, os recentemente ressurgidos Destruidores Skorpekh demonstram isso perfeitamente, golpeando com precisão brutal."/>
+	<entry name="Necrons/HousingBuildingBonus" value="Compressão de Abrigos"/>
+	<entry name="Necrons/HousingBuildingBonusDescription" value="Aumenta o limite populacional."/>
+	<entry name="Necrons/HousingBuildingBonusFlavor" value="Alterando as restrições dimensionais de cada abrigo, mais Necrons podem ser acomodados para reparos ou manutenção."/>
 	<entry name="Necrons/HuntersFromHyperspace" value="<string name='Actions/Necrons/HuntersFromHyperspace'/>"/>
 	<entry name="Necrons/HuntersFromHyperspaceDescription" value="<string name='Actions/Necrons/HuntersFromHyperspaceDescription'/>"/>
 	<entry name="Necrons/HuntersFromHyperspaceFlavor" value="<string name='Actions/Necrons/HuntersFromHyperspaceFlavor'/>"/>
-	<entry name="Necrons/ImmuneToNaturalLaw" value="Immune to Natural Law"/>
-	<entry name="Necrons/ImmuneToNaturalLawDescription" value="The unit can move over water, through enemy units and ignores the penalties of rivers and wire weed."/>
-	<entry name="Necrons/InfantryBuildingBonus" value="Core Refinements"/>
-	<entry name="Necrons/InfantryBuildingBonusDescription" value="Increases the production ouput."/>
-	<entry name="Necrons/InfantryBuildingBonusFlavor" value="With better tools and less constraints, the Crypteks and Canopteks are able to recover a higher proportion of the buried Necrons, faster."/>
-	<entry name="Necrons/InfluenceBuildingBonus" value="Haunting Inscriptions"/>
-	<entry name="Necrons/InfluenceBuildingBonusDescription" value="Increases the influence ouput."/>
-	<entry name="Necrons/InfluenceBuildingBonusFlavor" value="Woe betide any mortal man who gazes on these inscriptions—their sharp edges seem to waver in the corner of the eye, driving fear into human hearts."/>
-	<entry name="Necrons/InvasionBeams" value="Invasion Beams"/>
-	<entry name="Necrons/InvasionBeamsDescription" value="Disembarking does not consume movement."/>
+	<entry name="Necrons/ImmuneToNaturalLaw" value="Imune à Lei Natural"/>
+	<entry name="Necrons/ImmuneToNaturalLawDescription" value="A unidade pode se mover sobre água, através de unidades inimigas e ignora penalidades de rios e vegetação densa."/>
+	<entry name="Necrons/InfantryBuildingBonus" value="Aprimoramentos de Núcleo"/>
+	<entry name="Necrons/InfantryBuildingBonusDescription" value="Aumenta a produção."/>
+	<entry name="Necrons/InfantryBuildingBonusFlavor" value="Com melhores ferramentas e menos restrições, Crypteks e Canopteks recuperam mais Necrons enterrados, mais rápido."/>
+	<entry name="Necrons/InfluenceBuildingBonus" value="Inscrições Assombradas"/>
+	<entry name="Necrons/InfluenceBuildingBonusDescription" value="Aumenta a produção de influência."/>
+	<entry name="Necrons/InfluenceBuildingBonusFlavor" value="Ai de qualquer mortal que olhe para estas inscrições — suas bordas parecem tremular, incutindo medo nos corações humanos."/>
+	<entry name="Necrons/InvasionBeams" value="Feixes de Invasão"/>
+	<entry name="Necrons/InvasionBeamsDescription" value="Desembarque não consome movimento."/>
 	<entry name="Necrons/JetCharge" value="<string name='Actions/Necrons/JetCharge'/>"/>
-	<entry name="Necrons/JetChargeDescription" value="Increases the damage reduction."/>
-	<entry name="Necrons/LivingMetal" value="Living Metal"/>
-	<entry name="Necrons/LivingMetalDescription" value="Restores hitpoints each turn."/>
-	<entry name="Necrons/LivingMetalFlavor" value="It's understandable why the Necrons build their vehicles from the same living metal as their own bodies, given how durable it is and how well-suited it is to repairing damage sustained in the field."/>
-	<entry name="Necrons/LoyaltyBuildingBonus" value="Baroque Covenant"/>
-	<entry name="Necrons/LoyaltyBuildingBonusDescription" value="Increases the loyalty ouput."/>
-	<entry name="Necrons/LoyaltyBuildingBonusFlavor" value="More of the Shrine's hidden tale is now revealed, though the story still ends before the Silent King can revenge himself on the voracious Star Gods that stripped his people of their souls."/>
-	<entry name="Necrons/MeleeDamage" value="Necrodermic Blades"/>
-	<entry name="Necrons/MeleeDamageDescription" value="Increases the armour penetration."/>
-	<entry name="Necrons/MeleeDamageFlavor" value="Made from impossibly thin slices of the Necron's utilitarian living metal, these blades pass through most skin, bone and armour with disturbing ease."/>
-	<entry name="Necrons/NanoscarabReanimationBeam" value="Nanoscarab Reanimation Beam"/>
-	<entry name="Necrons/NanoscarabReanimationBeamDescription" value="Restores the hitpoints."/>
+	<entry name="Necrons/JetChargeDescription" value="Aumenta a redução de dano."/>
+	<entry name="Necrons/LivingMetal" value="Metal Vivo"/>
+	<entry name="Necrons/LivingMetalDescription" value="Restaura pontos de vida a cada turno."/>
+	<entry name="Necrons/LivingMetalFlavor" value="Não é de se surpreender que os Necrons construam seus veículos do mesmo metal vivo de seus corpos, dada sua durabilidade e capacidade de reparar danos no campo de batalha."/>
+	<entry name="Necrons/LoyaltyBuildingBonus" value="Convênio Barroco"/>
+	<entry name="Necrons/LoyaltyBuildingBonusDescription" value="Aumenta a produção de lealdade."/>
+	<entry name="Necrons/LoyaltyBuildingBonusFlavor" value="Mais do conto oculto do Santuário é revelado, embora a história ainda termine antes que o Rei Silencioso possa se vingar dos Deuses Estelares vorazes que roubaram as almas de seu povo."/>
+	<entry name="Necrons/MeleeDamage" value="Lâminas Necrodermicas"/>
+	<entry name="Necrons/MeleeDamageDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="Necrons/MeleeDamageFlavor" value="Feitas de fatias extremamente finas do metal vivo utilitário dos Necrons, essas lâminas atravessam pele, ossos e armaduras com assustadora facilidade."/>
+	<entry name="Necrons/NanoscarabReanimationBeam" value="Feixe de Reanimação Nanoscarab"/>
+	<entry name="Necrons/NanoscarabReanimationBeamDescription" value="Restaura os pontos de vida."/>
 	<entry name="Necrons/NanoscarabReanimationBeamFlavor" value="<string name='Actions/Necrons/NanoscarabReanimationBeamFlavor'/>"/>
-	<entry name="Necrons/Nebuloscope" value="Nebuloscope"/>
-	<entry name="Necrons/NebuloscopeDescription" value="Bypasses enemy ranged damage reduction."/>
-	<entry name="Necrons/NebuloscopeFlavor" value="This arcane device allows the Tomb Blade's pilot to track his prey through different dimensions, leaving them no place to hide."/>
-	<entry name="Necrons/OreBuildingBonus" value="Trusted Slaves"/>
-	<entry name="Necrons/OreBuildingBonusDescription" value="Increases the ore ouput."/>
-	<entry name="Necrons/OreBuildingBonusFlavor" value="Putting some faith in the enslaved young races of Old One creation and improving their lot might seem foolish, but it increases productivity."/>
+	<entry name="Necrons/Nebuloscope" value="Nebuloscópio"/>
+	<entry name="Necrons/NebuloscopeDescription" value="Ignora a redução de dano à distância do inimigo."/>
+	<entry name="Necrons/NebuloscopeFlavor" value="Este dispositivo arcano permite ao piloto do Tomb Blade rastrear suas presas através de diferentes dimensões, não deixando nenhum lugar para se esconder."/>
+	<entry name="Necrons/OreBuildingBonus" value="Escravos Confiáveis"/>
+	<entry name="Necrons/OreBuildingBonusDescription" value="Aumenta a produção de minério."/>
+	<entry name="Necrons/OreBuildingBonusFlavor" value="Confiar um pouco nas jovens raças escravizadas da criação dos Antigos e melhorar seu destino pode parecer tolo, mas aumenta a produtividade."/>
 	<entry name="Necrons/Chronometron" value="<string name='Actions/Necrons/Chronometron'/>"/>
-	<entry name="Necrons/ChronometronDescription" value="Increases the damage reduction."/>
+	<entry name="Necrons/ChronometronDescription" value="Aumenta a redução de dano."/>
 	<entry name="Necrons/ChronometronFlavor" value="<string name='Actions/Necrons/ChronometronFlavor'/>"/>
 	<entry name="Necrons/PhaseShiftGenerator" value="<string name='Actions/Necrons/PhaseShiftGenerator'/>"/>
-	<entry name="Necrons/PhaseShiftGeneratorDescription" value="Increases the invulnerable damage reduction."/>
+	<entry name="Necrons/PhaseShiftGeneratorDescription" value="Aumenta a redução de dano invulnerável."/>
 	<entry name="Necrons/PhaseShiftGeneratorFlavor" value="<string name='Actions/Necrons/PhaseShiftGeneratorFlavor'/>"/>
 	<entry name="Necrons/QuantumShielding" value="<string name='Actions/Necrons/QuantumShielding'/>"/>
-	<entry name="Necrons/QuantumShieldingDescription" value="Increases the invulnerable damage reduction."/>
+	<entry name="Necrons/QuantumShieldingDescription" value="Aumenta a redução de dano invulnerável."/>
 	<entry name="Necrons/QuantumShieldingFlavor" value="<string name='Actions/Necrons/QuantumShieldingFlavor'/>"/>
-	<entry name="Necrons/ReanimationProtocols" value="Reanimation Protocols"/>
-	<entry name="Necrons/ReanimationProtocolsDescription" value="Restores hitpoints each turn."/>
-	<entry name="Necrons/ReanimationProtocolsFlavor" value="Necrons have sophisticated self-repair systems that return even critically damaged warriors to the fight."/>
+	<entry name="Necrons/ReanimationProtocols" value="Protocolos de Reanimação"/>
+	<entry name="Necrons/ReanimationProtocolsDescription" value="Restaura pontos de vida a cada turno."/>
+	<entry name="Necrons/ReanimationProtocolsFlavor" value="Os Necrons possuem sistemas sofisticados de auto-reparo que devolvem até guerreiros criticamente danificados à batalha."/>
 	<entry name="Necrons/Reaper" value="<string name='Actions/Necrons/Reaper'/>"/>
 	<entry name="Necrons/ReaperFlavor" value="<string name='Actions/Necrons/ReaperFlavor'/>"/>
-	<entry name="Necrons/ResearchBuildingBonus" value="Cryptek Datastyles"/>
-	<entry name="Necrons/ResearchBuildingBonusDescription" value="Increases the research ouput."/>
-	<entry name="Necrons/ResearchBuildingBonusFlavor" value="Dreaming up new technologies is the purview of the Crypteks—and with Datastyles they can access shared information without the risks presented by a direct mind-to-mind connection."/>
-	<entry name="Necrons/ShieldVane" value="Shield Vane"/>
-	<entry name="Necrons/ShieldVaneDescription" value="Increases the armour."/>
-	<entry name="Necrons/ShieldVaneFlavor" value="Tomb Blades that are deployed directly into the midst of a world's defences are often equipped with additional armour panels."/>
+	<entry name="Necrons/ResearchBuildingBonus" value="Datastyles Cryptek"/>
+	<entry name="Necrons/ResearchBuildingBonusDescription" value="Aumenta a produção de pesquisa."/>
+	<entry name="Necrons/ResearchBuildingBonusFlavor" value="Inventar novas tecnologias é competência dos Crypteks—e com Datastyles podem acessar informações compartilhadas sem os riscos de uma conexão mente a mente direta."/>
+	<entry name="Necrons/ShieldVane" value="Aleta de Escudo"/>
+	<entry name="Necrons/ShieldVaneDescription" value="Aumenta a armadura."/>
+	<entry name="Necrons/ShieldVaneFlavor" value="Tomb Blades implantados diretamente nas defesas de um mundo são frequentemente equipados com painéis de armadura adicionais."/>
 	<entry name="Necrons/SleepingSentry" value="<string name='Actions/Necrons/SleepingSentry'/>"/>
-	<entry name="Necrons/SleepingSentryDescription" value="Increases the damage reduction but prevents the unit from moving or taking an action."/>
-	<entry name="Necrons/TargetRelayed" value="Target Relayed"/>
-	<entry name="Necrons/TargetRelayedDescription" value="Increases the ranged accuracy of Necrons against the unit."/>
+	<entry name="Necrons/SleepingSentryDescription" value="Aumenta a redução de dano, mas impede a unidade de se mover ou agir."/>
+	<entry name="Necrons/TargetRelayed" value="Alvo Repassado"/>
+	<entry name="Necrons/TargetRelayedDescription" value="Aumenta a precisão à distância dos Necrons contra a unidade."/>
 	<entry name="Necrons/TargetRelayedFlavor" value="<string name='Traits/Necrons/TargetingRelayFlavor'/>"/>
-	<entry name="Necrons/TargetingRelay" value="Targeting Relay"/>
-	<entry name="Necrons/TargetingRelayDescription" value="Temporarily increases the ranged accuracy of Necrons against the target unit."/>
-	<entry name="Necrons/TargetingRelayFlavor" value="Triarch Stalkers might appear fragile, but their unique Quantum Shielding keeps them in one piece, in order that their Targeting Relay can amplify the firepower of nearby Necrons."/>
-	<entry name="Necrons/Technomancer" value="Technomancer"/>
-	<entry name="Necrons/TechnomancerDescription" value="Increases the damage reduction."/>
-	<entry name="Necrons/VehiclesBuildingBonus" value="Canoptek Workers"/>
-	<entry name="Necrons/VehiclesBuildingBonusDescription" value="Increases the production ouput."/>
-	<entry name="Necrons/VehiclesBuildingBonusFlavor" value="Assigning Canoptek constructors to maintain and repair the various long-dormant war machines greatly speeds up their refurbishment."/>
-	<entry name="Necrons/VengeanceOfTheEnchained" value="Vengeance of the Enchained"/>
-	<entry name="Necrons/VengeanceOfTheEnchainedDescription" value="Death explosion causes extra damage."/>
-	<entry name="Necrons/WraithForm" value="Wraith Form"/>
-	<entry name="Necrons/WraithFormDescription" value="Increases the invulnerable damage reduction."/>
-	<entry name="Necrons/WraithFormFlavor" value="As a Canoptek device, the Wraith was intended to maintain the sleeping Necrons through the millennia they slumbered and was able to dimensionally destabilise itself to repair failing internal components. Now its charges are awoken, it uses the same technology to flit across the battlefield as enemy munitions pass harmlessly through it."/>
-	<entry name="Necrons/Wraithflight" value="Wraithflight"/>
+	<entry name="Necrons/TargetingRelay" value="Repetidor de Alvo"/>
+	<entry name="Necrons/TargetingRelayDescription" value="Aumenta temporariamente a precisão à distância dos Necrons contra a unidade-alvo."/>
+	<entry name="Necrons/TargetingRelayFlavor" value="Os Triarch Stalkers podem parecer frágeis, mas seu Escudo Quântico único mantém-nos íntegros, permitindo que seu Repetidor de Alvo amplifique o poder de fogo dos Necrons próximos."/>
+	<entry name="Necrons/Technomancer" value="Tecnomante"/>
+	<entry name="Necrons/TechnomancerDescription" value="Aumenta a redução de dano."/>
+	<entry name="Necrons/VehiclesBuildingBonus" value="Trabalhadores Canoptek"/>
+	<entry name="Necrons/VehiclesBuildingBonusDescription" value="Aumenta a produção."/>
+	<entry name="Necrons/VehiclesBuildingBonusFlavor" value="Atribuir Canopteks para manter e reparar as diversas máquinas de guerra adormecidas acelera muito sua reforma."/>
+	<entry name="Necrons/VengeanceOfTheEnchained" value="Vingança dos Enjaulados"/>
+	<entry name="Necrons/VengeanceOfTheEnchainedDescription" value="Explosão de morte causa dano extra."/>
+	<entry name="Necrons/WraithForm" value="Forma Fantasma"/>
+	<entry name="Necrons/WraithFormDescription" value="Aumenta a redução de dano invulnerável."/>
+	<entry name="Necrons/WraithFormFlavor" value="Como dispositivo Canoptek, o Wraith foi projetado para manter os Necrons adormecidos durante milênios e capaz de se desestabilizar dimensionalmente para reparar componentes internos. Agora despertos, usam a mesma tecnologia para atravessar o campo de batalha enquanto munições inimigas passam inofensivas."/>
+	<entry name="Necrons/Wraithflight" value="Voo Fantasma"/>
 	<entry name="Necrons/WraithflightDescription" value="<string name='Traits/Necrons/ImmuneToNaturalLawDescription'/>"/>
-	<entry name="Necrons/WraithflightFlavor" value="Their dimensional destabilisation matrix doesn’t just make Wraiths almost impossible to kill—it also allows them to pass through any obstacle, be that rivers, wire weed or even enemy warriors."/>
+	<entry name="Necrons/WraithflightFlavor" value="Sua matriz de desestabilização dimensional não apenas torna os Wraiths quase impossíveis de matar — também permite que atravessem qualquer obstáculo, rios, vegetação ou até guerreiros inimigos."/>
 	<entry name="Necrons/WrithingWorldscape" value="<string name='Actions/Necrons/WrithingWorldscape'/>"/>
-	<entry name="NoEscape" value="No Escape"/>
-	<entry name="NoEscapeDescription" value="Increases the attacks against open-topped units."/>
-	<entry name="OpenTopped" value="Open-Topped"/>
-	<entry name="OpenToppedDescription" value="Classification."/>
-	<entry name="OpenToppedFlavor" value="Some vehicles have only a little armour, making them more vulnerable to damage because of their lightweight construction. However, such vehicles make for excellent assault transports as their passengers can disembark with much greater ease."/>
-	<entry name="OrationOfRestoration" value="Oration of Restoration"/>
-	<entry name="OrationOfRestorationDescription" value="Restores hitpoints."/>
-	<entry name="Ordnance" value="Ordnance"/>
-	<entry name="OrdnanceDescription" value="Increases the armour penetration against vehicles and fortifications. Not usable by infantry after moving."/>
-	<entry name="OrkoidFungus" value="Orkoid Fungus"/>
-	<entry name="OrkoidFungusDescription" value="Restores hitpoints each turn of Ork ground units."/>
-	<entry name="OrkoidFungusFlavor" value="Orks have a weirdly symbiotic relationship with the fungus that spreads across their planets—it's genetically identical to them, Squigs and Grots, and all these species tend to emerge from it rather than being born. Ork units depleted by battle would be wise to retreat to these fields to acquire (literally) fresh recruits."/>
-	<entry name="OrkoidFungusBonusHealingRate" value="Fungal Forests"/>
-	<entry name="OrkoidFungusBonusHealingRateDescription" value="Restores hitpoints each turn of Ork ground units."/>
-	<entry name="OrkoidFungusBonusHealingRateFlavor" value="Once the Ork fungal spores are well-established across a planet, they can resemble forests—albeit, comprised of immense mushrooms, spewing out feral Orks, Grots and Squigs."/>
-	<entry name="OrkoidFungusFood" value="Mushling Bloom"/>
-	<entry name="OrkoidFungusFoodDescription" value="Increases the food output."/>
-	<entry name="OrkoidFungusFoodFlavor" value="The tiny Snotlings, like all Orkoids, are derived from the same base fungus genetic structure. Unlike other Orkoids though, particularly lazy Snotlings can settle back into the fungus patch, and revert to become giant half-mushroom creatures, a particular delicacy for their larger Ork brethren."/>
-	<entry name="Orks/BeastSnagga" value="Beast Snagga"/>
-	<entry name="Orks/BeastSnaggaDescription" value="Increases accuracy against vehicles and monstrous creatures and increases invulnerable damage reduction."/>
-	<entry name="Orks/BeastSnaggaFlavor" value="Spying the largest or most dangerous threats on the battlefield – besides the Orks themselves – Beast Snaggas chase them down with gleeful enthusiasm."/>
+	<entry name="NoEscape" value="Sem Escapatória"/>
+	<entry name="NoEscapeDescription" value="Aumenta os ataques contra unidades descobertas."/>
+	<entry name="OpenTopped" value="Descoberto"/>
+	<entry name="OpenToppedDescription" value="Classificação."/>
+	<entry name="OpenToppedFlavor" value="Alguns veículos possuem pouca armadura, tornando-os mais vulneráveis devido à construção leve. Porém, são excelentes transportes de assalto, pois os passageiros desembarcam com mais facilidade."/>
+	<entry name="OrationOfRestoration" value="Oração de Restauração"/>
+	<entry name="OrationOfRestorationDescription" value="Restaura pontos de vida."/>
+	<entry name="Ordnance" value="Artilharia"/>
+	<entry name="OrdnanceDescription" value="Aumenta a penetração de armadura contra veículos e fortificações. Não pode ser usado por infantaria após mover-se."/>
+	<entry name="OrkoidFungus" value="Fungo Orkoide"/>
+	<entry name="OrkoidFungusDescription" value="Restaura pontos de vida de unidades terrestres Ork a cada turno."/>
+	<entry name="OrkoidFungusFlavor" value="Orks têm uma relação simbiótica com o fungo que se espalha pelos seus planetas — é geneticamente idêntico a eles, Squigs e Grots, e essas espécies emergem dele em vez de nascerem. Unidades Ork exauridas devem recuar para esses campos para adquirir novos recrutas."/>
+	<entry name="OrkoidFungusBonusHealingRate" value="Florestas Fúngicas"/>
+	<entry name="OrkoidFungusBonusHealingRateDescription" value="Restaura pontos de vida de unidades terrestres Ork a cada turno."/>
+	<entry name="OrkoidFungusBonusHealingRateFlavor" value="Quando as esporas fúngicas Ork se espalham pelo planeta, podem assemelhar-se a florestas — compostas de enormes cogumelos, lançando Orks, Grots e Squigs selvagens."/>
+	<entry name="OrkoidFungusFood" value="Flores de Cogumelo"/>
+	<entry name="OrkoidFungusFoodDescription" value="Aumenta a produção de comida."/>
+	<entry name="OrkoidFungusFoodFlavor" value="Os pequenos Snotlings, como todos os Orkoides, derivam da mesma estrutura genética do fungo. Diferente de outros Orkoides, Snotlings preguiçosos podem se reassentar no campo de fungos e reverter-se em criaturas gigantes meio-cogumelo, uma iguaria para seus irmãos Orks maiores."/>
+	<entry name="Orks/BeastSnagga" value="Fera Snagga"/>
+	<entry name="Orks/BeastSnaggaDescription" value="Aumenta a precisão contra veículos e criaturas monstruosas e aumenta a redução de dano invulnerável."/>
+	<entry name="Orks/BeastSnaggaFlavor" value="Ao avistar as maiores ou mais perigosas ameaças no campo de batalha – além dos próprios Orks – os Beast Snaggas as perseguem com entusiasmo delirante."/>
 	<entry name="Orks/BigBoss" value="<string name='Actions/Orks/BigBoss'/>"/>
-	<entry name="Orks/BigBossDescription" value="Increases the hitpoints."/>
+	<entry name="Orks/BigBossDescription" value="Aumenta os pontos de vida."/>
 	<entry name="Orks/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
 	<entry name="Orks/BlastDamageDescription" value="<string name='Traits/AstraMilitarum/BlastDamageDescription'/>"/>
 	<entry name="Orks/BlastDamageFlavor" value="<string name='Traits/AstraMilitarum/BlastDamageFlavor'/>"/>
 	<entry name="Orks/BoltDamage" value="Bigga Boltz"/>
 	<entry name="Orks/BoltDamageDescription" value="<string name='Traits/AstraMilitarum/BoltDamageDescription'/>"/>
-	<entry name="Orks/BoltDamageFlavor" value="Like the Space Marine Kraken bolts, this Mek barrel modification allows this Shoota to hold even larger calibre ammunition, letting the lucky recipient show off by toting an even larger gun that hits even harder."/>
-	<entry name="Orks/BonusBeastsProduction" value="Bigger Whips"/>
-	<entry name="Orks/BonusBeastsProductionDescription" value="Increases the production output of Runtherd Groundz."/>
-	<entry name="Orks/BonusBeastsProductionFlavor" value="“We's gonna need a bigger whip.”<br/>  — Runtherd Gark Snotsmeer, shortly before a Squiggoth stepped on him"/>
-	<entry name="Orks/BonusColonizersProduction" value="Scrap Hammers"/>
-	<entry name="Orks/BonusColonizersProductionDescription" value="Increases the production output of Mek Bitz Yards."/>
-	<entry name="Orks/BonusColonizersProductionFlavor" value="When there isn't enough small-sized scrap to hand to build their ungainly creations, Mekboys acquire more by devising weird and wonderful machines which ravage the ruins and wreckage of their conquered worlds."/>
-	<entry name="Orks/BonusInfantryProduction" value="More Dakka"/>
-	<entry name="Orks/BonusInfantryProductionDescription" value="Increases the production output of Pile O' Dakkas."/>
-	<entry name="Orks/BonusInfantryProductionFlavor" value="“Da best shoota I eva made, dat iz. Loadza barrulz, so dat it's ded shooty. 'Sept dat wun, 'cos dat's da skorcha, dat's burny insted. Yeah, good an' propa. An' da bullitz is 'splosiv…dey goez boom inna fings wot you'z shootin.' An' dat button dere…dat's da best bit. Wot it duz, see, iz…iz…oh, zog. Nah, it's nuffin' boss. Nah, you'z don't need ta see wot dat button duz…'onist. Don't push it!”<br/>  — Last words, Nazdakka Boomsnik, Mek"/>
-	<entry name="Orks/BonusVehiclesProduction" value="Bodge Jobs"/>
-	<entry name="Orks/BonusVehiclesProductionDescription" value="Increases the production output of Kults ov Speed."/>
-	<entry name="Orks/BonusVehiclesProductionFlavor" value="Most Ork technology shouldn't work—vital components are often missing or the device is simply impossible. The Ork's single-minded belief—realised in the form of the Waaagh! energy that surrounds them—fills in the gaps. That's why speeding up the production of Ork vehicles and weaponry has almost no effect upon its quality…"/>
+	<entry name="Orks/BoltDamageFlavor" value="Como os Bolts dos Space Marines Kraken, esta modificação do cano Mek permite que o Shoota use munição de calibre ainda maior, permitindo ao sortudo ostentar uma arma mais potente."/>
+	<entry name="Orks/BonusBeastsProduction" value="Chicotes Maiores"/>
+	<entry name="Orks/BonusBeastsProductionDescription" value="Aumenta a produção de Runtherd Groundz."/>
+	<entry name="Orks/BonusBeastsProductionFlavor" value="“Vamos precisar de um chicote maior.”<br/>  — Runtherd Gark Snotsmeer, pouco antes de ser pisoteado por um Squiggoth"/>
+	<entry name="Orks/BonusColonizersProduction" value="Martelos de Sucata"/>
+	<entry name="Orks/BonusColonizersProductionDescription" value="Aumenta a produção de Mek Bitz Yards."/>
+	<entry name="Orks/BonusColonizersProductionFlavor" value="Quando não há sucata suficiente para construir suas criações desajeitadas, os Mekboys inventam máquinas estranhas que devastam as ruínas de mundos conquistados."/>
+	<entry name="Orks/BonusInfantryProduction" value="Mais Dakka"/>
+	<entry name="Orks/BonusInfantryProductionDescription" value="Aumenta a produção de Pile O' Dakkas."/>
+	<entry name="Orks/BonusInfantryProductionFlavor" value="“A melhor Shoota que já fiz, cheio de canos, atira pra valer. Exceto aquele, que é o scorcha, que queima em vez de matar. E os projéteis são explosivos… eles fazem BOOM no que você está atirando. E aquele botão… é o melhor. O que ele faz… ah, droga. Nada, chefe. Não precisa ver o que faz… sério. Não aperte!”<br/> — Últimas palavras, Nazdakka Boomsnik, Mek"/>
+	<entry name="Orks/BonusVehiclesProduction" value="Remendos"/>
+	<entry name="Orks/BonusVehiclesProductionDescription" value="Aumenta a produção de Kults ov Speed."/>
+	<entry name="Orks/BonusVehiclesProductionFlavor" value="A maioria das tecnologias Ork não deveria funcionar — componentes vitais muitas vezes estão faltando. A crença única dos Orks — manifestada na energia Waaagh! ao redor — preenche as lacunas. Por isso acelerar a produção quase não afeta a qualidade…"/>
 	<entry name="Orks/BustHeads" value="<string name='Actions/Orks/BustHeads'/>"/>
-	<entry name="Orks/BustHeadsDescription" value="Reduces the morale loss."/>
+	<entry name="Orks/BustHeadsDescription" value="Reduz a perda de moral."/>
 	<entry name="Orks/BustHeadsFlavor" value="<string name='Actions/Orks/BustHeadsFlavor'/>"/>
 	<entry name="Orks/ChannelMentalEmissions" value="<string name='Actions/Orks/ChannelMentalEmissions'/>"/>
-	<entry name="Orks/ChannelMentalEmissionsDescription" value="Increases the research output."/>
+	<entry name="Orks/ChannelMentalEmissionsDescription" value="Aumenta a produção de pesquisa."/>
 	<entry name="Orks/CityEnergy" value="Kraklin Gubbinz"/>
-	<entry name="Orks/CityEnergyDescription" value="Increases the energy output."/>
-	<entry name="Orks/CityEnergyFlavor" value="Green and red lightning arcs between the intricate prongs of these power amplification devices, frying any Greenskin who wanders too near. It's quite the spectator sport, but the technology is missing key components so couldn't possibly bear out the Meks' claims of its increase in energy output—save for the Orks' reality-altering faith that it does."/>
-	<entry name="Orks/CityGrowth" value="Boss Speakers"/>
-	<entry name="Orks/CityGrowthDescription" value="Increases the production output of Scrap Shedz."/>
-	<entry name="Orks/CityGrowthFlavor" value="“Naw, I don't want zogging tweeterz. I want gorkawooferz… wunz that go up ta eleven!”<br/>  — Bleeding Ears Merfnik, Goff Warlord and Rocka"/>
-	<entry name="Orks/CityInfluence" value="Big Shinies"/>
-	<entry name="Orks/CityInfluenceDescription" value="Increases the influence output."/>
-	<entry name="Orks/CityInfluenceFlavor" value="“I don't knows what dems is, but I wants 'em.”<br/>  — Warboss Flashgrub Nitwiz, gazing upon the hammered gold doors of the Basilica Imperialis on Catiline VII"/>
-	<entry name="Orks/CityLoyalty" value="Trophy Poles"/>
-	<entry name="Orks/CityLoyaltyDescription" value="Increases the loyalty output."/>
-	<entry name="Orks/CityLoyaltyFlavor" value="There's nothing that so stirs up the vim of an Ork as the sight of their defeated enemies (or their remaining parts) strung up high for all to see."/>
-	<entry name="Orks/CityPopulationLimit" value="Deep Diggaz"/>
-	<entry name="Orks/CityPopulationLimitDescription" value="Increases the population limit."/>
-	<entry name="Orks/CityPopulationLimitFlavor" value="Using the Mek's latest contraptions, the Ork shacks and forges now extend deep beneath the city's surface. Sure, the occasional collapse drags Orks screaming into the depths, but it's worth it for the extra legroom."/>
-	<entry name="Orks/CityResearch" value="Finking Rooms"/>
-	<entry name="Orks/CityResearchDescription" value="Increases the research output."/>
-	<entry name="Orks/CityResearchFlavor" value="Given that technology is wired into the genes of normal Orks, a smart Warboss will find that dedicating space, manpower and time to locking his Mekz inside a small room full of scrap and ordering them come up with some really good Dakka invariably pays off."/>
-	<entry name="Orks/CityTier2" value="Slum Town"/>
-	<entry name="Orks/CityTier2Description" value="Increases the tile acquisition radius."/>
-	<entry name="Orks/CityTier2Flavor" value="Outside each fortress' original walls, a slum town of Gretchin, Squigs, Snotlings and low-tier Orks has sprung up, whilst the insidious green fungus has spread everywhere, remaking this world in the Orks' genetic image."/>
-	<entry name="Orks/CityTier3" value="Shanty City"/>
-	<entry name="Orks/CityTier3Description" value="Increases the tile acquisition radius."/>
-	<entry name="Orks/CityTier3Flavor" value="The Warboss' fame has spread across the entire planet, with the invisible Waaagh! energies paralleling its path. Wherever Orks are freshly-spawned, they feel the irresistible tugging towards the Warboss' cities, which are now sprawled across the nearby landscape in endless slums and shanties."/>
-	<entry name="Orks/CreateOrkoidFungusOnDeath" value="Rapid Decomposition"/>
-	<entry name="Orks/CreateOrkoidFungusOnDeathDescription" value="Causes units to create orkoid fungus when they die."/>
-	<entry name="Orks/CreateOrkoidFungusOnDeathFlavor" value="“Exhibit 27: a single 'spore' of xenos species #0451 'Ork'. Acolytes, you should note the fungoid texture and microhomuncular structures. We theorise that these 'spores' generate new 'Orks' in any sufficiently fertile setting. When an Ork reaches maturity (typically 30 minutes after emergence) it emits these constantly—but they are released en masse at the moment of death. Please don't drop it.”<br/>  — Lecture transcripts, Grigomen “Orklover” Delr, Rogue Trader and amateur Xenologist"/>
+	<entry name="Orks/CityEnergyDescription" value="Aumenta a produção de energia."/>
+	<entry name="Orks/CityEnergyFlavor" value="Arcos de relâmpago verdes e vermelhos saltam entre os dispositivos de amplificação de energia, fritando qualquer Greenskin próximo. É um espetáculo, mas a tecnologia carece de componentes, funcionando apenas pela fé Ork de que aumenta a produção de energia."/>
+	<entry name="Orks/CityGrowth" value="Alto-falantes Boss"/>
+	<entry name="Orks/CityGrowthDescription" value="Aumenta a produção de Scrap Shedz."/>
+	<entry name="Orks/CityGrowthFlavor" value="“Não quero tweeterz, quero gorkawooferz… que vão até onze!”<br/> — Bleeding Ears Merfnik, Warlord Goff e Rocka"/>
+	<entry name="Orks/CityInfluence" value="Grandes Brilhos"/>
+	<entry name="Orks/CityInfluenceDescription" value="Aumenta a produção de influência."/>
+	<entry name="Orks/CityInfluenceFlavor" value="“Não sei o que são, mas eu quero.”<br/> — Warboss Flashgrub Nitwiz, observando as portas douradas da Basilica Imperialis em Catiline VII"/>
+	<entry name="Orks/CityLoyalty" value="Postes de Troféus"/>
+	<entry name="Orks/CityLoyaltyDescription" value="Aumenta a produção de lealdade."/>
+	<entry name="Orks/CityLoyaltyFlavor" value="Nada motiva tanto um Ork quanto ver seus inimigos derrotados (ou partes deles) expostos para todos."/>
+	<entry name="Orks/CityPopulationLimit" value="Escavadores Profundos"/>
+	<entry name="Orks/CityPopulationLimitDescription" value="Aumenta o limite populacional."/>
+	<entry name="Orks/CityPopulationLimitFlavor" value="Usando as últimas engenhocas Mek, as oficinas Ork agora se estendem profundamente sob a cidade. Colapsos ocasionais arrastam Orks aos gritos, mas vale a pena pelo espaço extra."/>
+	<entry name="Orks/CityResearch" value="Salas de Finking"/>
+	<entry name="Orks/CityResearchDescription" value="Aumenta a produção de pesquisa."/>
+	<entry name="Orks/CityResearchFlavor" value="Como a tecnologia está nos genes dos Orks, um Warboss esperto sabe que dedicar espaço e pessoal aos Mekz em uma sala cheia de sucata sempre rende bom Dakka."/>
+	<entry name="Orks/CityTier2" value="Cidade Favela"/>
+	<entry name="Orks/CityTier2Description" value="Aumenta o raio de aquisição de tiles."/>
+	<entry name="Orks/CityTier2Flavor" value="Fora dos muros originais, surgiu uma favela de Gretchin, Squigs, Snotlings e Orks de baixo nível, enquanto o fungo verde se espalha, recriando o mundo à imagem genética dos Orks."/>
+	<entry name="Orks/CityTier3" value="Cidade Barraca"/>
+	<entry name="Orks/CityTier3Description" value="Aumenta o raio de aquisição de tiles."/>
+	<entry name="Orks/CityTier3Flavor" value="A fama do Warboss se espalhou pelo planeta, e as energias invisíveis do Waaagh! seguem seu caminho. Onde novos Orks surgem, sentem o chamado irresistível das cidades do Warboss, espalhadas em favelas intermináveis."/>
+	<entry name="Orks/CreateOrkoidFungusOnDeath" value="Decomposição Rápida"/>
+	<entry name="Orks/CreateOrkoidFungusOnDeathDescription" value="Unidades criam fungo Orkoide ao morrer."/>
+	<entry name="Orks/CreateOrkoidFungusOnDeathFlavor" value="“Exemplo 27: uma única 'espora' da espécie xeno #0451 'Ork'. Acolytes, observem a textura fungoide e microestruturas homunculares. Teorizamos que essas 'esporas' geram novos 'Orks' em ambientes férteis. Ao atingir maturidade (cerca de 30 minutos), emitem-nas constantemente — mas em massa ao morrer. Por favor, não deixem cair.”<br/> — Grigomen “Orklover” Delr, Rogue Trader e Xenólogo amador"/>
 	<entry name="Orks/CyborkImplants" value="<string name='Actions/Orks/CyborkImplants'/>"/>
-	<entry name="Orks/CyborkImplantsDescription" value="Increases the damage and damage reduction."/>
+	<entry name="Orks/CyborkImplantsDescription" value="Aumenta o dano e a redução de dano."/>
 	<entry name="Orks/ExtraBitz" value="<string name='Actions/Orks/ExtraBitz'/>"/>
-	<entry name="Orks/ExtraBitzDescription" value="Reduces the food, ore and energy upkeep."/>
+	<entry name="Orks/ExtraBitzDescription" value="Reduz a manutenção de comida, minério e energia."/>
 	<entry name="Orks/ExperimentalProcedure" value="<string name='Actions/Orks/ExperimentalProcedure'/>"/>
-	<entry name="Orks/ExperimentalProcedureDescription" value="Increases the damage and damage reduction."/>
+	<entry name="Orks/ExperimentalProcedureDescription" value="Aumenta o dano e a redução de dano."/>
 	<entry name="Orks/Flyboss" value="Flyboss"/>
-	<entry name="Orks/FlybossDescription" value="Increases the ranged accuracy against flyers, jetbikes and skimmers."/>
-	<entry name="Orks/FlybossFlavor" value="Flybosses are ace pilots who have survived more dogfights than they can count (even when using their toes)."/>
+	<entry name="Orks/FlybossDescription" value="Aumenta a precisão à distância contra flyers, jetbikes e skimmers."/>
+	<entry name="Orks/FlybossFlavor" value="Flybosses são pilotos excepcionais que sobreviveram a mais dogfights do que podem contar (mesmo usando os dedos dos pés)."/>
 	<entry name="Orks/Gitfinda" value="Gitfinda"/>
-	<entry name="Orks/GitfindaDescription" value="Increases the ranged accuracy if the unit remains stationary."/>
-	<entry name="Orks/GitfindaFlavor" value="These can be elaborate ocular bionics, monocular head-sets, oversized telescopes, or Mork knows what else. The function of a gitfinda is to improve the accuracy of its user to near-average levels."/>
-	<entry name="Orks/GreenTide" value="Green Tide"/>
-	<entry name="Orks/GreenTideFlavor" value="Orks are pretty damn hard to kill. Orks seemingly killed in one battle often return in the next, either fixed up by a Mad Dok or simply miraculously healed—and tougher and stronger for the experience."/>
+	<entry name="Orks/GitfindaDescription" value="Aumenta a precisão à distância se a unidade permanecer imóvel."/>
+	<entry name="Orks/GitfindaFlavor" value="Podem ser biónicos oculares elaborados, headsets monoculares, telescópios enormes, ou Mork sabe o quê mais. A função de um gitfinda é melhorar a precisão do usuário a níveis quase médios."/>
+	<entry name="Orks/GreenTide" value="Maré Verde"/>
+	<entry name="Orks/GreenTideFlavor" value="Orks são muito difíceis de matar. Orks aparentemente mortos em uma batalha frequentemente retornam na próxima, consertados por um Mad Dok ou milagrosamente curados — e mais fortes e resistentes pela experiência."/>
 	<entry name="Orks/GreenTideGrowth" value="<string name='Traits/Orks/GreenTide'/>"/>
-	<entry name="Orks/GreenTideGrowthDescription" value="Increases the growth rate."/>
+	<entry name="Orks/GreenTideGrowthDescription" value="Aumenta a taxa de crescimento."/>
 	<entry name="Orks/GreenTideGrowthFlavor" value="<string name='Traits/Orks/GreenTideFlavor'/>"/>
 	<entry name="Orks/GreenTideHealing" value="<string name='Traits/Orks/GreenTide'/>"/>
-	<entry name="Orks/GreenTideHealingDescription" value="Increases the healing rate."/>
+	<entry name="Orks/GreenTideHealingDescription" value="Aumenta a taxa de cura."/>
 	<entry name="Orks/GreenTideHealingFlavor" value="<string name='Traits/Orks/GreenTideFlavor'/>"/>
-	<entry name="Orks/GrotGunner" value="Grot Gunner"/>
-	<entry name="Orks/GrotGunnerDescription" value="Increases the accuracy of Big Shootas and Twin-Linked Big Shootas."/>
+	<entry name="Orks/GrotGunner" value="Grot Artilheiro"/>
+	<entry name="Orks/GrotGunnerDescription" value="Aumenta a precisão de Big Shootas e Big Shootas Duplicadas."/>
 	<entry name="Orks/KustomForceField" value="<string name='Actions/Orks/KustomForceField'/>"/>
-	<entry name="Orks/KustomForceFieldDescription" value="Increases the ranged damage reduction."/>
+	<entry name="Orks/KustomForceFieldDescription" value="Aumenta a redução de dano à distância."/>
 	<entry name="Orks/KustomForceFieldFlavor" value="<string name='Actions/Orks/KustomForceFieldFlavor'/>"/>
 	<entry name="Orks/MeleeDamage" value="Bigga Choppas"/>
-	<entry name="Orks/MeleeDamageDescription" value="Increases the armour penetration."/>
-	<entry name="Orks/MeleeDamageFlavor" value="When Orks think about upgrades, they don't think very hard. Mega-armour, Gigashootas… and bigga choppas. If you can carry it, you can swing it, and if you can swing it, you can hit someone with it."/>
-	<entry name="Orks/MightMakesRight" value="Might Makes Right"/>
-	<entry name="Orks/MightMakesRightDescription" value="Grants influence when attacking."/>
-	<entry name="Orks/MightMakesRightFlavor" value="The Orks only really feel alive when they're in a Waaagh! and a Waaagh! can only thrive through constant battle. As long as Orks are fighting, the Waaagh! should grow."/>
+	<entry name="Orks/MeleeDamageDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="Orks/MeleeDamageFlavor" value="Quando os Orks pensam em upgrades, não pensam muito. Mega-armaduras, Gigashootas… e Bigga Choppas. Se você consegue carregar, consegue balançar, e se consegue balançar, consegue acertar alguém."/>
+	<entry name="Orks/MightMakesRight" value="O Poder Faz a Lei"/>
+	<entry name="Orks/MightMakesRightDescription" value="Concede influência ao atacar."/>
+	<entry name="Orks/MightMakesRightFlavor" value="Orks só se sentem vivos em um Waaagh!, que só prospera com batalhas constantes. Enquanto lutarem, o Waaagh! cresce."/>
 	<entry name="Orks/ProphetOfTheWaaagh" value="<string name='Actions/Orks/ProphetOfTheWaaagh'/>"/>
-	<entry name="Orks/ProphetOfTheWaaaghDescription" value="Grants influence based on the upkeep when attacking."/>
-	<entry name="Orks/Scavenger" value="Scavenger"/>
-	<entry name="Orks/ScavengerDescription" value="Grants ore when killing an enemy."/>
-	<entry name="Orks/ScavengerFlavor" value="Orks aren't known for their love of labour, preferring to sit around between battles picking bits of Squig out of their mouths and fighting each other. So rather than mine minerals from the ground, they tend to salvage them from, well, anywhere. Or rather their Grot underlings do."/>
+	<entry name="Orks/ProphetOfTheWaaaghDescription" value="Concede influência baseada na manutenção ao atacar."/>
+	<entry name="Orks/Scavenger" value="Catador"/>
+	<entry name="Orks/ScavengerDescription" value="Concede minério ao matar inimigos."/>
+	<entry name="Orks/ScavengerFlavor" value="Orks não são conhecidos pelo amor ao trabalho, preferindo sentar entre batalhas, tirando Squigs da boca e brigando entre si. Assim, em vez de minerar, eles recuperam recursos de qualquer lugar — ou melhor, seus subordinados Grot o fazem."/>
 	<entry name="Orks/WarbikeTurboBoost" value="<string name='Actions/Orks/WarbikeTurboBoost'/>"/>
 	<entry name="Orks/WarbikeTurboBoostDescription" value="<string name='Actions/Orks/WarbikeTurboBoostDescription'/>"/>
 	<entry name="Orks/WarbikeTurboBoostFlavor" value="<string name='Actions/Orks/WarbikeTurboBoostFlavor'/>"/>
@@ -1394,201 +1394,201 @@
 	<entry name="Orks/WarpathDescription" value="<string name='Actions/Orks/WarpathDescription'/>"/>
 	<entry name="Orks/WarpathFlavor" value="<string name='Actions/Orks/WarpathFlavor'/>"/>
 	<entry name="Orks/WingMissiles" value="<string name='Weapons/WingMissiles'/>"/>
-	<entry name="Orks/WingMissilesDescription" value="Increases the accuracy against vehicles."/>
-	<entry name="Outpost" value="Outpost"/>
-	<entry name="OutpostDescription" value="Increases the damage reduction and the healing rate of allied units. Increases the ranged damage reduction of infantry units."/>
-	<entry name="Outflank" value="Outflank"/>
-	<entry name="OutflankDescription" value="Increases the accuracy when adjacent to an allied unit."/>
-	<entry name="OutflankFlavor" value="The best way to surprise an enemy is to strike from an unexpected quarter."/>
-	<entry name="Pinned" value="Pinned"/>
-	<entry name="PinnedDescription" value="Reduces the movement and ranged accuracy, increases the ranged damage reduction and prevents the unit from doing overwatch attacks."/>
-	<entry name="PinnedFlavor" value="Coming under fire without knowing where the shots are coming from, or having ordnance rain down from the skies, can shake the resolve of even the bravest warriors, making them dive flat and cling to whatever cover presents itself."/>
-	<entry name="Pinning" value="Pinning"/>
-	<entry name="PinningDescription" value="Temporarily reduces the movement of the target fearful infantry unit and prevents it from doing overwatch attacks."/>
+	<entry name="Orks/WingMissilesDescription" value="Aumenta a precisão contra veículos."/>
+	<entry name="Outpost" value="Posto Avançado"/>
+	<entry name="OutpostDescription" value="Aumenta a redução de dano e a taxa de cura das unidades aliadas. Aumenta a redução de dano à distância das unidades de infantaria."/>
+	<entry name="Outflank" value="Flanquear"/>
+	<entry name="OutflankDescription" value="Aumenta a precisão quando adjacente a uma unidade aliada."/>
+	<entry name="OutflankFlavor" value="A melhor forma de surpreender um inimigo é atacando de um ponto inesperado."/>
+	<entry name="Pinned" value="Alvo Preso"/>
+	<entry name="PinnedDescription" value="Reduz movimento e precisão à distância, aumenta a redução de dano à distância e impede ataques de overwatch."/>
+	<entry name="PinnedFlavor" value="Sofrer fogo sem saber de onde vem ou ter projéteis caindo do céu pode abalar até os guerreiros mais valentes, fazendo-os se jogar no chão e se agarrar a qualquer cobertura."/>
+	<entry name="Pinning" value="Imobilizando"/>
+	<entry name="PinningDescription" value="Reduz temporariamente o movimento da unidade inimiga e impede ataques de overwatch."/>
 	<entry name="PinningFlavor" value="<string name='Traits/PinnedFlavor'/>"/>
-	<entry name="Poisoned" value="Poisoned"/>
-	<entry name="PoisonedDescription" value="Increases the damage against infantry and monstrous creature units."/>
-	<entry name="PoisonedFlavor" value="There are many virulent and lethal poisons in the dark future. It is simplicity itself to adapt such toxins for battlefield use. It does not matter whether they coat weapon-blades or bullets, or are secreted by alien monstrosities – all are lethal."/>
+	<entry name="Poisoned" value="Envenenado"/>
+	<entry name="PoisonedDescription" value="Aumenta o dano contra unidades de infantaria e criaturas monstruosas."/>
+	<entry name="PoisonedFlavor" value="Existem muitos venenos letais no futuro sombrio. Adaptá-los para o campo de batalha é simples. Não importa se cobrem lâminas, projéteis ou são secretados por monstros alienígenas — todos são letais."/>
 	<entry name="PowerOfTheMachineSpirit" value="<string name='Actions/PowerOfTheMachineSpirit'/>"/>
 	<entry name="PowerOfTheMachineSpiritDescription" value="<string name='Actions/PowerOfTheMachineSpiritDescription'/>"/>
 	<entry name="PowerOfTheMachineSpiritFlavor" value="<string name='Actions/PowerOfTheMachineSpiritFlavor'/>"/>
-	<entry name="PrecisionShots" value="Precision Shots"/>
-	<entry name="PrecisionShotsDescription" value="Increases the accuracy."/>
-	<entry name="PreferredEnemy" value="Preferred Enemy"/>
-	<entry name="PreferredEnemyDescription" value="Increases the accuracy."/>
-	<entry name="PreferredEnemyFlavor" value="Many of the galaxy's warriors train hard to overcome a particular foe, allowing them to predict the enemy's battlestances and thus land a blow or shot with greater ease."/>
-	<entry name="PrimaryWeapon" value="Primary Weapon"/>
-	<entry name="PrimaryWeaponDescription" value="Increases the armour penetration."/>
-	<entry name="PsychicBlock" value="Psychic Block"/>
-	<entry name="PsychicBlockDescription" value="Blocks the damage and effects of the next enemy psychic power."/>
-	<entry name="PsychicHood" value="Psychic Hood"/>
-	<entry name="PsychicHoodDescription" value="Increases the witchfire damage reduction."/>
-	<entry name="PsychicLash" value="Psychic Lash"/>
-	<entry name="PsychicLashDescription" value="Attacks penetrate all armour."/>
-	<entry name="PsychicPower" value="Psychic Power"/>
-	<entry name="PsychicPowerDescription" value="Classification."/>
-	<entry name="PsychneueinInfest" value="Psychneuein Infest"/>
-	<entry name="PsychneueinInfestDescription" value="Causes the target unit to spawn a Psychneuein when killed."/>
-	<entry name="PsychneueinInfestation" value="Psychneuein Infestation"/>
-	<entry name="PsychneueinInfestationDescription" value="Spawns a Psychneuein when dying."/>
-	<entry name="Psyker" value="Psyker"/>
-	<entry name="PsykerDescription" value="Classification."/>
-	<entry name="PsykerFlavor" value="Psykers are battlefield mystics who harness the power of the Warp."/>
-	<entry name="Rage" value="Rage"/>
-	<entry name="RageDescription" value="Increases the attacks."/>
-	<entry name="RageFlavor" value="Bloodlust is a powerful weapon on the battlefield, spurring a warrior to hack his foes apart in a flurry of mindless (but eminently satisfying) carnage."/>
-	<entry name="Rampage" value="Rampage"/>
-	<entry name="RampageDescription" value="Increases the attacks when there are more enemies than allies in adjacent tiles."/>
-	<entry name="RampageFlavor" value="For some warriors, being outnumbered is not a cause for despair, but a call to set about their foes with a berserk counter-attack."/>
-	<entry name="RapidFire" value="Rapid Fire"/>
-	<entry name="RapidFireDescription" value="Doubles the attacks at half range."/>
-	<entry name="RecoveryGear" value="Recovery Gear"/>
-	<entry name="RecoveryGearDescription" value="Increases the healing rate."/>
-	<entry name="RecoveryGearFlavor" value="Many crews load their vehicles with collections of tools, tow cables and other useful kit that can make the difference between digging an immobilized vehicle out of a tight spot or having to abandon it to its fate."/>
-	<entry name="RedPaintJob" value="Red Paint Job"/>
-	<entry name="RedPaintJobDescription" value="Increases the damage."/>
-	<entry name="RedPaintJobFlavor" value="Orks believe that a vehicle painted red can outstrip a similar vehicle that isn't. As odd as it may seem, they're not wrong."/>
-	<entry name="RefractorField" value="Refractor Field"/>
-	<entry name="RefractorFieldDescription" value="Increases the damage reduction."/>
-	<entry name="RefractorFieldFlavor" value="Often carried by high-ranking officers and Imperial heroes, shimmering refractor fields refract incoming energy around their bearer, batting aside blasts and swinging blades that would otherwise lay them low."/>
-	<entry name="Regeneration" value="Regeneration"/>
-	<entry name="RegenerationDescription" value="Restores hitpoints each turn."/>
-	<entry name="RegenerationFlavor" value="Some units have the ability to recover from horrendous wounds and injuries that should have proven fatal."/>
-	<entry name="Relentless" value="Relentless"/>
-	<entry name="RelentlessDescription" value="Negates the penalty for heavy, ordnance and salvo weapons."/>
-	<entry name="RelentlessFlavor" value="Relentless warriors are strong of arm—nothing can slow their implacable advance."/>
-	<entry name="RelicPlating" value="Relic Plating"/>
-	<entry name="RelicPlatingDescription" value="Increases the witchfire damage reduction."/>
-	<entry name="RelicPlatingFlavor" value="Occasionally a crew will achieve an empathic relationship with the machine spirit of their battle tank. When such a crew perishes, their remains may be interred within their vehicle, spirits lingering protectively to drive away the baleful energies of the void."/>
-	<entry name="Rending" value="Rending"/>
-	<entry name="RendingDescription" value="Increases the damage and armour penetration."/>
-	<entry name="RendingFlavor" value="Some weapons can inflict critical strikes against which no armour can protect."/>
-	<entry name="RepulsorGrid" value="Repulsor Grid"/>
-	<entry name="RepulsorGridDescription" value="Increases the ranged damage reduction and returns ranged damage from weapons that are not blast, template or witchfire back to the attacker."/>
-	<entry name="RitesOfWar" value="Rites of War"/>
-	<entry name="RitesOfWarDescription" value="Increases the damage."/>
+	<entry name="PrecisionShots" value="Tiros Precisos"/>
+	<entry name="PrecisionShotsDescription" value="Aumenta a precisão."/>
+	<entry name="PreferredEnemy" value="Inimigo Preferido"/>
+	<entry name="PreferredEnemyDescription" value="Aumenta a precisão."/>
+	<entry name="PreferredEnemyFlavor" value="Muitos guerreiros da galáxia treinam para superar um inimigo específico, permitindo prever suas posições e acertar golpes com mais facilidade."/>
+	<entry name="PrimaryWeapon" value="Arma Primária"/>
+	<entry name="PrimaryWeaponDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="PsychicBlock" value="Bloqueio Psíquico"/>
+	<entry name="PsychicBlockDescription" value="Bloqueia o dano e efeitos do próximo poder psíquico inimigo."/>
+	<entry name="PsychicHood" value="Capuz Psíquico"/>
+	<entry name="PsychicHoodDescription" value="Aumenta a redução de dano do witchfire."/>
+	<entry name="PsychicLash" value="Chicote Psíquico"/>
+	<entry name="PsychicLashDescription" value="Ataques penetram toda armadura."/>
+	<entry name="PsychicPower" value="Poder Psíquico"/>
+	<entry name="PsychicPowerDescription" value="Classificação."/>
+	<entry name="PsychneueinInfest" value="Infestação Psychneuein"/>
+	<entry name="PsychneueinInfestDescription" value="Faz a unidade-alvo gerar um Psychneuein ao ser morta."/>
+	<entry name="PsychneueinInfestation" value="Infestação de Psychneuein"/>
+	<entry name="PsychneueinInfestationDescription" value="Gera um Psychneuein ao morrer."/>
+	<entry name="Psyker" value="Psíquico"/>
+	<entry name="PsykerDescription" value="Classificação."/>
+	<entry name="PsykerFlavor" value="Psíquicos são místicos do campo de batalha que utilizam o poder do Warp."/>
+	<entry name="Rage" value="Fúria"/>
+	<entry name="RageDescription" value="Aumenta os ataques."/>
+	<entry name="RageFlavor" value="A sede de sangue é uma arma poderosa, impulsionando o guerreiro a dilacerar seus inimigos em uma carnificina insana (mas muito satisfatória)."/>
+	<entry name="Rampage" value="Frenesi"/>
+	<entry name="RampageDescription" value="Aumenta os ataques quando há mais inimigos do que aliados em tiles adjacentes."/>
+	<entry name="RampageFlavor" value="Para alguns guerreiros, estar em menor número não é motivo de desespero, mas um chamado para contra-atacar berserk."/>
+	<entry name="RapidFire" value="Tiro Rápido"/>
+	<entry name="RapidFireDescription" value="Dobra os ataques em metade do alcance."/>
+	<entry name="RecoveryGear" value="Equipamento de Recuperação"/>
+	<entry name="RecoveryGearDescription" value="Aumenta a taxa de cura."/>
+	<entry name="RecoveryGearFlavor" value="Muitas equipes carregam seus veículos com ferramentas, cabos de reboque e outros equipamentos que podem fazer a diferença entre resgatar um veículo imobilizado ou abandoná-lo."/>
+	<entry name="RedPaintJob" value="Pintura Vermelha"/>
+	<entry name="RedPaintJobDescription" value="Aumenta o dano."/>
+	<entry name="RedPaintJobFlavor" value="Orks acreditam que um veículo pintado de vermelho pode superar um similar que não é. Por mais estranho que pareça, eles não estão errados."/>
+	<entry name="RefractorField" value="Campo Refrator"/>
+	<entry name="RefractorFieldDescription" value="Aumenta a redução de dano."/>
+	<entry name="RefractorFieldFlavor" value="Carregado por oficiais de alto escalão e heróis Imperiais, campos refratores brilham desviando energia, defletindo disparos e lâminas que normalmente os derrubariam."/>
+	<entry name="Regeneration" value="Regeneração"/>
+	<entry name="RegenerationDescription" value="Restaura pontos de vida a cada turno."/>
+	<entry name="RegenerationFlavor" value="Algumas unidades têm a habilidade de se recuperar de ferimentos horrendos e lesões que deveriam ter sido fatais."/>
+	<entry name="Relentless" value="Implacável"/>
+	<entry name="RelentlessDescription" value="Anula a penalidade de armas pesadas, de artilharia e de salva."/>
+	<entry name="RelentlessFlavor" value="Guerreiros implacáveis são fortes de braço — nada pode retardar seu avanço inexorável."/>
+	<entry name="RelicPlating" value="Blindagem Relíquia"/>
+	<entry name="RelicPlatingDescription" value="Aumenta a redução de dano do witchfire."/>
+	<entry name="RelicPlatingFlavor" value="Ocasionalmente, uma tripulação cria uma relação empática com o espírito da máquina de seu tanque de batalha. Quando tal tripulação perece, seus restos podem ser enterrados dentro do veículo, espíritos permanecendo para afastar as energias maléficas do vazio."/>
+	<entry name="Rending" value="Rasgar"/>
+	<entry name="RendingDescription" value="Aumenta o dano e a penetração de armadura."/>
+	<entry name="RendingFlavor" value="Algumas armas podem causar golpes críticos contra os quais nenhuma armadura protege."/>
+	<entry name="RepulsorGrid" value="Grade Repulsora"/>
+	<entry name="RepulsorGridDescription" value="Aumenta a redução de dano à distância e reflete dano de armas à distância que não sejam de explosão, modelo ou witchfire de volta ao atacante."/>
+	<entry name="RitesOfWar" value="Ritos de Guerra"/>
+	<entry name="RitesOfWarDescription" value="Aumenta o dano."/>
 	<entry name="RitesOfWarFlavor" value="<string name='Actions/RitesOfWarFlavor'/>"/>
-	<entry name="Rosarius" value="Rosarius"/>
-	<entry name="RosariusDescription" value="Increases the damage reduction."/>
-	<entry name="RosariusFlavor" value="A rosarius is worn by Space Marine Chaplains for protection and as a symbol of office. It emits a protective energy field around the wearer capable of deflecting blows and shots that would smash a ferrocrete bunker. It is said that the stronger the bearer's belief in the might of the Emperor, the stronger a rosarius' force field will be."/>
-	<entry name="RuinsStealth" value="Ruins Stealth"/>
-	<entry name="RuinsStealthDescription" value="Increases the ranged damage reduction while in imperial ruins."/>
-	<entry name="Salvo" value="Salvo"/>
-	<entry name="SalvoDescription" value="Halves the attacks and range if the unit has moved."/>
-	<entry name="SavantInterlocution" value="Savant Interlocution"/>
-	<entry name="SavantInterlocutionDescription" value="Increases the ranged accuracy against flyers and skimmers when adjacent to an allied Hunter."/>
-	<entry name="SavantLock" value="Savant Lock"/>
-	<entry name="SavantLockDescription" value="Increases the accuracy against flyers, jetbikes and skimmers."/>
+	<entry name="Rosarius" value="Rosário"/>
+	<entry name="RosariusDescription" value="Aumenta a redução de dano."/>
+	<entry name="RosariusFlavor" value="O rosário é usado por Capelães dos Space Marines para proteção e como símbolo de cargo. Emite um campo de energia protetor ao redor do portador, capaz de desviar golpes e tiros que destruiriam um bunker de ferrocimento. Quanto mais forte a fé do portador no poder do Imperador, mais forte será o campo do rosário."/>
+	<entry name="RuinsStealth" value="Furtividade em Ruínas"/>
+	<entry name="RuinsStealthDescription" value="Aumenta a redução de dano à distância enquanto nas ruínas imperiais."/>
+	<entry name="Salvo" value="Salva"/>
+	<entry name="SalvoDescription" value="Reduz pela metade os ataques e o alcance se a unidade se moveu."/>
+	<entry name="SavantInterlocution" value="Interlocução do Sábio"/>
+	<entry name="SavantInterlocutionDescription" value="Aumenta a precisão contra voadores e skimmers quando adjacente a um Caçador aliado."/>
+	<entry name="SavantLock" value="Tranca do Sábio"/>
+	<entry name="SavantLockDescription" value="Aumenta a precisão contra voadores, jetbikes e skimmers."/>
 	<entry name="SeekerMissile" value="<string name='Weapons/SeekerMissile'/>"/>
-	<entry name="SeekerMissileDescription" value="Reduced range against targets not acquired by markerlight. Does not require line of sight against targets acquired by markerlight."/>
+	<entry name="SeekerMissileDescription" value="Alcance reduzido contra alvos não marcados por markerlight. Não requer linha de visão contra alvos marcados por markerlight."/>
 	<entry name="SeekerMissileFlavor" value="<string name='Weapons/SeekerMissileFlavor'/>"/>
-	<entry name="Seeking" value="Seeking"/>
-	<entry name="SeekingDescription" value="Increases the ranged accuracy against flyers."/>
-	<entry name="Shaken" value="Shaken"/>
-	<entry name="ShakenDescription" value="Reduces the accuracy and increases the damage taken."/>
-	<entry name="Shielded" value="Shielded"/>
-	<entry name="ShieldedDescription" value="Increases the damage reduction."/>
-	<entry name="ShieldedFlavor" value="Some warriors are protected by more than mere physical armour. They may be shielded by force fields, enveloped in mystical energies or have a constitution that can shrug off hits that would put holes in a battle tank."/>
-	<entry name="Shop" value="Shop"/>
-	<entry name="ShopDescription" value="Allows hero units to purchase and sell items."/>
-	<entry name="Shred" value="Shred"/>
-	<entry name="ShredDescription" value="Increases the damage."/>
-	<entry name="ShredFlavor" value="Some weapons and warriors strike in a flurry of blows, tearing flesh asunder in a series of brutal strikes."/>
-	<entry name="Shrouded" value="Shrouded"/>
-	<entry name="ShroudedDescription" value="Increases the ranged damage reduction."/>
-	<entry name="ShroudedFlavor" value="The source of the darkness around these warriors matters not—only a lucky shot has any chance of piercing the shroud that hides them from view."/>
-	<entry name="SiegeMasters" value="Siege Masters"/>
-	<entry name="SiegeMastersDescription" value="Increases the damage against enemy units in cities and fortifications."/>
-	<entry name="SiegeShield" value="Siege Shield"/>
-	<entry name="SiegeShieldDescription" value="Increases the armour and reduces the movement penalty in forests and imperial ruins."/>
-	<entry name="SiegeShieldFlavor" value="Many Vindicators are equipped with an enormous bulldozer blade, allowing them to shoulder aside battlefield detritus without risk."/>
+	<entry name="Seeking" value="Busca"/>
+	<entry name="SeekingDescription" value="Aumenta a precisão à distância contra voadores."/>
+	<entry name="Shaken" value="Abalado"/>
+	<entry name="ShakenDescription" value="Reduz a precisão e aumenta o dano recebido."/>
+	<entry name="Shielded" value="Protegido"/>
+	<entry name="ShieldedDescription" value="Aumenta a redução de dano."/>
+	<entry name="ShieldedFlavor" value="Alguns guerreiros são protegidos por mais do que armadura física. Podem estar protegidos por campos de força, envoltos em energias místicas ou possuir constituição capaz de suportar golpes que abririam buracos em um tanque de batalha."/>
+	<entry name="Shop" value="Loja"/>
+	<entry name="ShopDescription" value="Permite que unidades heróicas comprem e vendam itens."/>
+	<entry name="Shred" value="Dilacerar"/>
+	<entry name="ShredDescription" value="Aumenta o dano."/>
+	<entry name="ShredFlavor" value="Algumas armas e guerreiros atacam em uma série de golpes, dilacerando a carne em uma sequência brutal."/>
+	<entry name="Shrouded" value="Encoberto"/>
+	<entry name="ShroudedDescription" value="Aumenta a redução de dano à distância."/>
+	<entry name="ShroudedFlavor" value="A origem da escuridão ao redor desses guerreiros não importa — apenas um tiro de sorte pode atravessar o manto que os esconde da vista."/>
+	<entry name="SiegeMasters" value="Mestres do Cerco"/>
+	<entry name="SiegeMastersDescription" value="Aumenta o dano contra unidades inimigas em cidades e fortificações."/>
+	<entry name="SiegeShield" value="Escudo de Cerco"/>
+	<entry name="SiegeShieldDescription" value="Aumenta a armadura e reduz a penalidade de movimento em florestas e ruínas imperiais."/>
+	<entry name="SiegeShieldFlavor" value="Muitos Vindicators possuem uma enorme lâmina de trator, permitindo mover detritos do campo de batalha sem risco."/>
 	<entry name="Signum" value="Signum"/>
-	<entry name="SignumDescription" value="Increases the ranged accuracy."/>
+	<entry name="SignumDescription" value="Aumenta a precisão à distância."/>
 	<entry name="SignumFlavor" value="<string name='Actions/SignumFlavor'/>"/>
-	<entry name="SistersOfBattle/ActOfFaith" value="Act of Faith"/>
-	<entry name="SistersOfBattle/ActOfFaithDescription" value="Can perform Acts of Faith if the unit is not broken or shaken."/>
-	<entry name="SistersOfBattle/ActOfFaithFlavor" value="The Adepta Sororitas can draw upon the wellspring of their faith and call upon the Emperor to guide their actions. So does absolute belief in the Imperial Creed allow the Sisters of Battle to perform the seemingly impossible upon the battlefield. Yet miracles are not to be relied upon as a matter of course. At the heart of the Imperial Creed is the belief that the divine Emperor relies on his followers to create their own salvation, but also that if the situation is sufficiently bleak, he will intervene to deliver his true servants."/>
-	<entry name="SistersOfBattle/AnchoriteSarcophagus" value="Anchorite Sarcophagus"/>
-	<entry name="SistersOfBattle/AnchoriteSarcophagusDescription" value="Increases the armour."/>
-	<entry name="SistersOfBattle/AnchoriteSarcophagusFlavor" value="To those Repentia who not only fled, but betrayed their Sisters in battle, an even worse fate awaits. After being wired into the crucible of their Mortifier they are further entombed behind thick adamantine casing. This sarcophagus protects their tortured bodies from incoming fire and desperately swung blades, denying them the release of death."/>
-	<entry name="SistersOfBattle/AngelicVisage" value="Angelic Visage"/>
-	<entry name="SistersOfBattle/AngelicVisageDescription" value="Increases the damage reduction."/>
-	<entry name="SistersOfBattle/AngelicVisageFlavor" value="Beatifically smiling, Zephyrim deflect the strikes of their foes with fluid grace before landing a killing blow of their own, typically with a point-blank headshot from a bolt pistol or a strike of their power sword."/>
-	<entry name="SistersOfBattle/AnguishOfTheUnredeemed" value="Anguish Of The Unredeemed"/>
-	<entry name="SistersOfBattle/AnguishOfTheUnredeemedDescription" value="Damages melee attacker on death."/>
-	<entry name="SistersOfBattle/AnguishOfTheUnredeemedFlavor" value="Mortifiers blaze a trail of destruction with their flamers before charging headlong into the foe, guilt and pain driving them on, heedless of danger. Even as they die, they strike at their enemy, striving for redemption with every moment."/>
-	<entry name="SistersOfBattle/ArmourOfSaintKatherine" value="Armour Of Saint Katherine"/>
-	<entry name="SistersOfBattle/ArmourOfSaintKatherineDescription" value="Increases the damage reduction."/>
-	<entry name="SistersOfBattle/ArmourOfSaintKatherineFlavor" value="Ever since this revered suit of armour was anointed with a vial of blood from the martyred Saint Katherine it has been believed to have sacred powers of protection."/>
-	<entry name="SistersOfBattle/AssaultWeaponBonus" value="Furious Fusillade"/>
-	<entry name="SistersOfBattle/AssaultWeaponBonusDescription" value="Increases the armour penetration."/>
-	<entry name="SistersOfBattle/AssaultWeaponBonusFlavor" value="“The right attack, carefully placed, can defeat the most overwhelming of enemies. However, if we do not know the right attack? Then an overwhelming, inchoate assault will hit the right spot, eventually…”<br/>  — Canoness Vandire, In Nomine Strategi"/>
-	<entry name="SistersOfBattle/AvengingZeal" value="Avenging Zeal"/>
-	<entry name="SistersOfBattle/AvengingZealDescription" value="Reduces the morale loss."/>
+	<entry name="SistersOfBattle/ActOfFaith" value="Ato de Fé"/>
+	<entry name="SistersOfBattle/ActOfFaithDescription" value="Pode realizar Atos de Fé se a unidade não estiver quebrada ou abalada."/>
+	<entry name="SistersOfBattle/ActOfFaithFlavor" value="As Adepta Sororitas podem invocar sua fé e chamar o Imperador para guiar suas ações. A crença absoluta no Credo Imperial permite que realizem feitos impossíveis no campo de batalha. Contudo, milagres não são garantidos; o Imperador espera que seus seguidores criem sua própria salvação, mas intervirá em situações críticas."/>
+	<entry name="SistersOfBattle/AnchoriteSarcophagus" value="Sarcófago Anacoreta"/>
+	<entry name="SistersOfBattle/AnchoriteSarcophagusDescription" value="Aumenta a armadura."/>
+	<entry name="SistersOfBattle/AnchoriteSarcophagusFlavor" value="Para as Repentia que fugiram ou traíram suas Irmãs em batalha, um destino pior aguarda. Após serem conectadas ao crisol do Mortifier, são ainda mais aprisionadas em grossas camadas de adamantina, protegendo seus corpos torturados de fogo inimigo e lâminas, negando-lhes a libertação da morte."/>
+	<entry name="SistersOfBattle/AngelicVisage" value="Visagem Angelical"/>
+	<entry name="SistersOfBattle/AngelicVisageDescription" value="Aumenta a redução de dano."/>
+	<entry name="SistersOfBattle/AngelicVisageFlavor" value="Sorrindo beatificamente, Zephyrim desviam ataques inimigos com graça antes de desferir golpes letais, geralmente com um tiro de pistola bolter à queima-roupa ou um ataque com espada de energia."/>
+	<entry name="SistersOfBattle/AnguishOfTheUnredeemed" value="Angústia dos Não Redimidos"/>
+	<entry name="SistersOfBattle/AnguishOfTheUnredeemedDescription" value="Causa dano ao atacante corpo a corpo ao morrer."/>
+	<entry name="SistersOfBattle/AnguishOfTheUnredeemedFlavor" value="Mortifiers abrem caminho em chamas antes de avançar contra o inimigo, movidos por culpa e dor. Mesmo ao morrer, atacam o inimigo, buscando redenção a cada instante."/>
+	<entry name="SistersOfBattle/ArmourOfSaintKatherine" value="Armadura de Santa Catarina"/>
+	<entry name="SistersOfBattle/ArmourOfSaintKatherineDescription" value="Aumenta a redução de dano."/>
+	<entry name="SistersOfBattle/ArmourOfSaintKatherineFlavor" value="Desde que essa armadura reverenciada foi ungida com um frasco de sangue da mártir Santa Catarina, acredita-se que possua poderes sagrados de proteção."/>
+	<entry name="SistersOfBattle/AssaultWeaponBonus" value="Fuzilada Furiosa"/>
+	<entry name="SistersOfBattle/AssaultWeaponBonusDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="SistersOfBattle/AssaultWeaponBonusFlavor" value="“O ataque certo, cuidadosamente posicionado, pode derrotar os inimigos mais formidáveis. Mas se não conhecemos o ataque certo? Então um assalto caótico e massivo acertará o ponto certo, eventualmente…”<br/>  — Canoness Vandire, In Nomine Strategi"/>
+	<entry name="SistersOfBattle/AvengingZeal" value="Zelo Vingador"/>
+	<entry name="SistersOfBattle/AvengingZealDescription" value="Reduz a perda de moral."/>
 	<entry name="SistersOfBattle/AvengingZealFlavor" value="<string name='Traits/SistersOfBattle/MartyrSpiritFlavor'/>"/>
-	<entry name="SistersOfBattle/BerserkKillingMachine" value="Berserk Killing Machine"/>
-	<entry name="SistersOfBattle/BerserkKillingMachineDescription" value="Increases the damage reduction."/>
-	<entry name="SistersOfBattle/BerserkKillingMachineFlavor" value="Tormented by neuro-agoniser arrays that amplify her self-loathing and divorced from her Sisters’ prayers by an enclosing baffle around her head, the unfortunate pilot’s spiritual suffering fuels the Mortifier. They storm forward as terrifying shock troops, before crashing into their foe."/>
-	<entry name="SistersOfBattle/BloodyResolution" value="Bloody Resolution"/>
-	<entry name="SistersOfBattle/BloodyResolutionDescription" value="Reduces the morale loss."/>
+	<entry name="SistersOfBattle/BerserkKillingMachine" value="Máquina de Matar Berserk"/>
+	<entry name="SistersOfBattle/BerserkKillingMachineDescription" value="Aumenta a redução de dano."/>
+	<entry name="SistersOfBattle/BerserkKillingMachineFlavor" value="Atormentada por neuro-agonizadores que amplificam seu ódio próprio e separada das orações das Irmãs por uma blindagem ao redor da cabeça, o sofrimento espiritual da piloto alimenta o Mortifier. Avançam como tropas de choque aterrorizantes antes de colidir com o inimigo."/>
+	<entry name="SistersOfBattle/BloodyResolution" value="Resolução Sangrenta"/>
+	<entry name="SistersOfBattle/BloodyResolutionDescription" value="Reduz a perda de moral."/>
 	<entry name="SistersOfBattle/BloodyResolutionFlavor" value="<string name='Traits/SistersOfBattle/MartyrdomFlavor'/>"/>
 	<entry name="SistersOfBattle/CatechismOfRepugnance" value="<string name='Actions/SistersOfBattle/CatechismOfRepugnance'/>"/>
 	<entry name="SistersOfBattle/CatechismOfRepugnanceDescription" value="<string name='Actions/SistersOfBattle/CatechismOfRepugnanceDescription'/>"/>
 	<entry name="SistersOfBattle/CatechismOfRepugnanceFlavor" value="<string name='Actions/SistersOfBattle/CatechismOfRepugnanceFlavor'/>"/>
-	<entry name="SistersOfBattle/CityGrowth" value="Novitiates Recruitment"/>
-	<entry name="SistersOfBattle/CityGrowthDescription" value="Increases the growth rate."/>
-	<entry name="SistersOfBattle/CityGrowthFlavor" value="The Ork invasion and subsequent war on Gladius Prime left many, many orphans. Sending missionaries and preachers into the wastes to recruit for the armies of the Imperium will bolster our city’s growth."/>
-	<entry name="SistersOfBattle/CityTier2" value="Preceptory Annexes"/>
-	<entry name="SistersOfBattle/CityTier2Description" value="Increases the tile acquisition radius."/>
-	<entry name="SistersOfBattle/CityTier2Flavor" value="Given the numbers of refugees pouring into the Preceptory from the ruined hives and wastelands of Gladius Prime, the Canoness Superior has ordered that we sanctify new land for use, bringing any natives into the fold—willingly or not."/>
-	<entry name="SistersOfBattle/CityTier3" value="Sanctuary Fortress"/>
-	<entry name="SistersOfBattle/CityTier3Description" value="Increases the tile acquisition radius."/>
-	<entry name="SistersOfBattle/CityTier3Flavor" value="The Preceptory is more of a city now, resembling the hive cities that once dotted the planet’s surface. Beneath its bulk lies an undercity, above it tower spires and chantries. Perhaps only the Fortress-Monasteries of the Adeptus Astartes rival it in scale and holy adornment."/>
+	<entry name="SistersOfBattle/CityGrowth" value="Recrutamento de Novícias"/>
+	<entry name="SistersOfBattle/CityGrowthDescription" value="Aumenta a taxa de crescimento."/>
+	<entry name="SistersOfBattle/CityGrowthFlavor" value="A invasão Ork e a subsequente guerra em Gladius Prime deixaram muitos órfãos. Enviar missionários e pregadores aos desertos para recrutar para os exércitos do Império fortalecerá o crescimento de nossa cidade."/>
+	<entry name="SistersOfBattle/CityTier2" value="Anexos do Preceptório"/>
+	<entry name="SistersOfBattle/CityTier2Description" value="Aumenta o raio de aquisição de tiles."/>
+	<entry name="SistersOfBattle/CityTier2Flavor" value="Diante do grande número de refugiados chegando ao Preceptório vindos das colmeias e desertos arruinados de Gladius Prime, a Canoness Superior ordenou que santificássemos novas terras para uso, incorporando qualquer nativo — voluntariamente ou não."/>
+	<entry name="SistersOfBattle/CityTier3" value="Fortaleza Santuário"/>
+	<entry name="SistersOfBattle/CityTier3Description" value="Aumenta o raio de aquisição de tiles."/>
+	<entry name="SistersOfBattle/CityTier3Flavor" value="O Preceptório é agora mais parecido com uma cidade, lembrando as cidades-colmeia que outrora pontilhavam a superfície do planeta. Abaixo de sua massa existe uma cidade subterrânea, acima torres e capelas. Talvez apenas os Monastérios-Fortaleza dos Adeptus Astartes rivalizem em escala e adorno sagrado."/>
 	<entry name="SistersOfBattle/DivineDeliverance" value="<string name='Actions/SistersOfBattle/DivineDeliverance'/>"/>
 	<entry name="SistersOfBattle/DivineDeliveranceDescription" value="<string name='Actions/SistersOfBattle/DivineDeliveranceDescription'/>"/>
 	<entry name="SistersOfBattle/DivineDeliveranceFlavor" value="<string name='Actions/SistersOfBattle/DivineDeliveranceFlavor'/>"/>
-	<entry name="SistersOfBattle/EternalCrusade" value="Eternal Crusade"/>
-	<entry name="SistersOfBattle/EternalCrusadeDescription" value="Increases the production output."/>
-	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="“And we shall not rest, for the God-Emperor’s eye is on us. He sees every soul saved and knows that the number imperilled far outweighs it. We cannot stop, we cannot slow—ours is an eternal crusade.”<br/>  — Canoness Vandire, In Memoriam De Virtute"/>
-	<entry name="SistersOfBattle/ExpertFighters" value="Expert Fighters"/>
-	<entry name="SistersOfBattle/ExpertFightersDescription" value="Increases the accuracy."/>
-	<entry name="SistersOfBattle/ExpertFightersFlavor" value="In most strike wings a handful of aircrafts are flown by veteran pilotes. These fighter aces are truly dangerous foes, able to predict the reaction of their prey with uncanny precision. Few of them survive beyond one or two campaigns as they draw the most dangerous missions where only the most experienced prevail."/>
-	<entry name="SistersOfBattle/FlankSpeed" value="Flank Speed"/>
-	<entry name="SistersOfBattle/FlankSpeedDescription" value="Increases the movement, but prevents the use of ranged weapons."/>
-	<entry name="SistersOfBattle/FlankSpeedFlavor" value="“One should not question the nobility of Questor Imperialis. But for faith, none can match the Knight-Lancer, which goes into battle armed only with a spear and its own prodigious speed, praying that it makes it to the enemy lines. It is a fine match for our forces.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
-	<entry name="SistersOfBattle/HeavyWeaponBonus" value="Enhanced Ordnance"/>
-	<entry name="SistersOfBattle/HeavyWeaponBonusDescription" value="Increases the armour penetration."/>
-	<entry name="SistersOfBattle/HeavyWeaponBonusFlavor" value="“Over the shells of the Castigator, we sprinkle the soil of holy Terra, raise our voices in prayer, and genuflect before the Shrine of St Katherine. Then we add 25% more explosive to each shell and cap them with adamantium.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
-	<entry name="SistersOfBattle/IonGauntletShield" value="Ion Gauntlet Shield"/>
-	<entry name="SistersOfBattle/IonGauntletShieldDescription" value="Increases the damage reduction."/>
-	<entry name="SistersOfBattle/IonGauntletShieldFlavor" value="The ion gauntlet shield generator mounted in the Cerastus’ right gauntlet assembly is more concentrated than the directional ion shield mounted on the Knight Paladin, but lacks its tactical flexibility."/>
-	<entry name="SistersOfBattle/KeepersOfTheFaith" value="Keepers of the Faith"/>
-	<entry name="SistersOfBattle/KeepersOfTheFaithDescription" value="Prevents overwatch, but increases damage reduction."/>
-	<entry name="SistersOfBattle/KeepersOfTheFaithFlavor" value="“Reason says, fire when you see the enemy. Reason says, use cover when the enemy fires at you. Reason says, die when you are shot. Reason does not understand our faith and how we keep it.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
-	<entry name="SistersOfBattle/KnightParry" value="Knight Parry"/>
-	<entry name="SistersOfBattle/KnightParryDescription" value="Reduces the melee accuracy."/>
-	<entry name="SistersOfBattle/KnightParryFlavor" value="The ion gauntlet shield generator mounted in the Cerastus’ right gauntlet assembly can be used to deflect the mightiest hits in close-combat."/>
-	<entry name="SistersOfBattle/LaudHailer" value="Laud Hailer"/>
-	<entry name="SistersOfBattle/LaudHailerDescription" value="This unit can still perform acts of faith if it is shaken."/>
+	<entry name="SistersOfBattle/EternalCrusade" value="Cruzada Eterna"/>
+	<entry name="SistersOfBattle/EternalCrusadeDescription" value="Aumenta a produção."/>
+	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="“E não descansaremos, pois o olho do Deus-Imperador está sobre nós. Ele vê cada alma salva e sabe que o número em perigo é muito maior. Não podemos parar, não podemos desacelerar — nossa é uma cruzada eterna.”<br/>  — Canoness Vandire, In Memoriam De Virtute"/>
+	<entry name="SistersOfBattle/ExpertFighters" value="Combatentes Experientes"/>
+	<entry name="SistersOfBattle/ExpertFightersDescription" value="Aumenta a precisão."/>
+	<entry name="SistersOfBattle/ExpertFightersFlavor" value="Em muitas esquadrilhas, algumas aeronaves são pilotadas por veteranos. Esses ases são inimigos extremamente perigosos, capazes de prever as reações de suas presas com precisão impressionante. Poucos sobrevivem a uma ou duas campanhas, pois assumem as missões mais perigosas, onde apenas os mais experientes prevalecem."/>
+	<entry name="SistersOfBattle/FlankSpeed" value="Velocidade de Flanco"/>
+	<entry name="SistersOfBattle/FlankSpeedDescription" value="Aumenta o movimento, mas impede o uso de armas à distância."/>
+	<entry name="SistersOfBattle/FlankSpeedFlavor" value="“Não se deve questionar a nobreza do Questor Imperialis. Mas em fé, nenhum supera o Knight-Lancer, que vai à batalha armado apenas com uma lança e sua própria velocidade prodigiosa, rezando para alcançar as linhas inimigas. É um excelente aliado para nossas forças.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
+	<entry name="SistersOfBattle/HeavyWeaponBonus" value="Artilharia Aprimorada"/>
+	<entry name="SistersOfBattle/HeavyWeaponBonusDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="SistersOfBattle/HeavyWeaponBonusFlavor" value="“Sobre as conchas do Castigator, espalhamos o solo sagrado de Terra, erguemos nossas vozes em oração e nos ajoelhamos diante do Santuário de Santa Catarina. Então adicionamos 25% a mais de explosivo em cada projétil e os revestimos com adamantium.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
+	<entry name="SistersOfBattle/IonGauntletShield" value="Escudo de Manopla de Íons"/>
+	<entry name="SistersOfBattle/IonGauntletShieldDescription" value="Aumenta a redução de dano."/>
+	<entry name="SistersOfBattle/IonGauntletShieldFlavor" value="O gerador de escudo de manopla de íons montado na manopla direita do Cerastus é mais concentrado que o escudo de íons direcional do Knight Paladin, mas carece de flexibilidade tática."/>
+	<entry name="SistersOfBattle/KeepersOfTheFaith" value="Guardiões da Fé"/>
+	<entry name="SistersOfBattle/KeepersOfTheFaithDescription" value="Previne disparos de sobreposição, mas aumenta a redução de dano."/>
+	<entry name="SistersOfBattle/KeepersOfTheFaithFlavor" value="“A razão diz: atire quando vir o inimigo. A razão diz: use cobertura quando o inimigo atirar. A razão diz: morra quando for atingido. A razão não entende nossa fé nem como a mantemos.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
+	<entry name="SistersOfBattle/KnightParry" value="Parada do Cavaleiro"/>
+	<entry name="SistersOfBattle/KnightParryDescription" value="Reduz a precisão em combate corpo a corpo."/>
+	<entry name="SistersOfBattle/KnightParryFlavor" value="O gerador de escudo de manopla de íons na manopla direita do Cerastus pode desviar os golpes mais poderosos no combate corpo a corpo."/>
+	<entry name="SistersOfBattle/LaudHailer" value="Clamador de Louvores"/>
+	<entry name="SistersOfBattle/LaudHailerDescription" value="Esta unidade ainda pode realizar Atos de Fé se estiver abalada."/>
 	<entry name="SistersOfBattle/LaudHailerFlavor" value="<string name='Actions/SistersOfBattle/LaudHailerFlavor'/>"/>
 	<entry name="SistersOfBattle/LeadTheRighteous" value="<string name='Actions/SistersOfBattle/LeadTheRighteous'/>"/>
-	<entry name="SistersOfBattle/LeadTheRighteousDescription" value="Increases the accuracy."/>
+	<entry name="SistersOfBattle/LeadTheRighteousDescription" value="Aumenta a precisão."/>
 	<entry name="SistersOfBattle/LeadTheRighteousFlavor" value="<string name='Actions/SistersOfBattle/LeadTheRighteousFlavor'/>"/>
 	<entry name="SistersOfBattle/LightOfTheEmperor" value="<string name='Actions/SistersOfBattle/LightOfTheEmperor'/>"/>
 	<entry name="SistersOfBattle/LightOfTheEmperorDescription" value="<string name='Actions/SistersOfBattle/LightOfTheEmperorDescription'/>"/>
 	<entry name="SistersOfBattle/LightOfTheEmperorFlavor" value="<string name='Actions/SistersOfBattle/LightOfTheEmperorFlavor'/>"/>
-	<entry name="SistersOfBattle/Martyrdom" value="Martyrdom"/>
-	<entry name="SistersOfBattle/MartyrdomDescription" value="On death, reduces the morale loss of all allied Adepta Sororitas units."/>
-	<entry name="SistersOfBattle/MartyrdomFlavor" value="The Sisters of the Adepta Sororitas do not give in to despair when their leaders are slain. Instead, the blood of these martyred heroes only strengthens their resolve, the sacrifice inspiring them to great acts of heroism."/>
-	<entry name="SistersOfBattle/MartyrSpirit" value="Martyr Spirit"/>
-	<entry name="SistersOfBattle/MartyrSpiritDescription" value="On death, reduces the morale loss of adjacent allied units with Shield of Faith."/>
-	<entry name="SistersOfBattle/MartyrSpiritFlavor" value="“The loss of our Sisters and auxiliaries saddened us—but encouraged us to redouble our efforts.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
+	<entry name="SistersOfBattle/Martyrdom" value="Martírio"/>
+	<entry name="SistersOfBattle/MartyrdomDescription" value="Ao morrer, reduz a perda de moral de todas as unidades aliadas das Adepta Sororitas."/>
+	<entry name="SistersOfBattle/MartyrdomFlavor" value="As Irmãs da Adepta Sororitas não sucumbem ao desespero quando seus líderes são mortos. O sangue desses heróis mártires fortalece sua determinação, inspirando grandes atos de heroísmo."/>
+	<entry name="SistersOfBattle/MartyrSpirit" value="Espírito Mártir"/>
+	<entry name="SistersOfBattle/MartyrSpiritDescription" value="Ao morrer, reduz a perda de moral das unidades aliadas adjacentes com Escudo de Fé."/>
+	<entry name="SistersOfBattle/MartyrSpiritFlavor" value="“A perda de nossas Irmãs e auxiliares nos entristeceu — mas nos encorajou a redobrar esforços.”<br/>  — Remembrancer desconhecido, Evangelho da Webway"/>
 	<entry name="SistersOfBattle/MedicusMinistorum" value="<string name='Actions/SistersOfBattle/MedicusMinistorum'/>"/>
-	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Increases the damage reduction."/>
+	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Aumenta a redução de dano."/>
 	<entry name="SistersOfBattle/MedicusMinistorumFlavor" value="<string name='Actions/SistersOfBattle/MedicusMinistorumFlavor'/>"/>
-	<entry name="SistersOfBattle/MeleeWeaponBonus" value="Blessed Blades"/>
-	<entry name="SistersOfBattle/MeleeWeaponBonusDescription" value="Increases the armour penetration."/>
-	<entry name="SistersOfBattle/MeleeWeaponBonusFlavor" value="The weapons of the Adepta Sororitas differ little from those requisitioned by the Astra Militarum, save in two regards: the quality of their maintenance; and the sacred benisons and supplications made over them. This latter only can explain the miracles that occur in combat, where these blessed blades find the smallest weakness time and time again."/>
+	<entry name="SistersOfBattle/MeleeWeaponBonus" value="Lâminas Abençoadas"/>
+	<entry name="SistersOfBattle/MeleeWeaponBonusDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="SistersOfBattle/MeleeWeaponBonusFlavor" value="As armas das Adepta Sororitas diferem pouco das requisitadas pelo Astra Militarum, exceto pela manutenção de alta qualidade e pelas bênçãos e súplicas sagradas feitas sobre elas. Somente isso explica os milagres em combate, onde essas lâminas abençoadas encontram a menor fraqueza repetidas vezes."/>
 	<entry name="SistersOfBattle/MiraculousIntervention" value="<string name='Actions/SistersOfBattle/MiraculousIntervention'/>"/>
 	<entry name="SistersOfBattle/MiraculousInterventionDescription" value="<string name='Actions/SistersOfBattle/MiraculousInterventionDescription'/>"/>
 	<entry name="SistersOfBattle/MiraculousInterventionFlavor" value="<string name='Actions/SistersOfBattle/MiraculousInterventionFlavor'/>"/>
