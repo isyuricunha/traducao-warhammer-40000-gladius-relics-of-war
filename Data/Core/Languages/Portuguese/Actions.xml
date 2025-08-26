@@ -207,7 +207,7 @@
 	<entry name="BlessingsOfTheOmnissiahDescription" value="Restaura os pontos de vida da unidade de veículo ou fortificação aliada alvo."/>
 	<entry name="BlessingsOfTheOmnissiahFlavor" value="“Assim invocamos o Deus Máquina.<br/>Assim tornamos inteiro o que foi partido.”<br/>  — Hino da reforja"/>
 	<entry name="BolsterDefences" value="Reforçar Defesas"/>
-	<entry name="BolsterDefencesDescription" value="Aumenta a redução de dano de longo alcance do ladrilho alvo."/>
+	<entry name="BolsterDefencesDescription" value="Aumenta a redução de dano de longo alcance do terreno alvo."/>
 	<entry name="BolsterDefencesFlavor" value="“Cada posição deve ser mantida até o último homem: não deve haver recuo. Com nossas costas contra a parede, e acreditando na justiça de nossa causa, cada um de nós deve lutar até o fim.”<br/>  — Mestre de Guerra Imperial Solon"/>
 	<entry name="BolterDrill" value="Exercício de Bolter"/>
 	<entry name="BolterDrillDescription" value="Tática de Capítulo que aumenta a precisão das armas de bolter."/>
@@ -332,11 +332,11 @@
 	<entry name="ChaosSpaceMarines/SelfRepairFlavor" value="Os espíritos da máquina dos veículos das Legiões Traidoras há muito foram levados ao desespero ou corrompidos por demônios, mas os veículos sobreviventes ganharam algo com essa perda — uma regeneração bruta que remenda o metal profano, para que possam continuar o trabalho dos Deuses Sombrios."/>
 	<!-- Chaos Rhino -->
 	<entry name="ChaosSpaceMarines/ShatterDefences" value="Estilhaçar Defesas"/>
-	<entry name="ChaosSpaceMarines/ShatterDefencesDescription" value="Reduz a redução de dano à distância do ladrilho alvo."/>
+	<entry name="ChaosSpaceMarines/ShatterDefencesDescription" value="Reduz a redução de dano à distância do terreno alvo."/>
 	<entry name="ChaosSpaceMarines/ShatterDefencesFlavor" value="Qualquer que seja a cobertura atrás da qual o inimigo se esconde, um Warpsmith pode recorrer a milênios de experiência em cercos para aconselhar sobre a melhor maneira de contorná-los ou destruí-los."/>
 	<!-- Warpsmith levelable ability. -->
 	<entry name="ChaosSpaceMarines/WarpflameStrike" value="Ataque de Fogo do Warp"/>
-	<entry name="ChaosSpaceMarines/WarpflameStrikeDescription" value="Voa sobre obstáculos até o ladrilho alvo e cega a infantaria inimiga e criaturas monstruosas adjacentes."/>
+	<entry name="ChaosSpaceMarines/WarpflameStrikeDescription" value="Voa sobre obstáculos até o terreno alvo e cega a infantaria inimiga e criaturas monstruosas adjacentes."/>
 	<entry name="ChaosSpaceMarines/WarpflameStrikeFlavor" value="Embora a lesão que eles cortam no tecido do espaço real se feche assim que a matilha de caça passa, a natureza avassaladora de seu ataque geralmente é suficiente para atordoar suas presas até a inatividade. Este momento de hesitação reverente é muitas vezes fatal, pois as garras infernalmente afiadas dos Warp Talons separam cabeças de pescoços e membros de torsos enquanto os caçadores se lançam nas fileiras do inimigo."/>
 	<entry name="ChaosSpaceMarines/WorthyOffering" value="Oferenda Digna"/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingDescription" value="Aumenta a chance de que esta unidade e Campeões do Caos aliados adjacentes recebam uma Bênção do Caos."/>
@@ -344,10 +344,10 @@
 	<!-- Chaos Lord levelable ability. -->
 	<entry name="CleansingFlame" value="<string name='Weapons/CleansingFlame'/>"/>
 	<entry name="CleansingFlameFlavor" value="<string name='Weapons/CleansingFlameFlavor'/>"/>
-	<entry name="ClearTile" value="Limpar Ladrilho"/>
-	<entry name="ClearTileDescription" value="Restaura o ladrilho ao seu estado normal e o limpa de ervas daninhas, locais sagrados, ruínas imperiais e florestas, um de cada vez."/>
+	<entry name="ClearTile" value="Limpar Terreno"/>
+	<entry name="ClearTileDescription" value="Restaura o terreno ao seu estado normal e o limpa de ervas daninhas, locais sagrados, ruínas imperiais e florestas, um de cada vez."/>
 	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
-	<entry name="ClusterMinesDescription" value="Coloca minas de fragmentação no ladrilho adjacente alvo para retardar e danificar inimigos."/>
+	<entry name="ClusterMinesDescription" value="Coloca minas de fragmentação no terreno adjacente alvo para retardar e danificar inimigos."/>
 	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
 	<entry name="ConstructBuilding" value="Construir %1%"/>
 	<entry name="ConstructBuildingHint" value="<style name='Title'/>Construir %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
@@ -373,7 +373,7 @@
 	<entry name="ConstructPlayerAction" value="Construir %1%"/>
 	<entry name="ConstructPlayerActionHint" value="<style name='Title'/>Construir %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="CreateSmokeScreen" value="Criar Cortina de Fumaça"/>
-	<entry name="CreateSmokeScreenDescription" value="Aumenta a redução de dano à distância do ladrilho."/>
+	<entry name="CreateSmokeScreenDescription" value="Aumenta a redução de dano à distância do terreno."/>
 	<entry name="CreateSmokeScreenFlavor" value="Alguns veículos têm pequenos lançadores montados que carregam recipientes de fumaça. Eles são usados para ocultar temporariamente o veículo atrás de nuvens de fumaça, permitindo que ele atravesse áreas abertas com maior segurança — embora ao custo de não poder disparar suas próprias armas."/>
 	<entry name="CycleWeapon" value="Alternar Arma"/>
 	<entry name="CycleWeaponDescription" value="Alterna entre as armas ativas."/>
@@ -383,7 +383,7 @@
 	<entry name="DeedsOfGloryDescription" value="Ao ganhar experiência em combate, o capítulo ganha influência."/>
 	<entry name="DeedsOfGloryFlavor" value="“É dever de um capitão colocar as vidas dos legionários em perigo antes da sua. Há muito pouca glória na galáxia para todos e os oficiais devem ser generosos na confiança que depositam nos outros — pois um dia tais irmãos também deverão ser capitães.”<br/>  — Roboute Guilliman, Primarca dos Ultramarines, Lorde Comandante e Regente Imperial"/>
 	<entry name="DeployCity" value="Implantar Cidade"/>
-	<entry name="DeployCityDescription" value="Operação que implanta a cidade no ladrilho alvo.<br/><br/>Cidades só podem ser implantadas onde não há outras cidades dentro de um raio de %1% ladrilhos."/>
+	<entry name="DeployCityDescription" value="Operação que implanta a cidade no terreno alvo.<br/><br/>Cidades só podem ser implantadas onde não há outras cidades dentro de um raio de %1% terrenos."/>
 	<entry name="DeployFortress" value="<string name='Actions/DeployUnit'/>"/>
 	<entry name="DeployFortressHint" value="<string name='Actions/DeployUnitHint'/>"/>
 	<entry name="DeployUnit" value="Implantar %1%"/>
@@ -412,7 +412,7 @@
 	<entry name="Drukhari/BloodDancerDescription" value="Aumenta a precisão corpo a corpo."/>
 	<entry name="Drukhari/BloodDancerFlavor" value="Uma estrela das arenas de Commorragh, as Súcubos se destacam no combate corpo a corpo. As habilidades que elas exibem diante das multidões em delírio nas areias encharcadas de sangue do chão da arena são igualmente úteis no campo de batalha."/>
 	<entry name="Drukhari/BonusResources" value="Inspeção do Arconte"/>
-	<entry name="Drukhari/BonusResourcesDescription" value="Habilidade de Fome de Almas que aumenta a produção de edifícios que não sejam a sede no ladrilho alvo."/>
+	<entry name="Drukhari/BonusResourcesDescription" value="Habilidade de Fome de Almas que aumenta a produção de edifícios que não sejam a sede no terreno alvo."/>
 	<entry name="Drukhari/BonusResourcesFlavor" value="Não é como se os servos contratados dos Drukhari alguma vez relaxassem em seus trabalhos. No entanto, quando um Arconte dirige seu olhar para eles, eles trabalham mais arduamente, de forma desumana, sabendo que um momento de descontentamento levará a muitas vidas de tormento impossível."/>
 	<entry name="Drukhari/BridesOfDeath" value="Noivas da Morte"/>
 	<entry name="Drukhari/BridesOfDeathDescription" value="Aumenta o dano corpo a corpo desta e das unidades Drukhari adjacentes."/>
@@ -427,7 +427,7 @@
 	<entry name="Drukhari/EnhancedAethersailsDescription" value="Aumenta o movimento."/>
 	<entry name="Drukhari/EnhancedAethersailsFlavor" value="Velas etéreas são usadas para capturar os ventos etéreos que fluem dos portais abertos da teia. Muitas tripulações de veículos são meticulosas na construção dessas velas, incorporando ligas sem atrito, cápsulas vibratórias e lanças anguladas para aumentar suas rajadas de velocidade."/>
 	<entry name="Drukhari/FadeAway" value="Desvanecer"/>
-	<entry name="Drukhari/FadeAwayDescription" value="Teletransporta para o ladrilho explorado alvo."/>
+	<entry name="Drukhari/FadeAwayDescription" value="Teletransporta para o terreno explorado alvo."/>
 	<entry name="Drukhari/FadeAwayFlavor" value="Os medonhos Drukhari do reino sombrio de Aelindrach parecem mover-se entre realidades, passando das sombras de um plano para outro. Por esses meios, esses horrores sobrenaturais podem contornar defesas, guardas e escudos à vontade."/>
 	<entry name="Drukhari/FieldRepairs" value="Reparos no Espaço Real"/>
 	<entry name="Drukhari/FieldRepairsDescription" value="Restaura os pontos de vida."/>
@@ -451,7 +451,7 @@
 	<entry name="Drukhari/RaidFromTheWebwayDescription" value="Invoca um Portal da Teia temporário."/>
 	<entry name="Drukhari/RaidFromTheWebwayFlavor" value="<string name='Units/Drukhari/WebwayPortalFlavor'/>"/>
 	<entry name="Drukhari/RaiderFortress" value="Fundar Fortaleza Saqueadora"/>
-	<entry name="Drukhari/RaiderFortressDescription" value="Funda uma cidade em um Portão da Teia reivindicado.<br/><br/>Cidades só podem ser fundadas onde não há outras cidades dentro de um raio de %1% ladrilhos. Cada cidade após a primeira diminui a lealdade em todas as cidades em %2%."/>
+	<entry name="Drukhari/RaiderFortressDescription" value="Funda uma cidade em um Portão da Teia reivindicado.<br/><br/>Cidades só podem ser fundadas onde não há outras cidades dentro de um raio de %1% terrenos. Cada cidade após a primeira diminui a lealdade em todas as cidades em %2%."/>
 	<entry name="Drukhari/RaiderFortressFlavor" value="É um tributo às antigas tecnologias do império Aeldari caído que o que parece para as raças-rebanho como uma poderosa cidade e fortaleza é para eles um mero ponto de parada, um refúgio temporário durante os saques antes de retornarem à Teia e à sombria Commorragh."/>
 	<entry name="Drukhari/ReservoirOfPain" value="Reservatório de Dor"/>
 	<entry name="Drukhari/ReservoirOfPainDescription" value="Restaura os pontos de vida de uma unidade de infantaria Drukhari aliada se esta unidade atacou neste turno."/>
@@ -556,7 +556,7 @@
 	<entry name="Eldar/WarShoutDescription" value="Reduz a moral das unidades inimigas adjacentes."/>
 	<entry name="Eldar/WarShoutFlavor" value="Na mitologia Aeldari, as banshees pressagiam a morte dos guerreiros com seu uivo. As guerreiras de aspecto Howling Banshee usam uma máscara especializada que amplifica e transforma seus pensamentos em gritos psíquicos. Enquanto seus inimigos estão atordoados, as Banshees se aproximam, com espadas de energia em punho…"/>
 	<entry name="Eldar/WebwayRedoubt" value="Fundar Reduto da Teia"/>
-	<entry name="Eldar/WebwayRedoubtDescription" value="Funda uma cidade em um Portal da Teia reivindicado.&lt;br/&gt;&lt;br/&gt;Cidades só podem ser fundadas onde não há outras cidades em um raio de %1% ladrilhos. Cada cidade após a primeira diminui a lealdade em todas as cidades em %2%."/>
+	<entry name="Eldar/WebwayRedoubtDescription" value="Funda uma cidade em um Portal da Teia reivindicado.&lt;br/&gt;&lt;br/&gt;Cidades só podem ser fundadas onde não há outras cidades em um raio de %1% terrenos. Cada cidade após a primeira diminui a lealdade em todas as cidades em %2%."/>
 	<entry name="Eldar/WebwayRedoubtFlavor" value="Para preservar os antigos portais da Teia em Gladius, os Aeldari sabem que devem protegê-los. Estes Redutos rapidamente construídos fornecem algumas defesas, aproveitando o poder ilimitado da Teia para devastar quaisquer inimigos tolos o suficiente para se aventurarem perto."/>
 	<entry name="Eldar/WebwayTravel" value="Viagem pela Teia"/>
 	<entry name="Eldar/WebwayTravelDescription" value="Viaja de um Portal da Teia ou Reduto da Teia aliado para outro."/>
@@ -571,14 +571,14 @@
 	<entry name="EreWeGoDescription" value="Aumenta o movimento."/>
 	<entry name="EreWeGoFlavor" value="Sempre ansiosos para entrar na briga, os Orks avançam pelo campo de batalha o mais rápido que podem quando o inimigo está à vista."/>
 	<entry name="FoundCity" value="Fundar Cidade"/>
-	<entry name="FoundCityDescription" value="Consome a unidade para fundar uma nova cidade.<br/><br/>Cidades só podem ser fundadas onde não há outras cidades em um raio de %1% ladrilhos. Cada cidade após a primeira diminui a lealdade em todas as cidades em %2%."/>
+	<entry name="FoundCityDescription" value="Consome a unidade para fundar uma nova cidade.<br/><br/>Cidades só podem ser fundadas onde não há outras cidades em um raio de %1% terrenos. Cada cidade após a primeira diminui a lealdade em todas as cidades em %2%."/>
 	<entry name="FoundCityNecrons" value="Fundar Cidade (Necrons)"/>
-	<entry name="FoundCityNecronsDescription" value="Consome a unidade para fundar uma nova cidade.<br/><br/>Cidades Necrons só podem ser fundadas sobre Tumbas Necrons e se não houver outras cidades em um raio de 4 ladrilhos. Cada cidade após a primeira diminui a lealdade em todas as cidades em 6."/>
+	<entry name="FoundCityNecronsDescription" value="Consome a unidade para fundar uma nova cidade.<br/><br/>Cidades Necrons só podem ser fundadas sobre Tumbas Necrons e se não houver outras cidades em um raio de 4 terrenos. Cada cidade após a primeira diminui a lealdade em todas as cidades em 6."/>
 	<entry name="FullThrottle" value="“Aceleração Máxima!”"/>
 	<entry name="FullThrottleDescription" value="Concede movimento ao Comandante de Tanque e aos tanques aliados adjacentes com movimento restante."/>
 	<entry name="FullThrottleFlavor" value="O oficial lidera uma gloriosa carga de tanques que esmaga o inimigo sob suas esteiras."/>
 	<entry name="GateOfInfinity" value="Portal do Infinito"/>
-	<entry name="GateOfInfinityDescription" value="Teleporta para o ladrilho explorado alvo."/>
+	<entry name="GateOfInfinityDescription" value="Teleporta para o terreno explorado alvo."/>
 	<entry name="GateOfInfinityFlavor" value="O psíquico abre um corredor através do turbulento Immaterium, permitindo-lhe cruzar grandes distâncias em um piscar de olhos."/>
 	<entry name="GrabbinKlaw" value="Garra Pegadora"/>
 	<entry name="GrabbinKlawDescription" value="Imobiliza a unidade de veículo terrestre inimiga alvo."/>
@@ -611,11 +611,11 @@
 	<entry name="JinkDescription" value="Aumenta a redução de dano à distância, mas reduz a precisão. Não pode ser usado se a unidade atacou neste turno."/>
 	<entry name="JinkFlavor" value="Algumas unidades favorecem a velocidade e a agilidade em vez de armaduras pesadas para se manterem vivas no campo de batalha, esquivando-se e ziguezagueando ilesas através de chuvas de fogo inimigo."/>
 	<entry name="JumpPack" value="Propulsor a Jato"/>
-	<entry name="JumpPackDescription" value="Voa sobre obstáculos até o ladrilho alvo."/>
+	<entry name="JumpPackDescription" value="Voa sobre obstáculos até o terreno alvo."/>
 	<entry name="JumpPackFlavor" value="Um propulsor a jato permite ao usuário dar saltos gigantescos pelo campo de batalha e realizar voos impulsionados por curtas distâncias ou até o topo de muralhas de fortalezas."/>
 	<entry name="LevelUp" value="Subir de Nível"/>
 	<entry name="Levitate" value="Levitar"/>
-	<entry name="LevitateDescription" value="Voa sobre obstáculos até o ladrilho alvo."/>
+	<entry name="LevitateDescription" value="Voa sobre obstáculos até o terreno alvo."/>
 	<entry name="LevitateFlavor" value="O psíquico usa seus poderes telecinéticos para se lançar aos céus, saltando pelo campo de batalha em um único pulo."/>
 	<entry name="MachineEmpathy" value="Ativar Empatia com a Máquina"/>
 	<entry name="MachineEmpathyDescription" value="Tática de Capítulo que restaura os pontos de vida de unidades de veículos e fortificações."/>
@@ -648,7 +648,7 @@
 	<entry name="Necrons/DestructionProtocolsDescription" value="Aumenta o dano recebido pelas unidades inimigas adjacentes."/>
 	<entry name="Necrons/DestructionProtocolsFlavor" value="Quando um Lorde Necron sucumbe à maldição do Destruidor, eles abandonam a cautela de seus Protocolos Defensivos, reconfigurando seus caminhos engrâmicos para aumentar a agressão de seus pares, não suas capacidades defensivas."/>
 	<entry name="Necrons/DimensionalCorridor" value="Corredor Dimensional"/>
-	<entry name="Necrons/DimensionalCorridorDescription" value="Teleporta para um ladrilho adjacente a uma cidade ou Monólito."/>
+	<entry name="Necrons/DimensionalCorridorDescription" value="Teleporta para um terreno adjacente a uma cidade ou Monólito."/>
 	<entry name="Necrons/DimensionalCorridorFlavor" value="“E o primeiro a caminhar pela ponte de luz estelar, do incorpóreo ao corpóreo, foi Artemorra, a quem os Necrontyr deram o nome de 'Mensageiro', mais tarde mudado para 'Enganador' — com boa razão.”<br/>  — Inscrição fragmentária em um Orbe de Defesa Jokaeriano"/>
 	<entry name="Necrons/Dynasty" value="Dinastia"/>
 	<entry name="Necrons/DynastyDescription" value="Aumenta o limite de população das cidades."/>
@@ -662,10 +662,10 @@
 	<entry name="Necrons/GravityPulse" value="Pulso Gravitacional"/>
 	<entry name="Necrons/GravityPulseDescription" value="Reduz o movimento e causa dano a unidades inimigas voadoras, planadoras e jetbikes adjacentes."/>
 	<entry name="Necrons/HuntersFromHyperspace" value="Caçadores do Hiperespaço"/>
-	<entry name="Necrons/HuntersFromHyperspaceDescription" value="Teleporta para o ladrilho explorado alvo e aumenta o dano."/>
+	<entry name="Necrons/HuntersFromHyperspaceDescription" value="Teleporta para o terreno explorado alvo e aumenta o dano."/>
 	<entry name="Necrons/HuntersFromHyperspaceFlavor" value="Esses atiradores mortais raramente se posicionam com o resto do exército. Em vez disso, eles deslizam para fora da realidade e monitoram o conflito de uma masmorra do hiperespaço – uma dimensão de bolso que cavalga a lacuna entre o então e o agora. Os Deathmarks rastreiam canais de comunicação inimigos, feixes de teletransporte e descidas orbitais para selecionar presas de alto perfil adequadas. Feito isso, eles saem de sua masmorra para marcar sua presa com a marca do caçador da qual tiram seu nome – um misterioso halo de energia verde que paira sobre a cabeça do alvo em cinco dimensões."/>
 	<entry name="Necrons/JetCharge" value="Carga a Jato"/>
-	<entry name="Necrons/JetChargeDescription" value="Aumenta a redução de dano e voa sobre obstáculos até o ladrilho alvo."/>
+	<entry name="Necrons/JetChargeDescription" value="Aumenta a redução de dano e voa sobre obstáculos até o terreno alvo."/>
 	<entry name="Necrons/JetChargeFlavor" value="Em sua fúria ilimitada, um obstinado Lorde Destruidor Necron pode sobrecarregar sua plataforma gravitacional para mover-se por curtas distâncias extremamente rápido, embora com um custo adicional para sua sanidade."/>
 	<entry name="Necrons/MindshackleScarabs" value="Escaravelhos Acorrenta-Mentes"/>
 	<entry name="Necrons/MindshackleScarabsDescription" value="Reduz a moral da unidade inimiga medrosa alvo."/>
@@ -724,10 +724,10 @@
 	<entry name="OrbitalBombardmentDescription" value="Operação que bombardeia a unidade inimiga alvo."/>
 	<entry name="OrbitalBombardmentFlavor" value="“Nenhuma ordem de Exterminatus Extremis é executada levianamente. Para ordenar a morte de um planeta por Bomba de Vírus, Torpedo Ciclônico ou Incinerador Atmosférico, é preciso ter certeza de sua intenção. É preciso aceitar que milhões, até bilhões, morrerão para que o resto da humanidade possa viver.”<br/>  — Lorde Alto Almirante Soheil, na purificação de Colchis"/>
 	<entry name="OrbitalDeployment" value="Implantação Orbital"/>
-	<entry name="OrbitalDeploymentDescription" value="Implanta a unidade de um ladrilho de cidade para o ladrilho alvo."/>
+	<entry name="OrbitalDeploymentDescription" value="Implanta a unidade de um terreno de cidade para o terreno alvo."/>
 	<entry name="OrbitalDeploymentFlavor" value="Algumas unidades chegam à batalha através de túneis, teletransporte, voo ou outros meios extraordinários que lhes permitem aparecer no meio da luta."/>
 	<entry name="OrbitalScan" value="Varredura Orbital"/>
-	<entry name="OrbitalScanDescription" value="Operação que revela o ladrilho alvo e os ladrilhos adjacentes."/>
+	<entry name="OrbitalScanDescription" value="Operação que revela o terreno alvo e os terrenos adjacentes."/>
 	<entry name="OrbitalScanFlavor" value="Um Capítulo de Fuzileiros Espaciais comumente possui uma frota inteira de naves, variando de pequenas Canhoneiras Thunderhawk a enormes Cruzadores de Ataque. Em Gladius Prime, a frota do Capítulo foi dizimada pela tempestade warp. Apenas uma nave sobrevive, girando ao redor do planeta em uma órbita baixa e errática. No entanto, para alvos suficientemente importantes, a tripulação de Tecnomarines e Servitores focará todos os seus sensores na superfície do planeta."/>
 	<entry name="OrbitalStrike" value="Ataque Orbital"/>
 	<entry name="OrbitalStrikeDescription" value="Chama um ataque orbital sobre a unidade inimiga alvo."/>
@@ -744,7 +744,7 @@
 	<entry name="Orks/CyborkImplantsDescription" value="Aumenta permanentemente o dano e a redução de dano da unidade de infantaria ou criatura monstruosa aliada alvo."/>
 	<entry name="Orks/CyborkImplantsFlavor" value="“Prova 40: Amostra de pele Ork. Esta era de um indivíduo sênior na hierarquia Orkoide, como pode ser visto pelo aumento da espessura do osso, músculo e pele ablativa, e a redução nas estruturas nervosas. A grade de laser está lá para impedir que tente recrescer o Ork inteiro.“<br/>  — Transcrições de palestras, Grigomen “Amante de Orks” Delr, Comerciante Independente e Xenologista amador"/>
 	<entry name="Orks/DaJump" value="O Pulo"/>
-	<entry name="Orks/DaJumpDescription" value="Teleporta o Esquizto e as unidades aliadas adjacentes para o ladrilho alvo e ladrilhos adjacentes."/>
+	<entry name="Orks/DaJumpDescription" value="Teleporta o Esquizto e as unidades aliadas adjacentes para o terreno alvo e terrenos adjacentes."/>
 	<entry name="Orks/DaJumpFlavor" value="O Esquizto fecha os olhos com força e, numa tempestade de luz verde piscante, teleporta-se para outra parte do campo de batalha — junto com quaisquer Rapazes confusos que estivessem perto demais dele na hora."/>
 	<entry name="Orks/DoksTools" value="Ferramentaz do Doutor"/>
 	<entry name="Orks/DoksToolsDescription" value="Restaura os pontos de vida da unidade de infantaria ou criatura monstruosa aliada alvo."/>
@@ -791,10 +791,10 @@
 	<entry name="RollOverThemDescription" value="Passa por cima da infantaria inimiga alvo."/>
 	<entry name="RollOverThemFlavor" value="Quando tudo mais falha, a gravidade e o imenso peso de um veículo podem esmagar defesas de outra forma impenetráveis — ou oponentes robustos."/>
 	<entry name="SciersGaze" value="Olhar do Vidente"/>
-	<entry name="SciersGazeDescription" value="Revela o ladrilho alvo e os ladrilhos adjacentes."/>
+	<entry name="SciersGazeDescription" value="Revela o terreno alvo e os terrenos adjacentes."/>
 	<entry name="SciersGazeFlavor" value="O adivinho pode ver o campo de batalha claramente com os olhos da mente, com o ponto de vista de um falcão caçador e a precisão de um laser. O vaivém de exércitos e máquinas de guerra não passa do correr de formigas sob seu olhar onisciente. Assim, o adivinho pode direcionar o posicionamento de forças especialistas exatamente quando e onde são mais necessárias, guiando-as para objetivos vitais que, uma vez assegurados, garantirão a vitória."/>
 	<entry name="Scout" value="Explorar"/>
-	<entry name="ScoutDescription" value="Revela todos os ladrilhos na área."/>
+	<entry name="ScoutDescription" value="Revela todos os terrenos na área."/>
 	<entry name="SellHint" value="<style name='Title'/>Vender %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="SetRallyPoint" value="Definir Ponto de Reunião"/>
 	<entry name="SetRallyPointDescription" value="Define o ponto de reunião para unidades recém-produzidas nesta cidade."/>
@@ -934,14 +934,14 @@
 	<entry name="SpaceMarines/OmniscopeDescription" value="Ignora a redução de dano à distância do inimigo."/>
 	<entry name="SpaceMarines/OmniscopeFlavor" value="Os Centurions usam omniscópios para direcionar melhor seu temível poder de fogo e perfurar a escuridão de uma galáxia hostil."/>
 	<entry name="SpaceMarines/RepulsorField" value="Campo Repulsor"/>
-	<entry name="SpaceMarines/RepulsorFieldDescription" value="Reduz o movimento de inimigos em ladrilhos adjacentes."/>
+	<entry name="SpaceMarines/RepulsorFieldDescription" value="Reduz o movimento de inimigos em terrenos adjacentes."/>
 	<entry name="SpaceMarines/RepulsorFieldFlavor" value="Quando Arkhan Land redescobriu o PCE para dispositivos antigravidade, é improvável que ele os pretendesse como mais uma arma no já pesado arsenal do tanque Repulsor. No entanto, quando um Executor Repulsor para, ele descarrega pulsos esmagadores direcionados de força gravítica através de suas placas de garras ventrais, prendendo quaisquer inimigos pouco antes de sua carga de fuzileiros Primaris saltar sobre eles…"/>
 	<entry name="SpaceSlip" value="Deslize Espacial"/>
 	<entry name="SpaceSlipDescription" value="Aumenta a redução de dano."/>
 	<entry name="SpawnUnits" value="Gerar %1%"/>
 	<entry name="SpawnUnitsHint" value="<style name='Title'/>Invoca %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="StrikeAndShroud" value="“Ataque e Oculte!”"/>
-	<entry name="StrikeAndShroudDescription" value="Cria uma cortina de fumaça no ladrilho do Comandante do Tanque e nos ladrilhos adjacentes com tanques aliados, que fornece redução de dano à distância."/>
+	<entry name="StrikeAndShroudDescription" value="Cria uma cortina de fumaça no terreno do Comandante do Tanque e nos terrenos adjacentes com tanques aliados, que fornece redução de dano à distância."/>
 	<entry name="SummaryExecution" value="Execução Sumária"/>
 	<entry name="SummaryExecutionDescription" value="Executa um membro do esquadrão de uma unidade de infantaria adjacente para restaurar a moral das unidades aliadas próximas."/>
 	<entry name="SummaryExecutionFlavor" value="In extremis, um Comissário deve estar preparado para executar soldados vacilantes ou oficiais incompetentes sem um momento de remorso; poucas coisas impõem a disciplina melhor do que um descontente ou covarde sendo morto a tiros por suas falhas, e esta mensagem é ainda mais forte quando um projétil de bolt reativo em massa espalha os miolos de um Guarda por seus camaradas horrorizados em uma chuva de sangue."/>
@@ -978,7 +978,7 @@
 	<entry name="Tau/ForTheGreaterGoodDescription" value="Reduz a moral da unidade inimiga alvo. O custo escala com a força do alvo."/>
 	<entry name="Tau/ForTheGreaterGoodFlavor" value="“Existem dois tipos de conduta que os Etéreos não tolerarão. A primeira é a falha em refletir sobre o que é para o Bem Maior da raça T'au. A segunda é a recusa deliberada em seguir o caminho do Bem Maior quando está claro qual deve ser.”<br/>  — Por'ui Dal'yth Ukos, enviado da Casta da Água"/>
 	<entry name="Tau/GravityWaveProjector" value="Projetor de Onda Gravitacional"/>
-	<entry name="Tau/GravityWaveProjectorDescription" value="Impede o movimento de unidades no ladrilho alvo."/>
+	<entry name="Tau/GravityWaveProjectorDescription" value="Impede o movimento de unidades no terreno alvo."/>
 	<entry name="Tau/GravityWaveProjectorFlavor" value="Este projetor emite uma onda de grávitons de alta potência que repele os inimigos próximos, retardando seu avanço a um rastejar."/>
 	<entry name="Tau/HolophotonCountermeasures" value="Contramedidas Holofotônicas"/>
 	<entry name="Tau/HolophotonCountermeasuresDescription" value="Diminui a precisão à distância da unidade inimiga alvo."/>
@@ -1068,15 +1068,15 @@
 	<entry name="Tau/ZephyrsGraceDescription" value="Aumenta os pontos de ação desta unidade e das unidades de infantaria e criaturas monstruosas T'au aliadas adjacentes."/>
 	<entry name="Tau/ZephyrsGraceFlavor" value="“Que ninguém duvide que o Império T'au trará unidade a todos – que ninguém duvide que agora é a nossa vez. Avante, pelo Bem Maior!”<br/>  — Aun’Va, Mestre do Espírito Imortal"/>
 	<entry name="TelekineDome" value="Domo Telecinético"/>
-	<entry name="TelekineDomeDescription" value="Cria uma barreira no ladrilho do Bibliotecário e nos ladrilhos adjacentes que aumenta a redução de dano à distância."/>
+	<entry name="TelekineDomeDescription" value="Cria uma barreira no terreno do Bibliotecário e nos terrenos adjacentes que aumenta a redução de dano à distância."/>
 	<entry name="TelekineDomeFlavor" value="Balas ricocheteiam no ar e são desviadas inofensivamente enquanto o psíquico ergue uma barreira de energia cintilante ao seu redor."/>
 	<entry name="TheFleshIsWeak" value="Implantar A Carne é Fraca"/>
 	<entry name="TheFleshIsWeakDescription" value="Tática de capítulo que aumenta a redução de dano das unidades de infantaria."/>
 	<entry name="TheFleshIsWeakFlavor" value="“Fomos gravemente feridos. No entanto, ainda estamos de pé, com fogo em nossos olhos e valor em nossos corações. Deixe-os pensar que fomos derrotados. Nós lhes ensinaremos o contrário.”<br/>  — Pedro Kantor, Mestre do Capítulo dos Punhos Carmesins"/>
 	<entry name="TurboBoost" value="Turbo-Boost"/>
 	<entry name="TurboBoostDescription" value="Aumenta o movimento."/>
-	<entry name="Tyranids/AcquireTile" value="Adquirir Ladrilho (Tiranídeos)"/>
-	<entry name="Tyranids/AcquireTileDescription" value="Adquire um novo ladrilho para a cidade, consumindo sua biomassa, removendo florestas e transformando o solo em rocha-mãe. Edifícios só podem ser construídos em ladrilhos adquiridos. Cada ladrilho tem um custo de manutenção de influência."/>
+	<entry name="Tyranids/AcquireTile" value="Adquirir Terreno (Tiranídeos)"/>
+	<entry name="Tyranids/AcquireTileDescription" value="Adquire um novo terreno para a cidade, consumindo sua biomassa, removendo florestas e transformando o solo em rocha-mãe. Edifícios só podem ser construídos em terrenos adquiridos. Cada terreno tem um custo de manutenção de influência."/>
 	<entry name="Tyranids/AdaptiveBiology" value="Biologia Adaptativa"/>
 	<entry name="Tyranids/AdaptiveBiologyDescription" value="Aumenta a redução de dano de 'não sentir dor' pelo turno após receber dano."/>
 	<entry name="Tyranids/AdaptiveBiologyFlavor" value="Este herói foi criado para se adaptar contra o armamento usado pelos defensores do mundo-presa atual."/>
@@ -1089,12 +1089,12 @@
 	<entry name="Tyranids/Catalyst" value="Catalisador"/>
 	<entry name="Tyranids/CatalystDescription" value="Restaura os pontos de vida do Tervigon e da unidade Tiranídea aliada alvo."/>
 	<entry name="Tyranids/CatalystFlavor" value="Através de seus conduítes sinápticos, o poder da Mente da Colmeia se estende para infundir os organismos sob seu controle, revigorando seus sistemas com uma vitalidade tão antinatural que eles podem ignorar as feridas mais graves."/>
-	<entry name="Tyranids/ClearTile" value="Limpar Ladrilho (Tiranídeos)"/>
-	<entry name="Tyranids/ClearTileDescription" value="Limpa o ladrilho de ervas daninhas, locais sagrados, ruínas imperiais e florestas, um de cada vez."/>
+	<entry name="Tyranids/ClearTile" value="Limpar Terreno (Tiranídeos)"/>
+	<entry name="Tyranids/ClearTileDescription" value="Limpa o terreno de ervas daninhas, locais sagrados, ruínas imperiais e florestas, um de cada vez."/>
 	<entry name="Tyranids/ConstructTunnel" value="Construir <string name='Units/Tyranids/Tunnel'/>"/>
 	<entry name="Tyranids/ConstructTunnelFlavor" value="<string name='Units/Tyranids/TunnelFlavor'/>"/>
-	<entry name="Tyranids/ConsumeTile" value="Consumir Ladrilho"/>
-	<entry name="Tyranids/ConsumeTileDescription" value="Alimenta-se do planeta, consumindo a biomassa do ladrilho, limpando florestas e transformando o solo em rocha-mãe."/>
+	<entry name="Tyranids/ConsumeTile" value="Consumir Terreno"/>
+	<entry name="Tyranids/ConsumeTileDescription" value="Alimenta-se do planeta, consumindo a biomassa do terreno, limpando florestas e transformando o solo em rocha-mãe."/>
 	<entry name="Tyranids/ConsumeTileFlavor" value="Rippers são especialistas em coletar material de biomassa de todos os tipos — mas são necessárias unidades de suporte Tiranídeas mais pesadas, coordenadas por um Malanthrope, para despojar um planeta de todos os seus recursos, deixando apenas a rocha-mãe para trás."/>
 	<entry name="Tyranids/DiffusionField" value="Campo de Difusão"/>
 	<entry name="Tyranids/DiffusionFieldDescription" value="Aumenta a redução de dano à distância das unidades tiranídeas aliadas adjacentes."/>
