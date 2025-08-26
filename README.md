@@ -8,6 +8,8 @@ Os arquivos distribuídos são dois pacotes de dados, selecione um - mas geralme
 - Data.7z
 - Data.zip
 
+Link de download: https://github.com/isyuricunha/traducao-warhammer-40000-gladius-relics-of-war/releases
+
 ## Como instalar
 Siga os passos de acordo com a sua forma de instalação do jogo.
 
