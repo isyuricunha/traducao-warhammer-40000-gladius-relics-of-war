@@ -951,196 +951,196 @@
 	<entry name="EreWeGo" value="Vamos Lá!"/>
 	<entry name="EreWeGoDescription" value="Aumenta o movimento."/>
 	<entry name="EreWeGoFlavor" value="<string name='Actions/EreWeGoFlavor'/>"/>
-	<entry name="ExtraInfantryArmour" value="Extra Infantry Armour"/>
-	<entry name="ExtraInfantryArmourDescription" value="Increases the armour."/>
-	<entry name="ExtraMonstrousCreatureArmour" value="Extra Monstrous Creature Armour"/>
-	<entry name="ExtraMonstrousCreatureArmourDescription" value="Increases the armour."/>
-	<entry name="ExtraVehicleArmour" value="Extra Vehicle Armour"/>
-	<entry name="ExtraVehicleArmourDescription" value="Increases the armour."/>
-	<entry name="Fear" value="Fear"/>
-	<entry name="FearDescription" value="Reduces the morale each turn."/>
+	<entry name="ExtraInfantryArmour" value="Armadura Extra para Infantaria"/>
+	<entry name="ExtraInfantryArmourDescription" value="Aumenta a armadura."/>
+	<entry name="ExtraMonstrousCreatureArmour" value="Armadura Extra para Criaturas Monstruosas"/>
+	<entry name="ExtraMonstrousCreatureArmourDescription" value="Aumenta a armadura."/>
+	<entry name="ExtraVehicleArmour" value="Armadura Extra para Veículos"/>
+	<entry name="ExtraVehicleArmourDescription" value="Aumenta a armadura."/>
+	<entry name="Fear" value="Medo"/>
+	<entry name="FearDescription" value="Reduz a moral a cada turno."/>
 	<entry name="FearFlavor" value="<string name='Actions/AuraOfFearFlavor'/>"/>
-	<entry name="Fearless" value="Fearless"/>
-	<entry name="FearlessDescription" value="Reduces the morale loss and grants immunity to fear and pinning."/>
-	<entry name="FearlessFlavor" value="Fearless troops never give up and seldom take full use of cover—even if it would be wiser to do so."/>
-	<entry name="FeelNoPain" value="Feel No Pain"/>
-	<entry name="FeelNoPainDescription" value="Increases the damage reduction."/>
-	<entry name="FeelNoPainFlavor" value="Whether through force of will, bionic augmentation or foul sorcery, this warrior can fight despite fearsome wounds."/>
-	<entry name="Flail" value="Flail"/>
-	<entry name="FlailDescription" value="Increases the melee damage reduction."/>
-	<entry name="FlailFlavor" value="Equipped with a flail weapon, these warriors hinder attackers on approach."/>
-	<entry name="Flame" value="Flame"/>
-	<entry name="FlameDescription" value="Classification."/>
-	<entry name="Fleet" value="Fleet"/>
-	<entry name="FleetDescription" value="Increases the movement."/>
-	<entry name="FleetFlavor" value="Preternaturally agile, these warriors can cover ground more quickly than their plodding foes."/>
-	<entry name="Fleshbane" value="Fleshbane"/>
-	<entry name="FleshbaneDescription" value="Increases the damage against infantry and monstrous creature units."/>
-	<entry name="Flyer" value="Flyer"/>
-	<entry name="FlyerDescription" value="Can fly over cliffs, water and enemy units. Cannot capture artefacts or outposts. Ignores zone of control of enemy ground units. Cannot be hit by ground melee weapons and are hard to hit by ground weapons without skyfire. No penalty for heavy and ordnance weapons."/>
-	<entry name="FlyerFlavor" value="The airspace above a battle is thronged with activity. Fighters and bomber craft hurtle through the skies, duelling with one another providing fire support for the troops on the ground."/>
-	<entry name="Forest" value="Forest"/>
-	<entry name="ForestDescription" value="Increases the ranged damage reduction of infantry units."/>
+	<entry name="Fearless" value="Destemido"/>
+	<entry name="FearlessDescription" value="Reduz a perda de moral e concede imunidade a medo e fixação."/>
+	<entry name="FearlessFlavor" value="Tropas destemidas nunca desistem e raramente usam cobertura completa — mesmo que fosse mais prudente fazê-lo."/>
+	<entry name="FeelNoPain" value="Não Sente Dor"/>
+	<entry name="FeelNoPainDescription" value="Aumenta a redução de dano."/>
+	<entry name="FeelNoPainFlavor" value="Seja por força de vontade, aumento biônico ou bruxaria sombria, este guerreiro pode lutar apesar de ferimentos terríveis."/>
+	<entry name="Flail" value="Mangual"/>
+	<entry name="FlailDescription" value="Aumenta a redução de dano corpo a corpo."/>
+	<entry name="FlailFlavor" value="Equipados com mangual, estes guerreiros dificultam a aproximação dos atacantes."/>
+	<entry name="Flame" value="Chama"/>
+	<entry name="FlameDescription" value="Classificação."/>
+	<entry name="Fleet" value="Frota"/>
+	<entry name="FleetDescription" value="Aumenta o movimento."/>
+	<entry name="FleetFlavor" value="Extraordinariamente ágeis, estes guerreiros cobrem o terreno mais rapidamente que seus inimigos lentos."/>
+	<entry name="Fleshbane" value="Exterminador de Carne"/>
+	<entry name="FleshbaneDescription" value="Aumenta o dano contra unidades de infantaria e criaturas monstruosas."/>
+	<entry name="Flyer" value="Avião"/>
+	<entry name="FlyerDescription" value="Pode voar sobre penhascos, água e unidades inimigas. Não pode capturar artefatos ou postos avançados. Ignora zona de controle de unidades terrestres inimigas. Não pode ser atingido por armas corpo a corpo terrestres e é difícil de atingir por armas terrestres sem artilharia aérea. Sem penalidade para armas pesadas e de artilharia."/>
+	<entry name="FlyerFlavor" value="O espaço aéreo acima da batalha é um turbilhão de atividade. Caças e bombardeiros rasgam os céus, duelando entre si e oferecendo apoio de fogo às tropas no chão."/>
+	<entry name="Forest" value="Floresta"/>
+	<entry name="ForestDescription" value="Aumenta a redução de dano à distância das unidades de infantaria."/>
 	<entry name="ForestFlavor" value="<string name='Features/ForestFlavor'/>"/>
-	<entry name="ForestStealth" value="Forest Stealth"/>
-	<entry name="ForestStealthDescription" value="Increases the ranged damage reduction while in a forest."/>
-	<entry name="Fortification" value="Fortification"/>
-	<entry name="FortificationDescription" value="Stationary and fortified unit. If armed, it exerts control over adjacent outposts."/>
-	<entry name="FullThrottle" value="“Full Throttle!”"/>
-	<entry name="FullThrottleDescription" value="Increases the movement."/>
-	<entry name="FuelledByRage" value="Fuelled By Rage"/>
-	<entry name="FuelledByRageDescription" value="Increases the attacks when the unit's hitpoints decrease."/>
-	<entry name="FuriousCharge" value="Furious Charge"/>
-	<entry name="FuriousChargeDescription" value="Increases the melee damage."/>
-	<entry name="FuriousChargeFlavor" value="Some warriors use the impetus of the charge to fuel their own fury."/>
-	<entry name="Gargantuan" value="Gargantuan"/>
-	<entry name="GargantuanDescription" value="Classification."/>
-	<entry name="GargantuanFlavor" value="Gargantuan creatures are of such immense size that they can take on entire armies. They tower over the battlefield, making the ground shudder as they advance upon the foe, crushing lesser creatures beneath their feet as they lumber forwards."/>
+	<entry name="ForestStealth" value="Furtividade em Floresta"/>
+	<entry name="ForestStealthDescription" value="Aumenta a redução de dano à distância enquanto estiver na floresta."/>
+	<entry name="Fortification" value="Fortificação"/>
+	<entry name="FortificationDescription" value="Unidade estacionária e fortificada. Se armada, exerce controle sobre postos avançados adjacentes."/>
+	<entry name="FullThrottle" value="“A Todo Vapor!”"/>
+	<entry name="FullThrottleDescription" value="Aumenta o movimento."/>
+	<entry name="FuelledByRage" value="Impulsionado pela Fúria"/>
+	<entry name="FuelledByRageDescription" value="Aumenta os ataques quando os pontos de vida da unidade diminuem."/>
+	<entry name="FuriousCharge" value="Investida Furiosa"/>
+	<entry name="FuriousChargeDescription" value="Aumenta o dano corpo a corpo."/>
+	<entry name="FuriousChargeFlavor" value="Alguns guerreiros usam o impulso da investida para alimentar sua própria fúria."/>
+	<entry name="Gargantuan" value="Gigantesco"/>
+	<entry name="GargantuanDescription" value="Classificação."/>
+	<entry name="GargantuanFlavor" value="Criaturas gigantescas são de tamanho tão imenso que podem enfrentar exércitos inteiros. Elas dominam o campo de batalha, fazendo o chão tremer ao avançar, esmagando criaturas menores sob seus pés."/>
 	<entry name="Gauss" value="Gauss"/>
-	<entry name="GaussDescription" value="Scales the minimum damage with the hitpoints of the target unit."/>
+	<entry name="GaussDescription" value="Escala o dano mínimo com os pontos de vida da unidade alvo."/>
 	<entry name="GaussFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
-	<entry name="GaussDamage" value="Atomic Flayers"/>
-	<entry name="GaussDamageDescription" value="Increases the armour penetration."/>
-	<entry name="GaussDamageFlavor" value="For a galaxy full of cruel, monstrous or insane weaponry, Gauss technology is particularly feared. A bolter shell will just explode inside you, but a Gauss weapon will flay you alive, atom by atom."/>
-	<entry name="GetsHot" value="Gets Hot"/>
-	<entry name="GetsHotDescription" value="The unit loses hitpoints each time a ranged weapon fires."/>
-	<entry name="GetsHotFlavor" value="Some weapons are fuelled by unstable power sources and risk overheating with each shot—often to the detriment of the wielder."/>
+	<entry name="GaussDamage" value="Fustigadores Atômicos"/>
+	<entry name="GaussDamageDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="GaussDamageFlavor" value="Em uma galáxia cheia de armas cruéis, monstruosas ou insanas, a tecnologia Gauss é particularmente temida. Uma cápsula bolter explode dentro de você, mas uma arma Gauss retira sua carne átomo por átomo."/>
+	<entry name="GetsHot" value="Superaquece"/>
+	<entry name="GetsHotDescription" value="A unidade perde pontos de vida cada vez que uma arma à distância dispara."/>
+	<entry name="GetsHotFlavor" value="Algumas armas são movidas por fontes instáveis de energia e correm risco de superaquecimento a cada disparo — frequentemente em detrimento do usuário."/>
 	<entry name="Graviton" value="Graviton"/>
-	<entry name="GravitonDescription" value="Scales the damage with the armour of the target unit."/>
-	<entry name="GravitonFlavor" value="Some weapons crush their enemies within their own armour."/>
-	<entry name="Grenade" value="Grenade"/>
-	<entry name="GrenadeDescription" value="Classification."/>
-	<entry name="GrotRiggers" value="Grot Riggers"/>
-	<entry name="GrotRiggersDescription" value="Restores hitpoints each turn."/>
-	<entry name="GrotRiggersFlavor" value="Whether hurriedly re-attaching gubbinz with rivet guns, or just getting out and pushing, a crew of grot riggers can help to keep an Ork vehicle in the fight long after it should have fallen apart."/>
-	<entry name="GroundAttack" value="Ground Attack"/>
-	<entry name="GroundAttackDescription" value="Can only target ground units."/>
-	<entry name="GunnersKillOnSight" value="“Gunners, Kill on Sight!”"/>
-	<entry name="GunnersKillOnSightDescription" value="Increases the ranged attacks."/>
+	<entry name="GravitonDescription" value="Escala o dano com a armadura da unidade alvo."/>
+	<entry name="GravitonFlavor" value="Algumas armas esmagam seus inimigos dentro de sua própria armadura."/>
+	<entry name="Grenade" value="Granada"/>
+	<entry name="GrenadeDescription" value="Classificação."/>
+	<entry name="GrotRiggers" value="Engenheiros Grot"/>
+	<entry name="GrotRiggersDescription" value="Restaura pontos de vida a cada turno."/>
+	<entry name="GrotRiggersFlavor" value="Seja reaplicando gubbinz com rebites, ou simplesmente empurrando o veículo, uma equipe de Engenheiros Grot mantém um veículo Ork em combate muito além do esperado."/>
+	<entry name="GroundAttack" value="Ataque Terrestre"/>
+	<entry name="GroundAttackDescription" value="Pode atingir apenas unidades terrestres."/>
+	<entry name="GunnersKillOnSight" value="“Atiradores, Abatam à Vista!”"/>
+	<entry name="GunnersKillOnSightDescription" value="Aumenta os ataques à distância."/>
 	<entry name="HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="HammerOfWrathDescription" value="Increases the damage of non-Bomb weapons."/>
+	<entry name="HammerOfWrathDescription" value="Aumenta o dano de armas não-bombas."/>
 	<entry name="HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Hammerhand" value="<string name='Actions/Hammerhand'/>"/>
 	<entry name="HammerhandDescription" value="<string name='Actions/HammerhandDescription'/>"/>
 	<entry name="HammerhandFlavor" value="<string name='Actions/HammerhandFlavor'/>"/>
 	<entry name="Hallucination" value="<string name='Actions/Hallucination'/>"/>
-	<entry name="HallucinationDescription" value="Decreases the attacks."/>
+	<entry name="HallucinationDescription" value="Diminui os ataques."/>
 	<entry name="HallucinationFlavor" value="<string name='Actions/HallucinationFlavor'/>"/>
-	<entry name="HarvestResourceFeatures" value="Harvest Resource Tiles"/>
-	<entry name="HarvestResourceFeaturesDescription" value="Harvests resources from adjacent special resource features."/>
-	<entry name="Haywire" value="Haywire"/>
-	<entry name="HaywireDescription" value="Increases the damage and ignores armour against vehicles and fortifications."/>
-	<entry name="HaywireFlavor" value="Haywire weapons send out powerful electromagnetic pulses."/>
-	<entry name="Headquarters" value="Headquarters"/>
-	<entry name="HeadquartersDescription" value="Destroying the headquarters unit destroys the entire city."/>
-	<entry name="HeavyWeapon" value="Heavy"/>
-	<entry name="HeavyWeaponDescription" value="Reduces the accuracy after moving."/>
-	<entry name="HellstormTemplate" value="Hellstorm Template"/>
+	<entry name="HarvestResourceFeatures" value="Coletar Recursos"/>
+	<entry name="HarvestResourceFeaturesDescription" value="Coleta recursos de tiles especiais adjacentes."/>
+	<entry name="Haywire" value="Descontrolada"/>
+	<entry name="HaywireDescription" value="Aumenta o dano e ignora armadura contra veículos e fortificações."/>
+	<entry name="HaywireFlavor" value="Armas descontroladas emitem potentes pulsos eletromagnéticos."/>
+	<entry name="Headquarters" value="Quartel-General"/>
+	<entry name="HeadquartersDescription" value="Destruir a unidade do quartel-general destrói toda a cidade."/>
+	<entry name="HeavyWeapon" value="Pesada"/>
+	<entry name="HeavyWeaponDescription" value="Reduz a precisão após se mover."/>
+	<entry name="HellstormTemplate" value="Modelo Hellstorm"/>
 	<entry name="HellstormTemplateDescription" value="<string name='Traits/BeamDescription'/>"/>
-	<entry name="Hero" value="Hero"/>
-	<entry name="HeroDescription" value="Increases the damage reduction of infantry units."/>
-	<entry name="HeroFlavor" value="What is it to be a hero? Many would define one as an unusually brave, smart or strong member of a species. In a universe of endless war, that sadly tends to mean someone who is very, very good at causing the deaths of their enemies, and somehow surviving."/>
-	<entry name="HighPower" value="High Power"/>
-	<entry name="HighPowerDescription" value="Active before moving."/>
-	<entry name="HitAndRun" value="Hit & Run"/>
-	<entry name="HitAndRunDescription" value="Ignores enemy zone of control."/>
-	<entry name="HitAndRunFlavor" value="Some troops employ a flexible battle stance, engaging the foe at close quarters one moment, before peeling off to strike with renewed vigour the next."/>
-	<entry name="Homing" value="Homing"/>
-	<entry name="HomingDescription" value="Does not require line of sight."/>
-	<entry name="IgnoresCover" value="Ignores Cover"/>
-	<entry name="IgnoresCoverDescription" value="Ignores the ranged damage reduction of the target unit."/>
-	<entry name="IgnoresCoverFlavor" value="This weapon fires ammunition that cheats an enemy of his shelter."/>
-	<entry name="Illuminated" value="Illuminated"/>
-	<entry name="IlluminatedDescription" value="Reduces the ranged damage reduction."/>
-	<entry name="Immobilized" value="Immobilised"/>
-	<entry name="ImmobilizedDescription" value="The unit cannot move."/>
+	<entry name="Hero" value="Herói"/>
+	<entry name="HeroDescription" value="Aumenta a redução de dano das unidades de infantaria."/>
+	<entry name="HeroFlavor" value="O que é ser um herói? Muitos definem como alguém corajoso, inteligente ou forte. Em um universo de guerra sem fim, isso geralmente significa alguém muito eficiente em causar a morte dos inimigos e, de alguma forma, sobreviver."/>
+	<entry name="HighPower" value="Alta Potência"/>
+	<entry name="HighPowerDescription" value="Ativo antes de se mover."/>
+	<entry name="HitAndRun" value="Golpe & Fuga"/>
+	<entry name="HitAndRunDescription" value="Ignora zona de controle inimiga."/>
+	<entry name="HitAndRunFlavor" value="Algumas tropas empregam postura de combate flexível, atacando de perto em um momento e recuando para atacar com renovada força no seguinte."/>
+	<entry name="Homing" value="Autoguiada"/>
+	<entry name="HomingDescription" value="Não requer linha de visão."/>
+	<entry name="IgnoresCover" value="Ignora Cobertura"/>
+	<entry name="IgnoresCoverDescription" value="Ignora a redução de dano à distância da unidade alvo."/>
+	<entry name="IgnoresCoverFlavor" value="Esta arma dispara munição que ignora o abrigo do inimigo."/>
+	<entry name="Illuminated" value="Iluminada"/>
+	<entry name="IlluminatedDescription" value="Reduz a redução de dano à distância."/>
+	<entry name="Immobilized" value="Imobilizada"/>
+	<entry name="ImmobilizedDescription" value="A unidade não pode se mover."/>
 	<entry name="ImperialRuin" value="<string name='Features/ImperialRuin'/>"/>
-	<entry name="ImperialRuinDescription" value="Increases the ranged damage reduction of infantry units."/>
+	<entry name="ImperialRuinDescription" value="Aumenta a redução de dano à distância das unidades de infantaria."/>
 	<entry name="ImperialRuinFlavor" value="<string name='Features/ImperialRuinFlavor'/>"/>
-	<entry name="ImperialSplendour" value="Imperial Splendour"/>
-	<entry name="ImperialSplendourDescription" value="Increases the influence."/>
-	<entry name="ImperialSplendourFlavor" value="A successful planetary governor will reflect his domain's newfound wealth with monuments to the Imperium—mammoth plascrete basilica and statues of Space Marines, Primarchs and the Emperor."/>
-	<entry name="Infiltrate" value="Infiltrate"/>
-	<entry name="InfiltrateDescription" value="Prevents the unit from being targeted by overwatch attacks."/>
-	<entry name="InfiltrateFlavor" value="Many armies employ reconnaissance troops who sit concealed for days, just waiting for the right moment in which to strike."/>
-	<entry name="InstantDeath" value="Instant Death"/>
-	<entry name="InstantDeathDescription" value="Greatly increases the damage against infantry and monstrous creature units."/>
-	<entry name="InstantDeathFlavor" value="Some blows can slay an enemy outright, no matter how hardy he may be."/>
-	<entry name="Invulnerable" value="Invulnerable"/>
-	<entry name="InvulnerableDescription" value="This unit is invulnerable."/>
-	<entry name="IronHalo" value="Iron Halo"/>
-	<entry name="IronHaloDescription" value="Increases the damage reduction."/>
-	<entry name="IronHaloFlavor" value="The iron halo is an honour granted to Space Marine commanders and a symbol of their exceptional bravery and wisdom. Usually mounted upon the backpack or built into an armoured collar, it contains an energy field that wards against even the most potent of enemy weapons."/>
-	<entry name="IronWill" value="Iron Will"/>
+	<entry name="ImperialSplendour" value="Esplendor Imperial"/>
+	<entry name="ImperialSplendourDescription" value="Aumenta a influência."/>
+	<entry name="ImperialSplendourFlavor" value="Um governador planetário bem-sucedido reflete a riqueza de seu domínio com monumentos ao Imperium — imensas basílicas de plascrete e estátuas de Space Marines, Primarcas e do Imperador."/>
+	<entry name="Infiltrate" value="Infiltrar"/>
+	<entry name="InfiltrateDescription" value="Impede que a unidade seja alvo de ataques de vigia."/>
+	<entry name="InfiltrateFlavor" value="Muitos exércitos usam tropas de reconhecimento que permanecem escondidas por dias, esperando o momento certo para atacar."/>
+	<entry name="InstantDeath" value="Morte Instantânea"/>
+	<entry name="InstantDeathDescription" value="Aumenta muito o dano contra unidades de infantaria e criaturas monstruosas."/>
+	<entry name="InstantDeathFlavor" value="Alguns golpes podem matar o inimigo imediatamente, não importa quão resistente ele seja."/>
+	<entry name="Invulnerable" value="Invulnerável"/>
+	<entry name="InvulnerableDescription" value="Esta unidade é invulnerável."/>
+	<entry name="IronHalo" value="Halo de Ferro"/>
+	<entry name="IronHaloDescription" value="Aumenta a redução de dano."/>
+	<entry name="IronHaloFlavor" value="O Halo de Ferro é uma honra concedida a comandantes Space Marines e símbolo de sua coragem e sabedoria excepcionais. Geralmente montado nas costas ou incorporado ao colar de armadura, contém um campo de energia que protege contra até as armas inimigas mais poderosas."/>
+	<entry name="IronWill" value="Vontade de Ferro"/>
 	<entry name="IronWillDescription" value="<string name='Actions/IronWillDescription'/>"/>
 	<entry name="IronWillFlavor" value="<string name='Actions/IronWillFlavor'/>"/>
-	<entry name="ItWillNotDie" value="It Will Not Die"/>
-	<entry name="ItWillNotDieDescription" value="Restores hitpoints each turn."/>
-	<entry name="ItWillNotDieFlavor" value="In the dark corners of the galaxy, there are creatures that heal at a terrifying speed."/>
+	<entry name="ItWillNotDie" value="Não Vai Morrer"/>
+	<entry name="ItWillNotDieDescription" value="Restaura pontos de vida a cada turno."/>
+	<entry name="ItWillNotDieFlavor" value="Nos cantos sombrios da galáxia, existem criaturas que se curam a uma velocidade aterrorizante."/>
 	<entry name="JetPack" value="Jet Pack"/>
-	<entry name="JetPackDescription" value="The unit can move over water. Ignores the penalties of rivers and wire weed."/>
-	<entry name="JetPackFlavor" value="Jet packs are designed to provide stable firing platforms rather than a means of getting into close combat."/>
+	<entry name="JetPackDescription" value="A unidade pode se mover sobre a água. Ignora penalidades de rios e vegetação aquática."/>
+	<entry name="JetPackFlavor" value="Jet packs são projetados para fornecer plataformas de disparo estáveis, não para combate corpo a corpo."/>
 	<entry name="Jetbike" value="Jetbike"/>
-	<entry name="JetbikeDescription" value="The unit can move over water. Ignores the penalties of rivers and wire weed."/>
-	<entry name="JetbikeFlavor" value="The technology to make reliable and small fast skimmers is more difficult than it looks, and for many years only the Aeldari had the technical know-how. More recently, the Orks have developed their own clunky version, the Deffkopta, and the emerging Necrons have brought with them unpredictable Tomb Blades."/>
+	<entry name="JetbikeDescription" value="A unidade pode se mover sobre a água. Ignora penalidades de rios e vegetação aquática."/>
+	<entry name="JetbikeFlavor" value="A tecnologia para fabricar skimmers rápidos, pequenos e confiáveis é difícil, e por muitos anos apenas os Aeldari possuíam o conhecimento técnico. Mais recentemente, os Orks desenvolveram sua versão desajeitada, o Deffkopta, e os emergentes Necrons trouxeram as imprevisíveis Tomb Blades."/>
 	<entry name="Jink" value="<string name='Actions/Jink'/>"/>
-	<entry name="JinkDescription" value="Increases the ranged damage reduction but reduces the accuracy."/>
+	<entry name="JinkDescription" value="Aumenta a redução de dano à distância, mas reduz a precisão."/>
 	<entry name="JinkFlavor" value="<string name='Actions/JinkFlavor'/>"/>
-	<entry name="Killshot" value="Killshot"/>
-	<entry name="KillshotDescription" value="Increases the damage against monstrous creatures, vehicles and fortifications when adjacent to an allied Predator."/>
-	<entry name="KillshotFlavor" value="There are few things that can stand before the combined might of a Predator Assassin Squadron—a trio of Predators—their Space Marine gunners creating interlocking kill-zones to bring down even massive xenos creatures or slab-sided war machines in a focussed barrage cannon fire."/>
-	<entry name="Lance" value="Lance"/>
-	<entry name="LanceDescription" value="Limits the armour of the target unit."/>
-	<entry name="LanceFlavor" value="The terror of tank commanders, a lance weapon fires a concentrated beam of energy that can bore through any armour, regardless of thickness."/>
-	<entry name="LargeBlast" value="Large Blast"/>
+	<entry name="Killshot" value="Tiro Mortal"/>
+	<entry name="KillshotDescription" value="Aumenta o dano contra criaturas monstruosas, veículos e fortificações quando adjacente a um Predator aliado."/>
+	<entry name="KillshotFlavor" value="Poucas coisas podem resistir ao poder combinado de um Esquadrão Assassino Predator — três Predators, com atiradores Space Marines criando zonas de morte interligadas para derrubar até mesmo grandes criaturas xenos ou máquinas de guerra robustas com fogo concentrado de canhões."/>
+	<entry name="Lance" value="Lança"/>
+	<entry name="LanceDescription" value="Reduz a armadura da unidade alvo."/>
+	<entry name="LanceFlavor" value="O terror dos comandantes de tanques, uma arma lança dispara um feixe concentrado de energia capaz de perfurar qualquer armadura, independentemente da espessura."/>
+	<entry name="LargeBlast" value="Explosão Grande"/>
 	<entry name="LargeBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
 	<entry name="LargeBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
-	<entry name="LastStand" value="Last Stand"/>
-	<entry name="LastStandDescription" value="Increases the morale."/>
-	<entry name="LastStandFlavor" value="“Here we stand and here shall we die, unbroken and unbowed. Though the very hand of death itself come for us, we will spit our defiance to the end!”<br/>  — Chaplain Armand Titus of the Howling Griffons"/>
-	<entry name="LifeDrain" value="Life Drain"/>
-	<entry name="LifeDrainDescription" value="Increases the damage against infantry and monstrous creature units."/>
-	<entry name="LifeSteal" value="Life Steal"/>
-	<entry name="LifeStealDescription" value="Converts damage into healing for this and adjacent infantry and monstrous creature units."/>
-	<entry name="LinebreakerBombardment" value="Linebreaker Bombardment"/>
-	<entry name="LinebreakerBombardmentDescription" value="Ignores the ranged damage reduction of the target unit when adjacent to an allied Vindicator."/>
+	<entry name="LastStand" value="Último Recurso"/>
+	<entry name="LastStandDescription" value="Aumenta a moral."/>
+	<entry name="LastStandFlavor" value="“Aqui permanecemos e aqui morreremos, inquebráveis e destemidos. Mesmo que a própria mão da morte venha por nós, lançaremos nossa afronta até o fim!”<br/>  — Capelão Armand Titus dos Howling Griffons"/>
+	<entry name="LifeDrain" value="Drenar Vida"/>
+	<entry name="LifeDrainDescription" value="Aumenta o dano contra unidades de infantaria e criaturas monstruosas."/>
+	<entry name="LifeSteal" value="Roubo de Vida"/>
+	<entry name="LifeStealDescription" value="Converte dano em cura para esta unidade e unidades de infantaria e criaturas monstruosas adjacentes."/>
+	<entry name="LinebreakerBombardment" value="Bombardeio Quebra-Linha"/>
+	<entry name="LinebreakerBombardmentDescription" value="Ignora a redução de dano à distância da unidade alvo quando adjacente a um Vindicator aliado."/>
 	<entry name="Luminagen" value="Luminagen"/>
-	<entry name="LuminagenDescription" value="Temporarily decreases the ranged damage reduction of the target unit."/>
-	<entry name="LocatorBeacon" value="Locator Beacon"/>
-	<entry name="LocatorBeaconDescription" value="Causes orbital deployment to not consume action points when deploying adjacent to this unit."/>
-	<entry name="LocatorBeaconFlavor" value="Locator beacons are often carried by Scout Bikers or mounted onto Drop Pods, and provide a signalling package, broad-spectrum communicators, and geo-positional tracking. When activated, the beacon uploads detailed positional information to the tactical grid, allowing precision reinforcement by reserve forces."/>
-	<entry name="LowPower" value="Low Power"/>
-	<entry name="LowPowerDescription" value="Active after moving."/>
-	<entry name="MachineEmpathy" value="Machine Empathy"/>
-	<entry name="MachineEmpathyDescription" value="Restores hitpoints."/>
+	<entry name="LuminagenDescription" value="Diminui temporariamente a redução de dano à distância da unidade alvo."/>
+	<entry name="LocatorBeacon" value="Farol Localizador"/>
+	<entry name="LocatorBeaconDescription" value="Faz com que o desembarque orbital não consuma pontos de ação ao ser realizado adjacente a esta unidade."/>
+	<entry name="LocatorBeaconFlavor" value="Faróis localizadores são frequentemente carregados por Scout Bikers ou montados em Drop Pods, fornecendo pacotes de sinalização, comunicadores de espectro amplo e rastreamento geoespacial. Quando ativados, enviam informações precisas de posição para a grade tática, permitindo reforços de reserva com precisão."/>
+	<entry name="LowPower" value="Baixa Potência"/>
+	<entry name="LowPowerDescription" value="Ativo após se mover."/>
+	<entry name="MachineEmpathy" value="Empatia Mecânica"/>
+	<entry name="MachineEmpathyDescription" value="Restaura pontos de vida."/>
 	<entry name="MachineEmpathyFlavor" value="<string name='Actions/MachineEmpathyFlavor'/>"/>
-	<entry name="MannedWeapon" value="Manned Weapon"/>
-	<entry name="MannedWeaponDescription" value="Requires cargo to fire."/>
-	<entry name="MassiveBlast" value="Massive Blast"/>
+	<entry name="MannedWeapon" value="Arma Tripulada"/>
+	<entry name="MannedWeaponDescription" value="Requer carga para disparar."/>
+	<entry name="MassiveBlast" value="Explosão Massiva"/>
 	<entry name="MassiveBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
 	<entry name="MassiveBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
-	<entry name="MasterCrafted" value="Master-Crafted"/>
-	<entry name="MasterCraftedDescription" value="Increases the accuracy."/>
-	<entry name="MasterCraftedFlavor" value="Some weapons are lovingly maintained artefacts, crafted with a skill now lost. Though the exact form of master-crafting varies, it is always considered to be the pinnacle of the weaponsmith’s art."/>
-	<entry name="Melee" value="Melee"/>
-	<entry name="MeleeDescription" value="Cannot overwatch."/>
+	<entry name="MasterCrafted" value="Mestre-Arteiro"/>
+	<entry name="MasterCraftedDescription" value="Aumenta a precisão."/>
+	<entry name="MasterCraftedFlavor" value="Algumas armas são artefatos cuidadosamente mantidos, fabricadas com habilidade agora perdida. Embora a forma exata varie, é sempre considerada o auge da arte do armeiro."/>
+	<entry name="Melee" value="Corpo a Corpo"/>
+	<entry name="MeleeDescription" value="Não pode vigiar."/>
 	<entry name="MeleeFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
 	<entry name="Melta" value="Melta"/>
-	<entry name="MeltaDescription" value="Increases the armour penetration at half range."/>
+	<entry name="MeltaDescription" value="Aumenta a penetração de armadura em meia distância."/>
 	<entry name="MeltaFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
-	<entry name="MindControl" value="Mind Control"/>
-	<entry name="MindControlDescription" value="Reduces the morale each turn."/>
+	<entry name="MindControl" value="Controle Mental"/>
+	<entry name="MindControlDescription" value="Reduz a moral a cada turno."/>
 	<entry name="Misfortune" value="<string name='Actions/Misfortune'/>"/>
-	<entry name="MisfortuneDescription" value="Increases the damage taken."/>
+	<entry name="MisfortuneDescription" value="Aumenta o dano recebido."/>
 	<entry name="MisfortuneFlavor" value="<string name='Actions/MisfortuneFlavor'/>"/>
-	<entry name="Missing" value="Missing"/>
-	<entry name="MobRule" value="Mob Rule"/>
-	<entry name="MobRuleDescription" value="Reduces the morale loss based on the amount of allied units in the area."/>
-	<entry name="MobRuleFlavor" value="Orks are simplistic, brutal creatures who love to fight and draw confidence from possessing strength in numbers."/>
-	<entry name="MobileCommand" value="Mobile Command"/>
-	<entry name="MobileCommandDescription" value="Passive abilities work for cargo embarked on this transport."/>
-	<entry name="MobileCommandFlavor" value="A transport vehicle is typically sealed, rendering any troops ineffective (but protected) until they reach their destination. Unlike gun slits, communication equipment doesn’t compromise the protection, as the Imperial Chimera command variant proves out, enabling commanders to continue to direct their forces."/>
-	<entry name="Monofilament" value="Monofilament"/>
+	<entry name="Missing" value="Desaparecido"/>
+	<entry name="MobRule" value="Lei da Multidão"/>
+	<entry name="MobRuleDescription" value="Reduz a perda de moral com base na quantidade de unidades aliadas na área."/>
+	<entry name="MobRuleFlavor" value="Orks são criaturas brutais e simplórias que adoram lutar e ganham confiança ao possuir força em números."/>
+	<entry name="MobileCommand" value="Comando Móvel"/>
+	<entry name="MobileCommandDescription" value="Habilidades passivas funcionam para carga embarcada neste transporte."/>
+	<entry name="MobileCommandFlavor" value="Um veículo de transporte é tipicamente selado, tornando qualquer tropa ineficaz (mas protegida) até chegar ao destino. Diferente das aberturas de armas, equipamentos de comunicação não comprometem a proteção, como provado pela variante Imperial Chimera, permitindo que comandantes continuem a dirigir suas forças."/>
+	<entry name="Monofilament" value="Monofilamento"/>
 	<entry name="MonofilamentDescription" value="Inversely scales the accuracy with the maximum movement of the target unit. Increases the armour penetration."/>
 	<entry name="MonofilamentFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
 	<entry name="MonstrousCreature" value="Monstrous Creature"/>
