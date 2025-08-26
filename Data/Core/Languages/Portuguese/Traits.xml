@@ -1592,50 +1592,50 @@
 	<entry name="SistersOfBattle/MiraculousIntervention" value="<string name='Actions/SistersOfBattle/MiraculousIntervention'/>"/>
 	<entry name="SistersOfBattle/MiraculousInterventionDescription" value="<string name='Actions/SistersOfBattle/MiraculousInterventionDescription'/>"/>
 	<entry name="SistersOfBattle/MiraculousInterventionFlavor" value="<string name='Actions/SistersOfBattle/MiraculousInterventionFlavor'/>"/>
-	<entry name="SistersOfBattle/NonMilitantMobilisation" value="Ministorum Mobilisation"/>
-	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="Increases the requisitions output."/>
-	<entry name="SistersOfBattle/NonMilitantMobilisationFlavor" value="The rites of the Ecclesiarchy are not merely militaristic: prayers and liturgies exist for all functions of the Imperium. To be the focus of such a rite, whether Famulus or Pronatus or even the most base worker, drives them on to greater efforts."/>
-	<entry name="SistersOfBattle/OathOfFaith" value="Oath Of Faith"/>
-	<entry name="SistersOfBattle/OathOfFaithDescription" value="Reduces the accuracy and prevents the use of Shield of Faith."/>
-	<entry name="SistersOfBattle/OathOfFaithFlavor" value="“We all took an oath, to defend the Imperium, to purge the heretic and alien. It supported us, drove us on through pain and fear. But when our sisters finally broke and fled, our oath haunted them… If they survived their flight, they would return as Sisters Repentia…”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
-	<entry name="SistersOfBattle/ParagonWarsuit" value="Paragon Warsuit"/>
-	<entry name="SistersOfBattle/ParagonWarsuitDescription" value="Increases the damage reduction."/>
-	<entry name="SistersOfBattle/ParagonWarsuitFlavor" value="Among the holy arsenal of an Order Militant, the ancient Paragon Warsuits are regarded as sacred vestments with a noble will of their own. Only the most worth Celestians can master its spirit for use in battle."/>
-	<entry name="SistersOfBattle/Protected" value="Protected"/>
-	<entry name="SistersOfBattle/ProtectedDescription" value="Increases the damage reduction."/>
+	<entry name="SistersOfBattle/NonMilitantMobilisation" value="Mobilização do Ministorum"/>
+	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="Aumenta a produção de requisições."/>
+	<entry name="SistersOfBattle/NonMilitantMobilisationFlavor" value="Os ritos da Ecclesiarchy não são apenas militaristas: orações e liturgias existem para todas as funções do Império. Ser o foco de tal rito, seja Famulus, Pronatus ou mesmo o trabalhador mais humilde, os impulsiona a esforços maiores."/>
+	<entry name="SistersOfBattle/OathOfFaith" value="Juramento de Fé"/>
+	<entry name="SistersOfBattle/OathOfFaithDescription" value="Reduz a precisão e impede o uso do Escudo de Fé."/>
+	<entry name="SistersOfBattle/OathOfFaithFlavor" value="“Todos nós fizemos um juramento: defender o Império, purgar o herege e o alienígena. Isso nos sustentou, nos impulsionou através da dor e do medo. Mas quando nossas irmãs finalmente cederam e fugiram, nosso juramento as assombrou… Se sobrevivessem à fuga, retornariam como Irmãs Repentia…”<br/>  — Remembrancer desconhecido, Evangelho da Webway"/>
+	<entry name="SistersOfBattle/ParagonWarsuit" value="Armadura de Batalha Paragon"/>
+	<entry name="SistersOfBattle/ParagonWarsuitDescription" value="Aumenta a redução de dano."/>
+	<entry name="SistersOfBattle/ParagonWarsuitFlavor" value="Entre o arsenal sagrado de uma Ordem Militar, as antigas Armaduras Paragon são consideradas vestes sagradas com vontade própria. Apenas as Celestians mais dignas podem dominar seu espírito para uso em batalha."/>
+	<entry name="SistersOfBattle/Protected" value="Protegida"/>
+	<entry name="SistersOfBattle/ProtectedDescription" value="Aumenta a redução de dano."/>
 	<entry name="SistersOfBattle/ProtectedFlavor" value="<string name='Actions/SistersOfBattle/BodyguardFlavor'/>"/>
-	<entry name="SistersOfBattle/PsyShock" value="PsyShock"/>
-	<entry name="SistersOfBattle/PsyShockDescription" value="Stuns Psykers."/>
+	<entry name="SistersOfBattle/PsyShock" value="Choque Psíquico"/>
+	<entry name="SistersOfBattle/PsyShockDescription" value="Atordoa Psíquicos."/>
 	<entry name="SistersOfBattle/PsyShockFlavor" value="<string name='Weapons/CondemnorBoltgunSilverStake'/>"/>
-	<entry name="SistersOfBattle/PurifyingRecitations" value="Purifying Recitations"/>
-	<entry name="SistersOfBattle/PurifyingRecitationsDescription" value="Increases the damage."/>
-	<entry name="SistersOfBattle/PurifyingRecitationsFlavor" value="“Our foes call us cold, inhuman, unfeeling. But we feel, we mourn, we rage. Let them feel our warmth—in our flamers, our meltas.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
-	<entry name="SistersOfBattle/RagingFervour" value="Raging Fervour"/>
-	<entry name="SistersOfBattle/RagingFervourDescription" value="Increases the damage."/>
-	<entry name="SistersOfBattle/RagingFervourFlavor" value="“The weapons in our hands are the instruments of our faith. Each bolt is a prayer sent to the heart of the faithless, spreading its word into their very being.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
+	<entry name="SistersOfBattle/PurifyingRecitations" value="Recitações Purificadoras"/>
+	<entry name="SistersOfBattle/PurifyingRecitationsDescription" value="Aumenta o dano."/>
+	<entry name="SistersOfBattle/PurifyingRecitationsFlavor" value="“Nossos inimigos nos chamam de frias, desumanas, insensíveis. Mas sentimos, lamentamos, enfurecemos. Que sintam nosso calor — em nossos lança-chamas, em nossas meltas.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
+	<entry name="SistersOfBattle/RagingFervour" value="Fervor Ardente"/>
+	<entry name="SistersOfBattle/RagingFervourDescription" value="Aumenta o dano."/>
+	<entry name="SistersOfBattle/RagingFervourFlavor" value="“As armas em nossas mãos são instrumentos de nossa fé. Cada projétil é uma oração enviada ao coração dos descrentes, espalhando sua palavra em seu próprio ser.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
 	<entry name="SistersOfBattle/RighteousJudgement" value="<string name='Actions/SistersOfBattle/RighteousJudgement'/>"/>
 	<entry name="SistersOfBattle/RighteousJudgementDescription" value="<string name='Actions/SistersOfBattle/RighteousJudgementDescription'/>"/>
 	<entry name="SistersOfBattle/RighteousJudgementFlavor" value="<string name='Actions/SistersOfBattle/RighteousJudgementFlavor'/>"/>
-	<entry name="SistersOfBattle/SacresantShield" value="Sacresant Shield"/>
-	<entry name="SistersOfBattle/SacresantShieldDescription" value="Increases the damage reduction."/>
-	<entry name="SistersOfBattle/SacresantShieldFlavor" value="The faithful Celestian Sacresants stand firm against the worst horrors of the galaxy. Hordes of mutants and heretics crash futilely against their shield walls before being laid low with righteous fury."/>
-	<entry name="SistersOfBattle/SaintlyBlessings" value="Saintly Blessings"/>
-	<entry name="SistersOfBattle/SaintlyBlessingsDescription" value="Increases the damage reduction."/>
+	<entry name="SistersOfBattle/SacresantShield" value="Escudo Sacresant"/>
+	<entry name="SistersOfBattle/SacresantShieldDescription" value="Aumenta a redução de dano."/>
+	<entry name="SistersOfBattle/SacresantShieldFlavor" value="Os fiéis Celestians Sacresants permanecem firmes contra os piores horrores da galáxia. Hordas de mutantes e hereges se chocam inutilmente contra suas paredes de escudo antes de serem abatidos com fúria justa."/>
+	<entry name="SistersOfBattle/SaintlyBlessings" value="Bênçãos Santas"/>
+	<entry name="SistersOfBattle/SaintlyBlessingsDescription" value="Aumenta a redução de dano."/>
 	<entry name="SistersOfBattle/SaintlyBlessingsFlavor" value="<string name='Actions/SistersOfBattle/SaintlyBlessingsFlavor'/>"/>
-	<entry name="SistersOfBattle/ShieldOfFaith" value="Shield of Faith"/>
-	<entry name="SistersOfBattle/ShieldOfFaithDescription" value="Increases the damage reduction."/>
-	<entry name="SistersOfBattle/ShieldOfFaithFlavor" value="Members of the Adepta Sororitas are taught that faith is a shield stronger than any armour. Such is the power of their belief that the Emperor will protect them that the Adepta Sororitas can shrug off the most severe of wounds and resist the witchcraft of enemy sorcerers."/>
-	<entry name="SistersOfBattle/SimulacrumImperialis" value="Simulacrum Imperialis"/>
-	<entry name="SistersOfBattle/SimulacrumImperialisDescription" value="Reduces the cooldown of Acts of Faith."/>
-	<entry name="SistersOfBattle/SimulacrumImperialisFlavor" value="These holy symbols of the Ecclesiarchy were once carried by one of the Imperium’s many saints, or may even be wrought from their bones. They are wellsprings of inspiration and faith and it is a great honour to carry such an irreplaceable relic into battle."/>
-	<entry name="SistersOfBattle/SisterSuperior" value="Sister Superior"/>
-	<entry name="SistersOfBattle/SisterSuperiorDescription" value="Increases the morale of infantry and Paragon Warsuits units."/>
-	<entry name="SistersOfBattle/SisterSuperiorFlavor" value="It is the Sisters Superior who form the true lynchpins of each squad of Battle Sisters. Speaking with authority derived from years of combat experience and supreme faith in the God-Emperor, these remarkable officers ensure that every Sister under their command fights to the full extent of her abilities and endurance, thereby maximising the strategic impact of the squad as a whole."/>
+	<entry name="SistersOfBattle/ShieldOfFaith" value="Escudo de Fé"/>
+	<entry name="SistersOfBattle/ShieldOfFaithDescription" value="Aumenta a redução de dano."/>
+	<entry name="SistersOfBattle/ShieldOfFaithFlavor" value="Membros da Adepta Sororitas são ensinados que a fé é um escudo mais forte que qualquer armadura. Tal é o poder de sua crença de que o Imperador os protegerá que podem resistir aos ferimentos mais graves e às artes mágicas de inimigos."/>
+	<entry name="SistersOfBattle/SimulacrumImperialis" value="Simulacro Imperial"/>
+	<entry name="SistersOfBattle/SimulacrumImperialisDescription" value="Reduz o tempo de recarga dos Atos de Fé."/>
+	<entry name="SistersOfBattle/SimulacrumImperialisFlavor" value="Esses símbolos sagrados da Ecclesiarchy foram uma vez carregados por um dos muitos santos do Império, ou podem até ser feitos de seus ossos. São fontes de inspiração e fé, e é uma grande honra levar tal relíquia irreplaceável à batalha."/>
+	<entry name="SistersOfBattle/SisterSuperior" value="Irmã Superiora"/>
+	<entry name="SistersOfBattle/SisterSuperiorDescription" value="Aumenta o moral das unidades de infantaria e Armaduras Paragon."/>
+	<entry name="SistersOfBattle/SisterSuperiorFlavor" value="São as Irmãs Superioras que formam a verdadeira base de cada esquadrão de Irmãs de Batalha. Falando com autoridade derivada de anos de experiência em combate e fé suprema no Deus-Imperador, essas oficiais notáveis garantem que cada Irmã sob seu comando lute ao máximo de suas habilidades e resistência, maximizando o impacto estratégico do esquadrão como um todo."/>
 	<entry name="SistersOfBattle/SolaceInAnguish" value="<string name='Actions/SistersOfBattle/SolaceInAnguish'/>"/>
 	<entry name="SistersOfBattle/SolaceInAnguishDescription" value="<string name='Actions/SistersOfBattle/SolaceInAnguishDescription'/>"/>
 	<entry name="SistersOfBattle/SolaceInAnguishFlavor" value="<string name='Actions/SistersOfBattle/SolaceInAnguishFlavor'/>"/>
 	<entry name="SistersOfBattle/StirringRhetoric" value="<string name='Actions/SistersOfBattle/StirringRhetoric'/>"/>
-	<entry name="SistersOfBattle/StirringRhetoricDescription" value="Increases the armour."/>
+	<entry name="SistersOfBattle/StirringRhetoricDescription" value="Aumenta a armadura."/>
 	<entry name="SistersOfBattle/StirringRhetoricFlavor" value="<string name='Actions/SistersOfBattle/StirringRhetoricFlavor'/>"/>
 	<entry name="SistersOfBattle/TaleOfTheFaithful" value="<string name='Actions/SistersOfBattle/TaleOfTheFaithful'/>"/>
 	<entry name="SistersOfBattle/TaleOfTheFaithfulDescription" value="<string name='Actions/SistersOfBattle/TaleOfTheFaithfulDescription'/>"/>
@@ -1647,56 +1647,56 @@
 	<entry name="SistersOfBattle/TaleOfTheWarriorDescription" value="<string name='Actions/SistersOfBattle/TaleOfTheWarriorDescription'/>"/>
 	<entry name="SistersOfBattle/TaleOfTheWarriorFlavor" value="<string name='Actions/SistersOfBattle/TaleOfTheWarriorFlavor'/>"/>
 	<entry name="SistersOfBattle/ThePassion" value="<string name='Actions/SistersOfBattle/ThePassion'/>"/>
-	<entry name="SistersOfBattle/ThePassionDescription" value="Increases the melee accuracy."/>
+	<entry name="SistersOfBattle/ThePassionDescription" value="Aumenta a precisão em combate corpo a corpo."/>
 	<entry name="SistersOfBattle/ThePassionFlavor" value="<string name='Actions/SistersOfBattle/ThePassionFlavor'/>"/>
-	<entry name="SistersOfBattle/UsedActOfFaith" value="Used Act Of Faith"/>
-	<entry name="SistersOfBattle/UsedActOfFaithDescription" value="This unit used its act of faith ability this turn."/>
+	<entry name="SistersOfBattle/UsedActOfFaith" value="Ato de Fé Usado"/>
+	<entry name="SistersOfBattle/UsedActOfFaithDescription" value="Esta unidade usou sua habilidade de ato de fé neste turno."/>
 	<entry name="SistersOfBattle/UsedActOfFaithFlavor" value="<string name='Traits/SistersOfBattle/UsedActOfFaithDescription'/>"/>
-	<entry name="SistersOfBattle/UsedSacredRite" value="Used 1 Sacred Rite"/>
-	<entry name="SistersOfBattle/UsedSacredRite2" value="Used 2 Sacred Rites"/>
-	<entry name="SistersOfBattle/VengefulSpirit" value="Vengeful Spirit"/>
-	<entry name="SistersOfBattle/VengefulSpiritDescription" value="Returns damage back to the attacker."/>
-	<entry name="SistersOfBattle/VengefulSpiritFlavor" value="“And in death, we have one last chance—a release from worry. Once dying, there is nothing holding back our fury, no need for self-preservation. We can use up all that we are, take all the blow that come our way, for one last chance at justice.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
+	<entry name="SistersOfBattle/UsedSacredRite" value="Usou 1 Rito Sagrado"/>
+	<entry name="SistersOfBattle/UsedSacredRite2" value="Usou 2 Ritos Sagrados"/>
+	<entry name="SistersOfBattle/VengefulSpirit" value="Espírito Vingativo"/>
+	<entry name="SistersOfBattle/VengefulSpiritDescription" value="Devolve o dano ao atacante."/>
+	<entry name="SistersOfBattle/VengefulSpiritFlavor" value="“E na morte, temos uma última chance — um alívio das preocupações. Ao morrer, nada segura nossa fúria, não há necessidade de autopreservação. Podemos usar tudo o que somos, suportar todos os golpes, por uma última chance de justiça.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
 	<entry name="SistersOfBattle/WarHymn" value="<string name='Actions/SistersOfBattle/WarHymn'/>"/>
-	<entry name="SistersOfBattle/WarHymnDescription" value="Increases the attacks."/>
+	<entry name="SistersOfBattle/WarHymnDescription" value="Aumenta os ataques."/>
 	<entry name="SistersOfBattle/WarHymnFlavor" value="<string name='Actions/SistersOfBattle/WarHymnFlavor'/>"/>
-	<entry name="SistersOfBattle/WarmachinesWrath" value="Mechanised Wrath"/>
-	<entry name="SistersOfBattle/WarmachinesWrathDescription" value="Increases the production output."/>
-	<entry name="SistersOfBattle/WarmachinesWrathFlavor" value="“In those last days, the fervour spread. The Rite of Suppliance was performed, to demand the utmost from the Machine Spirits that ran the Manufactora and the Hangars where the ancient war engines were anointed. They did not disappoint.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
+	<entry name="SistersOfBattle/WarmachinesWrath" value="Ira Mecanizada"/>
+	<entry name="SistersOfBattle/WarmachinesWrathDescription" value="Aumenta a produção."/>
+	<entry name="SistersOfBattle/WarmachinesWrathFlavor" value="“Naqueles últimos dias, o fervor se espalhou. O Rito da Suppliação foi realizado, exigindo o máximo dos Espíritos-Máquina que operavam as Manufactoras e os Hangars onde os antigos motores de guerra eram ungidos. Eles não decepcionaram.”<br/>  — Remembrancer desconhecido, Evangelho da Webway"/>
 	<entry name="SkilledJink" value="<string name='Actions/SkilledJink'/>"/>
 	<entry name="SkilledJinkDescription" value="<string name='Traits/JinkDescription'/>"/>
 	<entry name="SkilledJinkFlavor" value="<string name='Actions/SkilledJinkFlavor'/>"/>
 	<entry name="Skimmer" value="Skimmer"/>
-	<entry name="SkimmerDescription" value="The unit can move over water. Ignores the penalties of rivers and wire weed. Reduces the movement penalty in forests and imperial ruins."/>
-	<entry name="SkimmerFlavor" value="Some highly advanced vehicles are fitted with anti-gravity drives that allow them to skim swiftly over tough terrain and intervening troops, making them perfect for surprise flanking attacks."/>
+	<entry name="SkimmerDescription" value="A unidade pode se mover sobre a água. Ignora penalidades de rios e vegetação densa. Reduz a penalidade de movimento em florestas e ruínas imperiais."/>
+	<entry name="SkimmerFlavor" value="Alguns veículos altamente avançados possuem propulsores antigravitacionais que permitem deslizar rapidamente sobre terrenos difíceis e tropas inimigas, perfeitos para ataques de flanco surpresa."/>
 	<entry name="SkullAltar" value="<string name='Features/SkullAltar'/>"/>
-	<entry name="SkullAltarDescription" value="Provides a reward to units entering the tile."/>
+	<entry name="SkullAltarDescription" value="Concede uma recompensa às unidades que entrarem na tile."/>
 	<entry name="SkullAltarFlavor" value="<string name='Features/SkullAltarFlavor'/>"/>
-	<entry name="SkullsForTheSkullThrone" value="Skulls for the Skull Throne"/>
-	<entry name="SkullsForTheSkullThroneDescription" value="Increases the damage reduction."/>
-	<entry name="SkullsForTheSkullThroneFlavor" value="Khorne respects only the strong and boundlessly murderous."/>
-	<entry name="Skyfire" value="Skyfire"/>
-	<entry name="SkyfireDescription" value="Increases the accuracy against flyers. Reduces the accuracy against ground units that are not skimmer, jetbike or jet pack."/>
-	<entry name="SkyfireFlavor" value="Skyfire weapons excel at shooting down enemy aircraft and skimmers."/>
-	<entry name="SlowAndPurposeful" value="Slow and Purposeful"/>
-	<entry name="SlowAndPurposefulDescription" value="Negates the penalty for heavy and ordnance weapons."/>
-	<entry name="SlowAndPurposefulFlavor" value="Many warriors are steady but sure, slow to advance but no less deadly for it."/>
-	<entry name="Slowed" value="Slowed"/>
-	<entry name="SlowedDescription" value="Reduces the movement."/>
-	<entry name="Smash" value="Smash"/>
-	<entry name="SmashDescription" value="Increases the melee armour penetration."/>
-	<entry name="SmashFlavor" value="For the most fearsome of creatures, a single blow is sufficient to breach a tank's armour or crush a living creature to bloody pulp."/>
-	<entry name="SmokeScreen" value="Smoke Screen"/>
-	<entry name="SmokeScreenDescription" value="Increases the ranged damage reduction."/>
+	<entry name="SkullsForTheSkullThrone" value="Caveiras para o Trono de Caveiras"/>
+	<entry name="SkullsForTheSkullThroneDescription" value="Aumenta a redução de dano."/>
+	<entry name="SkullsForTheSkullThroneFlavor" value="Khorne respeita apenas os fortes e insaciavelmente sanguinários."/>
+	<entry name="Skyfire" value="Fogo Celeste"/>
+	<entry name="SkyfireDescription" value="Aumenta a precisão contra unidades aéreas. Reduz a precisão contra unidades terrestres que não sejam skimmer, jetbike ou com jet pack."/>
+	<entry name="SkyfireFlavor" value="Armas Fogo Celeste são eficazes em abater aeronaves e skimmers inimigos."/>
+	<entry name="SlowAndPurposeful" value="Lento e Determinado"/>
+	<entry name="SlowAndPurposefulDescription" value="Anula a penalidade de armas pesadas e de artilharia."/>
+	<entry name="SlowAndPurposefulFlavor" value="Muitos guerreiros avançam de forma constante, lentos mas certeiros, mortais mesmo assim."/>
+	<entry name="Slowed" value="Retardado"/>
+	<entry name="SlowedDescription" value="Reduz o movimento."/>
+	<entry name="Smash" value="Esmagar"/>
+	<entry name="SmashDescription" value="Aumenta a penetração de armadura em combate corpo a corpo."/>
+	<entry name="SmashFlavor" value="Para as criaturas mais temíveis, um único golpe é suficiente para atravessar a armadura de um tanque ou esmagar um ser vivo em polpa sanguinolenta."/>
+	<entry name="SmokeScreen" value="Cortina de Fumaça"/>
+	<entry name="SmokeScreenDescription" value="Aumenta a redução de dano à distância."/>
 	<entry name="SmokeScreenFlavor" value="<string name='Actions/CreateSmokeScreenFlavor'/>"/>
-	<entry name="Sniper" value="Sniper"/>
-	<entry name="SniperDescription" value="Increases the damage and armour penetration against infantry and monstrous creature units."/>
-	<entry name="SniperFlavor" value="Sniper weapons are precision instruments, used to pick out a target’s weak points."/>
-	<entry name="SonicBoom" value="Sonic Boom"/>
-	<entry name="SonicBoomDescription" value="Increases the damage against flyers."/>
-	<entry name="SoulBlaze" value="Soul Blaze"/>
-	<entry name="SoulBlazeDescription" value="Deals damage each turn."/>
-	<entry name="SoulBlazed" value="Soul Blazed"/>
+	<entry name="Sniper" value="Atirador de Precisão"/>
+	<entry name="SniperDescription" value="Aumenta o dano e a penetração de armadura contra unidades de infantaria e criaturas monstruosas."/>
+	<entry name="SniperFlavor" value="Armas de atirador são instrumentos de precisão, usadas para atingir os pontos fracos do alvo."/>
+	<entry name="SonicBoom" value="Explosão Sônica"/>
+	<entry name="SonicBoomDescription" value="Aumenta o dano contra unidades aéreas."/>
+	<entry name="SoulBlaze" value="Chama da Alma"/>
+	<entry name="SoulBlazeDescription" value="Causa dano a cada turno."/>
+	<entry name="SoulBlazed" value="Chama da Alma Ativada"/>
 	<entry name="SoulBlazedDescription" value="<string name='Traits/SoulBlazeDescription'/>"/>
 	<entry name="SpaceMarines/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
 	<entry name="SpaceMarines/BlastDamageDescription" value="<string name='Traits/AstraMilitarum/BlastDamageDescription'/>"/>
@@ -1704,225 +1704,225 @@
 	<entry name="SpaceMarines/BoltDamage" value="<string name='Traits/AstraMilitarum/BoltDamage'/>"/>
 	<entry name="SpaceMarines/BoltDamageDescription" value="<string name='Traits/AstraMilitarum/BoltDamageDescription'/>"/>
 	<entry name="SpaceMarines/BoltDamageFlavor" value="<string name='Traits/AstraMilitarum/BoltDamageFlavor'/>"/>
-	<entry name="SpaceMarines/BolterDiscipline" value="Bolter Discipline"/>
+	<entry name="SpaceMarines/BolterDiscipline" value="Disciplina com Bolter"/>
 	<entry name="SpaceMarines/BolterDisciplineDescription" value="<string name='Traits/ChaosSpaceMarines/MaliciousVolleysDescription'/>"/>
-	<entry name="SpaceMarines/BolterDisciplineFlavor" value="To a Space Marine, the boltgun is more than a weapon—it is an instrument of Mankind’s divinity, the bringer of death to his foes."/>
-	<entry name="SpaceMarines/CityTier2" value="Fortress Expansion"/>
-	<entry name="SpaceMarines/CityTier2Description" value="Increases the tile acquisition radius."/>
-	<entry name="SpaceMarines/CityTier2Flavor" value="The second stage of the Fortress' construction has started. With the core facilities established, the Techmarines are authorised to expand their operations and create a second defensive line."/>
-	<entry name="SpaceMarines/CityTier3" value="Advanced Redoubts"/>
+	<entry name="SpaceMarines/BolterDisciplineFlavor" value="Para um Space Marine, o bolter é mais que uma arma — é um instrumento da divindade da Humanidade, trazendo a morte a seus inimigos."/>
+	<entry name="SpaceMarines/CityTier2" value="Expansão da Fortaleza"/>
+	<entry name="SpaceMarines/CityTier2Description" value="Aumenta o raio de aquisição de tiles."/>
+	<entry name="SpaceMarines/CityTier2Flavor" value="A segunda etapa da construção da Fortaleza começou. Com as instalações centrais estabelecidas, os Techmarines estão autorizados a expandir suas operações e criar uma segunda linha defensiva."/>
+	<entry name="SpaceMarines/CityTier3" value="Redutos Avançados"/>
 	<entry name="SpaceMarines/CityTier3Description" value="<string name='Traits/SpaceMarines/CityTier2Description'/>"/>
-	<entry name="SpaceMarines/CityTier3Flavor" value="The third stage of the Fortress construction involves the creation of independent garrisons and buttresses along an additional line of city walls. In the shadow of those cyclopean barriers, Servitors and serfs spend their lives, scurrying from one task to another."/>
-	<entry name="SpaceMarines/CityTier4" value="Fortress Supreme"/>
+	<entry name="SpaceMarines/CityTier3Flavor" value="A terceira etapa da construção da Fortaleza envolve a criação de guarnições independentes e contrafortes ao longo de uma linha adicional de muralhas. À sombra dessas barreiras ciclópicas, Servitors e servos passam suas vidas, correndo de uma tarefa à outra."/>
+	<entry name="SpaceMarines/CityTier4" value="Fortaleza Suprema"/>
 	<entry name="SpaceMarines/CityTier4Description" value="<string name='Traits/SpaceMarines/CityTier2Description'/>"/>
-	<entry name="SpaceMarines/CityTier4Flavor" value="With this expansion, the Master Artificer declares the fortress complete. Now it rivals in scale a Hive City. Inside its impregnable walls, you could be anywhere in the Imperium. Outside, the local tribes come from enormous distances to pay tribute, whilst their finest warriors hope to be accepted for the lethal trials that might lead to their being modified into a Space Marine."/>
-	<entry name="SpaceMarines/CloseQuartersFirepower" value="Close-quarters Firepower"/>
-	<entry name="SpaceMarines/CloseQuartersFirepowerDescription" value="Increases the ranged armour penetration."/>
-	<entry name="SpaceMarines/CloseQuartersFirepowerFlavor" value="At shorter ranges, the range of weapons designed by Belisarius Cawl for his Primaris marines are lethally effective, encouraging the Emperor’s finest to close the distance with their foes."/>
-	<entry name="SpaceMarines/DutyEternal" value="Duty Eternal"/>
-	<entry name="SpaceMarines/DutyEternalDescription" value="Increases invulnerable damage reduction."/>
-	<entry name="SpaceMarines/DutyEternalFlavor" value="All Adeptus Astartes possess an indomitable will. Yet those few Primaris given the privilege of being encased in a Redemptor Dreadnought after their effective death know a deeper responsibility, of living up to this unique honour. They will fight on no matter how grievous the injury or how severe the damage."/>
-	<entry name="SpaceMarines/FortressOfRedemptionDamageReduction" value="Stronghold Shielding"/>
-	<entry name="SpaceMarines/FortressOfRedemptionDamageReductionDescription" value="Increases the invulnerable damage reduction."/>
-	<entry name="SpaceMarines/FortressOfRedemptionDamageReductionFlavor" value="Gladius Prime is already proving far more hostile than the Adeptus Administratum's worst forecasts. With the Fortress' physical defenses under almost constant assault, the Techmarines approve installation of a void shield. Once constructed, this shimmering dome of power is sufficient to warp away the firepower of entire battalions (or even a rogue Imperial Knight) before collapsing."/>
+	<entry name="SpaceMarines/CityTier4Flavor" value="Com esta expansão, o Mestre Artífice declara a fortaleza completa. Agora rivaliza em escala com uma Cidade Colmeia. Dentro de suas muralhas impenetráveis, você poderia estar em qualquer lugar do Império. Fora, tribos locais vêm de enormes distâncias para prestar tributo, enquanto seus melhores guerreiros esperam ser aceitos para os testes letais que podem transformá-los em Space Marines."/>
+	<entry name="SpaceMarines/CloseQuartersFirepower" value="Poder de Fogo em Combate Próximo"/>
+	<entry name="SpaceMarines/CloseQuartersFirepowerDescription" value="Aumenta a penetração de armadura à distância."/>
+	<entry name="SpaceMarines/CloseQuartersFirepowerFlavor" value="Em curtas distâncias, o alcance das armas projetadas por Belisarius Cawl para seus marines Primaris é mortalmente eficaz, incentivando os melhores do Imperador a fechar distância com seus inimigos."/>
+	<entry name="SpaceMarines/DutyEternal" value="Dever Eterno"/>
+	<entry name="SpaceMarines/DutyEternalDescription" value="Aumenta a redução de dano invulnerável."/>
+	<entry name="SpaceMarines/DutyEternalFlavor" value="Todos os Adeptus Astartes possuem uma vontade indomável. Mas aqueles poucos Primaris privilegiados de serem colocados em um Redemptor Dreadnought após sua morte efetiva conhecem uma responsabilidade maior, vivendo à altura desta honra única. Eles continuarão lutando, não importando quão graves sejam os ferimentos ou danos."/>
+	<entry name="SpaceMarines/FortressOfRedemptionDamageReduction" value="Escudo da Fortaleza"/>
+	<entry name="SpaceMarines/FortressOfRedemptionDamageReductionDescription" value="Aumenta a redução de dano invulnerável."/>
+	<entry name="SpaceMarines/FortressOfRedemptionDamageReductionFlavor" value="Gladius Prime já se mostra muito mais hostil do que as piores previsões do Adeptus Administratum. Com as defesas físicas da Fortaleza sob quase constante ataque, os Techmarines aprovam a instalação de um escudo de vácuo. Uma vez construído, este domo cintilante é suficiente para desviar o poder de fogo de batalhões inteiros (ou até um Imperial Knight rebelde) antes de colapsar."/>
 	<entry name="SpaceMarines/LasDamage" value="<string name='Traits/AstraMilitarum/LasDamage'/>"/>
 	<entry name="SpaceMarines/LasDamageDescription" value="<string name='Traits/AstraMilitarum/LasDamageDescription'/>"/>
 	<entry name="SpaceMarines/LasDamageFlavor" value="<string name='Traits/AstraMilitarum/LasDamageFlavor'/>"/>
-	<entry name="SpaceMarines/MeleeDamage" value="Close Combat Mastery"/>
-	<entry name="SpaceMarines/MeleeDamageDescription" value="Increases the armour penetration."/>
-	<entry name="SpaceMarines/MeleeDamageFlavor" value="Certain Adeptus Astartes chapters—the Space Wolves, the Blood Drinkers, the Minotaurs—are renowned for their mastery of close-quarters combat. To come to blows with even the lowliest Scout Marine from such a chapter is to fight generations of knowledge and training."/>
+	<entry name="SpaceMarines/MeleeDamage" value="Mestre do Combate Corpo a Corpo"/>
+	<entry name="SpaceMarines/MeleeDamageDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="SpaceMarines/MeleeDamageFlavor" value="Certos capítulos do Adeptus Astartes — Space Wolves, Blood Drinkers, Minotaurs — são renomados pelo domínio do combate corpo a corpo. Enfrentar mesmo um Scout Marine de baixo escalão desses capítulos é lutar contra gerações de conhecimento e treinamento."/>
 	<entry name="SpaceMarines/Omniscope" value="<string name='Actions/SpaceMarines/Omniscope'/>"/>
 	<entry name="SpaceMarines/OmniscopeDescription" value="<string name='Actions/SpaceMarines/OmniscopeDescription'/>"/>
 	<entry name="SpaceMarines/OmniscopeFlavor" value="<string name='Actions/SpaceMarines/OmniscopeFlavor'/>"/>
 	<entry name="SpaceMarines/RepulsorField" value="<string name='Actions/SpaceMarines/RepulsorField'/>"/>
-	<entry name="SpaceMarines/RepulsorFieldDescription" value="Reduces the movement."/>
+	<entry name="SpaceMarines/RepulsorFieldDescription" value="Reduz o movimento."/>
 	<entry name="SpaceMarines/RepulsorFieldFlavor" value="<string name='Actions/SpaceMarines/RepulsorFieldFlavor'/>"/>
-	<entry name="SpaceMarines/SuppressiveBombardment" value="Suppressive Bombardment"/>
-	<entry name="SpaceMarines/SuppressiveBombardmentDescription" value="Increases the damage and attacks pin down enemy infantry when adjacent to another Whirlwind."/>
-	<entry name="SpaceMarines/SuppressiveBombardmentFlavor" value="The Codex Astartes dictates that Whirlwinds operate best in larger groups, laying down a rolling barrage that cannot be avoided but must instead be endured. Even when sheltered, lighter-armoured troops and vehicles are utterly devastated by the relentless rain of warheads."/>
-	<entry name="SpaceMarines/StormShield" value="Storm Shield"/>
-	<entry name="SpaceMarines/StormShieldDescription" value="Increases the invulnerable damage reduction."/>
-	<entry name="SpaceMarines/StormShieldFlavor" value="A storm shield is a large, solid shield that has an energy field generator built into it. Though the bulk of the shield offers physical protection, it is the energy field which is more impressive, as it is capable of deflecting almost any attack. Even blows that would normally cut through Terminator armour are turned aside with ease by the protective energies of the storm shield."/>
-	<entry name="SpaceMarines/Thunderstrike" value="Thunderstrike"/>
-	<entry name="SpaceMarines/ThunderstrikeDescription" value="Increases ranged damage from Space Marines units against targets attacked by this unit."/>
-	<entry name="SpaceMarines/ThunderstrikeFlavor" value="The heavily armed Storm Speeders designed by Belisarius Cawl are specialised against certain targets, with the Thunderstrike focused on eliminating enemy vehicles and key targets. Indeed, a foe crippled by its armaments becomes even more vulnerable to follow-up attacks by fellow battle brothers."/>
+	<entry name="SpaceMarines/SuppressiveBombardment" value="Bombardeio Supressor"/>
+	<entry name="SpaceMarines/SuppressiveBombardmentDescription" value="Aumenta o dano e mantém a infantaria inimiga suprimida quando adjacente a outro Whirlwind."/>
+	<entry name="SpaceMarines/SuppressiveBombardmentFlavor" value="O Codex Astartes determina que os Whirlwinds operem melhor em grupos maiores, lançando uma barragem contínua que não pode ser evitada, apenas suportada. Mesmo tropas e veículos com armadura leve são totalmente devastados pela chuva incessante de projéteis."/>
+	<entry name="SpaceMarines/StormShield" value="Escudo Tempestuoso"/>
+	<entry name="SpaceMarines/StormShieldDescription" value="Aumenta a redução de dano invulnerável."/>
+	<entry name="SpaceMarines/StormShieldFlavor" value="Um escudo tempestuoso é um grande escudo sólido com um gerador de campo de energia embutido. Embora a massa do escudo ofereça proteção física, é o campo de energia que impressiona, capaz de desviar quase qualquer ataque. Até golpes que normalmente atravessariam armaduras de Terminator são desviados facilmente pelas energias protetoras do escudo."/>
+	<entry name="SpaceMarines/Thunderstrike" value="Golpe Trovejante"/>
+	<entry name="SpaceMarines/ThunderstrikeDescription" value="Aumenta o dano à distância de unidades dos Space Marines contra alvos atacados por esta unidade."/>
+	<entry name="SpaceMarines/ThunderstrikeFlavor" value="Os Storm Speeders fortemente armados projetados por Belisarius Cawl são especializados contra certos alvos, com o Thunderstrike focado em eliminar veículos inimigos e alvos-chave. Um inimigo incapacitado por seus armamentos torna-se ainda mais vulnerável a ataques subsequentes dos irmãos de batalha."/>
 	<entry name="SpaceMarines/ThunderstrikeTarget" value="<string name='Traits/SpaceMarines/Thunderstrike'/>"/>
-	<entry name="SpaceMarines/ThunderstrikeTargetDescription" value="Increases the ranged damage from Space Marines units against this unit."/>
+	<entry name="SpaceMarines/ThunderstrikeTargetDescription" value="Aumenta o dano à distância de unidades dos Space Marines contra esta unidade."/>
 	<entry name="SpaceMarines/ThunderstrikeTargetFlavor" value="<string name='Traits/SpaceMarines/ThunderstrikeFlavor'/>"/>
 	<entry name="SpaceSlip" value="<string name='Actions/SpaceSlip'/>"/>
-	<entry name="SpaceSlipDescription" value="Increases the damage reduction."/>
-	<entry name="Stealth" value="Stealth"/>
-	<entry name="StealthDescription" value="Increases the ranged damage reduction."/>
-	<entry name="StealthFlavor" value="Some warriors are masters of disguise and concealment, able to fade into the ruin of a battlefield until they are ready to strike."/>
-	<entry name="StrafingRun" value="Strafing Run"/>
-	<entry name="StrafingRunDescription" value="Increases the ranged accuracy against ground units."/>
-	<entry name="StrafingRunFlavor" value="This vehicle is designed as a ground attack craft, the spread and convergence distance of its weapons keyed to maximise carnage on the foes below."/>
-	<entry name="Strikedown" value="Strikedown"/>
-	<entry name="StrikedownDescription" value="Temporarily reduces the movement of target infantry unit."/>
-	<entry name="StrikedownFlavor" value="A sufficiently powerful blow can knock even the mightiest warrior off his feet."/>
-	<entry name="Stubborn" value="Stubborn"/>
-	<entry name="StubbornDescription" value="Reduces the morale loss."/>
-	<entry name="StubbornFlavor" value="Many warriors live and die according to the principle of 'death before dishonour'. Seldom do such warriors take a backward step in the face of danger."/>
-	<entry name="Stunned" value="Stunned"/>
-	<entry name="StunnedDescription" value="Prevents the unit from moving or acting."/>
-	<entry name="Suicider" value="Suicider"/>
-	<entry name="SuiciderDescription" value="Enemies do not gain experience when this unit kills itself."/>
-	<entry name="Summon" value="Summon"/>
-	<entry name="SummonDescription" value="Classification."/>
-	<entry name="SuperHeavy" value="Super-Heavy"/>
-	<entry name="SuperHeavyDescription" value="Classification."/>
-	<entry name="SuperHeavyFlavor" value="Huge armour-clad constructions that each carry enough firepower to vaporise, smash or incinerate an entire army."/>
-	<entry name="Supersonic" value="Supersonic"/>
-	<entry name="SupersonicDescription" value="Increases the movement."/>
-	<entry name="SupersonicFlavor" value="Supersonic vehicles are supremely fast, even by the normal standards of aircraft, making them exceptionally mobile in battle."/>
-	<entry name="Swarms" value="Swarms"/>
-	<entry name="SwarmsDescription" value="Damage taken is spread evenly across the whole unit group, but the group takes additional hits against blast and template weapons."/>
-	<entry name="SwarmsFlavor" value="These creatures are so multitudinous that they cannot be picked out individually and must be fought as a group."/>
-	<entry name="Swiftstrike" value="Swiftstrike"/>
-	<entry name="SwiftstrikeDescription" value="Increases the attacks."/>
-	<entry name="TacticalDoctrine" value="Tactical Doctrine"/>
-	<entry name="TacticalDoctrineDescription" value="Increases the accuracy."/>
+	<entry name="SpaceSlipDescription" value="Aumenta a redução de dano."/>
+	<entry name="Stealth" value="Furtivo"/>
+	<entry name="StealthDescription" value="Aumenta a redução de dano à distância."/>
+	<entry name="StealthFlavor" value="Alguns guerreiros são mestres do disfarce e da ocultação, capazes de se misturar às ruínas de um campo de batalha até estarem prontos para atacar."/>
+	<entry name="StrafingRun" value="Ataque em Passagem"/>
+	<entry name="StrafingRunDescription" value="Aumenta a precisão à distância contra unidades terrestres."/>
+	<entry name="StrafingRunFlavor" value="Este veículo foi projetado como aeronave de ataque ao solo, com a dispersão e convergência de suas armas ajustadas para maximizar a carnificina sobre os inimigos abaixo."/>
+	<entry name="Strikedown" value="Derrubada"/>
+	<entry name="StrikedownDescription" value="Reduz temporariamente o movimento da unidade de infantaria alvo."/>
+	<entry name="StrikedownFlavor" value="Um golpe suficientemente poderoso pode derrubar até o guerreiro mais forte."/>
+	<entry name="Stubborn" value="Teimoso"/>
+	<entry name="StubbornDescription" value="Reduz a perda de moral."/>
+	<entry name="StubbornFlavor" value="Muitos guerreiros vivem e morrem segundo o princípio 'morte antes da desonra'. Raramente recuam diante do perigo."/>
+	<entry name="Stunned" value="Atordoado"/>
+	<entry name="StunnedDescription" value="Impede a unidade de se mover ou agir."/>
+	<entry name="Suicider" value="Suicida"/>
+	<entry name="SuiciderDescription" value="Inimigos não ganham experiência quando esta unidade se sacrifica."/>
+	<entry name="Summon" value="Invocação"/>
+	<entry name="SummonDescription" value="Classificação."/>
+	<entry name="SuperHeavy" value="Superpesado"/>
+	<entry name="SuperHeavyDescription" value="Classificação."/>
+	<entry name="SuperHeavyFlavor" value="Enormes construções blindadas que carregam poder de fogo suficiente para vaporizar, esmagar ou incinerar um exército inteiro."/>
+	<entry name="Supersonic" value="Supersônico"/>
+	<entry name="SupersonicDescription" value="Aumenta o movimento."/>
+	<entry name="SupersonicFlavor" value="Veículos supersônicos são extremamente rápidos, mesmo para padrões normais de aeronaves, tornando-os excepcionalmente móveis em batalha."/>
+	<entry name="Swarms" value="Enxames"/>
+	<entry name="SwarmsDescription" value="O dano recebido é distribuído igualmente por todo o grupo, mas o grupo recebe dano adicional de armas de área e modelo."/>
+	<entry name="SwarmsFlavor" value="Essas criaturas são tão numerosas que não podem ser distinguidas individualmente e devem ser enfrentadas em grupo."/>
+	<entry name="Swiftstrike" value="Golpe Rápido"/>
+	<entry name="SwiftstrikeDescription" value="Aumenta os ataques."/>
+	<entry name="TacticalDoctrine" value="Doutrina Tática"/>
+	<entry name="TacticalDoctrineDescription" value="Aumenta a precisão."/>
 	<entry name="TacticalDoctrineFlavor" value="<string name='Actions/TacticalDoctrineFlavor'/>"/>
-	<entry name="Tank" value="Tank"/>
-	<entry name="TankDescription" value="Classification."/>
-	<entry name="TankFlavor" value="Tanks can use their mass as a weapon, driving right into and through densely packed enemies. This often throws the opposing battle line into disarray, as having some monstrous metal behemoth coming straight at you is unnerving for anybody."/>
-	<entry name="TankHunters" value="Tank Hunters"/>
-	<entry name="TankHuntersDescription" value="Increases the armour penetration against enemy vehicles."/>
-	<entry name="TankHuntersFlavor" value="These veterans of armoured warfare are able to identify the weak points of enemy vehicles and target their fire appropriately."/>
-	<entry name="Tau/AdvancedTargetingSystem" value="Advanced Targeting System"/>
-	<entry name="Tau/AdvancedTargetingSystemDescription" value="Increases the ranged accuracy."/>
-	<entry name="Tau/AdvancedTargetingSystemFlavor" value="An advanced targeting system assists the vehicle's gunner by identifying targets of particular value or danger and plotting fire plans to counter them."/>
-	<entry name="Tau/AutomatedRepairSystem" value="Automated Repair System"/>
-	<entry name="Tau/AutomatedRepairSystemDescription" value="Restores hitpoints each turn."/>
-	<entry name="Tau/AutomatedRepairSystemFlavor" value="Tiny maintenance drones swarm over damaged systems to repair them in the midst of battle."/>
-	<entry name="Tau/BlacksunFilter" value="Blacksun Filter"/>
-	<entry name="Tau/BlacksunFilterDescription" value="Increases the sight."/>
-	<entry name="Tau/BlacksunFilterFlavor" value="This optical filtering suite allows vehicle sensors to target enemies at full efficiency and range, even during night fighting operations."/>
-	<entry name="Tau/BlastDamage" value="Blast Phasing"/>
-	<entry name="Tau/BlastDamageDescription" value="Increases the armour penetration."/>
-	<entry name="Tau/BlastDamageFlavor" value="Area-effect weaponry has always been better placed to attack large infantry formations than hard targets like vehicles—but the Earth Caste engineers have figured a way past that. By phase-shifting the energy components of explosive and incendiary weapons, they can ensure that at least some of their effect will ‘leak’ past any shielding."/>
-	<entry name="Tau/BoltDamage" value="Brachyuran Assemblies"/>
-	<entry name="Tau/BoltDamageDescription" value="Increases the armour penetration."/>
-	<entry name="Tau/BoltDamageFlavor" value="Even the finest Earth Caste technician can’t assemble the components of their rail weapons by hand. But by entrusting this work to the tiny Brachyuran race and supplying them with miniaturised tools, they can shrink the scale and lower the fundamental deviation of any delicate operations, allowing for even more finerly tuned weaponry."/>
+	<entry name="Tank" value="Tanque"/>
+	<entry name="TankDescription" value="Classificação."/>
+	<entry name="TankFlavor" value="Tanques podem usar sua massa como arma, atravessando inimigos densamente agrupados. Isso frequentemente desorganiza a linha de batalha adversária, pois enfrentar uma monstruosidade metálica é intimidante para qualquer um."/>
+	<entry name="TankHunters" value="Caçadores de Tanques"/>
+	<entry name="TankHuntersDescription" value="Aumenta a penetração de armadura contra veículos inimigos."/>
+	<entry name="TankHuntersFlavor" value="Veteranos da guerra blindada capazes de identificar pontos fracos dos veículos inimigos e direcionar seu fogo apropriadamente."/>
+	<entry name="Tau/AdvancedTargetingSystem" value="Sistema Avançado de Mira"/>
+	<entry name="Tau/AdvancedTargetingSystemDescription" value="Aumenta a precisão à distância."/>
+	<entry name="Tau/AdvancedTargetingSystemFlavor" value="Um sistema de mira avançado ajuda o artilheiro do veículo a identificar alvos de valor ou perigo e planejar disparos para eliminá-los."/>
+	<entry name="Tau/AutomatedRepairSystem" value="Sistema de Reparos Automático"/>
+	<entry name="Tau/AutomatedRepairSystemDescription" value="Restaura pontos de vida a cada turno."/>
+	<entry name="Tau/AutomatedRepairSystemFlavor" value="Pequenos drones de manutenção consertam sistemas danificados no meio da batalha."/>
+	<entry name="Tau/BlacksunFilter" value="Filtro Blacksun"/>
+	<entry name="Tau/BlacksunFilterDescription" value="Aumenta a visão."/>
+	<entry name="Tau/BlacksunFilterFlavor" value="Este conjunto de filtros ópticos permite que sensores de veículos atinjam inimigos com eficiência total, mesmo em operações noturnas."/>
+	<entry name="Tau/BlastDamage" value="Fase Explosiva"/>
+	<entry name="Tau/BlastDamageDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="Tau/BlastDamageFlavor" value="Armas de área sempre foram melhores contra grandes formações de infantaria do que veículos. Mas os engenheiros da Casta da Terra encontraram um modo de contornar isso: ao alterar a fase dos componentes energéticos de armas explosivas e incendiárias, garantem que parte de seu efeito 'vaze' através de qualquer escudo."/>
+	<entry name="Tau/BoltDamage" value="Assembléias Brachyuran"/>
+	<entry name="Tau/BoltDamageDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="Tau/BoltDamageFlavor" value="Mesmo o melhor técnico da Casta da Terra não consegue montar armas de tração manualmente. Mas confiando essa tarefa à pequena raça Brachyuran e fornecendo ferramentas miniaturizadas, conseguem reduzir a escala e a margem de erro, produzindo armas ainda mais precisas."/>
 	<entry name="Tau/BreakComposure" value="<string name='Actions/Tau/BreakComposure'/>"/>
-	<entry name="Tau/BreakComposureDescription" value="Attacked units lose morale."/>
+	<entry name="Tau/BreakComposureDescription" value="Unidades atacadas perdem moral."/>
 	<entry name="Tau/BreakComposureFlavor" value="<string name='Actions/Tau/BreakComposureFlavor'/>"/>
-	<entry name="Tau/CityTier2" value="Dissemination"/>
-	<entry name="Tau/CityTier2Description" value="Increases the tile acquisition radius."/>
-	<entry name="Tau/CityTier2Flavor" value="Once a city is a certain size, the Water Caste begin a diplomatic offensive to bring more civilians to the Way—bombarding them with tailored propaganda of every form, from pamphlast drops to vid, rad and loudhailer broadcasts."/>
-	<entry name="Tau/CityTier3" value="Anthrazod Foundations"/>
-	<entry name="Tau/CityTier3Description" value="Increases the tile acquisition radius."/>
-	<entry name="Tau/CityTier3Flavor" value="The thick-skinned Anthrazods are a slow-thinking race normally employed by the T'au for dangerous, heavy-duty activities like asteroid mining—but directed by the Demiurg and Earth Caste, they can produce city substructures and transport tunnels like no-one else, linking up distant sectors with ease."/>
-	<entry name="Tau/ClusterFire" value="Cluster Fire"/>
-	<entry name="Tau/ClusterFireDescription" value="Increases attacks and damage against units that are bikes, jetbikes or very bulky. Greatly increases attacks and damage against units that are monstrous creatures, vehicles or fortifications."/>
-	<entry name="Tau/ClusterFireFlavor" value="The R’Varna’s unique Pulse Submunition Cannons work at extreme ranges, saturating their target area with micro-bursts of plasma. The larger the target, the more burst-waves of plasma strike near-simultaneously, ripping it into smaller pieces with ease."/>
-	<entry name="Tau/CounterfireDefenceSystem" value="Counterfire Defence System"/>
-	<entry name="Tau/CounterfireDefenceSystemDescription" value="Increases the accuracy of overwatch attacks."/>
+	<entry name="Tau/CityTier2" value="Disseminação"/>
+	<entry name="Tau/CityTier2Description" value="Aumenta o raio de aquisição de tiles."/>
+	<entry name="Tau/CityTier2Flavor" value="Quando a cidade atinge certo tamanho, a Casta da Água inicia uma ofensiva diplomática para trazer mais civis para o Caminho — bombardeando-os com propaganda de todos os tipos, desde folhetos a transmissões de vídeo, rádio e alto-falantes."/>
+	<entry name="Tau/CityTier3" value="Fundações Anthrazod"/>
+	<entry name="Tau/CityTier3Description" value="Aumenta o raio de aquisição de tiles."/>
+	<entry name="Tau/CityTier3Flavor" value="Os resistentes Anthrazods são uma raça de raciocínio lento normalmente empregada pelos T’au em atividades perigosas e pesadas, como mineração de asteroides — mas quando dirigidos pelos Demiurg e pela Casta da Terra, podem produzir subestruturas de cidades e túneis de transporte como ninguém, conectando setores distantes com facilidade."/>
+	<entry name="Tau/ClusterFire" value="Fogo Concentrado"/>
+	<entry name="Tau/ClusterFireDescription" value="Aumenta ataques e dano contra unidades que sejam motos, jetbikes ou muito volumosas. Aumenta muito ataques e dano contra unidades que sejam criaturas monstruosas, veículos ou fortificações."/>
+	<entry name="Tau/ClusterFireFlavor" value="Os exclusivos Canhões de Submunição Pulsante do R’Varna funcionam em alcances extremos, saturando a área-alvo com microexplosões de plasma. Quanto maior o alvo, mais ondas de plasma atingem quase simultaneamente, despedaçando-o com facilidade."/>
+	<entry name="Tau/CounterfireDefenceSystem" value="Sistema de Defesa de Fogo Cruzado"/>
+	<entry name="Tau/CounterfireDefenceSystemDescription" value="Aumenta a precisão de ataques de vigilância."/>
 	<entry name="Tau/CounterfireDefenceSystemFlavor" value="<string name='Actions/Tau/CounterfireDefenceSystemFlavor'/>"/>
-	<entry name="Tau/DisruptionPod" value="Disruption Pod"/>
-	<entry name="Tau/DisruptionPodDescription" value="Increases the ranged damage reduction."/>
-	<entry name="Tau/DisruptionPodFlavor" value="A disruption pod throws out distorting images in both visual and magnetic spectra, making it hard to target the vehicle at range."/>
-	<entry name="Tau/DroneController" value="Drone Controller"/>
-	<entry name="Tau/DroneControllerDescription" value="Increases the accuracy of adjacent drones."/>
+	<entry name="Tau/DisruptionPod" value="Pod de Disrupção"/>
+	<entry name="Tau/DisruptionPodDescription" value="Aumenta a redução de dano à distância."/>
+	<entry name="Tau/DisruptionPodFlavor" value="Um pod de disrupção projeta imagens distorcidas nos espectros visual e magnético, dificultando mirar o veículo à distância."/>
+	<entry name="Tau/DroneController" value="Controlador de Drones"/>
+	<entry name="Tau/DroneControllerDescription" value="Aumenta a precisão de drones adjacentes."/>
 	<entry name="Tau/DroneControllerFlavor" value="<string name='Actions/Tau/DroneControllerFlavor'/>"/>
-	<entry name="Tau/DroneControllerInRange" value="Drone Controller In Range"/>
-	<entry name="Tau/DroneControllerInRangeDescription" value="Increases the accuracy."/>
+	<entry name="Tau/DroneControllerInRange" value="Controlador de Drones em Alcance"/>
+	<entry name="Tau/DroneControllerInRangeDescription" value="Aumenta a precisão."/>
 	<entry name="Tau/DroneControllerInRangeFlavor" value="<string name='Actions/Tau/DroneControllerFlavor'/>"/>
-	<entry name="Tau/FieldAmplifierRelay" value="Field Amplifier Relay"/>
-	<entry name="Tau/FieldAmplifierRelayDescription" value="Increases the invulnerable damage reduction when the unit is shielded."/>
-	<entry name="Tau/FieldAmplifierRelayFlavor" value="Taking the form of a lightweight backpack unit, the field amplifier relay picks up the protective force field of the Shield Drone, spreading it in an energised umbrella over its bearer and beaming the signal on to other relays within range."/>
-	<entry name="Tau/FireTeam" value="Fire Team"/>
-	<entry name="Tau/FireTeamDescription" value="Increases the ranged accuracy when adjacent to an allied vehicle or monstrous creature."/>
-	<entry name="Tau/FireTeamFlavor" value="Some battlesuits and battle tank sensor-systems can be networked to provide enhanced efficiency when they fight in dedicated fire teams."/>
-	<entry name="Tau/FlechetteDischarger" value="Flechette Discharger"/>
-	<entry name="Tau/FlechetteDischargerDescription" value="Damages melee attackers."/>
-	<entry name="Tau/FlechetteDischargerFlavor" value="Powerful clusters of reactive charges are attached to the hulls of many T'au vehicles. If the enemy approaches, the clusters fire off vicious clouds of high velocity flechettes."/>
-	<entry name="Tau/GhostkeelElectrowarfareSuite" value="Ghostkeel Electrowarfare Suite"/>
-	<entry name="Tau/GhostkeelElectrowarfareSuiteDescription" value="Increases the ranged damage reduction against attacks from range 2 or higher."/>
-	<entry name="Tau/GhostkeelElectrowarfareSuiteFlavor" value="The Ghostkeel's AI electrowarfare suite aggressively scans enemy targeting spectrums and invades the foe's sensor arrays, filling them with false information and scrap-data that makes it almost impossible to effectively fire upon the battlesuit at range."/>
+	<entry name="Tau/FieldAmplifierRelay" value="Receptor de Amplificação de Campo"/>
+	<entry name="Tau/FieldAmplifierRelayDescription" value="Aumenta a redução de dano invulnerável quando a unidade está protegida."/>
+	<entry name="Tau/FieldAmplifierRelayFlavor" value="Assumindo a forma de uma unidade leve de mochila, o receptor de amplificação de campo capta o campo de força protetor do Drone Escudo, espalhando-o em um guarda-chuva energizado sobre seu portador e transmitindo o sinal para outros receptores ao alcance."/>
+	<entry name="Tau/FireTeam" value="Equipe de Fogo"/>
+	<entry name="Tau/FireTeamDescription" value="Aumenta a precisão à distância quando adjacente a um veículo aliado ou criatura monstruosa."/>
+	<entry name="Tau/FireTeamFlavor" value="Alguns trajes de batalha e sistemas de sensores de tanques podem ser conectados em rede para fornecer maior eficiência quando lutam em equipes de fogo dedicadas."/>
+	<entry name="Tau/FlechetteDischarger" value="Disparador de Flechettes"/>
+	<entry name="Tau/FlechetteDischargerDescription" value="Dano a atacantes corpo a corpo."/>
+	<entry name="Tau/FlechetteDischargerFlavor" value="Potentes clusters de cargas reativas são anexados aos cascos de muitos veículos T’au. Se o inimigo se aproxima, os clusters disparam nuvens de flechettes de alta velocidade."/>
+	<entry name="Tau/GhostkeelElectrowarfareSuite" value="Suite de Guerra Eletrônica Ghostkeel"/>
+	<entry name="Tau/GhostkeelElectrowarfareSuiteDescription" value="Aumenta a redução de dano à distância contra ataques de alcance 2 ou maior."/>
+	<entry name="Tau/GhostkeelElectrowarfareSuiteFlavor" value="A suite de IA de guerra eletrônica do Ghostkeel escaneia agressivamente os espectros de mira inimigos e invade seus sensores, preenchendo-os com informações falsas e dados inúteis que tornam quase impossível atingir efetivamente o traje de batalha à distância."/>
 	<entry name="Tau/HolophotonCountermeasures" value="<string name='Actions/Tau/HolophotonCountermeasures'/>"/>
-	<entry name="Tau/HolophotonCountermeasuresDescription" value="Decreases the ranged accuracy."/>
+	<entry name="Tau/HolophotonCountermeasuresDescription" value="Diminui a precisão à distância."/>
 	<entry name="Tau/HolophotonCountermeasuresFlavor" value="<string name='Actions/Tau/HolophotonCountermeasuresFlavor'/>"/>
-	<entry name="Tau/IntegratedShieldGenerator" value="Integrated Shield Generator"/>
-	<entry name="Tau/IntegratedShieldGeneratorDescription" value="Increases the invulnerable damage reduction and grants an improved ranged invulnerable damage reduction."/>
-	<entry name="Tau/IntegratedShieldGeneratorFlavor" value="Unlike the Riptide, the R’Varna Battlesuit is intended for long-distance fire support and not mobility, allowing it to carry heavier armour. Similarly, its shield generator is still effective against close-ranged assaults, but operates optimally when the enemy is attacking from distance."/>
+	<entry name="Tau/IntegratedShieldGenerator" value="Gerador de Escudo Integrado"/>
+	<entry name="Tau/IntegratedShieldGeneratorDescription" value="Aumenta a redução de dano invulnerável e concede uma melhoria na redução de dano invulnerável à distância."/>
+	<entry name="Tau/IntegratedShieldGeneratorFlavor" value="Ao contrário do Riptide, o traje de batalha R’Varna é destinado a apoio de fogo a longa distância e não à mobilidade, permitindo portar armaduras mais pesadas. Da mesma forma, seu gerador de escudo ainda é eficaz contra ataques próximos, mas opera de forma ótima quando o inimigo ataca à distância."/>
 	<entry name="Tau/Kauyon" value="<string name='Actions/Tau/Kauyon'/>"/>
-	<entry name="Tau/KauyonDescription" value="Increases the ranged damage reduction."/>
+	<entry name="Tau/KauyonDescription" value="Aumenta a redução de dano à distância."/>
 	<entry name="Tau/KauyonFlavor" value="<string name='Actions/Tau/KauyonFlavor'/>"/>
-	<entry name="Tau/LasDamage" value="Mor'tonium Accelerators"/>
-	<entry name="Tau/LasDamageDescription" value="Increases the armour penetration."/>
-	<entry name="Tau/LasDamageFlavor" value="As humanity has discovered to its cost, over and over, using radioactive materials in weaponry is always dangerous. It’s reasonable to assume the T’au are cognisant of this, but choose to use the recently discovered Mor’tonium in their military technology anyway. Upon exposure to air, it rapidly decays into a massive burst of ionic energy that the T’au use."/>
-	<entry name="Tau/MobileDefencePlatform" value="Mobile Defence Platform"/>
-	<entry name="Tau/MobileDefencePlatformDescription" value="Increases the movement while transporting cargo."/>
+	<entry name="Tau/LasDamage" value="Aceleradores de Mor'tonium"/>
+	<entry name="Tau/LasDamageDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="Tau/LasDamageFlavor" value="Como a humanidade já descobriu repetidamente, o uso de materiais radioativos em armamentos é sempre perigoso. É razoável supor que os T’au estão cientes disso, mas escolhem usar o recentemente descoberto Mor’tonium em sua tecnologia militar. Quando exposto ao ar, decai rapidamente em uma grande explosão de energia iônica que os T’au aproveitam."/>
+	<entry name="Tau/MobileDefencePlatform" value="Plataforma de Defesa Móvel"/>
+	<entry name="Tau/MobileDefencePlatformDescription" value="Aumenta o movimento ao transportar carga."/>
 	<entry name="Tau/Montka" value="<string name='Actions/Tau/Montka'/>"/>
-	<entry name="Tau/MontkaDescription" value="Increases the damage against units below 50% hitpoints."/>
+	<entry name="Tau/MontkaDescription" value="Aumenta o dano contra unidades com menos de 50% de pontos de vida."/>
 	<entry name="Tau/MontkaFlavor" value="<string name='Actions/Tau/MontkaFlavor'/>"/>
-	<entry name="Tau/NetworkedMarkerlight" value="Networked Markerlight"/>
-	<entry name="Tau/NetworkedMarkerlightDescription" value="Increases the ranged accuracy and ranged damage reduction bypass. The unit's attacks do not benefit from or consume Target Acquired."/>
-	<entry name="Tau/NetworkedMarkerlightFlavor" value="These markerlights are networked directly into weapon systems, allowing them to deliver their payload with pinpoint accuracy."/>
+	<entry name="Tau/NetworkedMarkerlight" value="Markerlight em Rede"/>
+	<entry name="Tau/NetworkedMarkerlightDescription" value="Aumenta a precisão à distância e ignora a redução de dano à distância. Os ataques da unidade não se beneficiam nem consomem 'Alvo Marcado'."/>
+	<entry name="Tau/NetworkedMarkerlightFlavor" value="Esses markerlights estão conectados diretamente aos sistemas de armas, permitindo entregar seu efeito com precisão cirúrgica."/>
 	<entry name="Tau/NovaBoost" value="<string name='Actions/Tau/NovaBoost'/>"/>
-	<entry name="Tau/NovaBoostDescription" value="Increases the movement."/>
+	<entry name="Tau/NovaBoostDescription" value="Aumenta o movimento."/>
 	<entry name="Tau/NovaBoostFlavor" value="<string name='Actions/Tau/NovaBoostFlavor'/>"/>
 	<entry name="Tau/NovaElectromagneticShockwave" value="<string name='Actions/Tau/NovaElectromagneticShockwave'/>"/>
-	<entry name="Tau/NovaElectromagneticShockwaveDescription" value="Hits all group members of the target unit."/>
+	<entry name="Tau/NovaElectromagneticShockwaveDescription" value="Atinge todos os membros do grupo da unidade alvo."/>
 	<entry name="Tau/NovaElectromagneticShockwaveFlavor" value="<string name='Actions/Tau/NovaElectromagneticShockwaveFlavor'/>"/>
 	<entry name="Tau/NovaFire" value="<string name='Actions/Tau/NovaFire'/>"/>
-	<entry name="Tau/NovaFireDescription" value="Increases the attacks."/>
+	<entry name="Tau/NovaFireDescription" value="Aumenta os ataques."/>
 	<entry name="Tau/NovaFireFlavor" value="<string name='Actions/Tau/NovaBoostFlavor'/>"/>
 	<entry name="Tau/NovaShield" value="<string name='Actions/Tau/NovaShield'/>"/>
-	<entry name="Tau/NovaShieldDescription" value="Increases the damage reduction."/>
+	<entry name="Tau/NovaShieldDescription" value="Aumenta a redução de dano."/>
 	<entry name="Tau/NovaShieldFlavor" value="<string name='Actions/Tau/NovaBoostFlavor'/>"/>
-	<entry name="Tau/PointDefenceTargetingRelay" value="Point Defence Targeting Relay"/>
-	<entry name="Tau/PointDefenceTargetingRelayDescription" value="Increases overwatch damage against enemy units adjacent to other friendly units."/>
-	<entry name="Tau/PointDefenceTargetingRelayFlavor" value="Designed to provide superior covering fire for nearby Fire caste units, a point defense relay automatically targets and engages enemies that attempt to assault."/>
-	<entry name="Tau/PulseAccelerator" value="Pulse Accelerator"/>
-	<entry name="Tau/PulseAcceleratorDescription" value="Increases the range of pulse weapons."/>
+	<entry name="Tau/PointDefenceTargetingRelay" value="Receptor de Mira de Defesa Pontual"/>
+	<entry name="Tau/PointDefenceTargetingRelayDescription" value="Aumenta o dano de vigilância contra unidades inimigas adjacentes a outras unidades amigas."/>
+	<entry name="Tau/PointDefenceTargetingRelayFlavor" value="Projetado para fornecer fogo de cobertura superior para unidades da Casta do Fogo próximas, um receptor de defesa pontual automaticamente mira e engaja inimigos que tentam atacar."/>
+	<entry name="Tau/PulseAccelerator" value="Acelerador de Pulso"/>
+	<entry name="Tau/PulseAcceleratorDescription" value="Aumenta o alcance de armas de pulso."/>
 	<entry name="Tau/PulseAcceleratorFlavor" value="<string name='Actions/Tau/PulseAcceleratorFlavor'/>"/>
-	<entry name="Tau/PulseBlaster" value="Pulse Blaster"/>
-	<entry name="Tau/PulseBlasterDescription" value="Increases the damage and armor penetration of overwatch attacks."/>
-	<entry name="Tau/PulseBlasterFlavor" value="Though the T’au rightly fear close-range warfare, the necessity of warfare on space hulks or labyrinthine Imperial hive worlds led to the development of the Pulse Blaster—colloquially called a Pulse Shotgun. Uniquely, the Blaster paints its target with negatively charged particules a moment before shooting, to increase the effect when the full plasma payload hits."/>
+	<entry name="Tau/PulseBlaster" value="Blaster de Pulso"/>
+	<entry name="Tau/PulseBlasterDescription" value="Aumenta o dano e a penetração de armadura de ataques de vigilância."/>
+	<entry name="Tau/PulseBlasterFlavor" value="Embora os T’au temam corretamente combates de curta distância, a necessidade de batalhas em destroços espaciais ou mundos-lar imperiais levou ao desenvolvimento do Blaster de Pulso — coloquialmente chamado de Shotgun de Pulso. O Blaster aplica partículas carregadas negativamente no alvo momentos antes do disparo, aumentando o efeito quando toda a carga de plasma atinge."/>
 	<entry name="Tau/Rinyon" value="<string name='Actions/Tau/Rinyon'/>"/>
-	<entry name="Tau/RinyonDescription" value="Increases the accuracy against units adjacent to other allied units."/>
+	<entry name="Tau/RinyonDescription" value="Aumenta a precisão contra unidades adjacentes a outras unidades aliadas."/>
 	<entry name="Tau/RinyonFlavor" value="<string name='Actions/Tau/RinyonFlavor'/>"/>
-	<entry name="Tau/RiptideShieldGenerator" value="Riptide Shield Generator"/>
-	<entry name="Tau/RiptideShieldGeneratorDescription" value="Increases the damage reduction."/>
-	<entry name="Tau/RiptideShieldGeneratorFlavor" value="Within a Riptide battlesuit's ablative shield is housed a small energy field generator whose potency can be further boosted by diverting power from the XV104's nova reactor."/>
+	<entry name="Tau/RiptideShieldGenerator" value="Gerador de Escudo Riptide"/>
+	<entry name="Tau/RiptideShieldGeneratorDescription" value="Aumenta a redução de dano."/>
+	<entry name="Tau/RiptideShieldGeneratorFlavor" value="Dentro do escudo ablativo de um traje de batalha Riptide está alojado um pequeno gerador de campo de energia, cuja potência pode ser ainda mais aumentada ao desviar energia do reator nova do XV104."/>
 	<entry name="Tau/Ripyka" value="<string name='Actions/Tau/Ripyka'/>"/>
 	<entry name="Tau/RipykaDescription" value="<string name='Actions/Tau/RipykaDescription'/>"/>
 	<entry name="Tau/RipykaFlavor" value="<string name='Actions/Tau/RipykaFlavor'/>"/>
 	<entry name="Tau/RipykaVa" value="Ripyka'va"/>
 	<entry name="Tau/RipykaVaDescription" value="<string name='Actions/Tau/RipykaDescription'/>"/>
-	<entry name="Tau/RipykaVaFlavor" value="Commander Coldflame was famed for her subtlety, her ability to layer tactics on tactics but somehow inspire her troops to strive to match her strategic complexity. Some whispered, however, that she concerned herself too deeply with the Greater Good for a mere Fire Warrior…"/>
+	<entry name="Tau/RipykaVaFlavor" value="A comandante Coldflame era famosa por sua sutileza, sua habilidade de sobrepor táticas sobre táticas, mas de alguma forma inspirava suas tropas a igualarem sua complexidade estratégica. Alguns sussurravam, porém, que ela se preocupava excessivamente com o Bem Maior para uma simples Guerreira de Fogo…"/>
 	<entry name="Tau/SenseOfStone" value="<string name='Actions/Tau/SenseOfStone'/>"/>
-	<entry name="Tau/SenseOfStoneDescription" value="Increases the damage reduction."/>
+	<entry name="Tau/SenseOfStoneDescription" value="Aumenta a redução de dano."/>
 	<entry name="Tau/SenseOfStoneFlavor" value="<string name='Actions/Tau/SenseOfStoneFlavor'/>"/>
-	<entry name="Tau/ShieldGenerator" value="Shield Generator"/>
-	<entry name="Tau/ShieldGeneratorDescription" value="Increases the damage reduction."/>
+	<entry name="Tau/ShieldGenerator" value="Gerador de Escudo"/>
+	<entry name="Tau/ShieldGeneratorDescription" value="Aumenta a redução de dano."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="<string name='Actions/Tau/ShieldGeneratorFlavor'/>"/>
-	<entry name="Tau/StabilisingAnchors" value="Stabilising Anchors"/>
-	<entry name="Tau/StabilisingAnchorsDescription" value="Increases the ranged attacks if the unit has not moved this turn."/>
-	<entry name="Tau/StabilisingAnchorsFlavor" value="KV128 Stormsurge Ballistic Suits are too large to mount a jetpack like their Battle Suit counterparts. Instead, the Earth Caste scientist Bork'an designed them to lock into place once deployed, allowing them to divert all their reactor power to their immense weaponry."/>
-	<entry name="Tau/StimulantInjector" value="Stimulant Injector"/>
-	<entry name="Tau/StimulantInjectorDescription" value="Increases the damage reduction."/>
+	<entry name="Tau/StabilisingAnchors" value="Âncoras de Estabilização"/>
+	<entry name="Tau/StabilisingAnchorsDescription" value="Aumenta os ataques à distância se a unidade não tiver se movido neste turno."/>
+	<entry name="Tau/StabilisingAnchorsFlavor" value="Os trajes balísticos KV128 Stormsurge são grandes demais para montar um jetpack como seus equivalentes de Battle Suit. Em vez disso, o cientista da Casta da Terra, Bork'an, projetou-os para travarem no lugar quando implantados, permitindo desviar toda a energia do reator para seu imenso armamento."/>
+	<entry name="Tau/StimulantInjector" value="Injetor de Estimulante"/>
+	<entry name="Tau/StimulantInjectorDescription" value="Aumenta a redução de dano."/>
 	<entry name="Tau/StimulantInjectorFlavor" value="<string name='Actions/Tau/StimulantInjectorFlavor'/>"/>
 	<entry name="Tau/StormOfFire" value="<string name='Actions/Tau/StormOfFire'/>"/>
-	<entry name="Tau/StormOfFireDescription" value="Increases the attacks."/>
+	<entry name="Tau/StormOfFireDescription" value="Aumenta os ataques."/>
 	<entry name="Tau/StormOfFireFlavor" value="<string name='Actions/Tau/StormOfFireFlavor'/>"/>
 	<entry name="Tau/SubvertCity" value="<string name='Actions/Tau/SubvertCity'/>"/>
-	<entry name="Tau/SubvertCityDescription" value="Reduces the loyalty."/>
+	<entry name="Tau/SubvertCityDescription" value="Reduz a lealdade."/>
 	<entry name="Tau/SubvertCityFlavor" value="<string name='Actions/Tau/SubvertCityFlavor'/>"/>
-	<entry name="Tau/SupportSystems" value="Support Systems"/>
-	<entry name="Tau/SupportSystemsDescription" value="Allows installation of support systems."/>
-	<entry name="Tau/SupportSystemsFlavor" value="T’au Battle Suits are designed to be modular, so that the Earth Caste may customise them easily to suit different combat situations. Each suit only has a limited number of hardpoints though and reducing a suit’s firepower is always a hard choice."/>
-	<entry name="Tau/SupportingFire" value="Supporting Fire"/>
-	<entry name="Tau/SupportingFireDescription" value="Increases overwatch damage against enemy units adjacent to other allied units."/>
-	<entry name="Tau/SupportingFireFlavor" value="Fire caste doctrine, as laid down in the Code of Fire, instructs every warrior to protect their comrades. Using overlapping fields of fire, teams provide each other this mutual support on the battlefield."/>
-	<entry name="Tau/TargetAcquired" value="Target Acquired"/>
-	<entry name="Tau/TargetAcquiredDescription" value="Increases the ranged accuracy of T'au against the unit. Reduces the ranged damage reduction of the unit against T'au. Ends after the unit is attacked by T'au."/>
-	<entry name="Tau/TargetAcquiredFlavor" value="No other race is as committed to working together as the T’au, and the Markerlight is an excellent example of this. It’s a handheld targeting laser that is networked into the T’au’s information system, allowing for pinpoint strikes by other T’au forces."/>
-	<entry name="Tau/TidewallShieldline" value="Tidewall Shieldline"/>
-	<entry name="Tau/TidewallShieldlineDescription" value="Returns ranged damage from weapons that are not blast, template or witchfire back to the attacker."/>
-	<entry name="Tau/TidewallShieldlineFlavor" value="The most commonly seen fortification utilised by the forces of the T'au Empire is the Tidewall Shieldline, a wall of energy behind which infantry can take cover. As the enemy's fusillades hiss and crack harmlessly from the Shieldline's refractive field, the Fire Warriors it protects unleash a blistering hail of pulse fire in return. Worse still for any aggressor attempting to drive the T'au from cover, this force-wall can redirect kinetic energy, sending las-blasts and armour-piercing shells ricocheting back into the enemy ranks."/>
+	<entry name="Tau/SupportSystems" value="Sistemas de Suporte"/>
+	<entry name="Tau/SupportSystemsDescription" value="Permite a instalação de sistemas de suporte."/>
+	<entry name="Tau/SupportSystemsFlavor" value="Os trajes de batalha T’au são projetados para serem modulares, para que a Casta da Terra possa personalizá-los facilmente para diferentes situações de combate. Cada traje possui apenas um número limitado de pontos de fixação, portanto reduzir o poder de fogo de um traje é sempre uma escolha difícil."/>
+	<entry name="Tau/SupportingFire" value="Fogo de Apoio"/>
+	<entry name="Tau/SupportingFireDescription" value="Aumenta o dano de vigilância contra unidades inimigas adjacentes a outras unidades aliadas."/>
+	<entry name="Tau/SupportingFireFlavor" value="A doutrina da Casta do Fogo, como estabelecida no Código do Fogo, instrui cada guerreiro a proteger seus companheiros. Usando campos de fogo sobrepostos, as equipes fornecem esse apoio mútuo no campo de batalha."/>
+	<entry name="Tau/TargetAcquired" value="Alvo Marcado"/>
+	<entry name="Tau/TargetAcquiredDescription" value="Aumenta a precisão à distância dos T’au contra a unidade. Reduz a redução de dano à distância da unidade contra os T’au. Termina após a unidade ser atacada pelos T’au."/>
+	<entry name="Tau/TargetAcquiredFlavor" value="Nenhuma outra raça é tão comprometida com o trabalho conjunto quanto os T’au, e o Markerlight é um excelente exemplo disso. É um laser de mira portátil conectado ao sistema de informações dos T’au, permitindo ataques precisos de outras forças T’au."/>
+	<entry name="Tau/TidewallShieldline" value="Linha de Escudos Tidewall"/>
+	<entry name="Tau/TidewallShieldlineDescription" value="Reflete o dano à distância de armas que não sejam de explosão, template ou feitiço de bruxa de volta para o atacante."/>
+	<entry name="Tau/TidewallShieldlineFlavor" value="A fortificação mais comumente usada pelas forças do Império T'au é a Linha de Escudos Tidewall, um muro de energia atrás do qual a infantaria pode se proteger. Enquanto as rajadas inimigas assobiam e estalam inofensivamente contra o campo refrativo da Shieldline, os Guerreiros de Fogo protegidos por ela disparam uma chuva devastadora de fogo pulsante. Pior ainda para qualquer agressor que tente expulsar os T'au da cobertura, esta parede de energia pode redirecionar energia cinética, fazendo com que disparos de las e projéteis perfurantes ricocheteiem de volta contra o inimigo."/>
 	<entry name="Tau/TidewallShieldlineCity" value="<string name='Traits/Tau/TidewallShieldline'/>"/>
 	<entry name="Tau/TidewallShieldlineCityDescription" value="<string name='Traits/Tau/TidewallShieldlineDescription'/>"/>
 	<entry name="Tau/TidewallShieldlineCityFlavor" value="<string name='Traits/Tau/TidewallShieldlineFlavor'/>"/>
@@ -1932,261 +1932,261 @@
 	<entry name="Tau/Unity" value="<string name='Actions/Tau/Unity'/>"/>
 	<entry name="Tau/UnityDescription" value="<string name='Actions/Tau/UnityDescription'/>"/>
 	<entry name="Tau/UnityFlavor" value="<string name='Actions/Tau/UnityFlavor'/>"/>
-	<entry name="Tau/UtopiaBonus" value="In Diversity, Unity"/>
-	<entry name="Tau/UtopiaBonusDescription" value="Increases the loyalty bonus from new building types."/>
-	<entry name="Tau/UtopiaBonusFlavor" value="The ideal T’au city is an example to all others, displaying a perfect balance of the various castes of the T’au race with their client and auxiliary races, all living in harmony."/>
-	<entry name="Tau/VectoredRetroThrusters" value="Vectored Retro-Thrusters"/>
-	<entry name="Tau/VectoredRetroThrustersDescription" value="Increases the movement and ignores enemy zone of control."/>
+	<entry name="Tau/UtopiaBonus" value="Na Diversidade, a Unidade"/>
+	<entry name="Tau/UtopiaBonusDescription" value="Aumenta o bônus de lealdade de novos tipos de construção."/>
+	<entry name="Tau/UtopiaBonusFlavor" value="A cidade ideal T’au é um exemplo para todas as outras, exibindo um equilíbrio perfeito das várias castas da raça T’au com suas raças clientelares e auxiliares, todas vivendo em harmonia."/>
+	<entry name="Tau/VectoredRetroThrusters" value="Retropropulsores Vetorizados"/>
+	<entry name="Tau/VectoredRetroThrustersDescription" value="Aumenta o movimento e ignora a zona de controle inimiga."/>
 	<entry name="Tau/VectoredRetroThrustersFlavor" value="<string name='Actions/Tau/VectoredRetroThrustersFlavor'/>"/>
-	<entry name="Tau/VelocityTracker" value="Velocity Tracker"/>
-	<entry name="Tau/VelocityTrackerDescription" value="Increases the ranged accuracy against flyers."/>
+	<entry name="Tau/VelocityTracker" value="Rastreador de Velocidade"/>
+	<entry name="Tau/VelocityTrackerDescription" value="Aumenta a precisão à distância contra unidades voadoras."/>
 	<entry name="Tau/VelocityTrackerFlavor" value="<string name='Actions/Tau/VelocityTrackerFlavor'/>"/>
 	<entry name="Tau/VolleyFire" value="<string name='Actions/Tau/VolleyFire'/>"/>
-	<entry name="Tau/VolleyFireDescription" value="Increases the ranged attacks if the unit has not moved."/>
+	<entry name="Tau/VolleyFireDescription" value="Aumenta os ataques à distância se a unidade não se moveu."/>
 	<entry name="Tau/VolleyFireFlavor" value="<string name='Actions/Tau/VolleyFireFlavor'/>"/>
 	<entry name="Tau/ZephyrsGrace" value="<string name='Actions/Tau/ZephyrsGrace'/>"/>
-	<entry name="Tau/ZephyrsGraceDescription" value="Increases the action points."/>
+	<entry name="Tau/ZephyrsGraceDescription" value="Aumenta os pontos de ação."/>
 	<entry name="Tau/ZephyrsGraceFlavor" value="<string name='Actions/Tau/ZephyrsGraceFlavor'/>"/>
-	<entry name="TelekineDome" value="Telekine Dome"/>
-	<entry name="TelekineDomeDescription" value="Increases the ranged damage reduction."/>
+	<entry name="TelekineDome" value="Domo Telecinético"/>
+	<entry name="TelekineDomeDescription" value="Aumenta a redução de dano à distância."/>
 	<entry name="TelekineDomeFlavor" value="<string name='Actions/TelekineDomeFlavor'/>"/>
-	<entry name="TeleportHomer" value="Teleport Homer"/>
-	<entry name="TeleportHomerDescription" value="Causes orbital deployment to not consume action points when deploying Chaplain, Assault Terminators and Terminators adjacent to this unit."/>
-	<entry name="TeleportHomerFlavor" value="Teleport homers emit a powerful signal enabling orbiting Strike Cruisers to lock onto them with their teleportation equipment. By matching the exact coordinates of this signal, the risk of missing the intended mark is greatly reduced."/>
+	<entry name="TeleportHomer" value="Teletransporte"/>
+	<entry name="TeleportHomerDescription" value="Faz com que o lançamento orbital não consuma pontos de ação ao implantar Capelães, Terminators de Assalto e Terminators adjacentes a esta unidade."/>
+	<entry name="TeleportHomerFlavor" value="Os teletransportadores emitem um sinal potente que permite aos Cruzadores de Ataque orbitais travarem neles com seus equipamentos de teletransporte. Ao coincidir com as coordenadas exatas desse sinal, o risco de errar o alvo pretendido é grandemente reduzido."/>
 	<entry name="Template" value="Template"/>
 	<entry name="TemplateDescription" value="<string name='Traits/BeamDescription'/>"/>
-	<entry name="TerminatorArmour" value="Terminator Armour"/>
-	<entry name="TerminatorArmourDescription" value="Increases the damage reduction."/>
-	<entry name="TerminatorArmourFlavor" value="Terminator armour is the best protection a Space Marine can be equipped with. It is even said that Terminator armour can withstand the titanic energies at a plasma generator's core and that this was, in fact, the armour's original purpose."/>
+	<entry name="TerminatorArmour" value="Armadura Terminator"/>
+	<entry name="TerminatorArmourDescription" value="Aumenta a redução de dano."/>
+	<entry name="TerminatorArmourFlavor" value="A armadura Terminator é a melhor proteção que um Space Marine pode ter. Diz-se até que pode suportar as energias titânicas no núcleo de um gerador de plasma, sendo este, de fato, o propósito original da armadura."/>
 	<entry name="Tesla" value="Tesla"/>
-	<entry name="TeslaDescription" value="Increases the attacks."/>
+	<entry name="TeslaDescription" value="Aumenta os ataques."/>
 	<entry name="TeslaFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
-	<entry name="TeslaDamage" value="Viridian Discharge"/>
-	<entry name="TeslaDamageDescription" value="Increases the armour penetration."/>
-	<entry name="TeslaDamageFlavor" value="The luminous green lightning discharged by these exotic and ancient Necron weapons crackles with life, writhing and seemingly clawing at any target it hits, moving as if it had a mind of its own."/>
-	<entry name="TheFleshIsWeak" value="The Flesh Is Weak"/>
-	<entry name="TheFleshIsWeakDescription" value="Increases the damage reduction."/>
+	<entry name="TeslaDamage" value="Descarga Viridiana"/>
+	<entry name="TeslaDamageDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="TeslaDamageFlavor" value="O relâmpago verde luminoso descarregado por essas armas exóticas e antigas Necron crepita com vida, contorcendo-se e aparentemente agarrando qualquer alvo atingido, movendo-se como se tivesse mente própria."/>
+	<entry name="TheFleshIsWeak" value="A Carne É Fraca"/>
+	<entry name="TheFleshIsWeakDescription" value="Aumenta a redução de dano."/>
 	<entry name="TheFleshIsWeakFlavor" value="<string name='Actions/TheFleshIsWeakFlavor'/>"/>
-	<entry name="TrainedSentinelPilots" value="Trained Sentinel Pilots"/>
-	<entry name="TrainedSentinelPilotsDescription" value="Increases the damage."/>
-	<entry name="TrainedSentinelPilotsFlavor" value="Sentinels are used in a wide variety of roles throughout the Imperium of man—from power lifters used to load starship weaponry to open-canopy scouts. Some Sentinels are equipped with improved armour and stabilisers to carry heavier weaponry. This changes the Sentinel's role from support and reconnaissance to that of a heavy fire platform."/>
-	<entry name="Traktor" value="Traktor"/>
-	<entry name="TraktorDescription" value="Immobilizes enemy flyers."/>
-	<entry name="Transport" value="Transport"/>
-	<entry name="TransportDescription" value="Allows transportation of infantry units and monstrous creatures."/>
-	<entry name="TransportFlavor" value="Some can carry others across the battlefield, providing speed and protection. Of course, if the transport is destroyed, the passengers will be burnt alive in the explosion."/>
-	<entry name="TurboBoost" value="Turbo-Boost"/>
-	<entry name="TurboBoostDescription" value="Increases the movement."/>
-	<entry name="Tusked" value="Tusked"/>
-	<entry name="TuskedDescription" value="Increases the attacks of melee weapons."/>
-	<entry name="Tyranids/AcidBlood" value="Acid Blood"/>
-	<entry name="Tyranids/AcidBloodDescription" value="Enemies take damage when they cause melee damage."/>
-	<entry name="Tyranids/AcidBloodFlavor" value="The alien blood spilt from certain Tyranids is so corrosive that it can eat through ceramite armour and dissolve flesh in mere moments."/>
+	<entry name="TrainedSentinelPilots" value="Pilotos de Sentinela Treinados"/>
+	<entry name="TrainedSentinelPilotsDescription" value="Aumenta o dano."/>
+	<entry name="TrainedSentinelPilotsFlavor" value="Sentinelas são usadas em uma ampla variedade de funções em todo o Império da Humanidade — desde guindastes para carregar armamento de naves estelares até exploradores de cabine aberta. Algumas Sentinelas são equipadas com armaduras e estabilizadores melhorados para carregar armamento mais pesado. Isso muda o papel da Sentinela de apoio e reconhecimento para uma plataforma de fogo pesado."/>
+	<entry name="Traktor" value="Trator"/>
+	<entry name="TraktorDescription" value="Imobiliza unidades voadoras inimigas."/>
+	<entry name="Transport" value="Transporte"/>
+	<entry name="TransportDescription" value="Permite o transporte de unidades de infantaria e criaturas monstruosas."/>
+	<entry name="TransportFlavor" value="Alguns podem transportar outros pelo campo de batalha, oferecendo velocidade e proteção. Claro, se o transporte for destruído, os passageiros serão queimados vivos na explosão."/>
+	<entry name="TurboBoost" value="Turbo-Impulso"/>
+	<entry name="TurboBoostDescription" value="Aumenta o movimento."/>
+	<entry name="Tusked" value="Com Presas"/>
+	<entry name="TuskedDescription" value="Aumenta os ataques com armas corpo a corpo."/>
+	<entry name="Tyranids/AcidBlood" value="Sangue Ácido"/>
+	<entry name="Tyranids/AcidBloodDescription" value="Inimigos sofrem dano quando causam dano corpo a corpo."/>
+	<entry name="Tyranids/AcidBloodFlavor" value="O sangue alienígena derramado de certos Tyranids é tão corrosivo que pode atravessar armadura de ceramite e dissolver carne em instantes."/>
 	<entry name="Tyranids/AdaptiveBiology" value="<string name='Actions/Tyranids/AdaptiveBiology'/>"/>
-	<entry name="Tyranids/AdaptiveBiologyDescription" value="Increases the damage reduction."/>
+	<entry name="Tyranids/AdaptiveBiologyDescription" value="Aumenta a redução de dano."/>
 	<entry name="Tyranids/AdaptiveBiologyFlavor" value="<string name='Actions/Tyranids/AdaptiveBiologyFlavor'/>"/>
 	<entry name="Tyranids/AlphaWarrior" value="<string name='Actions/Tyranids/AlphaWarrior'/>"/>
-	<entry name="Tyranids/AlphaWarriorDescription" value="Increases the accuracy."/>
+	<entry name="Tyranids/AlphaWarriorDescription" value="Aumenta a precisão."/>
 	<entry name="Tyranids/AlphaWarriorFlavor" value="<string name='Actions/Tyranids/AlphaWarriorFlavor'/>"/>
-	<entry name="Tyranids/Biomorph" value="Biomorph"/>
-	<entry name="Tyranids/BiomorphDescription" value="Classification."/>
-	<entry name="Tyranids/BiomorphDamage" value="Biomorph Adaptation"/>
-	<entry name="Tyranids/BiomorphDamageDescription" value="Increases the armour penetration."/>
-	<entry name="Tyranids/BiomorphDamageFlavor" value="Far from being born perfectly ready for every situation, Tyranids have variable amounts of adaptability inherent in their DNA. Ramping this capability up is expensive in terms of resources, but allows them to change their behaviour and physical capabilities in the field."/>
-	<entry name="Tyranids/BoundingLeap" value="Bounding Leap"/>
-	<entry name="Tyranids/BoundingLeapDescription" value="Negates the movement penalty of rivers."/>
+	<entry name="Tyranids/Biomorph" value="Biomorfo"/>
+	<entry name="Tyranids/BiomorphDescription" value="Classificação."/>
+	<entry name="Tyranids/BiomorphDamage" value="Adaptação Biomorfa"/>
+	<entry name="Tyranids/BiomorphDamageDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="Tyranids/BiomorphDamageFlavor" value="Longe de nascer perfeitamente preparados para todas as situações, os Tyranids possuem diferentes graus de adaptabilidade em seu DNA. Aumentar essa capacidade é caro em termos de recursos, mas permite alterar comportamento e capacidades físicas no campo de batalha."/>
+	<entry name="Tyranids/BoundingLeap" value="Salto Explosivo"/>
+	<entry name="Tyranids/BoundingLeapDescription" value="Anula a penalidade de movimento em rios."/>
 	<entry name="Tyranids/BroodProgenitor" value="<string name='Actions/Tyranids/BroodProgenitor'/>"/>
-	<entry name="Tyranids/BroodProgenitorDescription" value="Increases the attacks."/>
+	<entry name="Tyranids/BroodProgenitorDescription" value="Aumenta os ataques."/>
 	<entry name="Tyranids/BroodProgenitorFlavor" value="<string name='Actions/Tyranids/BroodProgenitorFlavor'/>"/>
-	<entry name="Tyranids/ChameleonicSkin" value="Chameleonic Skin"/>
-	<entry name="Tyranids/ChameleonicSkinDescription" value="Allows overwatch attacks with melee weapons."/>
-	<entry name="Tyranids/CityDamage" value="The Spiders' Parlour"/>
-	<entry name="Tyranids/CityDamageDescription" value="Deals damage each turn."/>
-	<entry name="Tyranids/CityDamageFlavor" value="To enter into a mature Tyranid city, is to walk inside giants—hostile, biologically-crafted giants, determined to consume you. Toxin-coated villi lash infantry, valleys sprout teeth and close like maws, and town square-sized sphincters open suddenly, dumping entire unwary armies into acidic reclamation pools."/>
-	<entry name="Tyranids/CityGrowth" value="Aggressive Expansion"/>
-	<entry name="Tyranids/CityGrowthDescription" value="Increases the growth rate."/>
-	<entry name="Tyranids/CityGrowthFlavor" value="Tyranid cities place little value on size, but focus instead on productivity. As long as a city is efficiently churning out troops, it doesn't matter if it occupies land. But when a city must expand, it can do it extremely rapidly—from sphincters fly hooked tendons, dragging seed pods out to the landscape, where they erupt like Barbed Stranglers. In moments the land is occupied, rapidly gestating a new structure."/>
-	<entry name="Tyranids/CityLoyalty" value="Grey Matter Dispersion"/>
-	<entry name="Tyranids/CityLoyaltyDescription" value="Decreases the loyalty penalty from city amount."/>
-	<entry name="Tyranids/CityLoyaltyFlavor" value="Throughout the hive, from the great producer organisms, to the smaller maintenance creatures, to the substrate itself, small packages of grey matter are dispersed, increasing the ease with which swarm creatures can be controlled."/>
-	<entry name="Tyranids/CityPopulationLimit" value="Biogenesis Organelles"/>
-	<entry name="Tyranids/CityPopulationLimitDescription" value="Increases the population limit."/>
-	<entry name="Tyranids/CityPopulationLimitFlavor" value="Nothing truly “lives” in a Tyranid city-hive. Mindless 'organelle' creatures spawn and perform crucial functions before being reassimilated. Alterations to the city structure can be made, enabling these organisms to be spawned and reabsorbed in much shorter windows, allowing for their overall population to increase."/>
-	<entry name="Tyranids/CityProduction" value="Propulsive Parturition"/>
-	<entry name="Tyranids/CityProductionDescription" value="Increases the production output."/>
-	<entry name="Tyranids/CityProductionFlavor" value="Waiting for Tyranid newborns to leave their respective mother-buildings is relatively inefficient. Genetors have sighted certain adapted buildings, however, which eject the newborn creature from its birthing sac with an convulsive electric impulse, enabling it to be rapidly re-used."/>
-	<entry name="Tyranids/CityTier2" value="Ripper Dispersion"/>
-	<entry name="Tyranids/CityTier2Description" value="Increases the tile acquisition radius."/>
-	<entry name="Tyranids/CityTier2Flavor" value="As the hive matures, the Rippers no longer need to swarm together in such huge numbers for safety. Dispersing them, allows the hive mind to co-ordinate their reclamation behaviour over a wider range."/>
+	<entry name="Tyranids/ChameleonicSkin" value="Pele Camaleônica"/>
+	<entry name="Tyranids/ChameleonicSkinDescription" value="Permite ataques de vigilância com armas corpo a corpo."/>
+	<entry name="Tyranids/CityDamage" value="Salão das Aranhas"/>
+	<entry name="Tyranids/CityDamageDescription" value="Causa dano a cada turno."/>
+	<entry name="Tyranids/CityDamageFlavor" value="Entrar em uma cidade Tyranid madura é caminhar entre gigantes — gigantes hostis, biologicamente construídos, determinados a devorá-lo. Vilos cobertos de toxina chicoteiam a infantaria, vales brotam dentes e se fecham como mandíbulas, e esfíncteres do tamanho de praças abrem-se de repente, despejando exércitos desprevenidos em piscinas ácidas de decomposição."/>
+	<entry name="Tyranids/CityGrowth" value="Expansão Agressiva"/>
+	<entry name="Tyranids/CityGrowthDescription" value="Aumenta a taxa de crescimento."/>
+	<entry name="Tyranids/CityGrowthFlavor" value="Cidades Tyranid dão pouco valor ao tamanho, focando na produtividade. Enquanto uma cidade produza tropas eficientemente, não importa a extensão territorial. Mas quando precisa expandir, pode fazê-lo rapidamente — tendões lançam cápsulas de sementes no terreno, onde explodem como Estranguladores Espinhosos. Em instantes, a terra é ocupada, formando rapidamente uma nova estrutura."/>
+	<entry name="Tyranids/CityLoyalty" value="Dispersão de Massa Cinzenta"/>
+	<entry name="Tyranids/CityLoyaltyDescription" value="Reduz a penalidade de lealdade pelo número de cidades."/>
+	<entry name="Tyranids/CityLoyaltyFlavor" value="Em toda a colmeia, desde os grandes organismos produtores até as pequenas criaturas de manutenção e o próprio substrato, pequenos pacotes de massa cinzenta são dispersos, facilitando o controle das criaturas do enxame."/>
+	<entry name="Tyranids/CityPopulationLimit" value="Organelas de Biogênese"/>
+	<entry name="Tyranids/CityPopulationLimitDescription" value="Aumenta o limite populacional."/>
+	<entry name="Tyranids/CityPopulationLimitFlavor" value="Nada realmente 'vive' em uma cidade-colmeia Tyranid. Criaturas 'organelas' sem mente nascem e desempenham funções cruciais antes de serem reassimiladas. Alterações na estrutura da cidade permitem que esses organismos sejam gerados e reabsorvidos em janelas menores, aumentando a população geral."/>
+	<entry name="Tyranids/CityProduction" value="Parturição Propulsiva"/>
+	<entry name="Tyranids/CityProductionDescription" value="Aumenta a produção."/>
+	<entry name="Tyranids/CityProductionFlavor" value="Esperar que os recém-nascidos Tyranid saiam de seus edifícios-mãe é relativamente ineficiente. Genetores identificaram certos edifícios adaptados, que ejetam o recém-nascido do saco de parto com um impulso elétrico convulsivo, permitindo rápido reuso."/>
+	<entry name="Tyranids/CityTier2" value="Dispersão de Rippers"/>
+	<entry name="Tyranids/CityTier2Description" value="Aumenta o raio de aquisição de territórios."/>
+	<entry name="Tyranids/CityTier2Flavor" value="À medida que a colmeia amadurece, os Rippers não precisam mais se agrupar em números enormes para segurança. Dispersá-los permite à Mente da Colmeia coordenar o comportamento de recolhimento em uma área maior."/>
 	<entry name="Tyranids/DiffusionField" value="<string name='Actions/Tyranids/DiffusionField'/>"/>
-	<entry name="Tyranids/DiffusionFieldDescription" value="Increases the ranged damage reduction."/>
+	<entry name="Tyranids/DiffusionFieldDescription" value="Aumenta a redução de dano à distância."/>
 	<entry name="Tyranids/DiffusionFieldFlavor" value="<string name='Actions/Tyranids/DiffusionFieldFlavor'/>"/>
 	<entry name="Tyranids/Dominion" value="<string name='Actions/Tyranids/Dominion'/>"/>
 	<entry name="Tyranids/DominionDescription" value="<string name='Actions/Tyranids/DominionDescription'/>"/>
 	<entry name="Tyranids/DominionFlavor" value="<string name='Actions/Tyranids/DominionFlavor'/>"/>
 	<entry name="Tyranids/ExploitWeaknesses" value="<string name='Actions/Tyranids/ExploitWeaknesses'/>"/>
-	<entry name="Tyranids/ExploitWeaknessesDescription" value="Reduces the armour."/>
+	<entry name="Tyranids/ExploitWeaknessesDescription" value="Reduz a armadura."/>
 	<entry name="Tyranids/ExploitWeaknessesFlavor" value="<string name='Actions/Tyranids/ExploitWeaknessesFlavor'/>"/>
-	<entry name="Tyranids/FeederBeast" value="Feeder-Beast"/>
-	<entry name="Tyranids/FeederBeastDescription" value="Damage caused by this unit is converted into healing."/>
+	<entry name="Tyranids/FeederBeast" value="Besta Alimentadora"/>
+	<entry name="Tyranids/FeederBeastDescription" value="O dano causado por esta unidade é convertido em cura."/>
 	<entry name="Tyranids/GraspingTail" value="<string name='Actions/Tyranids/GraspingTail'/>"/>
-	<entry name="Tyranids/GraspingTailDescription" value="Reduces the attacks."/>
+	<entry name="Tyranids/GraspingTailDescription" value="Reduz os ataques."/>
 	<entry name="Tyranids/GraspingTailFlavor" value="<string name='Actions/Tyranids/GraspingTailFlavor'/>"/>
 	<entry name="Tyranids/HiveCommander" value="<string name='Actions/Tyranids/HiveCommander'/>"/>
-	<entry name="Tyranids/HiveCommanderDescription" value="Increases the damage and damage reduction."/>
+	<entry name="Tyranids/HiveCommanderDescription" value="Aumenta o dano e a redução de dano."/>
 	<entry name="Tyranids/HiveCommanderFlavor" value="<string name='Actions/Tyranids/HiveCommanderFlavor'/>"/>
 	<entry name="Tyranids/IndescribableHorror" value="<string name='Actions/Tyranids/IndescribableHorror'/>"/>
-	<entry name="Tyranids/IndescribableHorrorDescription" value="Reduces the morale each turn."/>
+	<entry name="Tyranids/IndescribableHorrorDescription" value="Reduz a moral a cada turno."/>
 	<entry name="Tyranids/IndescribableHorrorFlavor" value="<string name='Actions/Tyranids/IndescribableHorrorFlavor'/>"/>
-	<entry name="Tyranids/InfantryUpkeep" value="Gaunt Instincts"/>
-	<entry name="Tyranids/InfantryUpkeepDescription" value="Reduces the biomass upkeep."/>
-	<entry name="Tyranids/InfantryUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything save for unconscious actions—but by loosening that control, the smaller organisms can be allowed just enough agency to forage for themselves."/>
-	<entry name="Tyranids/InstinctiveBehaviour" value="Instinctive Behaviour"/>
+	<entry name="Tyranids/InfantryUpkeep" value="Instintos de Gaunt"/>
+	<entry name="Tyranids/InfantryUpkeepDescription" value="Reduz o custo de manutenção de biomassa."/>
+	<entry name="Tyranids/InfantryUpkeepFlavor" value="A Mente da Colmeia geralmente mantém controle próximo sobre seu enxame, dirigindo tudo exceto ações inconscientes — mas ao relaxar esse controle, os organismos menores podem ter autonomia suficiente para se alimentar sozinhos."/>
+	<entry name="Tyranids/InstinctiveBehaviour" value="Comportamento Instintivo"/>
 	<entry name="Tyranids/InstinctiveBehaviourDescription" value="<string name='Traits/Tyranids/InstinctiveBehaviourLurkDescription'/>"/>
 	<entry name="Tyranids/InstinctiveBehaviourFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourLurkFlavor'/>"/>
-	<entry name="Tyranids/InstinctiveBehaviourFeed" value="Instinctive Behaviour (Feed)"/>
-	<entry name="Tyranids/InstinctiveBehaviourFeedDescription" value="The unit loses hitpoints each turn while not in range of a synapse creature."/>
-	<entry name="Tyranids/InstinctiveBehaviourFeedFlavor" value="Unless controlled or coordinated by the domineering will of the Hive Mind, many Tyranid organisms will revert to their baser instincts."/>
-	<entry name="Tyranids/InstinctiveBehaviourHunt" value="Instinctive Behaviour (Hunt)"/>
-	<entry name="Tyranids/InstinctiveBehaviourHuntDescription" value="The unit loses movement each turn while not in range of a synapse creature."/>
+	<entry name="Tyranids/InstinctiveBehaviourFeed" value="Comportamento Instintivo (Alimentar)"/>
+	<entry name="Tyranids/InstinctiveBehaviourFeedDescription" value="A unidade perde pontos de vida a cada turno enquanto estiver fora do alcance de uma criatura sináptica."/>
+	<entry name="Tyranids/InstinctiveBehaviourFeedFlavor" value="A menos que controlados ou coordenados pela vontade dominante da Mente da Colmeia, muitos organismos Tyranid voltam aos seus instintos mais básicos."/>
+	<entry name="Tyranids/InstinctiveBehaviourHunt" value="Comportamento Instintivo (Caçar)"/>
+	<entry name="Tyranids/InstinctiveBehaviourHuntDescription" value="A unidade perde movimento a cada turno enquanto estiver fora do alcance de uma criatura sináptica."/>
 	<entry name="Tyranids/InstinctiveBehaviourHuntFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
-	<entry name="Tyranids/InstinctiveBehaviourLurk" value="Instinctive Behaviour (Lurk)"/>
-	<entry name="Tyranids/InstinctiveBehaviourLurkDescription" value="The unit loses morale each turn while not in range of a synapse creature."/>
+	<entry name="Tyranids/InstinctiveBehaviourLurk" value="Comportamento Instintivo (Esconder)"/>
+	<entry name="Tyranids/InstinctiveBehaviourLurkDescription" value="A unidade perde moral a cada turno enquanto estiver fora do alcance de uma criatura sináptica."/>
 	<entry name="Tyranids/InstinctiveBehaviourLurkFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
-	<entry name="Tyranids/InstinctiveBehaviourOverride" value="Override Instinctive Behaviour"/>
-	<entry name="Tyranids/InstinctiveBehaviourOverrideDescription" value="The unit's instinctive behaviour is overridden."/>
+	<entry name="Tyranids/InstinctiveBehaviourOverride" value="Sobrepor Comportamento Instintivo"/>
+	<entry name="Tyranids/InstinctiveBehaviourOverrideDescription" value="O comportamento instintivo da unidade é sobrescrito."/>
 	<entry name="Tyranids/InstinctiveBehaviourOverrideFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
-	<entry name="Tyranids/InstinctiveFire" value="Instinctive Fire"/>
-	<entry name="Tyranids/InstinctiveFireDescription" value="Can only target the closest enemy unit."/>
-	<entry name="Tyranids/InstinctiveFireFlavor" value="The Tyrannocyte is grown by the Hive Fleet as a delivery mechanism, to land its key troops from space and get them closer to the enemy’s biomass. Yet, after its initial purpose has been fulfilled, the near-mindless creature’s work is not done; floating up, it continues to rain organic, acidic hell down and lash its flensing tentacles at anything nearby."/>
+	<entry name="Tyranids/InstinctiveFire" value="Fogo Instintivo"/>
+	<entry name="Tyranids/InstinctiveFireDescription" value="Só pode atacar a unidade inimiga mais próxima."/>
+	<entry name="Tyranids/InstinctiveFireFlavor" value="O Tyrannocyte é cultivado pela Frota-Colmeia como mecanismo de entrega, para levar suas tropas principais do espaço e aproximá-las da biomassa inimiga. Após seu propósito inicial, a criatura quase sem mente continua seu trabalho, flutuando e despejando inferno orgânico e ácido, chicoteando com seus tentáculos cortantes tudo ao redor."/>
 	<entry name="Tyranids/LivingBatteringRam" value="<string name='Actions/Tyranids/LivingBatteringRam'/>"/>
-	<entry name="Tyranids/LivingBatteringRamDescription" value="Increases the damage."/>
+	<entry name="Tyranids/LivingBatteringRamDescription" value="Aumenta o dano."/>
 	<entry name="Tyranids/LivingBatteringRamFlavor" value="<string name='Actions/Tyranids/LivingBatteringRamFlavor'/>"/>
-	<entry name="Tyranids/LongRangedDamage" value="Ocular Proliferation"/>
-	<entry name="Tyranids/LongRangedDamageDescription" value="Increases the armour penetration."/>
-	<entry name="Tyranids/LongRangedDamageFlavor" value="Targeting enemies at range can be difficult with simple binocular vision. A sensible adaptation is to increase the variety and number of ocular sensors available to the organism, to improve the targeting of all enemy types."/>
+	<entry name="Tyranids/LongRangedDamage" value="Proliferação Ocular"/>
+	<entry name="Tyranids/LongRangedDamageDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="Tyranids/LongRangedDamageFlavor" value="Mirar em inimigos à distância pode ser difícil com visão binocular simples. Uma adaptação sensata é aumentar a variedade e o número de sensores oculares disponíveis, melhorando a precisão contra todos os tipos de inimigos."/>
 	<entry name="Tyranids/MassIncubation" value="<string name='Actions/Tyranids/MassIncubation'/>"/>
 	<entry name="Tyranids/MassIncubationDescription" value="<string name='Actions/Tyranids/MassIncubationDescription'/>"/>
 	<entry name="Tyranids/MassIncubationFlavor" value="<string name='Actions/Tyranids/MassIncubationFlavor'/>"/>
-	<entry name="Tyranids/MeleeDamage" value="Bioweapon Symbiosis"/>
-	<entry name="Tyranids/MeleeDamageDescription" value="Increases the armour penetration."/>
-	<entry name="Tyranids/MeleeDamageFlavor" value="When the Tyranids were first encountered, particularly their forerunners the Zoats, their weaponry was typically a range of separate organisms. As time has gone by, the Tyranids and their weapons have grown closer together."/>
+	<entry name="Tyranids/MeleeDamage" value="Simbiologia de Armas Biológicas"/>
+	<entry name="Tyranids/MeleeDamageDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="Tyranids/MeleeDamageFlavor" value="Quando os Tyranids foram encontrados pela primeira vez, particularmente seus predecessores Zoats, suas armas eram tipicamente uma variedade de organismos separados. Com o tempo, Tyranids e suas armas se integraram cada vez mais."/>
 	<entry name="Tyranids/Onslaught" value="<string name='Actions/Tyranids/Onslaught'/>"/>
-	<entry name="Tyranids/OnslaughtDescription" value="Increases the movement."/>
+	<entry name="Tyranids/OnslaughtDescription" value="Aumenta o movimento."/>
 	<entry name="Tyranids/OnslaughtFlavor" value="<string name='Actions/Tyranids/OnslaughtFlavor'/>"/>
 	<entry name="Tyranids/Paroxysm" value="<string name='Actions/Tyranids/Paroxysm'/>"/>
-	<entry name="Tyranids/ParoxysmDescription" value="Reduces the accuracy."/>
+	<entry name="Tyranids/ParoxysmDescription" value="Reduz a precisão."/>
 	<entry name="Tyranids/ParoxysmFlavor" value="<string name='Actions/Tyranids/ParoxysmFlavor'/>"/>
-	<entry name="Tyranids/PreyAdaptation" value="Prey Adaptation"/>
-	<entry name="Tyranids/PreyAdaptationDescription" value="The Hive mind gains research when the Malanthrope gains experience from combat."/>
-	<entry name="Tyranids/PreyAdaptationFlavor" value="The Malanthrope doesn't just garner new genetic data from fallen corpses—it is also quite capable of observing the learned patterns communicated by creatures to one another, whether parent or teacher, and retaining that for encoding into the Hive Mind's creatures."/>
-	<entry name="Tyranids/ProductionBuildingUpkeep" value="Birthing Canals"/>
-	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Reduces the influence upkeep."/>
-	<entry name="Tyranids/ProductionBuildingUpkeepFlavor" value="A simple shift in the structure of the great organisms that make up the Tyranid hive, birthing canals are something like biological production lines, enabling many creatures to be produced in parallel without the direct oversight of the Hive Mind."/>
-	<entry name="Tyranids/PsychicBarrier" value="Psychic Barrier"/>
-	<entry name="Tyranids/PsychicBarrierDescription" value="Increases the invulnerable damage reduction."/>
-	<entry name="Tyranids/PsychicBarrierFlavor" value="Tyranid horrors the size of the Maleceptor are not without inherent defenses. But beyond its sheer bulk and resilient armour, the Malceptor also projects a formidable psychic barrier, capable of vaporizing or deflecting bullets and energy bolts fired at it before they strike it."/>
+	<entry name="Tyranids/PreyAdaptation" value="Adaptação da Presa"/>
+	<entry name="Tyranids/PreyAdaptationDescription" value="A Mente da Colmeia ganha pesquisa quando o Malanthrope ganha experiência em combate."/>
+	<entry name="Tyranids/PreyAdaptationFlavor" value="O Malanthrope não apenas obtém novos dados genéticos de corpos caídos — ele também observa padrões aprendidos transmitidos entre criaturas, seja por pais ou instrutores, armazenando-os para codificação nas criaturas da Mente da Colmeia."/>
+	<entry name="Tyranids/ProductionBuildingUpkeep" value="Canais de Parto"/>
+	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Reduz o custo de influência."/>
+	<entry name="Tyranids/ProductionBuildingUpkeepFlavor" value="Uma simples alteração na estrutura dos grandes organismos que compõem a colmeia Tyranid, os canais de parto funcionam como linhas de produção biológicas, permitindo que muitas criaturas sejam geradas em paralelo sem supervisão direta da Mente da Colmeia."/>
+	<entry name="Tyranids/PsychicBarrier" value="Barreira Psíquica"/>
+	<entry name="Tyranids/PsychicBarrierDescription" value="Aumenta a redução de dano invulnerável."/>
+	<entry name="Tyranids/PsychicBarrierFlavor" value="Horrores Tyranid do tamanho de um Maleceptor não são desprovidos de defesas. Além de sua massa e armadura resiliente, o Maleceptor projeta uma formidável barreira psíquica, capaz de vaporizar ou desviar balas e raios de energia antes de atingirem-no."/>
 	<entry name="Tyranids/PsychicOverload" value="<string name='Actions/Tyranids/PsychicOverload'/>"/>
-	<entry name="Tyranids/PsychicOverloadDescription" value="Hits with increased accuracy."/>
-	<entry name="Tyranids/PsychicOverloadFlavor" value="The ethereal pseudopods projected by a Maleceptor’s encephalic tissue are manifestations of the Shadow in the Warp itself, the Hive Mind’s nullifying psychic presence. If these should even brush a weakened opponent’s consciousness, they will directly experience the horrifying immensity of that immanence—and die rapidly, horribly and explosively."/>
-	<entry name="Tyranids/RakingStrike" value="Raking Strike"/>
-	<entry name="Tyranids/RakingStrikeDescription" value="Increases the Hive Crone's melee attacks. Additionally increases the melee attacks against flyers."/>
-	<entry name="Tyranids/RakingStrikeFlavor" value="Lengthening and hardening the bladed spurs on a Hive Crone's underside allows it to perform lethal fly-by strikes against enemies. In addition, sharpened wingtips enable the Crone to accurately target enemy pilots."/>
+	<entry name="Tyranids/PsychicOverloadDescription" value="Acerta com precisão aumentada."/>
+	<entry name="Tyranids/PsychicOverloadFlavor" value="Os pseudópodes etéreos projetados pelo tecido encefálico de um Maleceptor são manifestações da Sombra no Warp, a presença psíquica anuladora da Mente da Colmeia. Se tocarem mesmo que levemente a consciência de um oponente enfraquecido, ele experimentará diretamente a imensidão aterradora dessa presença — e morrerá rapidamente, horrivelmente e de forma explosiva."/>
+	<entry name="Tyranids/RakingStrike" value="Golpe Rasante"/>
+	<entry name="Tyranids/RakingStrikeDescription" value="Aumenta os ataques corpo a corpo da Hive Crone. Além disso, aumenta os ataques corpo a corpo contra unidades voadoras."/>
+	<entry name="Tyranids/RakingStrikeFlavor" value="Alongar e endurecer os espigões afiados na parte inferior de uma Hive Crone permite realizar ataques rasantes letais contra inimigos. Além disso, pontas de asas afiadas permitem que a Crone mire com precisão nos pilotos inimigos."/>
 	<entry name="Tyranids/RapaciousHunger" value="<string name='Actions/Tyranids/RapaciousHunger'/>"/>
-	<entry name="Tyranids/RapaciousHungerDescription" value="Increases the attacks."/>
+	<entry name="Tyranids/RapaciousHungerDescription" value="Aumenta os ataques."/>
 	<entry name="Tyranids/RapaciousHungerFlavor" value="<string name='Actions/Tyranids/RapaciousHungerFlavor'/>"/>
-	<entry name="Tyranids/Reclamation2" value="Synapse Archevores"/>
-	<entry name="Tyranids/Reclamation2Description" value="Reduces the influence cost."/>
-	<entry name="Tyranids/Reclamation2Flavor" value="Reclamation pools may seem the simplest of Tyranid organisms—bubbling digestive pits to render down biomass—but given their core function to the Tyranid lifecycle, they have doubtless seen generations of design refinement. This particular adaptation places control synapses at each pool's edge to manage digestion with less Hive Mind oversight."/>
-	<entry name="Tyranids/Reclamation3" value="Assimilation Accelerants"/>
-	<entry name="Tyranids/Reclamation3Description" value="Removes the cooldown."/>
-	<entry name="Tyranids/Reclamation3Flavor" value="Reclamation has to be an efficient process to best serve the Hive Mind—every basis point of biomass that has to be abandoned could spell defeat. This adaptation makes reclamation a continuous process, which enables high percentage biomass recovery."/>
-	<entry name="Tyranids/Regeneration" value="Regeneration"/>
-	<entry name="Tyranids/RegenerationDescription" value="Restores hitpoints each turn."/>
-	<entry name="Tyranids/RegenerationFlavor" value="Some Tyranids have the ability to recover from horrendous wounds and injuries that should have proven fatal."/>
-	<entry name="Tyranids/ResourceBuildingUpkeep" value="Scavenger Adaptation"/>
-	<entry name="Tyranids/ResourceBuildingUpkeepDescription" value="Reduces the influence upkeep."/>
-	<entry name="Tyranids/ResourceBuildingUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything but unconscious actions—but by loosening that control, the smaller organisms can be allowed just enough agency to forage for themselves."/>
+	<entry name="Tyranids/Reclamation2" value="Arquivores Sinápticos"/>
+	<entry name="Tyranids/Reclamation2Description" value="Reduz o custo de influência."/>
+	<entry name="Tyranids/Reclamation2Flavor" value="As piscinas de recuperação podem parecer os organismos Tyranid mais simples — poços digestivos para decompor biomassa — mas dada sua função central no ciclo de vida Tyranid, certamente passaram por gerações de refinamento de design. Esta adaptação coloca sinapses de controle na borda de cada poço para gerenciar a digestão com menos supervisão da Mente da Colmeia."/>
+	<entry name="Tyranids/Reclamation3" value="Aceleradores de Assimilação"/>
+	<entry name="Tyranids/Reclamation3Description" value="Remove o tempo de recarga."/>
+	<entry name="Tyranids/Reclamation3Flavor" value="A recuperação deve ser um processo eficiente para servir melhor à Mente da Colmeia — cada ponto de biomassa abandonado pode significar derrota. Esta adaptação torna a recuperação um processo contínuo, permitindo alta porcentagem de biomassa recuperada."/>
+	<entry name="Tyranids/Regeneration" value="Regeneração"/>
+	<entry name="Tyranids/RegenerationDescription" value="Restaura pontos de vida a cada turno."/>
+	<entry name="Tyranids/RegenerationFlavor" value="Alguns Tyranids têm a habilidade de se recuperar de ferimentos horríveis que deveriam ser fatais."/>
+	<entry name="Tyranids/ResourceBuildingUpkeep" value="Adaptação de Catador"/>
+	<entry name="Tyranids/ResourceBuildingUpkeepDescription" value="Reduz o custo de manutenção de influência."/>
+	<entry name="Tyranids/ResourceBuildingUpkeepFlavor" value="A Mente da Colmeia geralmente mantém controle próximo sobre seu enxame, dirigindo tudo exceto ações inconscientes — mas ao relaxar esse controle, os organismos menores podem ter autonomia suficiente para se alimentar sozinhos."/>
 	<entry name="Tyranids/ScourgeOfTheBrood" value="<string name='Actions/Tyranids/ScourgeOfTheBrood'/>"/>
-	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Increases the damage."/>
+	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Aumenta o dano."/>
 	<entry name="Tyranids/ScourgeOfTheBroodFlavor" value="<string name='Actions/Tyranids/ScourgeOfTheBroodFlavor'/>"/>
 	<entry name="Tyranids/ShadowInTheWarp" value="<string name='Actions/Tyranids/ShadowInTheWarp'/>"/>
-	<entry name="Tyranids/ShadowInTheWarpDescription" value="Reduces the morale each turn."/>
+	<entry name="Tyranids/ShadowInTheWarpDescription" value="Reduz a moral a cada turno."/>
 	<entry name="Tyranids/ShadowInTheWarpFlavor" value="<string name='Actions/Tyranids/ShadowInTheWarpFlavor'/>"/>
-	<entry name="Tyranids/ShortRangedDamage" value="Gigaborer Hives"/>
-	<entry name="Tyranids/ShortRangedDamageDescription" value="Increases the armour penetration."/>
-	<entry name="Tyranids/ShortRangedDamageFlavor" value="The unique and disgusting Borer nest is comprised of a compact nest of Borer beetles, acidic insectoids that launch themselves in a frenzy from the weapon. Gigaborer Hives contain fewer, much larger beetles, simply enabling more damage."/>
+	<entry name="Tyranids/ShortRangedDamage" value="Colmeias Gigaborer"/>
+	<entry name="Tyranids/ShortRangedDamageDescription" value="Aumenta a penetração de armadura."/>
+	<entry name="Tyranids/ShortRangedDamageFlavor" value="O único e repugnante ninho de Borer é composto por um compacto conjunto de besouros Borer, insetoides ácidos que se lançam freneticamente. As Colmeias Gigaborer contêm menos besouros, mas muito maiores, permitindo simplesmente mais dano."/>
 	<entry name="Tyranids/SingularPurpose" value="<string name='Actions/Tyranids/SingularPurpose'/>"/>
-	<entry name="Tyranids/SingularPurposeDescription" value="Norn Emissaries have increased accuracy and damage against this unit."/>
+	<entry name="Tyranids/SingularPurposeDescription" value="Emissários Norn têm precisão e dano aumentados contra esta unidade."/>
 	<entry name="Tyranids/SingularPurposeFlavor" value="<string name='Actions/Tyranids/SingularPurposeFlavor'/>"/>
 	<entry name="Tyranids/SporeCloud" value="<string name='Actions/Tyranids/SporeCloud'/>"/>
-	<entry name="Tyranids/SporeCloudDescription" value="Increases the ranged damage reduction."/>
+	<entry name="Tyranids/SporeCloudDescription" value="Aumenta a redução de dano à distância."/>
 	<entry name="Tyranids/SporeCloudFlavor" value="<string name='Actions/Tyranids/SporeCloudFlavor'/>"/>
-	<entry name="Tyranids/SymbioticTargeting" value="Symbiotic Targeting"/>
-	<entry name="Tyranids/SymbioticTargetingDescription" value="Increases the ranged accuracy if the unit remains stationary."/>
-	<entry name="Tyranids/SynapseLink" value="Synapse Link"/>
-	<entry name="Tyranids/SynapseLinkDescription" value="The unit cannot be shaken or broken, is immune to fear and is not subject to instinctive behaviour."/>
+	<entry name="Tyranids/SymbioticTargeting" value="Mira Simbiótica"/>
+	<entry name="Tyranids/SymbioticTargetingDescription" value="Aumenta a precisão à distância se a unidade permanecer parada."/>
+	<entry name="Tyranids/SynapseLink" value="Vínculo Sináptico"/>
+	<entry name="Tyranids/SynapseLinkDescription" value="A unidade não pode ser abalado ou quebrado, é imune a medo e não está sujeita a comportamento instintivo."/>
 	<entry name="Tyranids/SynapseLinkFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
-	<entry name="Tyranids/SynapticBacklash" value="Synaptic Backlash"/>
-	<entry name="Tyranids/SynapticBacklashDescription" value="Termagants in the area take damage when the Tervigon dies."/>
-	<entry name="Tyranids/SynapticBacklashFlavor" value="Though Tyranids have no affection one another—they will watch calmly as their nest-mates die or walk into the reclamation pool—the psychic trauma a Tervigon's brood suffers at the moment of its death is odd, particularly given the Hive Mind's seeming inability to eliminate it. Perhaps it is a legacy of whatever long-dead race the Tervigon's genetic data was based on—and a symbol that the Hive Mind rarely innovates, but mostly plagiarises."/>
-	<entry name="Tyranids/ToxinSacs" value="Toxin Sacs"/>
-	<entry name="Tyranids/ToxinSacsDescription" value="Increases the damage of melee weapons against infantry and monstrous creature units."/>
-	<entry name="Tyranids/ToxinSacsFlavor" value="These parasitic glands secrete vile fluids, coating the Tyranid's claws, fangs and talons with a lethal variety of alien poisons."/>
-	<entry name="Tyranids/Tunnel2" value="Echiurean Walls"/>
-	<entry name="Tyranids/Tunnel2Description" value="Increases the hitpoints."/>
-	<entry name="Tyranids/Tunnel2Flavor" value="Broodhive walls are grown rapidly, meaning they tend to be relatively flimsy creatures, for the Tyranids. Genetors have observed adaptations that grow more slowly, but accrete muscle mass over time, and generally are more resilient to enemy action."/>
-	<entry name="Tyranids/UnnaturalResilience" value="Unnatural Resilience"/>
-	<entry name="Tyranids/UnnaturalResilienceDescription" value="Increases invulnerable damage reduction and grants additional feel no pain damage reduction."/>
-	<entry name="Tyranids/UnnaturalResilienceFlavor" value="Imbued with purpose by the Norn Queen, the Emissary adapts instantly to injuries that would cripple another creature, shrugging off death to pursue its goal."/>
-	<entry name="Tyranids/VehiclesUpkeep" value="Megaunt Instincts"/>
-	<entry name="Tyranids/VehiclesUpkeepDescription" value="Reduces the biomass upkeep."/>
-	<entry name="Tyranids/VehiclesUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything but unconscious actions, save for its alpha creatures—but by loosening that control, larger organisms can direct or predate on the smaller organisms, enabling them to survive without direct control."/>
-	<entry name="Tyranids/WarpField" value="Warp Field"/>
-	<entry name="Tyranids/WarpFieldDescription" value="Increases the damage reduction."/>
-	<entry name="Tyranids/WarpFieldFlavor" value="Zoanthropes are vital nodes for harnessing the Hive Mind's psychic might and are created with a powerful sense of self-preservation. Therefore, they instinctively project a potent Warp field to protect themselves in battle – a mental shield that is invisible but for a slight shimmer when small-arms and heavy-weapons fire alike patters harmlessly against it."/>
-	<entry name="TwinLinked" value="Twin-Linked"/>
-	<entry name="TwinLinkedDescription" value="Increases the accuracy."/>
-	<entry name="TwinLinkedFlavor" value="These weapons are grafted to the same targeting system for greater accuracy."/>
-	<entry name="Uncommon" value="Uncommon"/>
-	<entry name="UncommonDescription" value="Classification."/>
-	<entry name="UnendingHorde" value="Unending Horde"/>
-	<entry name="UnendingHordeDescription" value="Increases the damage reduction."/>
-	<entry name="UnendingHordeFlavor" value="Like the zombies of ancient Terran fiction, Poxwalkers do not stop unless they are thoroughly destroyed. Their dead flesh is unfeeling, so that attacks that would put down a normal human are mere inconveniences as they giggle and groan onward…"/>
-	<entry name="Unique" value="Unique"/>
-	<entry name="UniqueDescription" value="Limits the amount of units of this type."/>
-	<entry name="Unwieldy" value="Unwieldy"/>
-	<entry name="UnwieldyDescription" value="Reduces the accuracy."/>
-	<entry name="UnwieldyFlavor" value="This weapon is very large, and more than a little clumsy, making swift blows all but impossible to achieve."/>
-	<entry name="VectoredAfterburners" value="Vectored Afterburners"/>
-	<entry name="VectoredAfterburnersDescription" value="Increases the movement and ranged damage reduction."/>
-	<entry name="Vehicle" value="Vehicle"/>
-	<entry name="VehicleDescription" value="Negates the penalty for heavy and ordnance weapons. Increases the movement penalty in forests and imperial ruins."/>
-	<entry name="VehicleFlavor" value="War is not a trade solely for living soldiers, but also for mighty war engines and tanks."/>
-	<entry name="VeryBulky" value="Very Bulky"/>
-	<entry name="VeryBulkyDescription" value="Requires two additional cargo slots in a transport."/>
+	<entry name="Tyranids/SynapticBacklash" value="Retrocesso Sináptico"/>
+	<entry name="Tyranids/SynapticBacklashDescription" value="Termagantes na área sofrem dano quando o Tervigon morre."/>
+	<entry name="Tyranids/SynapticBacklashFlavor" value="Embora Tyranids não sintam afeição uns pelos outros — assistem calmamente seus companheiros morrerem ou entrarem na piscina de recuperação — o trauma psíquico que a ninhada do Tervigon sofre no momento da morte é estranho, especialmente dada a aparente incapacidade da Mente da Colmeia de eliminá-lo. Talvez seja um legado da raça antiga na qual os dados genéticos do Tervigon se baseiam — e um símbolo de que a Mente da Colmeia raramente cria, mas geralmente plagia."/>
+	<entry name="Tyranids/ToxinSacs" value="Sacos de Toxina"/>
+	<entry name="Tyranids/ToxinSacsDescription" value="Aumenta o dano de armas corpo a corpo contra infantaria e criaturas monstruosas."/>
+	<entry name="Tyranids/ToxinSacsFlavor" value="Estas glândulas parasitárias secretam fluidos venenosos, cobrindo garras, presas e espinhos do Tyranid com uma variedade letal de venenos alienígenas."/>
+	<entry name="Tyranids/Tunnel2" value="Muralhas Echiurean"/>
+	<entry name="Tyranids/Tunnel2Description" value="Aumenta os pontos de vida."/>
+	<entry name="Tyranids/Tunnel2Flavor" value="As paredes do Broodhive crescem rapidamente, sendo relativamente frágeis para os Tyranids. Genetores observaram adaptações que crescem mais lentamente, mas acumulam massa muscular ao longo do tempo, tornando-se mais resistentes a ações inimigas."/>
+	<entry name="Tyranids/UnnaturalResilience" value="Resiliência Anormal"/>
+	<entry name="Tyranids/UnnaturalResilienceDescription" value="Aumenta a redução de dano invulnerável e concede redução adicional de dano 'sem dor'."/>
+	<entry name="Tyranids/UnnaturalResilienceFlavor" value="Imbuído de propósito pela Rainha Norn, o Emissário se adapta instantaneamente a ferimentos que paralisariam outra criatura, ignorando a morte para perseguir seu objetivo."/>
+	<entry name="Tyranids/VehiclesUpkeep" value="Instintos Megaunt"/>
+	<entry name="Tyranids/VehiclesUpkeepDescription" value="Reduz o custo de manutenção de biomassa."/>
+	<entry name="Tyranids/VehiclesUpkeepFlavor" value="A Mente da Colmeia geralmente mantém controle próximo sobre seu enxame, dirigindo tudo exceto ações inconscientes, exceto para suas criaturas alfa — mas ao relaxar esse controle, organismos maiores podem direcionar ou predar sobre os menores, permitindo que sobrevivam sem controle direto."/>
+	<entry name="Tyranids/WarpField" value="Campo Warp"/>
+	<entry name="Tyranids/WarpFieldDescription" value="Aumenta a redução de dano."/>
+	<entry name="Tyranids/WarpFieldFlavor" value="Zoanthropes são nós vitais para canalizar o poder psíquico da Mente da Colmeia e são criados com forte instinto de autopreservação. Por isso, projetam instintivamente um potente campo Warp para se proteger em batalha — um escudo mental invisível, perceptível apenas por um leve brilho quando tiros de armas leves e pesadas ricocheteiam inofensivamente contra ele."/>
+	<entry name="TwinLinked" value="Dupla Vinculação"/>
+	<entry name="TwinLinkedDescription" value="Aumenta a precisão."/>
+	<entry name="TwinLinkedFlavor" value="Essas armas estão conectadas ao mesmo sistema de mira para maior precisão."/>
+	<entry name="Uncommon" value="Incomum"/>
+	<entry name="UncommonDescription" value="Classificação."/>
+	<entry name="UnendingHorde" value="Horda Infinita"/>
+	<entry name="UnendingHordeDescription" value="Aumenta a redução de dano."/>
+	<entry name="UnendingHordeFlavor" value="Como os zumbis da antiga ficção terrana, Poxwalkers não param a menos que sejam totalmente destruídos. Sua carne morta não sente dor, então ataques que derrubariam um humano normal são apenas inconvenientes enquanto continuam a gemer e avançar…"/>
+	<entry name="Unique" value="Único"/>
+	<entry name="UniqueDescription" value="Limita a quantidade de unidades deste tipo."/>
+	<entry name="Unwieldy" value="Desajeitado"/>
+	<entry name="UnwieldyDescription" value="Reduz a precisão."/>
+	<entry name="UnwieldyFlavor" value="Esta arma é muito grande e um tanto desajeitada, tornando golpes rápidos quase impossíveis."/>
+	<entry name="VectoredAfterburners" value="Pós-Combustores Vetorados"/>
+	<entry name="VectoredAfterburnersDescription" value="Aumenta o movimento e a redução de dano à distância."/>
+	<entry name="Vehicle" value="Veículo"/>
+	<entry name="VehicleDescription" value="Anula a penalidade de armas pesadas e de artilharia. Aumenta a penalidade de movimento em florestas e ruínas imperiais."/>
+	<entry name="VehicleFlavor" value="A guerra não é um comércio apenas para soldados vivos, mas também para poderosas máquinas de guerra e tanques."/>
+	<entry name="VeryBulky" value="Muito Volumoso"/>
+	<entry name="VeryBulkyDescription" value="Requer dois espaços adicionais de carga em um transporte."/>
 	<entry name="VeryBulkyFlavor" value="<string name='Traits/BulkyFlavor'/>"/>
-	<entry name="VoidShield" value="Void Shield"/>
-	<entry name="VoidShieldDescription" value="Increases the ranged damage reduction."/>
+	<entry name="VoidShield" value="Escudo Void"/>
+	<entry name="VoidShieldDescription" value="Aumenta a redução de dano à distância."/>
 	<entry name="VoidShieldFlavor" value="<string name='Actions/AstraMilitarum/ProjectedVoidShieldFlavor'/>"/>
 	<entry name="VoxCaster" value="Vox-Caster"/>
-	<entry name="VoxCasterDescription" value="Reduces the morale loss."/>
-	<entry name="VoxCasterFlavor" value="A vox-caster is a reliable communications array connected to the tactical command net via tight-beam transmitters."/>
+	<entry name="VoxCasterDescription" value="Reduz a perda de moral."/>
+	<entry name="VoxCasterFlavor" value="Um vox-caster é uma matriz de comunicações confiável conectada à rede de comando tático via transmissores de feixe estreito."/>
 	<entry name="Waaagh" value="Waaagh!"/>
-	<entry name="WaaaghDescription" value="Increases the attacks."/>
-	<entry name="WaaaghFlavor" value="The Waaagh! is joie de vivre, crusade, immense psychic power, a tangible belief aura and perhaps the Ork gods themselves, all rolled into one teeth-rattling, gut-wrenching roar of delighted aggression pushing the Orks across the galaxy and into battle. It is the core of being an Ork."/>
-	<entry name="Walker" value="Walker"/>
+	<entry name="WaaaghDescription" value="Aumenta os ataques."/>
+	<entry name="WaaaghFlavor" value="O Waaagh! é alegria de viver, cruzada, imenso poder psíquico, uma aura de crença tangível e talvez os próprios deuses Orks, tudo junto em um rugido ensurdecedor e arrebatador de agressão, impulsionando os Orks através da galáxia e para a batalha. É o cerne de ser um Ork."/>
+	<entry name="Walker" value="Andador"/>
 	<entry name="WalkerDescription" value="<string name='Traits/DozerBladeDescription'/>"/>
-	<entry name="Weakened" value="Weakened"/>
-	<entry name="WeakenedDescription" value="Reduces the movement and damage."/>
+	<entry name="Weakened" value="Enfraquecido"/>
+	<entry name="WeakenedDescription" value="Reduz o movimento e o dano."/>
 	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>
-	<entry name="WireWeedDescription" value="Deals damage each turn."/>
+	<entry name="WireWeedDescription" value="Causa dano a cada turno."/>
 	<entry name="WireWeedFlavor" value="<string name='Features/WireWeedFlavor'/>"/>
-	<entry name="Witchfire" value="Witchfire"/>
-	<entry name="WitchfireDescription" value="Classification."/>
+	<entry name="Witchfire" value="Fogo Bruxo"/>
+	<entry name="WitchfireDescription" value="Classificação."/>
 	<entry name="Zzap" value="Zzap"/>
-	<entry name="ZzapFlavor" value="Zzap guns fire unstable bolts of lightning. They have the potential to punch through the hull of even the heaviest enemy vehicle amid crackling showers of sparks, but have a tendency to overload and electrocute the operating gunner."/>
-	<entry name="Zealot" value="Zealot"/>
-	<entry name="ZealotDescription" value="Reduces the morale loss, increases the melee damage and grants immunity to fear and pinning."/>
-	<entry name="ZealotFlavor" value="Zealots fight on regardless of their casualties or the terrors of war; they are driven forwards by their conviction."/>
+	<entry name="ZzapFlavor" value="As armas Zzap disparam raios instáveis de eletricidade. Podem perfurar o casco até dos veículos inimigos mais pesados entre faíscas crepitantes, mas têm tendência a sobrecarregar e eletrocutar o artilheiro."/>
+	<entry name="Zealot" value="Fanático"/>
+	<entry name="ZealotDescription" value="Reduz a perda de moral, aumenta o dano corpo a corpo e concede imunidade a medo e pinagem."/>
+	<entry name="ZealotFlavor" value="Os fanáticos lutam independentemente de suas baixas ou dos horrores da guerra; eles são impulsionados pela sua convicção."/>
 </language>
