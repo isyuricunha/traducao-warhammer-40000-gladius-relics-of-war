@@ -625,35 +625,35 @@
 	<entry name="AstraMilitarum/LordCommissar:Shaken#0" value="A spiritu dominatus, Domine, libra nos."/>
 	<entry name="AstraMilitarum/LordCommissar:ShakenCount" value="1"/>
 	<entry name="AstraMilitarum/LordCommissar:Victory#0" value="Dando o exemplo às minhas tropas."/>
-  	<entry name="AstraMilitarum/LordCommissar:VictoryCount" value="1"/>
-  	<entry name="AstraMilitarum/LordCommissar:WireWeed#0" value="Seria temerário permanecer no bioarame, por mais corajoso que seja."/>
-  	<entry name="AstraMilitarum/LordCommissar:WireWeedCount" value="1"/>
-  	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarines#0" value="Alguns Astartes lá embaixo. São aliados."/>
-  	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarinesCount" value="1"/>
-  	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/Thunderbolt#0" value="Bom ter apoio de caças."/>
-  	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/ThunderboltCount" value="1"/>
-  	<entry name="AstraMilitarum/MarauderBomber:Artefact#0" value="Alvo de alto valor avistado."/>
-  	<entry name="AstraMilitarum/MarauderBomber:ArtefactCount" value="1"/>
-  	<entry name="AstraMilitarum/MarauderBomber:Attack#0" value="Bombas lançadas."/>
-  	<entry name="AstraMilitarum/MarauderBomber:Attack#1" value="Se dá pra ver, dá pra acertar."/>
-  	<entry name="AstraMilitarum/MarauderBomber:Attack#2" value="Abrindo as portas do compartimento de bombas."/>
-  	<entry name="AstraMilitarum/MarauderBomber:Attack#3" value="Qualquer coisa sob a mira de bombardeio é alvo válido."/>
-  	<entry name="AstraMilitarum/MarauderBomber:AttackCount" value="4"/>
-  	<entry name="AstraMilitarum/MarauderBomber:Broken#0" value="Estamos caindo!"/>
-  	<entry name="AstraMilitarum/MarauderBomber:BrokenCount" value="1"/>
-  	<entry name="AstraMilitarum/MarauderBomber:Cover#0" value="Se estivéssemos voando mais baixo, ia precisar de sinos nisso aqui."/>
-  	<entry name="AstraMilitarum/MarauderBomber:CoverCount" value="1"/>
-  	<entry name="AstraMilitarum/MarauderBomber:Hurt#0" value="Perdemos três motores, temos mais buracos do que o grox de um mercador, o vox-caster se foi e estamos vazando combustível…"/>
-  	<entry name="AstraMilitarum/MarauderBomber:HurtCount" value="1"/>
-  	<entry name="AstraMilitarum/MarauderBomber:Idle#0" value="Não sou muito bom em fazer discursos"/>
-  	<entry name="AstraMilitarum/MarauderBomber:Idle#1" value="Juro, Carpenter, essas bombas respondem."/>
-  	<entry name="AstraMilitarum/MarauderBomber:Idle#2" value="Alguém sabe como pousar isso aqui?"/>
-  	<entry name="AstraMilitarum/MarauderBomber:Idle#3" value="Praticando manobras. Como diz o Primer."/>
-  	<entry name="AstraMilitarum/MarauderBomber:IdleCount" value="4"/>
-  	<entry name="AstraMilitarum/MarauderBomber:Shaken#0" value="Subindo para altitudes mais altas—flak pipocando por todos os lados."/>
-  	<entry name="AstraMilitarum/MarauderBomber:ShakenCount" value="1"/>
-   	<entry name="AstraMilitarum/MarauderBomber:Victory#0" value="Qual é a próxima oportunidade de alvo?"/>
-   	<entry name="AstraMilitarum/MarauderBomber:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:WireWeed#0" value="Seria temerário permanecer no bioarame, por mais corajoso que seja."/>
+	<entry name="AstraMilitarum/LordCommissar:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarines#0" value="Alguns Astartes lá embaixo. São aliados."/>
+	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/Thunderbolt#0" value="Bom ter apoio de caças."/>
+	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/ThunderboltCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Artefact#0" value="Alvo de alto valor avistado."/>
+	<entry name="AstraMilitarum/MarauderBomber:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#0" value="Bombas lançadas."/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#1" value="Se dá pra ver, dá pra acertar."/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#2" value="Abrindo as portas do compartimento de bombas."/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#3" value="Qualquer coisa sob a mira de bombardeio é alvo válido."/>
+	<entry name="AstraMilitarum/MarauderBomber:AttackCount" value="4"/>
+	<entry name="AstraMilitarum/MarauderBomber:Broken#0" value="Estamos caindo!"/>
+	<entry name="AstraMilitarum/MarauderBomber:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Cover#0" value="Se estivéssemos voando mais baixo, ia precisar de sinos nisso aqui."/>
+	<entry name="AstraMilitarum/MarauderBomber:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Hurt#0" value="Perdemos três motores, temos mais buracos do que o grox de um mercador, o vox-caster se foi e estamos vazando combustível…"/>
+	<entry name="AstraMilitarum/MarauderBomber:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#0" value="Não sou muito bom em fazer discursos"/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#1" value="Juro, Carpenter, essas bombas respondem."/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#2" value="Alguém sabe como pousar isso aqui?"/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#3" value="Praticando manobras. Como diz o Primer."/>
+	<entry name="AstraMilitarum/MarauderBomber:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/MarauderBomber:Shaken#0" value="Subindo para altitudes mais altas—flak pipocando por todos os lados."/>
+	<entry name="AstraMilitarum/MarauderBomber:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Victory#0" value="Qual é a próxima oportunidade de alvo?"/>
+	<entry name="AstraMilitarum/MarauderBomber:VictoryCount" value="1"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarines#0" value="Sinto… grande bondade neles."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarinesCount" value="1"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Uma mente torcida ao absolutismo… fascinante."/>
@@ -683,7 +683,7 @@
 	<entry name="AstraMilitarum/PrimarisPsyker:Idle#0" value="Mesmo através destas tempestades, ainda vislumbro Sua luz."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:Idle#1" value="Eu sei o que você está pensando…"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:Idle#2" value="Trabalho ocioso para mentes ociosas"/>
-  	<entry name="AstraMilitarum/PrimarisPsyker:IdleCount" value="3"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:IdleCount" value="3"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:Shaken#0" value="Melhor morrer aqui do que nas Naves Negras."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:ShakenCount" value="1"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:Victory#0" value="Como previu o Tarô do Imperador."/>
@@ -703,7 +703,7 @@
 	<entry name="AstraMilitarum/ScoutSentinel:Cover#0" value="Me escondendo atrás de uma árvore ou algo assim."/>
 	<entry name="AstraMilitarum/ScoutSentinel:CoverCount" value="1"/>
 	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:AstraMilitarum#0" value="Droga, somos nós, mas do lado ruim."/>
-  	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:AstraMilitarumCount" value="1"/>
 	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:Necrons#0" value="Homens de lata à vista!"/>
 	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:NecronsCount" value="1"/>
 	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:Orks#0" value="Vejo alguns olhos vermelhos, me medindo para sucata!"/>
@@ -724,7 +724,7 @@
 	<entry name="AstraMilitarum/ScoutSentinel:Victory#0" value="Sempre soube que íamos vencer. Próximo!"/>
 	<entry name="AstraMilitarum/ScoutSentinel:VictoryCount" value="1"/>
 	<entry name="AstraMilitarum/ScoutSentinel:WireWeed#0" value="Mova-me rápido, isso está entrando nas pernas."/>
-  	<entry name="AstraMilitarum/ScoutSentinel:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:WireWeedCount" value="1"/>
 	<entry name="AstraMilitarum/TankCommander:AlliedFaction:SpaceMarines#0" value="Se não tiverem Land Raiders, tô fora."/>
 	<entry name="AstraMilitarum/TankCommander:AlliedFaction:SpaceMarinesCount" value="1"/>
 	<entry name="AstraMilitarum/TankCommander:AlliedUnit:AstraMilitarum/Baneblade#0" value="Ohhhh… que coisa linda."/>
@@ -3791,38 +3791,38 @@
 	<entry name="Drukhari/Venom" value="Drukhari/Raider"/>
 	<entry name="AdeptusMechanicus/SydonianDragoon:Attack#0" value="Ativando exaustores de incenso sagrado."/>
 	<entry name="AdeptusMechanicus/SydonianDragoon:Attack#1" value="Abençoando o servitor e carregando."/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:Attack#2" value="Destruição sobre glória."/> 
+	<entry name="AdeptusMechanicus/SydonianDragoon:Attack#2" value="Destruição sobre glória."/>
 	<entry name="AdeptusMechanicus/SydonianDragoon:Attack#3" value="Lanças em posição."/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:AttackCount" value="4"/> 
+	<entry name="AdeptusMechanicus/SydonianDragoon:AttackCount" value="4"/>
 	<entry name="AdeptusMechanicus/SydonianDragoon:Broken#0" value="Protejam os motores!"/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:BrokenCount" value="1"/> 
+	<entry name="AdeptusMechanicus/SydonianDragoon:BrokenCount" value="1"/>
 	<entry name="AdeptusMechanicus/SydonianDragoon:Hurt#0" value="Dano crítico sofrido."/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:HurtCount" value="1"/> 
+	<entry name="AdeptusMechanicus/SydonianDragoon:HurtCount" value="1"/>
 	<entry name="AdeptusMechanicus/SydonianDragoon:Idle#0" value="Descansando o servitor."/>
 	<entry name="AdeptusMechanicus/SydonianDragoon:Idle#1" value="Sydonia está tão distante..."/>
 	<entry name="AdeptusMechanicus/SydonianDragoon:Idle#2" value="Dúvida e morte estão além de mim."/>
 	<entry name="AdeptusMechanicus/SydonianDragoon:Idle#3" value="Movimento infinito para um império eterno!"/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:IdleCount" value="4"/> 
+	<entry name="AdeptusMechanicus/SydonianDragoon:IdleCount" value="4"/>
 	<entry name="AdeptusMechanicus/SydonianDragoon:Shaken#0" value="O caminhante de pernas-de-pau tropeca!"/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:ShakenCount" value="1"/> 
+	<entry name="AdeptusMechanicus/SydonianDragoon:ShakenCount" value="1"/>
 	<entry name="AdeptusMechanicus/SydonianDragoon:Victory#0" value="Por Vingh e Sydonia"/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:VictoryCount" value="1"/> 
+	<entry name="AdeptusMechanicus/SydonianDragoon:VictoryCount" value="1"/>
 	<entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#0" value="Marcando alvos."/>
 	<entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#1" value="Compensando deriva do vento."/>
 	<entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#2" value="Muito bem, senhor."/>
 	<entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#3" value="Temos uma solução de tiro, senhor."/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:AttackCount" value="4"/> 
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:AttackCount" value="4"/>
 	<entry name="AstraMilitarum/FieldOrdnanceBattery:Broken#0" value="Abandonem o canhão!"/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:BrokenCount" value="1"/> 
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:BrokenCount" value="1"/>
 	<entry name="AstraMilitarum/FieldOrdnanceBattery:Hurt#0" value="Acerto direto. Em nós, infelizmente."/>
 	<entry name="AstraMilitarum/FieldOrdnanceBattery:HurtCount" value="1"/>
 	<entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#0" value="A vida na guarda é terrivelmente dura."/>
 	<entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#1" value="Artilheiro quem?"/>
 	<entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#2" value="Isso é uma trincheira ou uma depressão?"/>
 	<entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#3" value="Sem alvos? Perfeito."/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:IdleCount" value="4"/> 
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:IdleCount" value="4"/>
 	<entry name="AstraMilitarum/FieldOrdnanceBattery:Shaken#0" value="Eu disse que estava doente."/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:ShakenCount" value="1"/> 
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:ShakenCount" value="1"/>
 	<entry name="AstraMilitarum/FieldOrdnanceBattery:Victory#0" value="Nós conseguimos-? Acho que pegamos eles!"/>
 	<entry name="AstraMilitarum/FieldOrdnanceBattery:VictoryCount" value="1"/>
 	<entry name="ChaosSpaceMarines/ChaosTerminator" value="ChaosSpaceMarines/ChaosSpaceMarine"/>
