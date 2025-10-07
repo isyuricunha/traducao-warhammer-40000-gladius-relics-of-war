@@ -8,16 +8,20 @@ Os arquivos distribuídos são dois pacotes de dados, selecione um - mas geralme
 - Data.7z
 - Data.zip
 
-Link de download: [https://github.com/isyuricunha/traducao-warhammer-40000-gladius-relics-of-war/releases](https://github.com/isyuricunha/traducao-warhammer-40000-gladius-relics-of-war/releases/latest)
+Link de download:
+
+- GitHub: https://github.com/isyuricunha/traducao-warhammer-40000-gladius-relics-of-war/
+- NexusMod: https://www.nexusmods.com/warhammer40000gladiusrelicsofwar/mods/35?tab=description
+- Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3582168827
+
 
 ## Como instalar
 Siga os passos de acordo com a sua forma de instalação do jogo.
 
 ### Steam
-1. Feche o jogo antes de começar.
-2. Na Steam, abra sua Biblioteca, clique com o botão direito no jogo Warhammer 40,000: Gladius - Relics of War, escolha Gerenciar e depois Procurar arquivos locais. A pasta que abrir é a pasta raiz do jogo.
-3. Copie os arquivos axtraidos deste projeto para essa pasta raiz do jogo, mantendo os nomes exatamente como estão.
-4. Inicie o jogo/launcher e mude o idioma, se faz necessário mudar no Launcher e no Jogo.
+1. Se inscreva no MOD.
+2. Escolhe Português Brasiliero no Launcher.
+3. Escolha Português Brasileiro nas configurações do jogo.
 
 ### Fora da Steam
 1. Feche o jogo antes de começar.
