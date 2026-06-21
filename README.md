@@ -43,8 +43,7 @@ pix@yuricunha.com
 
 ## Suporte e comunidade
 Para suporte, dúvidas ou feedback, participe da comunidade no Discord:
-
-https://discord.com/invite/aYbWBr4
+> **Participe da comunidade no Discord:** <https://discord.gg/uFEwSMwUYb>
 
 ## Avisos
 - Faça backup dos seus dados de jogo regularmente.
